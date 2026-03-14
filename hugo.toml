@@ -1,0 +1,19 @@
+baseURL = "https://skaymakca.github.io/pub/"
+languageCode = "en-us"
+title = "Pub"
+
+[params]
+  description = "Central publishing hub for project docs and reports"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Reports"
+    url = "/reports/"
+    weight = 2

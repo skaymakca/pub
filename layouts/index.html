@@ -1,0 +1,41 @@
+{{ define "main" }}
+  <section class="hero">
+    <h1 class="hero-title">{{ .Title }}</h1>
+    <div class="hero-desc">{{ .Content }}</div>
+  </section>
+
+  {{ $sections := where .Site.Sections "Title" "ne" "Reports" }}
+  {{ with $sections }}
+  <section class="listing">
+    <h2 class="section-label">Projects</h2>
+    <ul class="card-list">
+      {{ range . }}
+        <li class="card">
+          <a href="{{ .Permalink }}">
+            <span class="card-title">{{ .Title }}</span>
+            {{ with .Description }}<span class="card-desc">{{ . }}</span>{{ end }}
+            <span class="card-arrow">&rarr;</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+
+  {{ with .Site.Data.reports }}
+  <section class="listing">
+    <h2 class="section-label">Reports</h2>
+    <ul class="card-list">
+      {{ range . }}
+        <li class="card">
+          <a href="{{ .url }}">
+            <span class="card-title">{{ .title }}</span>
+            {{ with .description }}<span class="card-desc">{{ . }}</span>{{ end }}
+            <span class="card-arrow">&rarr;</span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+  </section>
+  {{ end }}
+{{ end }}

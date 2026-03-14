@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <section class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Content }}<div class="page-desc">{{ . }}</div>{{ end }}
+  </section>
+  {{ with .Site.Data.reports }}
+  <ul class="card-list">
+    {{ range . }}
+      <li class="card">
+        <a href="{{ .url }}">
+          <span class="card-title">{{ .title }}</span>
+          {{ with .description }}<span class="card-desc">{{ . }}</span>{{ end }}
+          <span class="card-arrow">&rarr;</span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+{{ end }}
