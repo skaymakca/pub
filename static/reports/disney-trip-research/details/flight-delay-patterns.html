@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flight Delay Patterns — Disney World Trip Research</title>
+    <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+<nav class="sidebar">
+<div class="sidebar-header">
+<h2>Disney World Trip</h2>
+<p>Research Report &bull; Feb 2026</p>
+</div>
+<div class="sidebar-nav">
+<a href="../index.html" class="">Home</a>
+<span class="section-label">Analysis</span>
+<a href="../analysis/01-best-time-to-visit.html" class="">01. Best Time to Visit</a>
+<a href="../analysis/02-flight-costs-and-delays.html" class="">02. Flight Costs & Delays</a>
+<a href="../analysis/03-ideal-age-for-kids.html" class="">03. Ideal Age for Kids</a>
+<a href="../analysis/04-parks-and-attractions.html" class="">04. Parks & Attractions</a>
+<a href="../analysis/05-beyond-the-big-four.html" class="">05. Beyond the Big Four</a>
+<a href="../analysis/06-on-resort-hotels.html" class="">06. On-Resort Hotels</a>
+<a href="../analysis/07-day-night-planning.html" class="">07. Day & Night Planning</a>
+<a href="../analysis/08-getting-around.html" class="">08. Getting Around</a>
+<a href="../analysis/09-passes-reservations-vip.html" class="">09. Passes & Reservations</a>
+<a href="../analysis/10-tickets-packages-pricing.html" class="">10. Tickets & Pricing</a>
+<a href="../analysis/11-planning-guides-services.html" class="">11. Planning Guides</a>
+<span class="section-label">Details</span>
+<a href="../details/index.html" class="">All Details</a>
+<span class="section-label">Downloads</span>
+<a href="../downloads/disney-world-trip-report.docx">Word Document</a>
+</div>
+</nav>
+<div class="main">
+<div class="breadcrumb"><a href="../index.html">Home</a> &rsaquo; <a href="index.html">Details</a> &rsaquo; Flight Delay Patterns</div>
+<div class="content">
+<h1 id="bos-mco-flight-delay-cancellation-patterns">BOS-MCO Flight Delay &amp; Cancellation Patterns</h1>
+<p>Research compiled 2026-02-26. Data primarily from Flightera.net (Aug 2025 - Feb 2026), BTS TranStats, Preflight Airport Parking analysis (Jan-Aug 2025), and Squaremouth/travel industry analyses.</p>
+<hr />
+<h2 id="1-overall-on-time-performance">1. Overall On-Time Performance</h2>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>BOS-MCO Route</th>
+<th>BOS Airport (All)</th>
+<th>MCO Airport (All)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>On-time rate</td>
+<td>~74% (varies by airline)</td>
+<td>77.3%</td>
+<td>77% departures</td>
+</tr>
+<tr>
+<td>Cancellation rate</td>
+<td>1-10% (seasonal)</td>
+<td>0.8% avg</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Avg delay when delayed</td>
+<td>68 min (BOS airport avg)</td>
+<td>68 min</td>
+<td>--</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key finding:</strong> The BOS-MCO route performs slightly worse than the BOS airport average, likely because JetBlue (the dominant carrier on this route at 53 flights/week) has lower on-time performance than the airport average.</p>
+<p><strong>Route capacity:</strong> ~109 flights/week across all carriers, ~18,700 seats/week.</p>
+<p>Sources:
+- <a href="https://www.flightera.net/en/route/KBOS/KMCO/">Flightera BOS-MCO Route</a>
+- <a href="https://www.preflightairportparking.com/travel-tips/bos-airport-stats-guide">Preflight BOS Airport Stats</a>
+- <a href="https://www.transtats.bts.gov/airports.asp?Airport=BOS&amp;pn=1">BTS TranStats Airports</a></p>
+<hr />
+<h2 id="2-delay-patterns-by-month">2. Delay Patterns by Month</h2>
+<h3 id="bos-mco-route-monthly-on-time-by-airline-aug-2025-feb-2026">BOS-MCO Route: Monthly On-Time % by Airline (Aug 2025 - Feb 2026)</h3>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>JetBlue</th>
+<th>Delta</th>
+<th>Spirit</th>
+<th>American</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aug 2025</td>
+<td>80.0%</td>
+<td>83.7%</td>
+<td>86.4%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Sep 2025</td>
+<td>81.1%</td>
+<td>68.9%</td>
+<td>84.4%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Oct 2025</td>
+<td>77.7%</td>
+<td>71.4%</td>
+<td>75.9%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Nov 2025</td>
+<td>71.7%</td>
+<td>84.8%</td>
+<td>81.8%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Dec 2025</td>
+<td>64.0%</td>
+<td>76.7%</td>
+<td>77.6%</td>
+<td>71.4%</td>
+</tr>
+<tr>
+<td>Jan 2026</td>
+<td>70.4%</td>
+<td>80.4%</td>
+<td>78.8%</td>
+<td>72.4%</td>
+</tr>
+<tr>
+<td>Feb 2026</td>
+<td>65.9%</td>
+<td>82.4%</td>
+<td>71.2%</td>
+<td>71.9%</td>
+</tr>
+</tbody>
+</table>
+<h3 id="cancellation-rates-by-month-bos-mco">Cancellation Rates by Month (BOS-MCO)</h3>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>JetBlue</th>
+<th>Delta</th>
+<th>Spirit</th>
+<th>American</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aug 2025</td>
+<td>1.7%</td>
+<td>1.1%</td>
+<td>0.0%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Sep 2025</td>
+<td>1.2%</td>
+<td>0.0%</td>
+<td>0.0%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Oct 2025</td>
+<td>1.5%</td>
+<td>1.1%</td>
+<td>3.4%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Nov 2025</td>
+<td>4.9%</td>
+<td>1.9%</td>
+<td>4.5%</td>
+<td>--</td>
+</tr>
+<tr>
+<td>Dec 2025</td>
+<td>1.7%</td>
+<td>2.5%</td>
+<td>0.0%</td>
+<td>0.0%</td>
+</tr>
+<tr>
+<td>Jan 2026</td>
+<td>6.5%</td>
+<td>4.6%</td>
+<td>5.8%</td>
+<td>6.9%</td>
+</tr>
+<tr>
+<td>Feb 2026</td>
+<td>10.4%</td>
+<td>6.1%</td>
+<td>15.4%</td>
+<td>8.6%</td>
+</tr>
+</tbody>
+</table>
+<h3 id="seasonal-summary">Seasonal Summary</h3>
+<table>
+<thead>
+<tr>
+<th>Season</th>
+<th>Delay Risk</th>
+<th>Primary Cause</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Winter (Dec-Feb)</strong></td>
+<td>HIGH</td>
+<td>Nor'easters, snow/ice at BOS. Feb is worst month.</td>
+</tr>
+<tr>
+<td><strong>Summer (Jun-Aug)</strong></td>
+<td>MODERATE-HIGH</td>
+<td>Afternoon thunderstorms at MCO; convective weather nationwide. July worst month nationally (30.2% disruption rate).</td>
+</tr>
+<tr>
+<td><strong>Spring (Mar-May)</strong></td>
+<td>MODERATE</td>
+<td>Transitional weather, occasional late-season storms at BOS.</td>
+</tr>
+<tr>
+<td><strong>Fall (Sep-Nov)</strong></td>
+<td>LOW</td>
+<td>Best season. Sep-Oct are the most reliable months.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>National seasonal disruption rates (all US flights, 2024):</strong>
+- Summer: 27.8%
+- Spring: 21.4%
+- Winter: 21.1%
+- Fall: 14.8%</p>
+<h3 id="bos-airport-monthly-delay-trends">BOS Airport: Monthly Delay Trends</h3>
+<ul>
+<li><strong>Worst month for delays:</strong> July (summer thunderstorms + high volume)</li>
+<li><strong>Best month for delays:</strong> November (pre-holiday lull)</li>
+<li><strong>Winter storms:</strong> Jan-Feb see the highest cancellation rates (6-15% on BOS-MCO route). Major nor'easters can ground 500-1000 flights in a single event.</li>
+</ul>
+<p>Sources:
+- <a href="https://www.flightera.net/en/route/KBOS/KMCO/B6/">Flightera JetBlue BOS-MCO</a>
+- <a href="https://www.flightera.net/en/route/KBOS/KMCO/DL/">Flightera Delta BOS-MCO</a>
+- <a href="https://www.flightera.net/en/route/KBOS/KMCO/NK/">Flightera Spirit BOS-MCO</a>
+- <a href="https://www.squaremouth.com/travel-advice/us-flight-delays-by-state">Squaremouth 2025 US Flight Delay Statistics</a></p>
+<hr />
+<h2 id="3-delay-patterns-by-day-of-week">3. Delay Patterns by Day of Week</h2>
+<p>Based on national US domestic flight data analysis:</p>
+<table>
+<thead>
+<tr>
+<th>Day</th>
+<th>Delay Risk</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Monday</td>
+<td>HIGH</td>
+<td>Business travel surge, ~25% delay probability</td>
+</tr>
+<tr>
+<td>Tuesday</td>
+<td>LOW</td>
+<td>Good day to fly</td>
+</tr>
+<tr>
+<td>Wednesday</td>
+<td>LOWEST</td>
+<td>Sweet spot -- fewest delays nationwide</td>
+</tr>
+<tr>
+<td>Thursday</td>
+<td>MODERATE-HIGH</td>
+<td>Return business travel begins</td>
+</tr>
+<tr>
+<td>Friday</td>
+<td>HIGHEST</td>
+<td>~30% delay probability, worst day of the week</td>
+</tr>
+<tr>
+<td>Saturday</td>
+<td>LOW</td>
+<td>Lowest delay rates of the week</td>
+</tr>
+<tr>
+<td>Sunday</td>
+<td>MODERATE-HIGH</td>
+<td>Return travel volume, especially evening</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recommendation:</strong> Fly Tuesday, Wednesday, or Saturday for best odds. Avoid Friday departures.</p>
+<p>Sources:
+- <a href="https://thriftytraveler.com/guides/flights/data-analysis-first-flight-of-the-day/">Thrifty Traveler: First Flight of the Day</a>
+- <a href="https://medium.com/@raparlaphalguni/the-hidden-patterns-of-flight-delays-what-the-data-actually-reveals-9ae263753f6c">Medium: Hidden Patterns of Flight Delays</a></p>
+<hr />
+<h2 id="4-delay-patterns-by-time-of-day">4. Delay Patterns by Time of Day</h2>
+<h3 id="bos-airport-delay-distribution">BOS Airport Delay Distribution</h3>
+<table>
+<thead>
+<tr>
+<th>Time Window</th>
+<th>Delay Risk</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5:00 AM - 8:00 AM</td>
+<td>LOWEST</td>
+<td>Aircraft are fresh from overnight, no cascading delays yet</td>
+</tr>
+<tr>
+<td>8:00 AM - 11:59 AM</td>
+<td>LOW</td>
+<td>Still reliable; most popular BOS-MCO departure window</td>
+</tr>
+<tr>
+<td>12:00 PM - 4:59 PM</td>
+<td>MODERATE</td>
+<td>Delays begin accumulating; MCO thunderstorm window starts</td>
+</tr>
+<tr>
+<td>5:00 PM - 9:00 PM</td>
+<td>HIGHEST</td>
+<td>Peak delay period at BOS; cascading delays from earlier disruptions</td>
+</tr>
+<tr>
+<td>After 9:00 PM</td>
+<td>HIGH</td>
+<td>Residual delays; risk of overnight cancellation if crew times out</td>
+</tr>
+</tbody>
+</table>
+<p><strong>BOS-specific finding:</strong> Peak delays occur 5 PM to 9 PM. Fewest delays 5 AM to noon.</p>
+<p><strong>MCO-specific factor:</strong> Orlando thunderstorms typically fire between 2 PM and 6 PM local time during summer months (Jun-Sep). Flights arriving MCO in this window face higher weather delay risk in summer.</p>
+<p><strong>Recommendation:</strong> Book the earliest morning departure available. Flights before noon have significantly better on-time performance. Avoid evening departures, especially in winter.</p>
+<p>Sources:
+- <a href="https://www.preflightairportparking.com/travel-tips/bos-airport-stats-guide">Preflight BOS Airport Stats Guide</a>
+- <a href="https://www.trip.com/hot/flight-time-from-boston-to-orlando/">Trip.com BOS-MCO Schedules</a></p>
+<hr />
+<h2 id="5-airline-specific-performance-bos-mco-route">5. Airline-Specific Performance (BOS-MCO Route)</h2>
+<h3 id="overall-on-time-rankings">Overall On-Time Rankings</h3>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Rank</th>
+<th>Airline</th>
+<th>Flights/Week</th>
+<th>On-Time %</th>
+<th>Cancel Rate</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1</td>
+<td><strong>Delta</strong></td>
+<td>27</td>
+<td><strong>81%</strong></td>
+<td>~2.5%</td>
+<td>Most consistent performer; better winter resilience</td>
+</tr>
+<tr>
+<td style="text-align: center;">2</td>
+<td><strong>Spirit</strong></td>
+<td>16</td>
+<td>71-86%</td>
+<td>0-15%</td>
+<td>High variability; great in summer, poor in winter</td>
+</tr>
+<tr>
+<td style="text-align: center;">3</td>
+<td><strong>JetBlue</strong></td>
+<td>53</td>
+<td><strong>68%</strong></td>
+<td>1-10%</td>
+<td>Dominant carrier but worst on-time; heavy BOS exposure hurts</td>
+</tr>
+<tr>
+<td style="text-align: center;">4</td>
+<td><strong>American</strong></td>
+<td>9</td>
+<td><strong>72%</strong></td>
+<td>0-9%</td>
+<td>Limited data; recently added to route</td>
+</tr>
+<tr>
+<td style="text-align: center;">5</td>
+<td>Frontier</td>
+<td>2</td>
+<td>--</td>
+<td>--</td>
+<td>Too few flights for meaningful stats</td>
+</tr>
+<tr>
+<td style="text-align: center;">6</td>
+<td>Southwest</td>
+<td>1</td>
+<td>--</td>
+<td>--</td>
+<td>Minimal presence on this route</td>
+</tr>
+</tbody>
+</table>
+<h3 id="airline-performance-context-system-wide-2024">Airline Performance Context (System-Wide, 2024)</h3>
+<table>
+<thead>
+<tr>
+<th>Airline</th>
+<th>National On-Time %</th>
+<th>BOS-MCO vs National</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Delta</td>
+<td>83.5%</td>
+<td>Slightly worse on BOS-MCO</td>
+</tr>
+<tr>
+<td>Southwest</td>
+<td>77.8%</td>
+<td>N/A (minimal BOS-MCO service)</td>
+</tr>
+<tr>
+<td>Spirit</td>
+<td>76.1%</td>
+<td>Comparable</td>
+</tr>
+<tr>
+<td>JetBlue</td>
+<td>74.5%</td>
+<td>Worse on BOS-MCO (68% vs 74.5%)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Key insight:</strong> Delta is the clear winner for reliability on this route. JetBlue offers the most frequency (53 flights/week) but has the worst on-time record. JetBlue's heavy concentration at BOS means winter disruptions cascade through their network disproportionately.</p>
+<p>Sources:
+- <a href="https://www.flightera.net/en/route/KBOS/KMCO/">Flightera BOS-MCO All Airlines</a>
+- <a href="https://www.cnbc.com/2025/01/02/these-airlines-were-the-most-on-time-in-2024.html">CNBC: Most On-Time Airlines 2024</a>
+- <a href="https://www.preflightairportparking.com/travel-tips/bos-airport-stats-guide">Preflight BOS Stats</a></p>
+<hr />
+<h2 id="6-cancellation-rates-winter-risk">6. Cancellation Rates &amp; Winter Risk</h2>
+<h3 id="bos-winter-cancellation-events-recent">BOS Winter Cancellation Events (Recent)</h3>
+<table>
+<thead>
+<tr>
+<th>Event</th>
+<th>Date</th>
+<th>Impact</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Blizzard (16.9" snow, 68 mph winds)</td>
+<td>Feb 2026</td>
+<td>~971 cancellations into/out of BOS</td>
+</tr>
+<tr>
+<td>Snowstorm + ground stop</td>
+<td>Feb 7, 2026</td>
+<td>430 delays, 92 cancellations; BOS worst in US that day</td>
+</tr>
+<tr>
+<td>Winter storm</td>
+<td>Jan 2026</td>
+<td>66 cancellations, 257 delays at BOS</td>
+</tr>
+</tbody>
+</table>
+<h3 id="monthly-cancellation-risk-bos-mco-from-flightera-data">Monthly Cancellation Risk (BOS-MCO, from Flightera data)</h3>
+<table>
+<thead>
+<tr>
+<th>Month</th>
+<th>Avg Cancellation Rate</th>
+<th>Risk Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aug-Sep</td>
+<td>0-1.5%</td>
+<td>LOW</td>
+</tr>
+<tr>
+<td>Oct</td>
+<td>1-3%</td>
+<td>LOW</td>
+</tr>
+<tr>
+<td>Nov</td>
+<td>2-5%</td>
+<td>MODERATE</td>
+</tr>
+<tr>
+<td>Dec</td>
+<td>0-2.5%</td>
+<td>MODERATE (holiday storms variable)</td>
+</tr>
+<tr>
+<td>Jan</td>
+<td>5-7%</td>
+<td>HIGH</td>
+</tr>
+<tr>
+<td><strong>Feb</strong></td>
+<td><strong>6-15%</strong></td>
+<td><strong>VERY HIGH</strong></td>
+</tr>
+<tr>
+<td>Mar</td>
+<td>3-5% (estimated)</td>
+<td>MODERATE-HIGH</td>
+</tr>
+</tbody>
+</table>
+<h3 id="what-drives-bos-winter-cancellations">What Drives BOS Winter Cancellations</h3>
+<ol>
+<li><strong>Nor'easters</strong> -- Major coastal storms bringing heavy snow, high winds, low visibility. Most common Jan-Mar.</li>
+<li><strong>De-icing delays</strong> -- Even moderate snow/freezing rain adds 30-60 min to departure times.</li>
+<li><strong>FAA ground stops</strong> -- When conditions deteriorate rapidly, FAA halts all departures.</li>
+<li><strong>Crew/aircraft displacement</strong> -- One storm creates cascading cancellations for 1-2 days after.</li>
+</ol>
+<h3 id="mitigation-strategies-for-winter-travel">Mitigation Strategies for Winter Travel</h3>
+<ul>
+<li><strong>Book early morning flights</strong> -- If storms develop, AM flights are more likely to depart before conditions worsen.</li>
+<li><strong>Choose Delta</strong> -- Best winter reliability on this route (82% on-time even in Feb).</li>
+<li><strong>Avoid Friday evening</strong> -- Worst combination of high volume + potential weather.</li>
+<li><strong>Build in buffer days</strong> -- Don't fly the day of a critical event (park opening, cruise departure). Fly a day early.</li>
+<li><strong>Consider travel insurance</strong> -- Especially for Dec-Feb travel from BOS.</li>
+<li><strong>Monitor forecasts</strong> -- Airlines often issue travel waivers 24-48 hours before major storms, allowing free rebooking.</li>
+</ul>
+<p>Sources:
+- <a href="https://www.nbcboston.com/news/local/hundreds-of-flights-canceled-across-new-england/3904616/">NBC Boston: Logan Cancellations</a>
+- <a href="https://www.airhelp.com/en-int/flight-disruptions/boston-logan-snow-ground-stop-delays-cancellations-09022026/">AirHelp: Boston Snow Ground Stop</a>
+- <a href="https://www.cbsnews.com/boston/news/logan-airport-delays-boston-blizzard-warning/">CBS Boston: Blizzard Delays</a>
+- <a href="https://www.boston.com/travel/flights/2026/02/24/logan-airport-delays-cancellations-snow/">Boston.com: Logan After Blizzard</a></p>
+<hr />
+<h2 id="summary-best-worst-times-to-fly-bos-mco">Summary: Best &amp; Worst Times to Fly BOS-MCO</h2>
+<h3 id="best-conditions">Best Conditions</h3>
+<ul>
+<li><strong>Month:</strong> September or October (80-86% on-time, &lt;2% cancellation)</li>
+<li><strong>Day:</strong> Tuesday, Wednesday, or Saturday</li>
+<li><strong>Time:</strong> Before 10 AM departure</li>
+<li><strong>Airline:</strong> Delta (81% on-time, lowest cancellation rate)</li>
+</ul>
+<h3 id="worst-conditions">Worst Conditions</h3>
+<ul>
+<li><strong>Month:</strong> February (65-71% on-time, 6-15% cancellation)</li>
+<li><strong>Day:</strong> Friday</li>
+<li><strong>Time:</strong> After 5 PM departure</li>
+<li><strong>Airline:</strong> JetBlue (68% on-time overall, 10.4% cancellation in Feb)</li>
+</ul>
+<h3 id="for-a-disney-trip-specifically">For a Disney Trip Specifically</h3>
+<p>If traveling in winter/spring break (the likely window):
+- <strong>Spring break (late Mar/Apr):</strong> Moderate risk. Weather improving but late storms possible. Book morning Delta flight.
+- <strong>February school vacation week:</strong> High risk. This is historically the worst month for BOS delays/cancellations. Build in a buffer day, book early AM, and consider trip insurance.
+- <strong>Summer (Jun-Aug):</strong> Moderate risk. BOS departures are good, but MCO arrivals face afternoon thunderstorm delays. Book flights arriving Orlando before 2 PM.
+- <strong>Fall (Sep-Nov):</strong> Best window for reliable flights. October is ideal.</p>
+</div>
+</div>
+</body>
+</html>
