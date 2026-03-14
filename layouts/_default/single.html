@@ -1,6 +1,6 @@
 {{ define "main" }}
   <article class="prose">
-    <h1>{{ .Title }}</h1>
+    <h1>{{ or .Title (.File.ContentBaseName | humanize | title) }}</h1>
     {{ .Content }}
   </article>
 {{ end }}
