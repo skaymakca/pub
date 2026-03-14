@@ -9,7 +9,7 @@ help: ## Show this help message
 ##@ Development
 
 dev: ## Start local dev server with live reload (opens browser)
-	@open http://localhost:1313/pub/ &
+	@sleep 2 && open http://localhost:1313/pub/ &
 	hugo server --buildDrafts
 
 build: ## Production build into public/
