@@ -3,17 +3,19 @@
     <h1>{{ .Title }}</h1>
     {{ with .Content }}<div class="page-desc">{{ . }}</div>{{ end }}
   </section>
-  {{ $projects := where (where (where .Site.Sections "Title" "ne" "Reports") "Title" "ne" "Projects") "Title" "ne" "Briefs" }}
-  {{ with $projects }}
+  {{ with .Site.Data.briefs }}
   <ul class="card-list">
     {{ range . }}
+      {{ $page := $.GetPage (printf "/briefs/%s" .slug) }}
+      {{ with $page }}
       <li class="card">
         <a href="{{ .RelPermalink }}">
           <span class="card-title">{{ .Title }}</span>
-          {{ with .Description }}<span class="card-desc">{{ . }}</span>{{ end }}
+          {{ with .Params.description }}<span class="card-desc">{{ . }}</span>{{ end }}
           <span class="card-arrow">&rarr;</span>
         </a>
       </li>
+      {{ end }}
     {{ end }}
   </ul>
   {{ end }}
