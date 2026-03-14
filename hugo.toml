@@ -19,6 +19,10 @@ title = "Pub"
     url = "/projects/"
     weight = 2
   [[menu.main]]
+    name = "Briefs"
+    url = "/briefs/"
+    weight = 3
+  [[menu.main]]
     name = "Reports"
     url = "/reports/"
-    weight = 3
+    weight = 4
