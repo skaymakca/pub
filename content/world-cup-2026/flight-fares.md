@@ -1,5 +1,6 @@
 ---
-title: "World Cup 2026 — Flight Research (All Legs)"
+title: "Flight Research — All Legs"
+weight: 9
 ---
 
 **Research date:** 2026-03-14
@@ -553,6 +554,24 @@ With connecting fares and Leg 6 (BOS->PHL) instead of Leg 5:
 
 ---
 
+## Pricing Update (Mar 15, 2026)
+
+Re-searched key routes on Google Flights. Notable changes from Mar 14:
+
+| Route | Mar 14 Price | Mar 15 Price | Change |
+|-------|-------------|-------------|--------|
+| YTZ→BOS nonstop (Porter/Air Transat) | ~$113/pp | **$172/pp** | +$59 (+52%) |
+| YYZ→BOS nonstop (Air Canada/Porter) | $161/pp | **$181/pp** | +$20 (+12%) |
+| YYZ→PHL nonstop Jun 25 (Air Canada) | N/A (new) | **$268/pp** | Same as Jun 24 |
+| BOS→PHL Jun 25 JetBlue 6:10 PM | $119/pp | **$119/pp** | Unchanged |
+| BOS→PHL Jun 25 JetBlue 6:46 AM | $84/pp | **$84/pp** | Unchanged |
+
+**Toronto→Boston fares are rising fast.** YTZ nonstop up 52% in one day. Book ASAP.
+
+**YYZ→PHL Jun 25 = same price as Jun 24** ($268/pp Air Canada nonstop). No penalty for shifting Philly arrival one day later.
+
+---
+
 ## Key Findings & Booking Actions
 
 ### Top Discoveries
@@ -592,9 +611,9 @@ Or single use:
 1. **Book NOW:** BOS->DFW (Leg 1) -- prices are HIGH and rising
 2. **Book NOW:** DFW->YYZ (Leg 2) -- prices are HIGH and rising
 3. **Book NOW:** EWR->ZAG (Leg 10) -- prices are currently LOW
-4. **Book soon:** Porter BOS->YTZ (Leg 3) -- small aircraft, limited inventory
-5. **Book soon:** YYZ->PHL (Leg 5) -- moderate WC premium already
-6. **Monitor:** BOS<->PHL (Legs 6, 7) -- prices are typical, JetBlue at $84-119 is good
+4. **Book NOW:** Porter YTZ->BOS (Leg 4) -- **up 52% in 1 day** ($113→$172), still rising
+5. **Book soon:** YYZ->PHL (Leg 5) or BOS->PHL (Leg 6) -- depends on Philly arrival timing decision
+6. **Monitor:** PHL->BOS (Leg 7) -- JetBlue at $84 is still great
 7. **Monitor:** LAX->PHL (Leg 8) and Croatia->EWR (Leg 9) -- FIL/BIL decision pending
 
 ---

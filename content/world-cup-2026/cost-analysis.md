@@ -1,8 +1,11 @@
 ---
 title: "Cost Analysis — Scenario A vs Scenario B"
+weight: 11
 ---
 
 Side-by-side comparison of the two travel scenarios. All prices in USD. **Flight AND hotel prices are ACTUAL quotes as of March 14, 2026.** Activity estimates remain ranges based on research.
+
+> **Note:** Main flight tables below reflect Mar 14 prices. Toronto→Boston fares increased significantly by Mar 15 (e.g., YTZ→BOS from $113 to $172/pp) — see [Pricing Update in doc 09](../flight-fares/#pricing-update-mar-15-2026) and [14 — Scenario A Summary](../scenario-a-summary/) for current totals.
 
 **Important: FIL/BIL costs are shown separately** — FIL pays for himself and BIL (their flights + 1 hotel room). These costs do not appear in the family budget.
 
@@ -268,12 +271,62 @@ For that, Sukru + Maja get:
 
 ---
 
+## Philly Arrival Timing: Jun 24 vs Jun 25
+
+**Open decision:** Should Marina+Luka (and FIL+BIL) arrive in Philadelphia on Wed Jun 24 (3 sightseeing days) or Thu Jun 25 (2 sightseeing days)?
+
+**Option A (current plan):** Fly YYZ→PHL on Jun 24, 4 hotel nights.
+**Option C (fly home first):** All 4 fly Toronto→BOS on Jun 24, M+L fly BOS→PHL on Jun 25, 3 hotel nights.
+
+### Updated Flight Pricing (as of Mar 15, 2026)
+
+Toronto→Boston fares have **increased** since the Mar 14 search:
+- YTZ→BOS nonstop (Porter/Air Transat): **$172/pp** (was ~$113)
+- YYZ→BOS nonstop (Air Canada/Porter): **$181/pp** (was $161)
+- YYZ→PHL nonstop Jun 25: **$268/pp** (same as Jun 24 — no date penalty)
+- BOS→PHL Jun 25 JetBlue 6:10 PM nonstop: **$119/pp** (confirmed, unchanged)
+
+### Philly Hotel: 3 Nights vs 4 Nights (as of Mar 15, 2026)
+
+Philadelphia Marriott Downtown — not logged in (Mar 14 rate was Gold Elite):
+- **4 nights (Jun 24–28):** $395/night = **$1,580/room** (Mar 14 Gold Elite rate)
+- **3 nights (Jun 25–28):** $453/night standard = **$1,359/room** (Mar 15 standard rate)
+- Savings per room: ~$221. For 2 rooms (family + FIL/BIL): **~$442 total**
+
+Note: The Jun 24 night is cheaper than Jun 25-27 — removing it raises the per-night average.
+
+### Comparison Table
+
+| | **Option A** (arrive Jun 24) | **Option C** (home first, arrive Jun 25) |
+|---|---|---|
+| **Toronto→BOS flights** | S+M: YTZ→BOS $172×2 = $344 | S+M: YTZ→BOS $172×2 = $344 |
+| | | M+L: YYZ→BOS $181×2 = $362 |
+| **To Philly flight** | M+L: YYZ→PHL $268×2 = **$536** | M+L: BOS→PHL $119×2 = **$238** |
+| **Flights subtotal** | **$880** | **$944** |
+| **Philly hotel (family)** | 4 nights × $395 = **$1,580** | 3 nights × $453 = **$1,359** |
+| **Philly hotel (FIL/BIL)** | 4 nights × $395 = **$1,580** | 3 nights × $453 = **$1,359** |
+| **Hotels subtotal** | **$3,160** | **$2,718** |
+| **Combined total** | **$4,040** | **$3,662** |
+| **vs Option A** | baseline | **saves ~$378 (family) + ~$221 (FIL/BIL) = ~$600** |
+| | | |
+| **Philly sightseeing days** | 3 days (Thu, Fri, Sat morning) | 2 days (Fri, Sat morning) |
+| **M+L night at home** | No | Yes (Wed Jun 24) |
+
+**Option B (extra Toronto night, YYZ→PHL Jun 25) was evaluated and rejected** — adding a 7th Toronto night at the Courtyard costs ~750 CAD/night (total 5,250 CAD for 7 nights vs 3,714 CAD for 6), making it ~$885 MORE expensive than Option A. The Toronto extra night alone exceeds the Philly hotel savings.
+
+### Recommendation
+
+Option C saves ~$600 across both budgets and gives Marina+Luka a night at home to regroup. The tradeoff is 1 fewer sightseeing day in Philly. Independence Hall + Liberty Bell can be done in a morning, so 2 full days still covers the highlights.
+
+---
+
 ## Key Booking Actions (Both Scenarios)
 
-1. **Book Porter BOS↔YTZ immediately** — small planes, limited inventory ($113–131/pp)
+1. **Book Porter YTZ→BOS immediately** — **up 52% in 1 day** ($113→$172/pp on Mar 15). Rising fast.
 2. **Book AA BOS→DFW + DFW→YYZ** — prices are "currently high" per Google Flights and rising
 3. **Book BIL's Lufthansa ZAG→FRA→EWR** — prices are "currently LOW" at $491–560, won't last
-4. **Book JetBlue BOS→PHL and PHL→BOS** — $84–119, excellent value nonstops
+4. **Book JetBlue PHL→BOS** — $84/pp, excellent value nonstop
+5. **Decide Philly arrival timing** (see [comparison above](#philly-arrival-timing-jun-24-vs-jun-25)) — then book YYZ→PHL or BOS→PHL accordingly
 5. **Consider United award for 1x BOS→DFW** — 26.4k miles + $5.60 is the best miles value
 6. **Check Marriott Bonvoy point availability** for Toronto (biggest savings opportunity)
 7. **Coordinate LAX→PHL and YYZ→PHL arrivals** — target 4–5 PM ET window (BIL arrives independently)

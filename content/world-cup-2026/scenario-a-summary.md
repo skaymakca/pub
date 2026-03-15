@@ -1,8 +1,15 @@
 ---
-title: "World Cup 2026 — Scenario A: Full Family to Dallas"
+title: "Scenario A — Full Family to Dallas"
+weight: 14
 ---
 
 What it looks like if Sukru + Maja join Marina + Luka for the full trip. This document consolidates flights, hotels, and costs in one place to help evaluate the decision. **Not a final commitment — a planning tool.**
+
+> **Philly Arrival Routing:** This summary uses **Option C** (everyone flies home to BOS on Jun 24, then M+L fly BOS→PHL on Jun 25) — the cheapest routing. Alternatives:
+> - *Direct:* M+L fly YYZ→PHL on Jun 24 ($268/pp vs $119/pp BOS→PHL) — costs ~$600 more across all budgets but gains 1 extra Philly sightseeing day
+> - *Extra Toronto night (Option B):* Rejected — adds ~$885 vs Option A, not worth it
+>
+> See [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25) for the full comparison.
 
 ---
 
@@ -12,38 +19,41 @@ What it looks like if Sukru + Maja join Marina + Luka for the full trip. This do
 
 | Date | Day | What |
 |------|-----|------|
-| Jun 15 (Sun) | 1 | BOS → DFW (all 4) |
-| Jun 16 (Mon) | 2 | Dallas sightseeing |
-| Jun 17 (Tue) | 3 | **GAME DAY — England vs Croatia**, 3 PM CT |
-| Jun 18 (Wed) | 4 | DFW → YYZ (all 4) |
+| Jun 15 (Mon) | 1 | BOS → DFW (all 4) |
+| Jun 16 (Tue) | 2 | Dallas sightseeing |
+| Jun 17 (Wed) | 3 | **GAME DAY — England vs Croatia**, 3 PM CT |
+| Jun 18 (Thu) | 4 | DFW → YYZ (all 4) |
 | Jun 19–22 | 5–8 | Toronto sightseeing |
-| Jun 23 (Mon) | 9 | **GAME DAY — Panama vs Croatia**, 7 PM ET |
-| Jun 24 (Tue) | 10 | YTZ → BOS (Sukru + Maja go home) |
+| Jun 23 (Tue) | 9 | **GAME DAY — Panama vs Croatia**, 7 PM ET |
+| Jun 24 (Wed) | 10 | YYZ → BOS (all 4 fly home together) |
 
 ### Marina + Luka Track (14 days: Jun 15–28)
 
 | Date | Day | What |
 |------|-----|------|
 | Jun 15–23 | 1–9 | Same as above (with Sukru + Maja) |
-| Jun 24 (Tue) | 10 | YYZ → PHL (Marina + Luka continue to Philadelphia) |
-| Jun 25–26 | 11–12 | Philly sightseeing with FIL + BIL |
-| Jun 27 (Fri) | 13 | **GAME DAY — Croatia vs Ghana**, 5 PM ET |
-| Jun 28 (Sat) | 14 | PHL → BOS (Marina + Luka go home) |
+| Jun 24 (Wed) | 10 | YYZ → BOS (all 4 fly home together) — night at home |
+| Jun 25 (Thu) | 11 | BOS → PHL (JetBlue 6:10 PM nonstop) — arrive ~7:50 PM, check in |
+| Jun 26 (Fri) | 12 | Philly sightseeing with FIL + BIL |
+| Jun 27 (Sat) | 13 | **GAME DAY — Croatia vs Ghana**, 5 PM ET |
+| Jun 28 (Sun) | 14 | PHL → BOS (Marina + Luka go home) |
+
+> *Alternative:* M+L fly YYZ→PHL directly on Jun 24 ($268/pp) instead of going home first. Adds 1 extra sightseeing day but costs ~$600 more (higher flights + 4th hotel night for 2 rooms).
 
 ### FIL + BIL (Philadelphia only)
 
 | Date | Who | What |
 |------|-----|------|
 | ~Jun 23–25 | BIL | Croatia → EWR, Amtrak to PHL |
-| Jun 24–25 | FIL | LAX → PHL |
-| Jun 24–27 | Both | Philadelphia with Marina + Luka |
+| Jun 25 | FIL | LAX → PHL (Frontier nonstop red-eye, arrives AM) |
+| Jun 25–27 | Both | Philadelphia with Marina + Luka |
 | Jun 28–29 | BIL | EWR → Croatia |
 
 ---
 
 ## 2. Flights
 
-All prices are actual quotes from Google Flights and United.com as of March 14, 2026.
+All prices are actual quotes from Google Flights and United.com as of March 14–15, 2026.
 
 ### Family Flights (Paid by Sukru/Marina)
 
@@ -51,14 +61,17 @@ All prices are actual quotes from Google Flights and United.com as of March 14, 
 |-----|-------|------|-----|-------------|-----------------|---------|------------|----------|-------------|
 | 1 | BOS → DFW | Jun 15 | 4 | AA nonstop (after 5pm) | 5:57 PM → 9:20 PM | $317 | **$1,268** | 26.4k + $5.60 | 105.6k + $22.40 |
 | 2 | DFW → YYZ | Jun 18 | 4 | AA/Porter nonstop | 9:51 AM → 1:57 PM | $417 | **$1,668** | 38.2k + $5.60 | 152.8k + $22.40 |
-| 4 | YTZ → BOS | Jun 24 | 2 | Porter nonstop | flexible | $113 | **$226** | N/A | N/A |
-| 5 | YYZ → PHL | Jun 24 | 2 | Air Canada nonstop | 8:40 AM → 10:14 AM | $268 | **$536** | 40k + $69.42 | 80k + $138.84 |
-| 7 | PHL → BOS | Jun 28 | 2 | JetBlue nonstop | 9:12 AM → 10:35 AM | $84 | **$168** | 15k + $5.60 | 30k + $11.20 |
-| | | | | | **Flight Total** | | **$3,866** | | |
+| 4 | YTZ → BOS | Jun 24 | 2 (S+M) | Porter nonstop | flexible | $172 | **$344** | N/A | N/A |
+| 4b | YYZ → BOS | Jun 24 | 2 (M+L) | Air Canada nonstop | flexible | $181 | **$362** | N/A | N/A |
+| 6 | BOS → PHL | Jun 25 | 2 (M+L) | JetBlue nonstop | 6:10 PM → 7:49 PM | $119 | **$238** | 15k + $5.60 | 30k + $11.20 |
+| 7 | PHL → BOS | Jun 28 | 2 (M+L) | JetBlue nonstop | 9:12 AM → 10:35 AM | $84 | **$168** | 15k + $5.60 | 30k + $11.20 |
+| | | | | | **Flight Total** | | **$4,048** | | |
 
-**Budget alternative:** AA connecting fares on Legs 1–2 ($255 + $327/pp) bring the total to **$3,258**.
+**Budget alternative:** AA connecting fares on Legs 1–2 ($255 + $327/pp) bring the total to **$3,440**.
 
 **Best miles use:** 1× BOS→DFW award at 26.4k miles saves ~$311. Remaining 8.5k miles can't cover another ticket.
+
+> **Alternative Philly routing:** M+L fly YYZ→PHL directly on Jun 24 ($268/pp × 2 = $536) instead of Legs 4b + 6 ($181 + $119 = $300/pp × 2 = $600). The direct routing saves $64 in flights but adds a 4th hotel night (2 rooms go from $1,359 to $1,580 each = $442 more), netting ~$600 more across all costs including extra meals.
 
 ### FIL/BIL Flights (Paid by FIL)
 
@@ -73,7 +86,7 @@ All prices are actual quotes from Google Flights and United.com as of March 14, 
 
 ## 3. Hotels
 
-All rates from marriott.com as of March 14, 2026 (Gold Elite member). Non-Bonvoy alternatives listed where strong.
+All rates from marriott.com as of March 14–15, 2026 (Gold Elite member). Non-Bonvoy alternatives listed where strong.
 
 ### Dallas/Arlington — 3 nights (Jun 15–18), 1 room, 2 queens
 
@@ -93,20 +106,21 @@ All rates from marriott.com as of March 14, 2026 (Gold Elite member). Non-Bonvoy
 
 **Points are poor value in Toronto** (0.06–0.13 cpp vs 0.7 cpp benchmark). Pay cash.
 
-### Philadelphia — 4 nights (Jun 24–28)
+### Philadelphia — 3 nights (Jun 25–28), 2 rooms, 2 queens each
 
 **Room 1: Marina + Luka (family budget)**
 
-| Hotel | Per Night | 4-Night Total | Notes |
+| Hotel | Per Night | 3-Night Total | Notes |
 |-------|-----------|---------------|-------|
-| **Marriott Downtown** | $395 | **$1,580** | 1,408 rooms (best availability), near Reading Terminal |
-| Element Downtown | $364 | $1,456 | Higher rated (4.4), smaller property |
+| **Marriott Downtown** | $453 | **$1,359** | 1,408 rooms, near Reading Terminal |
 
 **Room 2: FIL + BIL (paid by FIL)**
 
-| Hotel | Per Night | 4-Night Total | Notes |
+| Hotel | Per Night | 3-Night Total | Notes |
 |-------|-----------|---------------|-------|
-| **Marriott Downtown** (same hotel) | $395 | **$1,580** | 2 queens, same property as family |
+| **Marriott Downtown** (same hotel) | $453 | **$1,359** | 2 queens, same property |
+
+> **Alternative:** Arriving Jun 24 via YYZ→PHL adds a 4th night at $395/night = $1,580/room. The Jun 24 night is cheaper per night, but adding it nets ~$600 more across both rooms + flights.
 
 ### Hotel Summary
 
@@ -114,9 +128,9 @@ All rates from marriott.com as of March 14, 2026 (Gold Elite member). Non-Bonvoy
 |------|------------|-------------|-------------|---------------|
 | Dallas (3 nights) | CY Arlington South | $1,377 | CY Ent. District | $2,296 |
 | Toronto (6 nights) | Courtyard Downtown | ~$2,674 | Delta Hotels | ~$3,374 |
-| Philly — Family (4 nights) | Marriott Downtown | $1,580 | Marriott Downtown | $1,580 |
-| **Family Hotel Total** | | **~$5,631** | | **~$7,250** |
-| Philly — FIL/BIL (4 nights) | Marriott Downtown | $1,580 | Marriott Downtown | $1,580 |
+| Philly — Family (3 nights) | Marriott Downtown | $1,359 | Marriott Downtown | $1,359 |
+| **Family Hotel Total** | | **~$5,410** | | **~$7,029** |
+| Philly — FIL/BIL (3 nights) | Marriott Downtown | $1,359 | Marriott Downtown | $1,359 |
 
 ---
 
@@ -126,17 +140,17 @@ All rates from marriott.com as of March 14, 2026 (Gold Elite member). Non-Bonvoy
 
 | Category | Budget | Nonstop Premium |
 |----------|--------|-----------------|
-| Flights | $3,258 | $3,866 |
-| Hotels | $5,631 | $7,250 |
+| Flights | $3,440 | $4,048 |
+| Hotels | $5,410 | $7,029 |
 | Dallas car rental | $300–500 | $300–500 |
 | Dallas meals + activities | $600–1,000 | $600–1,000 |
 | Toronto meals + activities | $913–1,263 | $913–1,263 |
-| Philly meals + activities | $550–880 | $550–880 |
+| Philly meals + activities | $400–650 | $400–650 |
 | Misc (transit, tips, souvenirs) | $300–480 | $300–480 |
-| **TOTAL** | **$11,552–13,312** | **$12,779–15,239** |
-| **Midpoint** | **~$12,400** | **~$14,000** |
+| **TOTAL** | **$11,363–12,743** | **$13,590–14,970** |
+| **Midpoint** | **~$12,050** | **~$14,280** |
 
-**Optimal points mix:** Use 26.4k United miles on 1× BOS→DFW ($311 saved). Everything else in cash. Net: **~$12,100–13,700**.
+**Optimal points mix:** Use 26.4k United miles on 1× BOS→DFW ($311 saved). Everything else in cash. Net: **~$11,750–13,970**.
 
 ### FIL/BIL Budget (Paid by FIL)
 
@@ -145,8 +159,8 @@ All rates from marriott.com as of March 14, 2026 (Gold Elite member). Non-Bonvoy
 | FIL flight (LAX→PHL) | $230 | $530 |
 | BIL inbound (Croatia→EWR + Amtrak) | $502–571 | $644 |
 | BIL return (EWR→Croatia) | $491–635 | $1,134 |
-| Hotel (1 room, 4 nights) | $1,580 | $1,580 |
-| **Total** | **$2,803–3,016** | **$3,888** |
+| Hotel (1 room, 3 nights) | $1,359 | $1,359 |
+| **Total** | **$2,582–2,795** | **$3,667** |
 
 ---
 
@@ -156,9 +170,9 @@ What changes if Sukru + Maja skip Dallas and fly direct to Toronto on Jun 18:
 
 | | Scenario A | Scenario B | Difference |
 |---|---|---|---|
-| **Flights** | $3,258–3,866 | $2,356 | Save $902–1,510 |
+| **Flights** | $3,440–4,048 | $2,538 | Save $902–1,510 |
 | **Hotels** | Same | Same | $0 (Toronto room needed either way) |
-| **Meals/activities** | $2,563–3,943 | $2,263–3,443 | Save ~$300–500 |
+| **Meals/activities** | ~$2,500–3,900 | ~$2,100–3,200 | Save ~$300–500 |
 | **Ticket revenue** | $0 | +$3,100–4,000 | **+$3,100–4,000** |
 | **Net difference** | | | **Scenario B saves ~$4,300–6,000** |
 

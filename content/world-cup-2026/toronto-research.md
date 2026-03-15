@@ -1,5 +1,6 @@
 ---
-title: "Toronto Family Trip Research — FIFA World Cup 2026"
+title: "Toronto — Family Trip Research"
+weight: 4
 ---
 
 **Game:** Panama vs. Croatia (Group L, Match 46)

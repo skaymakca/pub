@@ -1,5 +1,6 @@
 ---
-title: "Hotel Pricing — Actual Rates (Researched 2026-03-14)"
+title: "Hotel Pricing — Actual Rates"
+weight: 10
 ---
 
 All prices from **marriott.com** logged in as Sukru (Gold Elite member). Rates are "Special Event" or "Lowest Regular Rate" — World Cup surge pricing is reflected. **These are real rates, not estimates.**

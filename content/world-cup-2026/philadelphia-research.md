@@ -1,5 +1,6 @@
 ---
-title: "Philadelphia Trip Research — FIFA World Cup 2026"
+title: "Philadelphia — Trip Research"
+weight: 5
 ---
 
 **Game:** Croatia vs. Ghana (Group L, Matchday 3)
@@ -11,10 +12,12 @@ title: "Philadelphia Trip Research — FIFA World Cup 2026"
 
 | Person | Arriving From | Arrival Date | Departure |
 |--------|--------------|-------------|-----------|
-| **Marina** | Toronto (YYZ → PHL) | Wed, Jun 24 | Sun, Jun 28 → BOS |
-| **Luka** | Toronto (YYZ → PHL) | Wed, Jun 24 | Sun, Jun 28 → BOS |
-| **FIL** (Marina's father) | Los Angeles (LAX → PHL) | Wed, Jun 24 | Sun, Jun 28 → LAX |
-| **BIL** (Marina's brother) | Zadar, Croatia (ZAD → EWR or PHL) | ~Jun 23–24 | Sun, Jun 28 → ZAD |
+| **Marina** | Toronto → BOS → PHL | **Thu Jun 25 (Option C)** | Sun, Jun 28 → BOS |
+| **Luka** | Toronto → BOS → PHL | **Thu Jun 25 (Option C)** | Sun, Jun 28 → BOS |
+| **FIL** (Marina's father) | Los Angeles (LAX → PHL) | **Thu Jun 25** | Sun, Jun 28 → LAX |
+| **BIL** (Marina's brother) | Zadar, Croatia (ZAD → EWR or PHL) | **~Jun 23–25** | Sun, Jun 28 → ZAD |
+
+**Default plan: Arrive Jun 25 (Option C)** — 3 nights, 2 sightseeing days, ~$600 cheaper across all budgets. Jun 24 arrival is available at +~$600 (Option A). See [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25) for the full comparison.
 
 **Note:** Sukru + Maja do NOT attend the Philly game. This is Marina + Luka + extended family.
 
@@ -22,9 +25,9 @@ title: "Philadelphia Trip Research — FIFA World Cup 2026"
 
 ---
 
-## 0. Arrival Coordination — Jun 24
+## 0. Arrival Coordination — Jun 25 (Option C)
 
-Marina, FIL, and BIL converge on Philadelphia on or around **Wednesday, June 24**. Only Marina and FIL need to coordinate arrival times — BIL arrives independently.
+Marina, FIL, and BIL converge on Philadelphia on **Thursday, June 25** (Option C — fly home first, then BOS→PHL). Jun 24 arrival available at +~$600 (see [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25)). All shift together — everyone checks in the same day. Only Marina and FIL need to coordinate arrival times — BIL arrives independently.
 
 ### Marina + Luka (YYZ → PHL) — coordinate with FIL
 
@@ -302,18 +305,20 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 
 ---
 
-## 8. Recommended Itinerary: 4 Nights (Jun 24–28)
+## 8. Recommended Itinerary (Jun 24–28 or Jun 25–28)
 
 **Attendees:** Marina + Luka + FIL + BIL (not a family-of-4 trip — this is adults + one 11-year-old)
 
-**Wednesday June 24 — Arrive**
+**⚠ Arrival date TBD — see [cost analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25). If Jun 25, skip the Wednesday and start with Thursday.**
+
+**Wednesday June 24 — Arrive (Option A only)**
 - Marina + Luka arrive from Toronto (YYZ → PHL), ~2 PM
 - FIL arrives from LA (LAX → PHL), ~3 PM
 - BIL arrives from Zadar (via connection), evening
 - Check into hotel (Center City). Casual dinner together — maybe Reading Terminal Market (closes 6 PM) or a nearby restaurant.
 - Get settled, grocery run if needed.
 
-**Thursday June 25 — Sightseeing Day 1**
+**Thursday June 25 — Arrive (Option C) / Sightseeing Day 1 (Option A)**
 - Morning: Independence Hall + Liberty Bell (free, book timed tickets on Recreation.gov)
 - Walk Old City — Franklin Square mini golf, Museum of the American Revolution
 - Lunch: Reading Terminal Market

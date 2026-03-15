@@ -1,5 +1,6 @@
 ---
 title: "Dallas vs. Philadelphia — Family Decision Guide"
+weight: 7
 ---
 
 Which Croatia group stage game should the four of us attend?
