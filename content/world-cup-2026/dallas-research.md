@@ -105,8 +105,13 @@ Fly American nonstop BOS→DFW. Rent a car at the airport — you'll need it all
 ### Option 1: Arlington Entertainment District (BEST for game day)
 
 - Walking distance to AT&T Stadium, Globe Life Field, Six Flags, Texas Live!
-- Hotels: Marriott Courtyard, Hyatt Place, Drury Plaza, Aloft, Comfort Suites
 - Downside: Not walkable to downtown Dallas attractions — need car
+
+**Marriott Bonvoy picks in Arlington:**
+- **Courtyard by Marriott Arlington/Entertainment District** (TOP PICK) — 0.7 miles from AT&T Stadium, walkable. 2-queen rooms, indoor/outdoor pool. WC pricing ~$300–450/night.
+- **SpringHill Suites Arlington North** — 1.6 mi from stadium. All-suite hotel, free breakfast, outdoor pool, free parking. Best family value. ~$250–400/night.
+- **TownePlace Suites Arlington North** — 1–2 mi. Full kitchens, free breakfast, Sport Court, pool. Extended-stay format great for families. ~$250–400/night.
+- **Four Points by Sheraton Arlington** — 2 mi. Budget option, outdoor pool, in-room fridge/microwave. Normal from ~$60/night; WC ~$200–350.
 
 ### Option 2: Downtown Dallas (BEST for sightseeing)
 

@@ -22,7 +22,7 @@ Side-by-side comparison of all three group stage trips. See individual research 
 
 ## Travel — All Origins
 
-### From Boston (Şükrü + family)
+### From Boston (Sukru + family)
 
 | | Dallas | Toronto | Philadelphia |
 |---|--------|---------|--------------|
@@ -208,7 +208,7 @@ All three trips are worth doing — they each excel in different ways:
 
 ## Ticket Resale Potential
 
-Full analysis in [Ticket Resale Analysis](../ticket-resale-analysis/). Summary:
+Full analysis in [Ticket Resale Analysis](../tickets-and-resale/). Summary:
 
 | | Dallas (England) | Toronto (Panama) | Philadelphia (Ghana) |
 |---|--------|---------|--------------|
