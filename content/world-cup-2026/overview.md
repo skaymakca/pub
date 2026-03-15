@@ -27,7 +27,7 @@ We have **4 tickets to each of 4 FIFA World Cup 2026 matches** (16 tickets total
 | Croatia vs Ghana | Sat Jun 27 | Philadelphia | Marina + Luka + FIL + BIL | Sukru + Maja do NOT attend Philly |
 | Match 74 (Gillette) | Sun Jun 29 | Foxborough | TBD | Ignore for now — focus on group stage |
 
-**FIL** (Marina's father, flying from LAX) and **BIL** (Marina's brother, flying from Zadar) attend the Philly game only. **FIL pays for himself and BIL** (their flights + 1 hotel room) — these costs are separate from the family budget. BIL arrives independently (does not need to coordinate timing with Marina/FIL).
+**FIL** (Marina's father, flying from LAX) and **BIL** (Marina's brother, flying from Zadar) attend the Philly game only. FIL and BIL cover their own travel costs (flights + 1 hotel room) — tracked separately from the family budget. BIL arrives independently (does not need to coordinate timing with Marina/FIL).
 
 ### The Open Question
 

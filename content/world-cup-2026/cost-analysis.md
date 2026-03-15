@@ -7,7 +7,7 @@ Side-by-side comparison of the two travel scenarios. All prices in USD. **Flight
 
 > **Note:** Main flight tables below reflect Mar 14 prices. Toronto→Boston fares increased significantly by Mar 15 (e.g., YTZ→BOS from $113 to $172/pp) — see [Pricing Update in doc 09](../flight-fares/#pricing-update-mar-15-2026) and [14 — Scenario A Summary](../scenario-a-summary/) for current totals.
 
-**Important: FIL/BIL costs are shown separately** — FIL pays for himself and BIL (their flights + 1 hotel room). These costs do not appear in the family budget.
+**Important: FIL/BIL costs are shown separately** — they cover their own flights + 1 hotel room. These costs do not appear in the family budget.
 
 **See [09 — Flight Fares](../flight-fares/) for flight details and [10 — Hotel Pricing](../hotel-pricing/) for hotel details.**
 
@@ -30,7 +30,7 @@ Sukru + Maja join for everything. 4 people travel BOS→DFW→YYZ, then split (2
 
 **Nonstop upgrade option:** AA nonstop BOS→DFW at $317/pp (after-5pm) and $417/pp DFW→YYZ adds ~$604. Total with nonstops: **$3,862**.
 
-*FIL and BIL flights not included — see [FIL/BIL Costs](#filbil-costs-paid-by-fil) below.*
+*FIL and BIL flights not included — see [FIL/BIL Costs](#filbil-costs-separate-budget) below.*
 
 ### Hotels — Family Only (Marriott Bonvoy)
 
@@ -41,7 +41,7 @@ Sukru + Maja join for everything. 4 people travel BOS→DFW→YYZ, then split (2
 | Philadelphia | Jun 24–28 | 4 | 1 (M+L) | $364–395 | $1,456–1,580 | Element DT ($364) or Marriott DT ($395, 1,408 rooms) |
 | | **Hotel subtotal** | | | | **$5,386–7,250** |
 
-*FIL/BIL's second Philly room not included — see [FIL/BIL Costs](#filbil-costs-paid-by-fil) below.*
+*FIL/BIL's second Philly room not included — see [FIL/BIL Costs](#filbil-costs-separate-budget) below.*
 
 **Non-Bonvoy alternatives may beat these prices.** Drury Plaza Arlington (~$250–466, free breakfast + evening food), Hyatt Regency Toronto (549 CAD, kids eat free), and Hilton Garden Inn Philly (~$180–280, indoor pool + hot tub) are all strong options. See [10 — Hotel Pricing](../hotel-pricing/) for full comparison.
 
@@ -94,7 +94,7 @@ Marina + Luka do Dallas alone. Sukru + Maja fly direct to Toronto Jun 18. Sell 2
 - But requires extra Toronto night or different Toronto→BOS timing
 - Scenario B with Leg 6 substitution: **$2,058**
 
-*FIL and BIL flights not included — see [FIL/BIL Costs](#filbil-costs-paid-by-fil) below.*
+*FIL and BIL flights not included — see [FIL/BIL Costs](#filbil-costs-separate-budget) below.*
 
 ### Hotels — Family Only (Marriott Bonvoy)
 
@@ -145,9 +145,9 @@ Marina + Luka do Dallas alone. Sukru + Maja fly direct to Toronto Jun 18. Sell 2
 
 ---
 
-## FIL/BIL Costs (Paid by FIL)
+## FIL/BIL Costs (Separate Budget)
 
-FIL covers his own and BIL's travel expenses. These are **not included** in the family budget above.
+FIL and BIL cover their own travel expenses. These are **not included** in the family budget above.
 
 ### FIL Flight: LAX → PHL — ACTUAL PRICES
 
@@ -216,7 +216,7 @@ EWR routing is confirmed as far superior to PHL (56+ weekly transatlantic nonsto
 | **Net cost** | **$11,207–14,451** | **$6,905–9,049** |
 | **Midpoint** | **~$12,800** | **~$8,000** |
 
-| | FIL/BIL (paid by FIL) |
+| | FIL/BIL (separate budget) |
 |---|---|
 | **Budget routing** | $2,783–2,996 (~$2,900 midpoint) |
 | **Premium routing** | ~$3,888 |

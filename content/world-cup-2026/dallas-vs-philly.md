@@ -136,13 +136,13 @@ Pure match experience, independent of who's going.
 
 | Family Member | Dallas | Philadelphia | Leans... |
 |--------------|--------|-------------|----------|
-| Football fan | ★★★★★ | ★★★ | **Dallas** |
+| Luka (football fan) | ★★★★★ | ★★★ | **Dallas** |
 | Şükrü (personal) | ★★★★ | ★★★★★ | **Philly** |
 | Marina | ★★★ | ★★★★★ | **Philly** |
 | Luka | ★★★★★ | ★★★★ | **Dallas** |
 | Maja | ★★★ | ★★★★★ | **Philly** |
 
-**The split:** The football fan in you and Luka lean Dallas. Your personal interests, Marina, and Maja all lean Philly.
+**The split:** Luka (the football fan) leans Dallas. Sukru's personal interests, Marina, and Maja all lean Philly.
 
 **The tension:** Dallas has the better match and more kid attractions (theme parks, soccer exhibit), but it's hotter, harder to navigate, and a bigger logistical lift. Philly is the easier, more rewarding city to explore as an adult, more comfortable for the family, and a better fit for Maja — but with a less exciting game and no theme parks.
 

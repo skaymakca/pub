@@ -154,7 +154,7 @@ All Toronto rates in **CAD**. USD estimate at 1 CAD ≈ $0.72 USD.
 
 ## Philadelphia (Jun 24–28, 4 nights, 2 rooms)
 
-Need: 1 room for Marina+Luka (family budget), 1 room for FIL+BIL (FIL pays).
+Need: 1 room for Marina+Luka (family budget), 1 room for FIL+BIL (separate budget).
 Marina+Luka only need a full+ bed. FIL+BIL need 2 beds.
 
 ### Bonvoy Properties — Center City (within 0.5 mi)
@@ -217,7 +217,7 @@ Marina+Luka only need a full+ bed. FIL+BIL need 2 beds.
 **Budget Alternative:** Element Downtown ($364/night each, $2,912 total) — higher-rated (4.4), eco-friendly, but smaller property (may not have 2 rooms available).
 
 **Family pays:** $1,580 (4 nights at Marriott Downtown)
-**FIL pays:** $1,580 (4 nights at same Marriott Downtown)
+**FIL/BIL budget:** $1,580 (4 nights at same Marriott Downtown)
 
 **Hotel links:** [Philadelphia Marriott Downtown](https://www.marriott.com/en-us/hotels/phldt-philadelphia-marriott-downtown/overview/) · [Element Downtown](https://www.marriott.com/en-us/hotels/phlel-element-philadelphia-downtown/overview/) · [Sheraton Downtown](https://www.marriott.com/en-us/hotels/phlws-sheraton-philadelphia-downtown/overview/) · [Residence Inn Center City](https://www.marriott.com/en-us/hotels/phlri-residence-inn-philadelphia-center-city/overview/) · [Marriott Old City](https://www.marriott.com/en-us/hotels/phlmo-philadelphia-marriott-old-city/overview/) · [Courtyard Navy Yard](https://www.marriott.com/en-us/hotels/phlcs-courtyard-philadelphia-south-at-the-navy-yard/overview/) · [Windsor Suites](https://www.thewindsorsuites.com/)
 
@@ -235,7 +235,7 @@ Marina+Luka only need a full+ bed. FIL+BIL need 2 beds.
 | **Family Total** | | **~$5,631** | | **~$7,250** |
 | Philly — FIL/BIL (4 nights) | Marriott Downtown ($395) | $1,580 | Marriott Downtown ($395) | $1,580 |
 
-### Comparison to Original Estimates (from Cost Analysis)
+### Comparison to Original Estimates (from 11-cost-analysis.md)
 
 | City | Original Estimate | Actual Budget | Actual Upgrade | Verdict |
 |------|-------------------|--------------|----------------|---------|

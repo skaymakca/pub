@@ -377,7 +377,7 @@ Google Flights says: "Prices are currently **HIGH**" (both dates)
 
 ## Leg 9: Croatia -> EWR -- ~June 23-25 (BIL Inbound)
 
-**Who:** BIL (1 pax) -- paid by FIL, not in family budget
+**Who:** BIL (1 pax) -- separate budget, not in family budget
 **Plan:** Fly into EWR, take Amtrak to Philadelphia (~1 hour, $11-55)
 
 ### Cash Fares (Google Flights, searched 2026-03-14)
@@ -427,7 +427,7 @@ Google Flights says: "Prices are currently **HIGH**" (both dates)
 
 ## Leg 10: EWR -> Croatia -- ~June 28-29 (BIL Return)
 
-**Who:** BIL (1 pax) -- paid by FIL, not in family budget
+**Who:** BIL (1 pax) -- separate budget, not in family budget
 **Plan:** Amtrak Philadelphia to EWR, then fly to Croatia
 
 ### Cash Fares (Google Flights, searched 2026-03-14)
@@ -487,7 +487,7 @@ Award search was not separately conducted for Leg 10, but based on Leg 9 data, e
 | 6 | BOS->PHL | Jun 25 (Thu) | 2 | $119 (JetBlue after 5pm) | **15k + $5.60** | **$238** (2 pax) | Award on Jun 24 at 15k for after-5pm |
 | 7 | PHL->BOS | Jun 28 (Sun) | 2 | **$84** (JetBlue nonstop) | 15k + $5.60 | **$168** (2 pax) | Cash -- $84 is already very cheap |
 
-### FIL/BIL Legs (paid separately by FIL)
+### FIL/BIL Legs (Separate Budget)
 
 | Leg | Route | Date | Pax | Best Cash | Best Award | Recommendation |
 |-----|-------|------|-----|-----------|------------|----------------|

@@ -73,7 +73,7 @@ All prices are actual quotes from Google Flights and United.com as of March 14�
 
 > **Alternative Philly routing:** M+L fly YYZ→PHL directly on Jun 24 ($268/pp × 2 = $536) instead of Legs 4b + 6 ($181 + $119 = $300/pp × 2 = $600). The direct routing saves $64 in flights but adds a 4th hotel night (2 rooms go from $1,359 to $1,580 each = $442 more), netting ~$600 more across all costs including extra meals.
 
-### FIL/BIL Flights (Paid by FIL)
+### FIL/BIL Flights (Separate Budget)
 
 | Leg | Route | Date | Pax | Best Option | Cash | Award |
 |-----|-------|------|-----|-------------|------|-------|
@@ -114,7 +114,7 @@ All rates from marriott.com as of March 14–15, 2026 (Gold Elite member). Non-B
 |-------|-----------|---------------|-------|
 | **Marriott Downtown** | $453 | **$1,359** | 1,408 rooms, near Reading Terminal |
 
-**Room 2: FIL + BIL (paid by FIL)**
+**Room 2: FIL + BIL (separate budget)**
 
 | Hotel | Per Night | 3-Night Total | Notes |
 |-------|-----------|---------------|-------|
@@ -152,7 +152,7 @@ All rates from marriott.com as of March 14–15, 2026 (Gold Elite member). Non-B
 
 **Optimal points mix:** Use 26.4k United miles on 1× BOS→DFW ($311 saved). Everything else in cash. Net: **~$11,750–13,970**.
 
-### FIL/BIL Budget (Paid by FIL)
+### FIL/BIL Budget (Separate Budget)
 
 | Category | Budget | Premium |
 |----------|--------|---------|

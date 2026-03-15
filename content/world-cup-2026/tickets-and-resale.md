@@ -104,7 +104,7 @@ The England match is in a different league of demand compared to Panama or Ghana
 
 ---
 
-## Ticket Resale Strategy — All 4 Sets
+# Ticket Resale Strategy — All 4 Sets
 
 We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers when/how to sell and strategic timing for each.
 
