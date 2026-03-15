@@ -1,11 +1,85 @@
 ---
-title: "Philadelphia Family Trip Research — FIFA World Cup 2026"
+title: "Philadelphia Trip Research — FIFA World Cup 2026"
 ---
 
 **Game:** Croatia vs. Ghana (Group L, Matchday 3)
 **Date:** Saturday, June 27, 2026 — 5:00 PM ET kickoff
 **Venue:** Lincoln Financial Field (renamed "Philadelphia Stadium" for the tournament), ~69,000 capacity
 **Also playing in Philly that week:** June 25 (Thu) Curaçao vs. Côte d'Ivoire at 4 PM ET
+
+### Who's Going
+
+| Person | Arriving From | Arrival Date | Departure |
+|--------|--------------|-------------|-----------|
+| **Marina** | Toronto (YYZ → PHL) | Wed, Jun 24 | Sun, Jun 28 → BOS |
+| **Luka** | Toronto (YYZ → PHL) | Wed, Jun 24 | Sun, Jun 28 → BOS |
+| **FIL** (Marina's father) | Los Angeles (LAX → PHL) | Wed, Jun 24 | Sun, Jun 28 → LAX |
+| **BIL** (Marina's brother) | Zadar, Croatia (ZAD → EWR or PHL) | ~Jun 23–24 | Sun, Jun 28 → ZAD |
+
+**Note:** Sukru + Maja do NOT attend the Philly game. This is Marina + Luka + extended family.
+
+**FIL pays for himself and BIL** — their flights and 1 hotel room are not part of the family budget. See [11 — Cost Analysis](../cost-analysis/#filbil-costs-paid-by-fil) for details.
+
+---
+
+## 0. Arrival Coordination — Jun 24
+
+Marina, FIL, and BIL converge on Philadelphia on or around **Wednesday, June 24**. Only Marina and FIL need to coordinate arrival times — BIL arrives independently.
+
+### Marina + Luka (YYZ → PHL) — coordinate with FIL
+
+- Nonstop flights available on Air Canada, American, or United
+- Flight time: ~1.5 hours
+- Target arrival: early-to-mid afternoon
+- They'll have checked out of the Toronto hotel that morning
+
+### FIL (LAX → PHL) — coordinate with Marina
+
+- Nonstop flights available on American (PHL is AA's hub), Delta, JetBlue, Spirit, Frontier
+- Flight time: ~5 hours
+- **Coordinate arrival within 1–2 hours of Marina's flight** so they can share a ride to the hotel
+- A morning LAX departure (e.g., 8 AM PT → ~4 PM ET arrival) could align with a midday YYZ departure
+
+### BIL (Zadar → Philadelphia area) — arrives independently
+
+BIL does **not** need to arrive at the same time as Marina and FIL. He can arrive earlier (Jun 23) or later (Jun 24 evening) — whatever routing works best.
+
+#### Recommended: Fly into EWR + Amtrak to Philly
+
+Newark (EWR) has **56+ weekly nonstop flights** from European hubs vs. PHL's 4–5/week from Frankfurt only. This gives BIL dramatically more options:
+
+**Best option: Zadar → Split (2h bus, ~$15) → EWR nonstop (United, 767-300ER)**
+- United launches SPU→EWR 3x/week for summer 2026 (from Split: Sun, Wed, Fri)
+- June 24 is a Wednesday = operating day
+- ~10-hour nonstop flight, no European hub connection needed
+- EWR → Philadelphia 30th Street Station: Amtrak Northeast Regional (~1 hour, $11–55)
+- Total door-to-door: ~14–15 hours
+- **All-in cost: $425–870** (bus + flight + Amtrak)
+
+**Backup: ZAD → FRA or MUC → EWR (Lufthansa/United)**
+- 2 flights instead of 3 (no intra-Germany leg needed)
+- 14 weekly nonstops from both FRA and MUC to EWR (vs. 4–5/week FRA→PHL)
+- Easy same-day rebooking if disrupted
+- Total door-to-door: 13–17 hours + 1 hour Amtrak
+- **All-in cost: $510–955** (flights + Amtrak)
+
+**Original option: ZAD → MUC → FRA → PHL (Lufthansa/Discover)**
+- Still works, but 3 flights, 16–20 hours, and depends on Discover Airlines' 4–5x/week FRA→PHL service
+- **Cost: $600–1,200**
+
+See [11 — Cost Analysis](../cost-analysis/#filbil-costs-paid-by-fil) for full comparison.
+
+### Arrival Plan
+
+```
+~2:00 PM ET  Marina + Luka land at PHL (from YYZ)
+~3:00 PM ET  FIL lands at PHL (from LAX, morning departure)
+~3:30 PM ET  Marina + FIL share Uber/taxi to hotel together
+Flexible     BIL arrives independently (via EWR+Amtrak or PHL)
+Evening      Everyone meets at hotel, dinner together
+```
+
+*Only the YYZ→PHL and LAX→PHL flights need to be coordinated. BIL books whatever works best for his routing.*
 
 ---
 
@@ -125,13 +199,24 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 
 ## 4. Where to Stay
 
+**Need: 2 rooms, each with 2 queen beds** (1 for Marina + Luka, 1 for FIL + BIL).
+**Dates:** Jun 24–28 (4 nights).
+**Preference:** Marriott Bonvoy properties (for points/status).
+**Who pays:** Marina + Luka's room is family budget. FIL + BIL's room is paid by FIL.
+
 ### Option 1: Center City / Rittenhouse Square (RECOMMENDED)
 
 - Central to everything. Walking distance to Reading Terminal Market, museums, restaurants.
-- Easy SEPTA Broad Street Line subway access to the stadium.
-- Rittenhouse Square park is lovely for kids — shady, people-watching, nearby cafes.
+- Easy SEPTA Broad Street Line subway access to the stadium (~15 min to NRG Station).
+- Rittenhouse Square park is lovely — shady, people-watching, nearby cafes.
 
-**Hotel picks:**
+**Marriott Bonvoy options (Center City):**
+- **Philadelphia Marriott Downtown** — 1201 Market St. Large property, 2-queen rooms available. Steps from Reading Terminal Market and Convention Center. Broad Street Line access.
+- **Courtyard Philadelphia Downtown** — Center City location, 2-queen rooms. More affordable Marriott option.
+- **Residence Inn Philadelphia Center City** — suite-style with kitchenette. Good for families.
+- **Sheraton Philadelphia Downtown** — 17th & Race. Large rooms, pool. Walkable to Parkway museums.
+
+**Non-Marriott options (for reference):**
 - **Canopy by Hilton Center City** — connecting rooms, daily housekeeping, kid-friendly breakfast
 - **The Windsor Suites** — spacious rooms with kitchens, heated pool, free cribs, rollaway beds
 - **Sofitel at Rittenhouse Square** — upscale, free cribs, sofa beds
@@ -144,13 +229,13 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 
 ### Option 3: Near the Stadium (South Philly Sports Complex)
 
-- **Courtyard Philadelphia South at The Navy Yard** — walking distance to stadium
+- **Courtyard Philadelphia South at The Navy Yard** — Marriott Bonvoy property. Walking distance to stadium. Good for game-day convenience.
 - **Live Casino & Hotel** — 13-min walk to Lincoln Financial Field
 - Downside: isolated from Center City attractions; not walkable to much else
 
 ### Booking Note
 
-Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 game (Curaçao vs. Côte d'Ivoire) two days before yours means the city will already be full of fans.
+Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 game (Curaçao vs. Côte d'Ivoire) two days before yours means the city will already be full of fans. **Two rooms for 4 nights during the World Cup will be competitive — book as soon as plans are confirmed.**
 
 ---
 
@@ -217,32 +302,44 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 
 ---
 
-## 8. Recommended Trip Length: 2–3 Nights
+## 8. Recommended Itinerary: 4 Nights (Jun 24–28)
 
-Philadelphia is the closest and most compact trip. You can see the highlights in a long weekend.
+**Attendees:** Marina + Luka + FIL + BIL (not a family-of-4 trip — this is adults + one 11-year-old)
 
-### Option A: 2 Nights (Fly)
+**Wednesday June 24 — Arrive**
+- Marina + Luka arrive from Toronto (YYZ → PHL), ~2 PM
+- FIL arrives from LA (LAX → PHL), ~3 PM
+- BIL arrives from Zadar (via connection), evening
+- Check into hotel (Center City). Casual dinner together — maybe Reading Terminal Market (closes 6 PM) or a nearby restaurant.
+- Get settled, grocery run if needed.
 
-**Friday June 26 — Arrive**
-- Fly BOS→PHL (~1.5 hr). SEPTA Airport Line to Center City.
-- Afternoon: Reading Terminal Market for lunch. Walk Old City — Liberty Bell, Independence Hall (if you booked timed tickets), Franklin Square mini golf + splash pad.
-- Evening: Cheesesteaks at Pat's/Geno's or Jim's.
+**Thursday June 25 — Sightseeing Day 1**
+- Morning: Independence Hall + Liberty Bell (free, book timed tickets on Recreation.gov)
+- Walk Old City — Franklin Square mini golf, Museum of the American Revolution
+- Lunch: Reading Terminal Market
+- Afternoon: Franklin Institute (great for Luka — STEM exhibits, Giant Heart)
+- Optional: catch the **Curaçao vs. Côte d'Ivoire** game at 4 PM at Lincoln Financial Field (if you can get tickets — a bonus World Cup match!)
+- Evening: Cheesesteaks at Pat's/Geno's or Jim's
+
+**Friday June 26 — Sightseeing Day 2**
+- Morning: Philadelphia Museum of Art (Rocky Steps! plus "A Nation of Artists" exhibition) or Barnes Foundation
+- Walk the Benjamin Franklin Parkway — Logan Circle, Rodin Museum
+- Lunch: Rittenhouse Square area (Parc, The Dandelion, or a.kitchen)
+- Afternoon: Philadelphia Zoo or Academy of Natural Sciences
+- Evening: East Passyunk Avenue for dinner (Le Virtu, Burrata, or The Victor Cafe with live opera)
 
 **Saturday June 27 — GAME DAY**
-- Morning: Franklin Institute (2–3 hrs) or Philadelphia Zoo.
-- Lunch: Grab food near the museum or at the hotel.
-- Early afternoon: Head to FIFA Fan Festival at Lemon Hill (free, big screens, food, music).
-- 5:00 PM: CROATIA vs. GHANA kickoff at Lincoln Financial Field. Take SEPTA Broad Street Line to NRG Station.
-- ~7:30 PM: Game ends. Dinner in South Philly or Center City.
+- Morning: FIFA Fan Festival at Lemon Hill (free, big screens, food, music, open green space)
+- Lunch: Grab food at the Fan Festival or nearby
+- Afternoon: Head to stadium. Take SEPTA Broad Street Line to NRG Station.
+- **5:00 PM: CROATIA vs. GHANA** — Lincoln Financial Field
+- ~7:30 PM: Game ends. Post-game dinner in South Philly or Center City.
 
-**Sunday June 28 — Explore + Depart**
-- Morning: Please Touch Museum (for Maja) or Academy of Natural Sciences. Or revisit anything from Day 1.
-- Franklin Fountain ice cream in Old City.
-- Afternoon: Fly home or start the drive.
-
-### Option B: 3 Nights (Drive or Fly)
-
-Add **Thursday June 25** — drive down (arrive by evening), casual dinner, walk the neighborhood. This gives you a full relaxed day Friday for the zoo, Franklin Institute, AND historic sites without rushing. You could also catch the **Curaçao vs. Côte d'Ivoire** game at 4 PM on Thursday if you want a bonus World Cup match.
+**Sunday June 28 — Depart**
+- Morning: any last stops (Franklin Fountain ice cream in Old City, a final walk)
+- Marina + Luka: PHL → BOS (fly home)
+- FIL: PHL → LAX (fly home)
+- BIL: PHL → ZAD (fly home via connection)
 
 ---
 
