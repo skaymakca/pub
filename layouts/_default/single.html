@@ -1,6 +1,18 @@
 {{ define "main" }}
   <article class="prose">
-    <h1>{{ or .Title (.File.ContentBaseName | humanize | title) }}</h1>
+    {{ $section := .Site.GetPage (printf "/%s/" .Section) }}
+    {{ if and $section (ne .Section "") }}
+      <div class="prose-header">
+        <div class="prose-header-titles">
+          <h1>{{ $section.Title }}</h1>
+          <p class="page-subtitle">{{ or .Title (.File.ContentBaseName | humanize | title) }}</p>
+        </div>
+        {{ partial "nav-section-top.html" . }}
+      </div>
+    {{ else }}
+      <h1>{{ or .Title (.File.ContentBaseName | humanize | title) }}</h1>
+    {{ end }}
     {{ .Content }}
+    {{ partial "nav-section-bottom.html" . }}
   </article>
 {{ end }}

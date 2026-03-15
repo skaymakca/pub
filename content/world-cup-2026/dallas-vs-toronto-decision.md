@@ -1,5 +1,6 @@
 ---
 title: "Should Sukru + Maja Join Dallas, or Just Meet in Toronto?"
+weight: 8
 ---
 
 This is the one open question in the World Cup travel plan. Marina + Luka are going to Dallas regardless. The question is whether Sukru + Maja tag along for the full Dallas → Toronto → (split) journey, or skip Dallas and fly directly to Toronto to meet up.
@@ -13,8 +14,8 @@ This is the one open question in the World Cup travel plan. Marina + Luka are go
 **Trip length for Sukru + Maja:** 9 nights (Jun 15–24)
 
 ```
-Jun 15 (Sun)  BOS → DFW (all 4)
-Jun 16 (Mon)  Dallas sightseeing
+Jun 15 (Mon)  BOS → DFW (all 4)
+Jun 16 (Tue)  Dallas sightseeing
 Jun 17 (Wed)  GAME — England vs Croatia, 3 PM CT
 Jun 18 (Thu)  DFW → YYZ (all 4)
 Jun 19-22     Toronto sightseeing
@@ -120,7 +121,7 @@ This is the biggest game of the three. England's massive fanbase, the 2018 semif
 | | Scenario A | Scenario B |
 |---|---|---|
 | **Sukru + Maja away from home** | 9 nights | 6 nights |
-| **Total family on the road** | Jun 15–24 (9 nights) | Jun 15–28 (split: M+L 13 nights, S+M 4 nights) |
+| **Total family on the road** | Jun 15–28 (S+M 9 nights, M+L 13 nights) | Jun 15–28 (M+L 13 nights, S+M 6 nights) |
 | **Cities visited (S+M)** | Dallas + Toronto | Toronto only |
 | **World Cup matches (S+M)** | 2 (England, Panama) | 1 (Panama) |
 | **Flights for S+M** | BOS→DFW, DFW→YYZ, YYZ→BOS | BOS→YYZ, YYZ→BOS |

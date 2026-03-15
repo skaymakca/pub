@@ -1,5 +1,6 @@
 ---
-title: "2026 World Cup — Planning Overview"
+title: "Planning Overview"
+weight: 1
 ---
 
 ## The Situation
@@ -26,7 +27,7 @@ We have **4 tickets to each of 4 FIFA World Cup 2026 matches** (16 tickets total
 | Croatia vs Ghana | Sat Jun 27 | Philadelphia | Marina + Luka + FIL + BIL | Sukru + Maja do NOT attend Philly |
 | Match 74 (Gillette) | Sun Jun 29 | Foxborough | TBD | Ignore for now — focus on group stage |
 
-**FIL** (Marina's father, flying from LAX) and **BIL** (Marina's brother-in-law, flying from Zadar) attend the Philly game only. **FIL pays for himself and BIL** (their flights + 1 hotel room) — these costs are separate from the family budget. BIL arrives independently (does not need to coordinate timing with Marina/FIL).
+**FIL** (Marina's father, flying from LAX) and **BIL** (Marina's brother, flying from Zadar) attend the Philly game only. **FIL pays for himself and BIL** (their flights + 1 hotel room) — these costs are separate from the family budget. BIL arrives independently (does not need to coordinate timing with Marina/FIL).
 
 ### The Open Question
 
@@ -45,15 +46,15 @@ See [08 — Dallas vs Toronto Decision](../dallas-vs-toronto-decision/) for the 
 ### Scenario A: Full Family Does Dallas + Toronto
 
 ```
-Jun 15 (Sun)  All 4: BOS → DFW (arrive, settle in)
-Jun 16 (Mon)  Dallas sightseeing
+Jun 15 (Mon)  All 4: BOS → DFW (arrive, settle in)
+Jun 16 (Tue)  Dallas sightseeing
 Jun 17 (Wed)  GAME DAY — England vs Croatia, 3 PM CT
 Jun 18 (Thu)  All 4: DFW → YYZ (straight to Toronto)
 Jun 19-22     Toronto sightseeing (4 extra days!)
 Jun 23 (Tue)  GAME DAY — Panama vs Croatia, 7 PM ET
-Jun 24 (Wed)  Sukru + Maja: YYZ → BOS (home)
-              Marina + Luka: YYZ → PHL (to Philadelphia)
-Jun 25-26     Marina + Luka: Philly sightseeing with FIL + BIL
+Jun 24 (Wed)  All 4: Toronto → BOS (home)
+Jun 25 (Thu)  Marina + Luka: BOS → PHL (JetBlue 6:10 PM nonstop)
+Jun 26 (Fri)  Philly sightseeing with FIL + BIL
 Jun 27 (Sat)  GAME DAY — Croatia vs Ghana, 5 PM ET
 Jun 28 (Sun)  Marina + Luka: PHL → BOS (home)
 ```
@@ -61,24 +62,39 @@ Jun 28 (Sun)  Marina + Luka: PHL → BOS (home)
 ### Scenario B: Marina + Luka Do Dallas; Sukru + Maja Join in Toronto
 
 ```
-Jun 15 (Sun)  Marina + Luka: BOS → DFW
-Jun 16 (Mon)  Dallas sightseeing (Marina + Luka)
+Jun 15 (Mon)  Marina + Luka: BOS → DFW
+Jun 16 (Tue)  Dallas sightseeing (Marina + Luka)
 Jun 17 (Wed)  GAME DAY — England vs Croatia (Marina + Luka)
 Jun 18 (Thu)  Marina + Luka: DFW → YYZ
 Jun 18 (Thu)  Sukru + Maja: BOS → YTZ (Porter nonstop, arrive same day as M+L)
 Jun 19-22     Toronto sightseeing (all 4 together)
 Jun 23 (Tue)  GAME DAY — Panama vs Croatia (all 4)
-Jun 24 (Wed)  Sukru + Maja: YYZ → BOS
-              Marina + Luka: YYZ → PHL
-Jun 25-27     Same as Scenario A from here
+Jun 24 (Wed)  All 4: Toronto → BOS (home)
+Jun 25 (Thu)  Same as Scenario A from here
 ```
 
 **Sell 2 Dallas tickets (~$3,100 net)**
 
 ### Philadelphia (Both Scenarios)
 
+**Option C (recommended):** Fly home first, arrive Jun 25 (2 sightseeing days, ~$600 cheaper).
+See [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25).
+
+**Jun 25 arrival (Option C — recommended):**
 ```
-Jun 24 (Wed)  Marina + Luka arrive PHL (from YYZ)
+Jun 24 (Wed)  All 4 fly Toronto → BOS (S+M via YTZ, M+L via YYZ)
+              M+L spend night at home
+Jun 25 (Thu)  M+L fly BOS → PHL (JetBlue 6:10 PM, $119/pp)
+              FIL arrives PHL (from LAX)
+              BIL arrives independently (via EWR+Amtrak)
+Jun 26 (Fri)  Philly sightseeing
+Jun 27 (Sat)  GAME DAY — Croatia vs Ghana, 5 PM ET
+Jun 28 (Sun)  Everyone departs
+```
+
+**Jun 24 arrival (Option A — alternative, +~$600):**
+```
+Jun 24 (Wed)  Marina + Luka arrive PHL (from YYZ, $268/pp)
               FIL arrives PHL (from LAX) — coordinate timing with Marina
               BIL arrives independently (via EWR+Amtrak or PHL direct)
 Jun 25-26     Philly sightseeing (Marina + Luka + FIL + BIL)

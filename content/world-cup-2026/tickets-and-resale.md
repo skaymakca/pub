@@ -1,5 +1,6 @@
 ---
-title: "Ticket Resale Analysis & Strategy"
+title: "Tickets & Resale Strategy"
+weight: 12
 ---
 
 We have 4 tickets for each of Croatia's 3 group stage games. This analysis covers which game is easiest to sell and which would net the most proceeds.
@@ -183,7 +184,7 @@ We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers
 | **Final window** | Jun 26 (day before) | Saturday game = more last-minute walk-up demand than weekday games. |
 | **Auto-pull** | Jun 27, 4:00 PM ET | 1 hour before kickoff. |
 
-**Recommendation:** This is the **best game for your family of 4** (see [Dallas vs Philadelphia](../dallas-vs-philly/)). If selling extra tickets (e.g., you attend with 2 and sell 2), list by mid-May. If selling all 4, wait until after Jun 23 — if Croatia's fate depends on this match, prices will jump.
+**Recommendation:** This is the **best game for your family of 4** (see [07 — Family Decision Guide](../dallas-vs-philly/)). If selling extra tickets (e.g., you attend with 2 and sell 2), list by mid-May. If selling all 4, wait until after Jun 23 — if Croatia's fate depends on this match, prices will jump.
 
 **Expected net (4 tickets):** Moderate — above face value, well below Dallas.
 

@@ -1,0 +1,31 @@
+{{ $section := .Site.GetPage (printf "/%s/" .Section) }}
+{{ if and $section (ne .Section "") }}
+  {{ $pages := $section.Pages }}
+  {{ $prev := false }}{{ $next := false }}
+  {{ range $i, $p := $pages }}
+    {{ if eq $p.RelPermalink $.RelPermalink }}
+      {{ if gt $i 0 }}{{ $prev = index $pages (sub $i 1) }}{{ end }}
+      {{ if lt $i (sub (len $pages) 1) }}{{ $next = index $pages (add $i 1) }}{{ end }}
+    {{ end }}
+  {{ end }}
+  <nav class="section-nav-bottom" aria-label="Section navigation">
+    <div class="section-nav-bottom-prev">
+      {{ with $prev }}<a href="{{ .RelPermalink }}">
+        <span class="section-nav-bottom-label">&larr; Previous</span>
+        <span class="section-nav-bottom-title">{{ .Title }}</span>
+      </a>{{ end }}
+    </div>
+    <div class="section-nav-bottom-up">
+      <a href="{{ $section.RelPermalink }}">
+        <span class="section-nav-bottom-label">&uarr; All Pages</span>
+        <span class="section-nav-bottom-title">{{ $section.Title }}</span>
+      </a>
+    </div>
+    <div class="section-nav-bottom-next">
+      {{ with $next }}<a href="{{ .RelPermalink }}">
+        <span class="section-nav-bottom-label">Next &rarr;</span>
+        <span class="section-nav-bottom-title">{{ .Title }}</span>
+      </a>{{ end }}
+    </div>
+  </nav>
+{{ end }}

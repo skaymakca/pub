@@ -1,5 +1,6 @@
 ---
-title: "Dallas Family Trip Research — FIFA World Cup 2026"
+title: "Dallas — Family Trip Research"
+weight: 3
 ---
 
 **Game:** England vs. Croatia (Group L, Matchday 1)
@@ -197,31 +198,30 @@ Book EARLY. Dallas hosts 9 matches and a semifinal — hotel prices will be extr
 
 ## 9. Recommended Trip Length: 3–4 Days
 
-### Suggested 4-Day Itinerary
+### Itinerary: 3 Nights (Jun 15–18)
 
-**Day 1 (Tue Jun 16) — Arrive + Downtown Dallas**
-- Fly BOS→DFW, pick up rental car. ~4.5 hr flight.
-- Afternoon: Klyde Warren Park (free, food trucks, climbing tower, splash features).
-- Evening: Dinner at Pecan Lodge (BBQ, Deep Ellum) or Nico's Cocina (Tex-Mex, playground).
+**Day 1 (Mon Jun 15) — Arrive**
+- Fly BOS→DFW (arrive ~9:20 PM CT). Pick up rental car.
+- Late dinner near hotel or settle in.
 
-**Day 2 (Wed Jun 17) — GAME DAY**
+**Day 2 (Tue Jun 16) — Full Sightseeing Day**
 - Morning: Perot Museum of Nature and Science — see the "Soccer: More Than a Game" exhibit.
-- Lunch: Museum cafe or downtown.
+- Afternoon: Klyde Warren Park (free, food trucks, climbing tower, splash features). Or: Six Flags Hurricane Harbor (water park, beat the heat) or Dallas Zoo.
+- Evening: Dinner at Pecan Lodge (BBQ, Deep Ellum) or Nico's Cocina (Tex-Mex, playground). Optional: FIFA Fan Festival at Fair Park (free, big screens, food, entertainment).
+
+**Day 3 (Wed Jun 17) — GAME DAY**
+- Morning: Whatever you missed — Reunion Tower observation deck, Universal Kids Resort in Frisco (if open), or relaxed morning at the hotel pool.
+- Lunch: Early, before heading to Arlington.
 - Afternoon: Drive to Arlington. Arrive by 1:30 PM CT for the 3 PM CT kickoff.
 - Evening: Post-game dinner at Texas Live! or Lockhart Smokehouse in Arlington.
 
-**Day 3 (Thu Jun 18) — Theme Park or Zoo Day**
-- **Option A:** Six Flags Hurricane Harbor (water park, beat the heat) or Six Flags Over Texas.
-- **Option B:** Dallas Zoo + Dallas World Aquarium.
-- Evening: FIFA Fan Festival at Fair Park (free, big screens, food, entertainment).
+**Day 4 (Thu Jun 18) — Depart to Toronto**
+- Morning: Drop off rental car, fly DFW→YYZ (9:51 AM CT → 1:57 PM ET).
+- Arrive Toronto early afternoon.
 
-**Day 4 (Fri Jun 19) — Explore + Depart**
-- Morning: Whatever you missed — Reunion Tower observation deck, Universal Kids Resort in Frisco (if open), or Trinity Forest Adventure Park.
-- Afternoon: Head to DFW for flight home.
+### If You Had an Extra Day
 
-### 3-Day Option
-
-Drop Day 4. Fly out Thursday evening after the theme park/zoo day.
+With a 4th full day (e.g., arriving a day earlier), add Six Flags Hurricane Harbor or Dallas Zoo + Dallas World Aquarium as a dedicated theme park / zoo day.
 
 ---
 
