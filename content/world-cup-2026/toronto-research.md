@@ -278,40 +278,77 @@ Bike Share Toronto requires age 14+ — not viable for kids. Instead, rent famil
 
 ---
 
-## 6. How Many Days to Spend
+## 6. Expanded 6-Night Itinerary (Jun 18–24)
 
-### Recommended: 3 nights / 3.5 days
+**6 nights, 5+ full sightseeing days.** Arrival Thu Jun 18, departure Wed Jun 24 (or Thu Jun 25).
 
-**Sample Itinerary:**
+### Thu Jun 19 — Downtown Highlights
+- Morning: CN Tower + Glass Floor (1.5 hrs) → Ripley's Aquarium (2 hrs). Adjacent — do together.
+- Lunch: Harbourfront area (Amsterdam BrewHouse patio or BeaverTails on the waterfront)
+- Afternoon: Harbourfront splash pads (Sugar Beach or Sherbourne Common) + Toronto Railway Museum ($5/$3, near CN Tower)
+- Evening: Dinner in Entertainment District. The Rec Room for Luka if energy remains.
 
-**Day 1 (Mon June 22) — Arrive + Downtown Highlights**
-- Drive from Newton (~7.5 hours via I-90 → I-87 → Hwy 401) or fly (~1.5 hr BOS→YYZ)
-- Afternoon: CN Tower + Ripley's Aquarium (adjacent, 3–4 hours combined)
-- Evening: Dinner in Entertainment District or Harbourfront
+### Fri Jun 20 — Niagara Falls Day Trip 🚗
+- 7:30 AM: Pick up Avis rental at Brookfield Place (161 Bay St — closest to Gardiner/QEW on-ramp). Drive QEW → Niagara Falls (~1.5 hrs).
+- 9:15 AM: Walk the Falls promenade (free).
+- 9:45 AM: Journey Behind the Falls ($28/$18.50, timed ticket — tunnels behind Horseshoe Falls).
+- 10:45 AM: Niagara City Cruises boat tour ($42.95/$27.95 — the #1 must-do). Ponchos provided; you WILL get wet. Bring water shoes + ziplock for phones.
+- 12:00 PM: Lunch on Clifton Hill (Boston Pizza or Hard Rock Cafe).
+- 1:00 PM: Clifton Hill — SkyWheel, Dinosaur Adventure Golf, arcade. Fun Pass $34.95/$22.95 for 6 attractions. Niagara Speedway go-karts (separate, Luka would love).
+- 2:30 PM: Bird Kingdom ($21.95/$15.95, indoor aviary, 45 min) OR Butterfly Conservatory ($25/$16.50, 10 min drive north — Maja would love).
+- 3:30 PM: Drive scenic Niagara Parkway to Niagara-on-the-Lake (30 min). Walk Old Town, COWS ice cream, Simcoe Park splash pad.
+- 5:30 PM: Drive back to Toronto (~1.5–2 hrs). Return car or keep for next day trip.
+- **Cost estimate:** $580–1,000 CAD for family of 4 (budget vs. full experience). See Section 8 for full breakdown.
+- **Bonus:** Germany vs. Côte d'Ivoire kicks off at 4 PM at Toronto Stadium. Catch the second half at Fan Festival after returning, or listen on the drive back.
 
-**Day 2 (Tue June 23) — GAME DAY**
-- Morning: Toronto Islands / Centre Island (ferry + Centreville rides + beach, back by 2 PM)
-- Afternoon: Explore Fan Festival at Fort York / The Bentway (walking distance to stadium)
-- 5:00 PM: Head toward BMO Field area, grab food near the stadium
-- 7:00 PM: PANAMA vs. CROATIA kickoff
-- ~9:30 PM: Game ends, head back to hotel
+### Sat Jun 21 — Toronto Islands + High Park
+- Morning: Ferry to Centre Island (15 min from Jack Layton Terminal). Centreville Amusement Park rides, Far Enough Farm, beaches, bike rentals. Back by 1 PM.
+- Lunch: St. Lawrence Market (peameal bacon sandwiches — Toronto's signature food). Saturday is the best day — outdoor farmers market since 1803.
+- Afternoon: High Park — free zoo (capybaras, bison, llamas), Jamie Bell Adventure Playground, splash pad, trackless train ($5/kid). Subway-accessible.
+- Evening: Dinner in Little Italy (College St) — pizza, pasta, gelato.
 
-**Day 3 (Wed June 24) — Museum + Market Day**
-- Morning: Royal Ontario Museum (dinosaurs, 2–3 hours)
-- Lunch: St. Lawrence Market (peameal bacon sandwich, browse vendors)
-- Afternoon: Distillery District (strolling, bakery treats, galleries)
-- Evening: Kensington Market / Little Italy for dinner
-- Or swap for: Toronto Zoo (full day) or Canada's Wonderland (full day)
+### Sun Jun 22 — Museums + Culture
+- Morning: Royal Ontario Museum (dinosaurs — 25 full skeletons incl. T. rex + Barosaurus, WonderWorks gallery for Maja). Allow 2–3 hrs.
+- Quick stop: Bata Shoe Museum (5-min walk, $16/$5, **free Sundays** — plus "Soccer Sundays" with WC-themed activities during the tournament).
+- Lunch: Kensington Market (bohemian neighborhood, Caribbean bakeries, pan-Latin food, vintage shops).
+- Afternoon: **Choose one:**
+  - Casa Loma ($40/$25) — 98-room Gothic castle, secret passages, two towers, 800-ft underground tunnel, 5-acre gardens. Dragon's Song escape room ($46–57/person, min age 8).
+  - OR Canada's Wonderland (full day, 18 coasters + Splash Works 20-acre water park)
+  - OR Toronto Zoo (full day, Splash Island water playground)
+- Evening: Distillery District stroll — cobblestone streets, galleries, Balzac's Coffee, The SPORT Gallery for Luka (soccer memorabilia + retro jerseys).
 
-**Day 4 (Thu June 25) — Depart**
-- Morning: any remaining attraction or relaxed breakfast
-- Depart for home (or continue to Philadelphia for Croatia vs. Ghana on June 27)
+### Mon Jun 23 — GAME DAY 🇭🇷
+- Morning: Relaxed start. Pickup soccer at Christie Pits or Trinity Bellwoods Park (free, open fields — summer pickup games common).
+- Late morning: Nike Flagship or Adidas at Eaton Centre — World Cup gear and souvenirs.
+- Lunch: Old Spaghetti Factory (downtown, classic kids' meal with dessert included).
+- 2:00 PM: Fan Festival at Fort York / The Bentway — giant screens, food vendors, music, cultural performances. Free, all ages, up to 20,000 capacity.
+- 5:00 PM: Walk from Fan Festival toward BMO Field (16 min). Pre-game options:
+  - Medieval Times dinner show ($80.95/$55.95, 5–10 min walk from stadium — jousting, swordfights, live horses) — book in advance
+  - OR grab food in Liberty Village / near the stadium
+- **7:00 PM: CROATIA vs. PANAMA kickoff** at Toronto Stadium (BMO Field).
+- ~9:30 PM: Game ends. Soak up the post-match atmosphere, head to hotel.
 
-### If You Only Have 2 Days
-Focus on: CN Tower + Aquarium (Day 1 AM), Game Day with Islands + Fan Festival (Day 2). Skip ROM/Zoo/Wonderland.
+### Tue Jun 24 — Flex Day + Departure Prep
+- **Option A — Second day trip (if you still have the rental car):**
+  - African Lion Safari (~1 hr drive) — drive-through wildlife park with lions, giraffes, elephants roaming free around your car. Boat cruise, railway, wet play area, shows. ~$40–45 CAD/adult. Season May 2–Sep 20.
+  - OR Hamilton Waterfalls (45–65 min drive) — Webster Falls (150m stroller-friendly walk), Tiffany Falls (10-min trail). Free to view; $15/vehicle parking reservation.
+- **Option B — In-city rainy day plan:**
+  - Daydream Adventures escape room ($36/person, fantasy themes, not scary, ages 10+ independent / younger with adults)
+  - → Snakes & Lattes board game cafe ($20/adult, **kids 12 & under free**, 800+ games, staff help pick games)
+  - → Sky Zone trampoline park (45 Esandar Dr, ~$25–35/person, separate age zones)
+- **Option C — Chill day:**
+  - AGO (Art Gallery of Ontario, $30/adult, **free under 10** — Maja free) + Graffiti Alley photo walk + splash pads
+- Evening: Final dinner — Pai Northern Thai Kitchen or Mill Street Brewery (Distillery District).
 
-### If You Have 4+ Days
-Add Canada's Wonderland (full day) or Toronto Zoo (full day). These are both outside the downtown core and require dedicated time.
+### Wed Jun 25 — Depart
+- Morning: Last attraction or relaxed breakfast.
+- Depart for home (fly Porter YTZ→BOS ~1.5 hrs) or continue to Philadelphia for Croatia vs. Ghana on June 27.
+
+### Itinerary Notes
+- **Thu Jun 18 (arrival day):** Not shown above. Settle in, explore the hotel neighborhood, quick dinner. If arriving early via Porter (downtown airport), consider an afternoon walk along the waterfront or Nathan Phillips Square (TORONTO sign photo op).
+- **Car rental:** Only needed for Niagara Falls day trip (Fri Jun 20) and optional second day trip (Tue Jun 24). See Section 10 for Avis locations.
+- **Flexibility:** Days 3–4 (Sat–Sun) are interchangeable. St. Lawrence Market is better on Saturday; Bata Shoe Museum is free on Sunday.
+- **Germany vs. Côte d'Ivoire (Sat Jun 20, 4 PM):** If you skip Niagara Falls or do a half-day, you could watch this match at the Fan Festival — a great warm-up for the Croatia game.
 
 ---
 
@@ -367,6 +404,171 @@ Add Canada's Wonderland (full day) or Toronto Zoo (full day). These are both out
 
 ---
 
+## 8. Day Trips (1–2 Hours from Toronto)
+
+### Niagara Falls — The Must-Do Day Trip
+
+**Drive:** 1.5 hrs / 130 km via QEW from downtown Toronto. Depart by 7:30–8:00 AM on a weekday to beat crowds. Full day trip (return ~7:00–7:30 PM).
+
+#### The Big Three Attractions
+
+| Attraction | Adult | Child (3-12) | Duration | Notes |
+|-----------|-------|-------------|----------|-------|
+| **Niagara City Cruises** (boat tour) | $42.95 | $27.95 | 20 min (1–1.5 hrs total) | THE must-do. Pink ponchos. You will get soaked near Horseshoe Falls. Morning = shorter lines. |
+| **Journey Behind the Falls** | $28.00 | $18.50 | 30–45 min | Elevator 125 ft down through 130-year-old tunnels. Emerge behind the cascade. Timed entry — book online. |
+| **Clifton Hill Fun Pass** | $34.95 | $22.95 | 2–3 hrs | 6 attractions: SkyWheel (175-ft Ferris wheel), Dinosaur Adventure Golf, Ghost Blasters ride, Movieland Wax Museum, more. Carnival boardwalk energy. |
+
+#### Other Niagara Attractions
+
+| Attraction | Adult | Child | Duration | Notes |
+|-----------|-------|-------|----------|-------|
+| Bird Kingdom | $21.95 | $15.95 | 45–60 min | World's largest free-flying indoor aviary. 350+ birds, feed lorikeets. Great rainy-day backup. |
+| Butterfly Conservatory | $25.00 | $16.50 | 45–60 min | 2,000+ butterflies in tropical garden. 10 min drive north of Falls. Maja would love this. |
+| Niagara Speedway | Separate | — | 15–20 min | Elevated go-kart track (roller coaster style). Luka would love it. On Clifton Hill. |
+| White Water Walk | $19.00 | $12.50 | 30–45 min | Boardwalk along Class 6 rapids. Dramatic but less kid-interactive. |
+
+#### Niagara Parks Passes (Save Money)
+
+| Pass | Adult | What's Included |
+|------|-------|----------------|
+| **Classic** | $89 | Journey Behind the Falls + Butterfly Conservatory + White Water Walk + 2-day WEGO bus + free Park & Ride parking |
+| **Plus** | $109 | Classic + Power Station + Tunnel + Whirlpool Aero Car + Niagara Takes Flight |
+| **Premium** | $129 | Plus + NOTL shuttle + 3-day WEGO + 4 heritage sites |
+
+**Important:** The boat cruise (Niagara City Cruises) is NOT included in any pass — it's run by a separate company. Budget separately.
+
+**Parking:** Rapidsview Park & Ride (Lot C) is **free with any Niagara Parks pass** + 8-min WEGO shuttle to Falls. Otherwise, Falls Lot A is $30–40/day (most convenient, fills early).
+
+#### Niagara-on-the-Lake (NOTL) — Add-On Stop
+
+- 27 min / 22 km north of the Falls via scenic Niagara Parkway. Natural stop on the way back to Toronto.
+- Charming 19th-century town: Queen Street boutiques, COWS Ice Cream, Maple Leaf Fudge, Simcoe Park splash pad + playground.
+- Fort George National Historic Site (War of 1812) for history-loving kids.
+- Allow 1–2 hours. More of a stroll-and-snack stop than a sit-down destination with young kids.
+
+#### Cost Estimate (Family of 4)
+
+| Version | Estimated Cost (CAD) |
+|---------|---------------------|
+| **Budget** (Classic Pass + boat + lunch + gas + NOTL ice cream) | ~$580–600 |
+| **Full experience** (Premium Pass + boat + Clifton Hill Fun Pass + Bird Kingdom + lunch + NOTL) | ~$950–1,000 |
+
+### Other Day Trip Options
+
+| Destination | Drive | Best For | Highlights |
+|------------|-------|----------|------------|
+| **African Lion Safari** | ~1 hr | Animals, both kids | Drive-through safari (lions, giraffes, elephants roam free around your car). Boat cruise, railway, wet play area. ~$40–45/adult. Season May 2–Sep 20. Keep windows up in the monkey area — they will try to remove your mirrors. |
+| **Hamilton Waterfalls** | 45–65 min | Nature, easy hikes | "Waterfall Capital of the World" — 100+ falls. **Webster Falls** (150m from parking, stroller-friendly), **Tiffany Falls** (10-min trail), **Albion Falls** (200m walk). Free to view; $15/vehicle parking reservation. Can combine with African Lion Safari (30 min south). |
+| **Elora Gorge** | 1h 20min | Tubing, charming village | Limestone gorge + Grand River tubing ($21–54/person). 48" height minimum — Luka yes, Maja measure first. Opens ~Jun 21. Advance tickets required. Charming European-style village even without tubing. |
+| **Blue Mountain** | 2h 10min | Adventure park | Ridge Runner mountain coaster, ropes courses, ziplines, Plunge! aquatic centre, private beach. Excellent but at edge of day-trip range — 4+ hrs driving. |
+| **Wasaga Beach** | ~1h 50min | Beach/relax | World's longest freshwater beach (14 km). Warm, shallow water — great for kids. $21/day parking. Best on a hot weekday. |
+
+---
+
+## 9. Additional Activities
+
+### Escape Rooms (Family-Friendly)
+
+| Venue | Location | Ages | Price | Best Themes |
+|-------|----------|------|-------|------------|
+| **Daydream Adventures** ⭐ | 1803 Danforth Ave | 10+ solo, younger w/ adults | $36/person | The Dream Portal (forest fantasy), The Ice Cave (sci-fi). Not scary, no jump scares. Best pick for both kids. |
+| **Enigma Escape Room** | 130 Dundas St W (3rd floor) | All ages (tamer rooms) | Varies | Magic School, Fairy Tale — best for Maja. |
+| **Roundabout Canada** | 330 Yonge St (near Eaton Centre) | All ages (12 & under need adult) | Varies | Spies, ninjas, mummies. Most central location. |
+| **E-Exit Yorkville** | 70 Yorkville Ave | 6+ | Varies | Harry Potter-inspired, Star Wars-inspired. Pop-culture themes. |
+
+### Active Entertainment
+
+| Venue | Location | Ages | Price | What It Is |
+|-------|----------|------|-------|-----------|
+| **Sky Zone** (trampoline) | 45 Esandar Dr | All ages | ~$25–35/hr | Foam zone, dodgeball, freestyle jump, SkySlam. Grip socks required. |
+| **K1 Speed** (go-karts) | North York | Juniors 8–13 (48"+ min) | ~$21–25/race | Electric indoor karts. Luka qualifies; Maja too young (min 8). Sukru+Luka activity. |
+| **Activate Games** | 1980 Eglinton Ave E | 10+ recommended | ~$30/75 min | Physical + interactive gaming. Climbing walls, laser dodging, puzzle-solving. Luka would love it. |
+| **Par-Tee Putt** (mini-golf) | 26 Duncan St (Entertainment District) | All ages (19+ after 8pm) | $15–33 | 27 themed holes + pizza. Go during afternoon for family visit. |
+| **Putting Edge** (glow mini-golf) | Scarborough Town Centre | All ages | From $16 | 18-hole glow-in-the-dark course. Great for both kids. |
+
+### Board Games & Bowling
+
+| Venue | Location | Price | Notes |
+|-------|----------|-------|-------|
+| **Snakes & Lattes** ⭐ | 600 Bloor St W (Annex) | $20/adult, **kids 12 & under FREE** | 800+ games, staff "Game Gurus" help pick. Full menu. 3-hr table reservations. THE board game cafe in Toronto. |
+| **The Ballroom Bowl** | 145 John St (Entertainment District) + 2 other locations | Varies | Upscale bowling with chef-prepared food. Light balls + ramps + auto bumpers for kids. Sankofa Square has unique duckpin bowling. |
+| **Danforth Bowl** | Danforth Ave | Budget | Retro vibe. 5-pin bowling is uniquely Canadian — fun to try. Cosmic bowling Fri/Sat nights. |
+
+### Movies
+
+- **Scotiabank Theatre** (259 Richmond St W) — 14 screens including IMAX with Laser (first in Canada), D-Box motion seats. ~$16–24. Central downtown.
+- **Cinesphere at Ontario Place** — world's first permanent IMAX theatre, largest IMAX screen in Ontario. Near BMO Field area.
+- Cineplex **Tuesday discounts** and periodic **Family Movie Days** ($3.99 tickets).
+
+### Unique Experiences
+
+- **Pirate Life Theatre** (waterfront, seasonal May–Oct) — 1-hour pirate boat cruise + theatre on Lake Ontario. Costumes, face paint, treasure hunt, water cannons. Ages 3–11. ~$105/4 tickets.
+- **Toronto Railway Museum** (Roundhouse Park, near CN Tower) — vintage locomotives, miniature train ride around the park. $5/$3 admission, $3/$2 train ride. Quick, affordable.
+- **The SPORT Gallery** (15 Tank House Lane, Distillery District) — sports photography, vintage jerseys, Diego Maradona memorabilia, COPA brand gear. ARENA Coffee Bar inside. Luka would love the soccer history. Open daily.
+
+### Soccer Activities for Luka
+
+- **Pickup soccer:** Christie Pits Park (near subway) and Trinity Bellwoods Park (Queen West) — well-known summer pickup spots, free. Toronto SoccerPlex (Sat/Sun 2–4 PM, $10/person, indoor).
+- **Gear shopping:** Nike Canadian Flagship (21,000 sq ft, Eaton Centre), Adidas Store (Yonge St), The SPORT Gallery (Distillery). Official FIFA WC merchandise at Fan Festival and stadium on match days.
+- **Soccer For All Mini-Pitches:** 4 locations under construction (Apted Park, Amesbury Park, Grandravine Park, Scarborough Village Park). May or may not be ready by Jun 18–24.
+- **La Liga Sports Complex** (1107 Finch Ave W) — indoor futsal courts, bookable online.
+- **MLS is paused May 25–Jul 16 for World Cup** — no TFC matches during the trip.
+
+### World Cup Events Beyond the Fan Festival
+
+- **65 free community celebrations** across Toronto neighborhoods, funded by $1.7M City grants. Croatian community events likely in areas with significant Croatian population.
+- **3D Host City Logo installations** at Pearson Airport, Toronto Zoo, CN Tower.
+- **"Canada Celebrates" program** — free one-day FIFA community events in 7 Canadian cities (Toronto included, date TBD).
+- **City-wide atmosphere:** CN Tower and TORONTO sign illuminated in WC blue/green. 10–15% traffic increases projected.
+- **Germany vs. Côte d'Ivoire (Sat Jun 20, 4 PM)** and **Croatia vs. Panama (Tue Jun 23, 7 PM)** are both at Toronto Stadium during your trip. The Fan Festival broadcasts ALL matches from all 16 host cities.
+- **FIFA Trophy Tour** visits Toronto May 25–26 (before your trip).
+
+### Rainy Day Priority List
+1. Escape room (Daydream Adventures) — 75 min
+2. Snakes & Lattes board game cafe — 2–3 hrs
+3. Bowling at The Ballroom — 1–2 hrs
+4. Sky Zone trampoline park — 1–2 hrs
+5. Scotiabank Theatre IMAX movie — 2–3 hrs
+6. ROM or AGO (indoor museums already planned)
+
+---
+
+## 10. Car Rental — Avis Locations
+
+A rental car is needed for the Niagara Falls day trip and any other day trip outside Toronto. Not needed for in-city activities (TTC transit + walking covers everything downtown).
+
+### Best Location for Day Trips
+
+**Avis Brookfield Place (B01)** ⭐
+- **Address:** 161 Bay St, Unit 140 BCE (Concourse Level), Toronto, ON M5J 2S1
+- **Phone:** 416-777-2847
+- **Hours:** Mon–Fri 8 AM–6 PM, Sat 8 AM–4 PM, Sun 9 AM–5 PM. After-hours key drop box.
+- **Why:** Closest downtown location to the Gardiner Expressway on-ramp. Drive south on Bay St → merge onto Gardiner westbound → becomes QEW → straight shot to Niagara Falls (130 km, ~1.5 hrs). Minimal city driving.
+- Connected to PATH underground walkway. Easy to reach from most downtown hotels.
+
+### Other Downtown Option
+
+**Avis Hudson Bay Centre (S45)** — 80 Bloor St E (Yonge & Bloor). Same hours as Brookfield Place. Near Bloor-Yonge subway. 10–15 min drive south to Gardiner. Good if your hotel is in the Yorkville/midtown area.
+
+### Airport Locations
+
+| Airport | Address | Hours | Notes |
+|---------|---------|-------|-------|
+| **Pearson (YYZ)** | 5990 Airport Rd, Mississauga | 6 AM–1 AM daily | In-terminal counter. Best hours of any location. Good for Niagara via Hwy 427 S → QEW. |
+| **Billy Bishop (YTZ)** | 161A Bay St | Mon–Fri 9–4 PM, Sat 9–3, Sun 9:30–4 | No airport counter — call for shuttle (10–30 min). Limited hours. |
+
+### One-Way to Niagara Falls
+
+Avis has a location at **5127 Victoria Ave, Niagara Falls (NF2)**, phone 905-357-2847. One-way rentals bookable on avis.ca. Expect ~50% surcharge. **Closed Sundays** (key drop box available but rental stays open until Monday).
+
+### Practical Tips
+- Most non-airport locations close early on weekends (2 PM Sat, 2 PM Sun or closed Sunday). Plan pickup/return times accordingly.
+- For a single day trip, pick up morning and return evening same day at Brookfield Place.
+- For two day trips (e.g., Niagara + African Lion Safari), rent for 2 consecutive days.
+- All locations offer pick-up service — Avis will come get you if needed.
+
+---
+
 ## Key Links
 
 - Toronto FIFA World Cup 2026 official site: https://torontofwc26.ca/
@@ -376,6 +578,12 @@ Add Canada's Wonderland (full day) or Toronto Zoo (full day). These are both out
 - Toronto CityPASS: https://www.citypass.com/toronto
 - Border wait times: https://www.cbsa-asfc.gc.ca/bwt-taf/menu-eng.html
 - Porter Airlines (BOS→YTZ): https://www.flyporter.com/
+- Niagara Parks passes & deals: https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/deals-packages/
+- Niagara City Cruises: https://www.niagaraparks.com/visit/attractions/hornblower-niagara-cruises/
+- Clifton Hill Fun Pass: https://www.cliftonhill.com/fun-pass
+- Avis Toronto locations: https://www.avis.ca/en/locations/ca/on/toronto
+- African Lion Safari: https://lionsafari.com/
+- Snakes & Lattes: https://www.snakesandlattes.com/annex
 
 ---
 
@@ -402,3 +610,26 @@ Add Canada's Wonderland (full day) or Toronto Zoo (full day). These are both out
 - [Canada.ca: Minor children travelling](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/minor-children-travelling-canada.html)
 - [St. Lawrence Market](https://www.stlawrencemarket.com/)
 - [BMO Field directions](https://www.bmofield.com/plan-your-visit/direction-parking)
+- [Niagara City Cruises](https://www.niagaraparks.com/visit/attractions/hornblower-niagara-cruises/)
+- [Journey Behind the Falls](https://www.niagaraparks.com/visit/attractions/journey-behind-the-falls/)
+- [Niagara Parks Passes](https://www.niagaraparks.com/visit-niagara-parks/plan-your-visit/deals-packages/)
+- [Clifton Hill Fun Pass](https://www.cliftonhill.com/fun-pass)
+- [Bird Kingdom](https://birdkingdom.ca/)
+- [Butterfly Conservatory](https://www.niagaraparks.com/visit/attractions/butterfly-conservatory/)
+- [Niagara Falls Tourism — Family Itineraries](https://www.niagarafallstourism.com/blog/family-fun-itineraries-for-niagara-falls/)
+- [African Lion Safari](https://lionsafari.com/)
+- [Hamilton Waterfalls Guide](https://tourismhamilton.com/hamilton-waterfalls-guide/)
+- [Elora Gorge Tubing](https://www.grandriver.ca/outdoor-recreation/conservation-areas/elora-gorge/tubing-at-elora-gorge/)
+- [Blue Mountain Summer Activities](https://www.bluemountain.ca/things-to-do/activities/summer-activities-guide)
+- [Wasaga Beach Provincial Park](https://www.ontarioparks.ca/park/wasagabeach)
+- [Daydream Adventures Escape Room](https://daydreamtoronto.com/)
+- [Sky Zone Toronto](https://www.skyzone.com/ca-toronto/)
+- [K1 Speed Toronto](https://www.k1speed.ca/location/toronto)
+- [Snakes & Lattes](https://www.snakesandlattes.com/annex)
+- [The Ballroom Bowl](https://www.theballroombowl.ca/)
+- [Pirate Life Theatre](https://piratelife.ca/)
+- [The SPORT Gallery](https://thesportgallery.ca/pages/toronto-distillery-district)
+- [Avis Toronto Locations](https://www.avis.ca/en/locations/ca/on/toronto)
+- [Toronto FC 2026 Schedule](https://www.torontofc.ca/)
+- [FIFA Canada Celebrates Program](https://inside.fifa.com/media-releases/fifa-launches-canada-celebrates-a-countrywide-fifa-world-cup-2026-tm)
+- [Toronto Soccer For All Mini-Pitches](https://www.toronto.ca/city-government/planning-development/construction-new-facilities/park-facility-projects/soccer-for-all-mini-pitches/)
