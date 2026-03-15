@@ -21,7 +21,7 @@ weight: 5
 
 **Note:** Sukru + Maja do NOT attend the Philly game. This is Marina + Luka + extended family.
 
-**FIL pays for himself and BIL** — their flights and 1 hotel room are not part of the family budget. See [11 — Cost Analysis](../cost-analysis/#filbil-costs-paid-by-fil) for details.
+FIL and BIL's travel costs (flights + 1 hotel room) are separate from the family budget. See [11 — Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for details.
 
 ---
 
@@ -70,7 +70,7 @@ Newark (EWR) has **56+ weekly nonstop flights** from European hubs vs. PHL's 4�
 - Still works, but 3 flights, 16–20 hours, and depends on Discover Airlines' 4–5x/week FRA→PHL service
 - **Cost: $600–1,200**
 
-See [11 — Cost Analysis](../cost-analysis/#filbil-costs-paid-by-fil) for full comparison.
+See [11 — Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for full comparison.
 
 ### Arrival Plan
 
@@ -205,7 +205,7 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 **Need: 2 rooms, each with 2 queen beds** (1 for Marina + Luka, 1 for FIL + BIL).
 **Dates:** Jun 24–28 (4 nights).
 **Preference:** Marriott Bonvoy properties (for points/status).
-**Who pays:** Marina + Luka's room is family budget. FIL + BIL's room is paid by FIL.
+Marina + Luka's room is family budget. FIL + BIL's room is their own separate budget.
 
 ### Option 1: Center City / Rittenhouse Square (RECOMMENDED)
 

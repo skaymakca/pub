@@ -110,7 +110,7 @@ You'll know the exact matchup by June 27 at the latest.
 
 ---
 
-## Match 74 — Feeder Matches Timeline
+# Match 74 — Feeder Matches Timeline
 
 Every group stage match that determines who plays in Match 74 (1E vs 3A/B/C/D/F) at Gillette Stadium on June 29.
 

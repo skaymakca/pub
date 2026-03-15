@@ -4,7 +4,7 @@ weight: 6
 ---
 
 Side-by-side comparison of all three group stage trips. See individual research docs for full details:
-[Dallas Research]({{< ref "dallas-research" >}}) | [Toronto Research]({{< ref "toronto-research" >}}) | [Philadelphia Research]({{< ref "philadelphia-research" >}})
+[Dallas](../dallas-research/) | [Toronto](../toronto-research/) | [Philadelphia](../philadelphia-research/)
 
 ---
 
@@ -209,7 +209,7 @@ All three trips are worth doing — they each excel in different ways:
 
 ## Ticket Resale Potential
 
-Full analysis in `tickets-and-resale`. Summary:
+Full analysis in `ticket-resale-analysis.md`. Summary:
 
 | | Dallas (England) | Toronto (Panama) | Philadelphia (Ghana) |
 |---|--------|---------|--------------|

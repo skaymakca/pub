@@ -3,7 +3,7 @@ title: "Match Analysis — Group Stage Games"
 weight: 2
 ---
 
-Tactical previews, key players, head-to-head history, and what to watch for at all three group stage matches. Written with two audiences in mind: Sukru (the football nerd) and the kids (Luka, 11, and Maja, 7).
+Tactical previews, key players, head-to-head history, and what to watch for at all three group stage matches. Written with two audiences in mind: Luka (11, the football nerd) and Maja (7, along for the adventure).
 
 ---
 
