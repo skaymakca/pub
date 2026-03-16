@@ -1,3 +1,7 @@
+- slug: "flux2-klein-coreml-conversion"
+  title: "FLUX.2-klein-4B CoreML Conversion"
+  description: "Converting a 4B-parameter image generation model from PyTorch to on-device CoreML for iOS deployment"
+
 - slug: "passport-global-entry-renewal"
   title: "Passport & Global Entry Renewal"
   description: "Kids' passport renewal and family Global Entry reapplication guide for summer 2026 travel"
