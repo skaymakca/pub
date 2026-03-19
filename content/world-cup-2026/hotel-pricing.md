@@ -138,37 +138,33 @@ All Toronto rates in **CAD**. USD estimate at 1 CAD ≈ $0.72 USD.
 
 **Non-Bonvoy links:** [Hotel X Toronto](https://www.hotelxtoronto.com/) · [Sonder The Liberty](https://www.sonder.com/destinations/toronto/the-liberty/c31096) · [Hyatt Regency Toronto](https://www.hyatt.com/hyatt-regency/en-US/torrt-hyatt-regency-toronto) · [Chelsea Hotel Toronto](https://www.chelseatoronto.com/en/) · [InterContinental Toronto Centre](https://www.ihg.com/intercontinental/hotels/us/en/toronto/yyztc/hoteldetail)
 
-### Scenario B: Shorter Toronto Stay (Researched 2026-03-18)
+### Scenario B: Shorter Toronto Stay (Researched 2026-03-19)
 
-In the updated Scenario B, all 4 fly to Toronto on Jun 20 or 21 (instead of Jun 18). This reduces the stay from 6 nights to 3-4 nights.
+In the updated Scenario B, all 4 fly to Toronto on Jun 19 or 20 (instead of Jun 18). This reduces the stay from 6 nights to 4-5 nights.
 
-**Note:** Jun 20 is a World Cup match day (Germany vs Ivory Coast at BMO Field) — that night commands a premium at every property.
+#### Per-Night Rate (CAD) — 5 Nights vs 4 Nights vs 6 Nights
 
-#### Per-Night Rate (CAD) — 4 Nights vs 3 Nights vs 6 Nights
-
-| Property | Jun 18-24 (6N) | Jun 20-24 (4N) | Jun 21-24 (3N) |
+| Property | Jun 18-24 (6N) | Jun 19-24 (5N) | Jun 20-24 (4N) |
 |----------|---------------|---------------|---------------|
-| **Courtyard Downtown** | 619 | 621 | 574 |
-| **Westin Harbour Castle** | 591 | 590 (deal) | 557 (deal) |
-| **Sheraton Centre** | 645 | 639 (prepay) | 625 (prepay) |
-| **Delta Hotels** | 781 | 762 | 744 |
-| **Marriott Eaton Centre** | 694 | 699 | 637 (prepay) |
-| **Hyatt Regency** (non-Bonvoy) | 549 | 595 | 572 |
+| **Courtyard Downtown** | 619 | 618 | 621 |
+| **Westin Harbour Castle** | 591 | 602 | 590 |
+| **Sheraton Centre** | 645 | 647 | 639 |
+| **Delta Hotels** | 781 | 782 | 791 |
+| **Marriott Eaton Centre** | 694 | 694 | 699 |
 
 #### Total Stay Cost (USD at 0.72)
 
-| Property | Jun 18-24 (6N) | Jun 20-24 (4N) | Jun 21-24 (3N) | Savings vs 6N |
-|----------|---------------|---------------|---------------|---------------|
-| **Courtyard Downtown** | ~$2,674 | **$1,789** | **$1,240** | $885 / $1,434 |
-| **Westin Harbour Castle** | ~$2,553 | $1,701 (deal) | $1,203 (deal) | $852 / $1,350 |
-| **Sheraton Centre** | ~$2,786 | $1,841 (prepay) | $1,350 (prepay) | $945 / $1,436 |
-| **Delta Hotels** | ~$3,374 | **$2,195** | **$1,607** | $1,179 / $1,767 |
-| **Marriott Eaton Centre** | ~$2,998 | $2,014 | $1,376 (prepay) | $984 / $1,622 |
-| **Hyatt Regency** (non-Bonvoy) | ~$2,372 | **$1,714** | **$1,235** | $658 / $1,137 |
+| Property | Jun 18-24 (6N) | Jun 19-24 (5N) | Jun 20-24 (4N) | Extra Night (5N-4N) |
+|----------|---------------|---------------|---------------|---------------------|
+| **Courtyard Downtown** | ~$2,674 | **$2,225** | **$1,788** | **$437** |
+| **Westin Harbour Castle** | ~$2,553 | **$2,167** | **$1,699** | **$468** |
+| **Sheraton Centre** | ~$2,786 | **$2,329** | **$1,840** | **$489** |
+| **Marriott Eaton Centre** | ~$2,998 | **$2,498** | **$2,013** | **$485** |
+| **Delta Hotels** | ~$3,374 | **$2,815** | **$2,278** | **$537** |
 
-**Key finding:** The 3-night stay (Jun 21-24) saves **$1,137–1,767 USD** vs the 6-night stay, depending on property. Even the 4-night stay saves **$658–1,179**. The Jun 20 match-day night is the most expensive single night.
+**Key finding:** The 4-night stay (Jun 20-24) saves **$449–1,096 USD** vs the 6-night stay. The 5-night stay (Jun 19-24) saves **$449–559** vs 6 nights.
 
-**Jun 21 vs Jun 20:** Skipping the Jun 20 night saves an additional **$479–588 USD** per property — more than the flight savings of flying Jun 21 instead of Jun 20.
+**Jun 19 vs Jun 20:** The extra Jun 19 night costs **$437–537 USD** depending on property (~$483 average). Jun 19 per-night rates are close to the Jun 20-23 average — no dramatic premium.
 
 ### Recommendation — Toronto
 
@@ -184,7 +180,7 @@ In the updated Scenario B, all 4 fly to Toronto on Jun 20 or 21 (instead of Jun 
 
 ---
 
-## Philadelphia (Jun 24–28, 4 nights, 2 rooms)
+## Philadelphia (Jun 25–29, 4 nights, 2 rooms)
 
 Need: 1 room for Marina+Luka (family budget), 1 room for FIL+BIL (separate budget).
 Marina+Luka only need a full+ bed. FIL+BIL need 2 beds.

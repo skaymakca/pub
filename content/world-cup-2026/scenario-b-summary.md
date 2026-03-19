@@ -5,7 +5,7 @@ weight: 15
 
 What it looks like if Sukru + Maja skip Dallas. Marina + Luka do Dallas alone (Jun 15–18), fly home, then the whole family goes to Toronto together. **Not a final commitment — a planning tool.**
 
-> **Two sub-options:** Jun 21 departure (3 nights, cheaper) vs Jun 20 departure (4 nights, extra day). This doc covers both. See [14 — Scenario A Summary](../scenario-a-summary/) for the full-family alternative.
+> **Two sub-options:** Jun 20 departure (4 nights, budget) vs Jun 19 departure (5 nights, extra day). Flights are identical — the only difference is the extra hotel night. See [14 — Scenario A Summary](../scenario-a-summary/) for the full-family alternative.
 
 ---
 
@@ -20,22 +20,13 @@ What it looks like if Sukru + Maja skip Dallas. Marina + Luka do Dallas alone (J
 | Jun 17 (Wed) | 3 | **GAME DAY — England vs Croatia**, 3 PM CT |
 | Jun 18 (Thu) | 4 | DFW → BOS (AA nonstop, arrive ~noon — home by afternoon) |
 
-### Sukru + Maja: Home (Jun 15–20/21)
+### Sukru + Maja: Home (Jun 15–19/20)
 
 No travel. Regular routine at home. Option for a mini-adventure (day trips, beach, etc.).
 
 ### All 4: Toronto Track
 
-**Jun 21 departure (3 nights):**
-
-| Date | Day | What |
-|------|-----|------|
-| Jun 21 (Sun) | 1 | BOS → YYZ (Porter nonstop 10:05 AM, arrive noon) — settle in, explore neighborhood |
-| Jun 22 (Mon) | 2 | Toronto sightseeing (CN Tower, Ripley's Aquarium, St. Lawrence Market) |
-| Jun 23 (Tue) | 3 | **GAME DAY — Panama vs Croatia**, 7 PM ET (morning: Toronto Islands / Centreville) |
-| Jun 24 (Wed) | 4 | Toronto → BOS (Porter/AC nonstop, flexible timing) |
-
-**Jun 20 departure (4 nights):**
+**Jun 20 departure (4 nights) — Budget pick:**
 
 | Date | Day | What |
 |------|-----|------|
@@ -45,6 +36,19 @@ No travel. Regular routine at home. Option for a mini-adventure (day trips, beac
 | Jun 23 (Tue) | 4 | **GAME DAY — Panama vs Croatia**, 7 PM ET |
 | Jun 24 (Wed) | 5 | Toronto → BOS (Porter/AC nonstop) |
 
+**Jun 19 departure (5 nights) — Extra day:**
+
+| Date | Day | What |
+|------|-----|------|
+| Jun 19 (Fri) | 1 | BOS → YYZ (Porter nonstop 10:05 AM, arrive noon) — settle in, explore neighborhood |
+| Jun 20 (Sat) | 2 | Niagara Falls day trip OR Toronto sightseeing + Fan Festival (Germany vs Ivory Coast at BMO) |
+| Jun 21 (Sun) | 3 | Toronto sightseeing (CN Tower, Ripley's Aquarium, St. Lawrence Market) |
+| Jun 22 (Mon) | 4 | Toronto sightseeing (Toronto Islands, ROM, Kensington Market) |
+| Jun 23 (Tue) | 5 | **GAME DAY — Panama vs Croatia**, 7 PM ET |
+| Jun 24 (Wed) | 6 | Toronto → BOS (Porter/AC nonstop) |
+
+**Note:** Jun 19 arrival means M+L have only ~18h at home after Dallas (return Jun 18 afternoon, depart Jun 19 morning). Jun 20 gives a full recovery day.
+
 ### Marina + Luka: Philadelphia Track (Jun 25–28)
 
 | Date | Day | What |
@@ -53,7 +57,8 @@ No travel. Regular routine at home. Option for a mini-adventure (day trips, beac
 | Jun 25 (Thu) | 11 | BOS → PHL (JetBlue 6:10 PM nonstop) — arrive ~7:50 PM, check in |
 | Jun 26 (Fri) | 12 | Philly sightseeing with FIL + BIL (Independence Hall, Reading Terminal, Liberty Bell) |
 | Jun 27 (Sat) | 13 | **GAME DAY — Croatia vs Ghana**, 5 PM ET |
-| Jun 28 (Sun) | 14 | PHL → BOS (JetBlue 9:12 AM, home by 10:35 AM) |
+| Jun 28 (Sun) | 14 | Post-game day — relaxed sightseeing, Philadelphia Museum of Art / Rocky Steps |
+| Jun 29 (Mon) | 15 | PHL → BOS (JetBlue 9:12 AM, home by 10:35 AM) |
 
 ### FIL + BIL (Philadelphia only)
 
@@ -62,44 +67,43 @@ No travel. Regular routine at home. Option for a mini-adventure (day trips, beac
 | ~Jun 23–25 | BIL | Croatia → EWR, Amtrak to PHL |
 | Jun 25 | FIL | LAX → PHL (Frontier nonstop red-eye, arrives AM) |
 | Jun 25–27 | Both | Philadelphia with Marina + Luka |
-| Jun 28–29 | BIL | EWR → Croatia |
+| Jun 29–30 | BIL | EWR → Croatia |
 
 ---
 
 ## 2. Flights
 
-All prices are actual quotes from Google Flights as of March 14–18, 2026.
+All prices are actual quotes from Google Flights as of March 14–19, 2026.
 
-### Family Flights — Jun 21 Departure (Recommended)
+### Family Flights — Both Jun 19 and Jun 20 (Identical Cost)
+
+**Flights are the same price for both departure dates** — Porter nonstop at $137/pp.
 
 | Leg | Route | Date | Pax | Best Option | Depart → Arrive | Cash/pp | Cash Total |
 |-----|-------|------|-----|-------------|-----------------|---------|------------|
 | 1 | BOS → DFW | Jun 15 | 2 (M+L) | AA nonstop (after 5pm) | 5:57 PM → 9:20 PM | $317 | **$634** |
 | 2B | DFW → BOS | Jun 18 | 2 (M+L) | AA nonstop | 8:00 AM → 12:49 PM | $327 | **$654** |
-| 3B | BOS → YYZ | Jun 21 | 4 (all) | Porter nonstop | 10:05 AM → 12:00 PM | $118 | **$472** |
+| 3B | BOS → YYZ | Jun 19 or 20 | 4 (all) | Porter nonstop | 10:05 AM (Jun 19) or 6:35 PM (Jun 20) | $137 | **$546** |
 | 4 | YTZ → BOS | Jun 24 | 2 (S+M) | Porter nonstop | flexible | $172 | **$344** |
 | 4b | YYZ → BOS | Jun 24 | 2 (M+L) | Air Canada nonstop | flexible | $181 | **$362** |
 | 6 | BOS → PHL | Jun 25 | 2 (M+L) | JetBlue nonstop | 6:10 PM → 7:49 PM | $119 | **$238** |
-| 7 | PHL → BOS | Jun 28 | 2 (M+L) | JetBlue nonstop | 9:12 AM → 10:35 AM | $84 | **$168** |
-| | | | | | **Flight Total** | | **$2,872** |
+| 7 | PHL → BOS | Jun 29 | 2 (M+L) | JetBlue nonstop | 9:12 AM → 10:35 AM | $94 | **$187** |
+| | | | | | **Flight Total** | | **$2,965** |
 
-**Budget alternative:** AA connecting BOS→DFW at $255/pp ($510) brings total to **$2,748**.
+**Budget alternative:** AA connecting BOS→DFW at $255/pp ($510) brings total to **$2,841**.
 
-### Family Flights — Jun 20 Departure (Alternative)
+### Jun 19 vs Jun 20: What the Extra Day Costs
 
-Same as above except Leg 3B: BOS → YYZ Jun 20 at $150/pp × 4 = $600 (Porter nonstop 6:35 PM).
-**Flight Total: $3,000** (+$128 vs Jun 21)
-
-### Why Jun 21 is Recommended
-
-| | Jun 21 (Sun) | Jun 20 (Sat) | Savings |
+| | Jun 20 (Sat, 4N) | Jun 19 (Fri, 5N) | Difference |
 |---|---|---|---|
-| Flight cost (4 pax) | $472 | $600 | **$128** |
-| Hotel extra night | — | $549 (match-day premium) | **$549** |
-| Extra meals | — | ~$80 | ~$80 |
-| **Total difference** | | | **~$800** |
+| Flight cost (4 pax) | $546 | $546 | **$0** |
+| Hotel extra night | — | ~$437 (Courtyard) | **$437** |
+| Extra meals | — | ~$100 | ~$100 |
+| **Total difference** | | | **~$550** |
 
-Jun 21 saves ~$800 while only losing 1 Toronto day. Unless a Niagara Falls day trip or other full-day activity is planned, 2 full days covers the Toronto highlights (CN Tower, Aquarium, Islands, St. Lawrence Market, BMO game day).
+The extra day costs ~$550 (entirely hotel + meals, no flight premium). Jun 19 arrival gives 4 full sightseeing days — enough for a Niagara Falls day trip + city highlights. Jun 20 arrival gives 3 full days.
+
+**Recovery day tradeoff:** Jun 19 means M+L return from Dallas Jun 18 afternoon and leave again Jun 19 morning (~18h at home). Jun 20 gives them a full day to rest and repack.
 
 ### FIL/BIL Flights (Separate Budget)
 
@@ -114,7 +118,7 @@ Jun 21 saves ~$800 while only losing 1 Toronto day. Unless a Niagara Falls day t
 
 ## 3. Hotels
 
-All rates from marriott.com as of March 14–18, 2026 (Gold Elite member).
+All rates from marriott.com as of March 14–19, 2026 (Gold Elite member).
 
 ### Dallas/Arlington — 3 nights (Jun 15–18), 1 room, 2 queens (M+L only)
 
@@ -124,82 +128,81 @@ All rates from marriott.com as of March 14–18, 2026 (Gold Elite member).
 | **CY Ent. District** (walkable) | $765 | **$2,296** | 1.9 mi walk to AT&T, in/out pool |
 | *Drury Plaza* (non-Bonvoy) | ~$250–466 | ~$750–1,400 | 9.6/10 rated, free breakfast + evening food |
 
-### Toronto — Jun 21–24 (3 nights) or Jun 20–24 (4 nights), 1 room, 2 queens
+### Toronto — Jun 20–24 (4 nights) or Jun 19–24 (5 nights), 1 room, 2 queens
 
-| Hotel | 3-Night USD | 4-Night USD | Notes |
-|-------|-------------|-------------|-------|
-| **Courtyard Downtown** (budget Bonvoy) | **$1,240** | $1,789 | Indoor pool, central, 574/621 CAD/night |
-| **Westin Harbour Castle** | $1,203 (deal) | $1,701 (deal) | Grand Getaways prepay rate |
-| **Sheraton Centre** | $1,350 (prepay) | $1,841 (prepay) | Non-refundable |
-| **Marriott Eaton Centre** | $1,376 (prepay) | $2,014 | Rooftop pool, most central |
-| **Delta Hotels** (upgrade) | **$1,607** | $2,195 | 4.6 rating, lake views, 744/762 CAD/night |
-| *Hyatt Regency* (non-Bonvoy) | **$1,235** | $1,714 | Rooftop pool, kids eat breakfast free |
+| Hotel | 4-Night USD | 5-Night USD | Extra Night | Notes |
+|-------|-------------|-------------|-------------|-------|
+| **Courtyard Downtown** (budget Bonvoy) | **$1,788** | **$2,225** | $437 | Indoor pool, central, 621/618 CAD/night |
+| **Westin Harbour Castle** | **$1,699** | **$2,167** | $468 | Waterfront, 590/602 CAD/night |
+| **Sheraton Centre** | **$1,840** | **$2,329** | $489 | 0.3 mi from center, 639/647 CAD/night |
+| **Marriott Eaton Centre** | **$2,013** | **$2,498** | $485 | Rooftop pool, most central |
+| **Delta Hotels** (upgrade) | **$2,278** | **$2,815** | $537 | 4.6 rating, lake views |
 
 **Points are poor value in Toronto** (0.06–0.13 cpp vs 0.7 cpp benchmark). Pay cash.
 
-**vs 6-night stay (Scenario A):** Courtyard 3 nights saves **$1,434** vs 6 nights ($1,240 vs $2,674).
+**vs 6-night stay (Scenario A):** Courtyard 4 nights saves **$886** vs 6 nights ($1,788 vs $2,674). Courtyard 5 nights saves **$449**.
 
-### Philadelphia — 3 nights (Jun 25–28), 2 rooms, 2 queens each
+### Philadelphia — 4 nights (Jun 25–29), 2 rooms, 2 queens each
 
 **Room 1: Marina + Luka (family budget)**
 
-| Hotel | Per Night | 3-Night Total |
+| Hotel | Per Night | 4-Night Total |
 |-------|-----------|---------------|
-| **Marriott Downtown** | $453 | **$1,359** |
+| **Marriott Downtown** | $369 | **$1,476** |
 
 **Room 2: FIL + BIL (separate budget)**
 
-| Hotel | Per Night | 3-Night Total |
+| Hotel | Per Night | 4-Night Total |
 |-------|-----------|---------------|
-| **Marriott Downtown** (same) | $453 | **$1,359** |
+| **Marriott Downtown** (same) | $369 | **$1,476** |
 
 ### Hotel Summary
 
 | City | Budget Pick | Budget Total | Upgrade Pick | Upgrade Total |
 |------|------------|-------------|-------------|---------------|
 | Dallas (3N, M+L) | CY Arlington South | $1,377 | CY Ent. District | $2,296 |
-| Toronto — Jun 21 (3N) | Courtyard Downtown | $1,240 | Delta Hotels | $1,607 |
-| Toronto — Jun 20 (4N) | Courtyard Downtown | $1,789 | Delta Hotels | $2,195 |
+| Toronto — Jun 20 (4N) | Courtyard Downtown | $1,788 | Delta Hotels | $2,278 |
+| Toronto — Jun 19 (5N) | Courtyard Downtown | $2,225 | Delta Hotels | $2,815 |
 | Philly — Family (3N) | Marriott Downtown | $1,359 | Marriott Downtown | $1,359 |
-| **Family Total (Jun 21)** | | **$3,976** | | **$5,262** |
-| **Family Total (Jun 20)** | | **$4,525** | | **$5,850** |
+| **Family Total (Jun 20)** | | **$4,524** | | **$5,933** |
+| **Family Total (Jun 19)** | | **$4,961** | | **$6,470** |
 | Philly — FIL/BIL (3N) | Marriott Downtown | $1,359 | Marriott Downtown | $1,359 |
 
 ---
 
 ## 4. Cost Summary
 
-### Family Budget — Scenario B (Jun 21, 3 Nights Toronto)
-
-| Category | Budget | Nonstop |
-|----------|--------|---------|
-| Flights | $2,748 | $2,872 |
-| Hotels | $3,976 | $3,976 |
-| Dallas car rental | $300–500 | $300–500 |
-| Dallas meals + activities (2 ppl) | $300–500 | $300–500 |
-| Toronto meals + activities (4 ppl, 3 days) | $643–823 | $643–823 |
-| Philly meals + activities | $500–800 | $500–800 |
-| Misc (transit, tips, souvenirs) | $250–380 | $250–380 |
-| **Gross cost** | **$8,717–9,727** | **$8,841–9,851** |
-| Ticket revenue (2 Dallas tickets) | -$3,100 to -$4,000 | -$3,100 to -$4,000 |
-| **NET TOTAL** | **$4,717–6,627** | **$4,841–6,751** |
-| **Midpoint** | **~$5,700** | **~$5,800** |
-
 ### Family Budget — Scenario B (Jun 20, 4 Nights Toronto)
 
 | Category | Budget | Nonstop |
 |----------|--------|---------|
-| Flights | $2,876 | $3,000 |
-| Hotels | $4,525 | $4,525 |
+| Flights | $2,822 | $2,946 |
+| Hotels | $4,524 | $4,524 |
 | Dallas car rental | $300–500 | $300–500 |
 | Dallas meals + activities (2 ppl) | $300–500 | $300–500 |
-| Toronto meals + activities (4 ppl, 4 days) | $723–953 | $723–953 |
+| Toronto meals + activities (4 ppl, 4 days) | $763–983 | $763–983 |
 | Philly meals + activities | $500–800 | $500–800 |
-| Misc (transit, tips, souvenirs) | $250–380 | $250–380 |
-| **Gross cost** | **$9,474–10,658** | **$9,598–10,658** |
+| Misc (transit, tips, souvenirs) | $280–380 | $280–380 |
+| **Gross cost** | **$9,489–10,511** | **$9,613–10,633** |
 | Ticket revenue (2 Dallas tickets) | -$3,100 to -$4,000 | -$3,100 to -$4,000 |
-| **NET TOTAL** | **$5,474–7,558** | **$5,598–7,558** |
-| **Midpoint** | **~$6,500** | **~$6,600** |
+| **NET TOTAL** | **$5,489–7,411** | **$5,613–7,533** |
+| **Midpoint** | **~$6,400** | **~$6,500** |
+
+### Family Budget — Scenario B (Jun 19, 5 Nights Toronto)
+
+| Category | Budget | Nonstop |
+|----------|--------|---------|
+| Flights | $2,822 | $2,946 |
+| Hotels | $4,961 | $4,961 |
+| Dallas car rental | $300–500 | $300–500 |
+| Dallas meals + activities (2 ppl) | $300–500 | $300–500 |
+| Toronto meals + activities (4 ppl, 5 days) | $863–1,063 | $863–1,063 |
+| Philly meals + activities | $500–800 | $500–800 |
+| Misc (transit, tips, souvenirs) | $280–380 | $280–380 |
+| **Gross cost** | **$10,026–11,128** | **$10,150–11,150** |
+| Ticket revenue (2 Dallas tickets) | -$3,100 to -$4,000 | -$3,100 to -$4,000 |
+| **NET TOTAL** | **$6,026–8,028** | **$6,150–8,050** |
+| **Midpoint** | **~$7,000** | **~$7,100** |
 
 ### FIL/BIL Budget (Separate)
 
@@ -208,46 +211,47 @@ All rates from marriott.com as of March 14–18, 2026 (Gold Elite member).
 | FIL flight (LAX→PHL) | $230 | $530 |
 | BIL inbound (Croatia→EWR + Amtrak) | $502–571 | $644 |
 | BIL return (EWR→Croatia) | $491–635 | $1,134 |
-| Hotel (1 room, 3 nights) | $1,359 | $1,359 |
+| Hotel (1 room, 4 nights) | $1,476 | $1,476 |
 | **Total** | **$2,582–2,795** | **$3,667** |
 
 ---
 
 ## 5. vs Scenario A
 
-| | Scenario A (Full Family) | Scenario B (Jun 21) | Scenario B (Jun 20) |
+| | Scenario A (Full Family) | Scenario B (Jun 20) | Scenario B (Jun 19) |
 |---|---|---|---|
-| **Flights** | $4,048 | $2,872 | $3,000 |
-| **Hotels** | $5,410 | $3,976 | $4,525 |
-| **Other costs** | ~$3,200 | ~$2,500 | ~$2,600 |
-| **Gross cost** | ~$12,658 | ~$9,348 | ~$10,125 |
+| **Flights** | $4,048 | $2,946 | $2,946 |
+| **Hotels** | $5,410 | $4,524 | $4,961 |
+| **Other costs** | ~$3,200 | ~$2,650 | ~$2,770 |
+| **Gross cost** | ~$12,658 | ~$10,120 | ~$10,677 |
 | **Ticket revenue** | $0 | +$3,550 | +$3,550 |
-| **Net cost** | **~$12,050** | **~$5,800** | **~$6,600** |
-| **S+M nights away** | 9 | 3 | 4 |
-| **Full Toronto days** | 5 | 2 | 3 |
+| **Net cost** | **~$12,050** | **~$6,500** | **~$7,100** |
+| **S+M nights away** | 9 | 4 | 5 |
+| **Full Toronto days** | 5 | 3 | 4 |
+| **Niagara Falls feasible?** | Yes | Tight | Yes |
 | **WC matches (S+M)** | 2 | 1 | 1 |
 
-### What You Save (Scenario B Jun 21 vs Scenario A)
+### What You Save (Scenario B Jun 20 vs Scenario A)
 
 | Source | Savings |
 |--------|---------|
-| Flights (fewer legs, smaller parties) | ~$1,176 |
-| Hotels (3 Toronto nights vs 6) | ~$1,434 |
-| Meals/activities (fewer days) | ~$700 |
+| Flights (fewer legs, smaller parties) | ~$1,102 |
+| Hotels (4 Toronto nights vs 6) | ~$886 |
+| Meals/activities (fewer days) | ~$550 |
 | Ticket revenue | ~$3,550 |
-| **Total savings** | **~$6,250** |
+| **Total savings** | **~$5,550** |
 
 ### What You Give Up
 
 - England vs Croatia at AT&T Stadium (80,000 fans, the marquee match)
-- 3 extra Toronto days (Niagara Falls, Canada's Wonderland, relaxed pacing)
+- 1–2 extra Toronto days vs Scenario A (Jun 20: 3 full days; Jun 19: 4 full days — close to Scenario A's 5)
 - The family together for the full 2-week adventure
 - Modric's (likely) last World Cup match — in person
 
 ### What You Gain
 
-- Only 3 nights away for S+M (vs 9) — much easier with a 7-year-old
-- ~$6,250 in net savings
+- Only 4–5 nights away for S+M (vs 9) — much easier with a 7-year-old
+- ~$5,000–5,550 in net savings
 - Marina + Luka quality time in Dallas (mother-son trip)
 - Sukru + Maja can do their own mini-adventure at home
 - Less heat exposure (skip 95°F Dallas entirely)
@@ -260,8 +264,8 @@ All rates from marriott.com as of March 14–18, 2026 (Gold Elite member).
 
 1. **Book M+L BOS→DFW Jun 15** — AA nonstop 5:57 PM, $317/pp. Prices HIGH and rising.
 2. **Book M+L DFW→BOS Jun 18** — AA nonstop, $327/pp. 12 departure options all day.
-3. **Book all 4 BOS→YYZ Jun 21** — Porter nonstop 10:05 AM, $118/pp. Prices "typical" — book now before they rise.
-4. **Book Toronto hotel Jun 21–24** — Courtyard Downtown at 574 CAD/night ($1,240 total) is the budget Bonvoy pick. Hyatt Regency at 572 CAD ($1,235) is $5 cheaper but non-Bonvoy.
+3. **Book all 4 BOS→YYZ Jun 19 or 20** — Porter nonstop $137/pp. Jun 19: 10:05 AM arrival noon. Jun 20: 6:35 PM arrival 8:30 PM. Prices "typical" — book now before they rise.
+4. **Book Toronto hotel Jun 19–24 or Jun 20–24** — Courtyard Downtown at 618-621 CAD/night ($1,788–2,225 total) is the budget Bonvoy pick.
 5. **Book all 4 Toronto→BOS Jun 24** — Porter/AC nonstop, ~$172–181/pp. Rising fast (up 52% in one day in prior research).
 6. **Book M+L BOS→PHL Jun 25** — JetBlue 6:10 PM, $119/pp. Stable pricing.
 7. **Book M+L PHL→BOS Jun 28** — JetBlue 9:12 AM, $84/pp. Excellent value.
@@ -278,8 +282,8 @@ All rates from marriott.com as of March 14–18, 2026 (Gold Elite member).
 
 ## 7. Open Decisions
 
-- [ ] **Jun 20 vs Jun 21 departure** — Jun 21 saves ~$800 but gives only 2 full Toronto days
+- [ ] **Jun 19 vs Jun 20 departure** — flights identical ($137/pp); Jun 19 adds ~$550 (hotel + meals) for 1 extra Toronto day + Niagara feasibility, but M+L have no recovery day after Dallas
 - [ ] **Philly arrival: Jun 24 vs Jun 25** — Jun 25 recommended (saves ~$600, see [11-cost-analysis](../cost-analysis/))
 - [ ] **Dallas hotel: CY South ($459) vs CY Ent District ($765) vs Drury Plaza (~$250–466)**
-- [ ] **Toronto hotel: Courtyard DT vs Hyatt Regency vs Westin**
+- [ ] **Toronto hotel: Courtyard DT vs Westin vs Delta**
 - [ ] **Use United miles on BOS→DFW?** (26.4k miles saves $311)

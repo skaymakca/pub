@@ -12,12 +12,12 @@ weight: 5
 
 | Person | Arriving From | Arrival Date | Departure |
 |--------|--------------|-------------|-----------|
-| **Marina** | Toronto → BOS → PHL | **Thu Jun 25 (Option C)** | Sun, Jun 28 → BOS |
-| **Luka** | Toronto → BOS → PHL | **Thu Jun 25 (Option C)** | Sun, Jun 28 → BOS |
-| **FIL** (Marina's father) | Los Angeles (LAX → PHL) | **Thu Jun 25** | Sun, Jun 28 → LAX |
-| **BIL** (Marina's brother) | Zadar, Croatia (ZAD → EWR or PHL) | **~Jun 23–25** | Sun, Jun 28 → ZAD |
+| **Marina** | Toronto → BOS → PHL | **Thu Jun 25** | Mon, Jun 29 → BOS |
+| **Luka** | Toronto → BOS → PHL | **Thu Jun 25** | Mon, Jun 29 → BOS |
+| **FIL** (Marina's father) | Los Angeles (LAX → PHL) | **Thu Jun 25** | Mon, Jun 29 → LAX |
+| **BIL** (Marina's brother) | Zadar, Croatia (ZAD → EWR → PHL) | **~Jun 23–25** | Mon, Jun 29 → EWR → ZAD |
 
-**Default plan: Arrive Jun 25 (Option C)** — 3 nights, 2 sightseeing days, ~$600 cheaper across all budgets. Jun 24 arrival is available at +~$600 (Option A). See [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25) for the full comparison.
+**Plan: Arrive Jun 25, depart Jun 29** — 4 nights, 3 sightseeing days. Extended from original 3 nights to give BIL (traveling from Croatia) a more worthwhile trip.
 
 **Note:** Sukru + Maja do NOT attend the Philly game. This is Marina + Luka + extended family.
 
@@ -340,11 +340,16 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 - **5:00 PM: CROATIA vs. GHANA** — Lincoln Financial Field
 - ~7:30 PM: Game ends. Post-game dinner in South Philly or Center City.
 
-**Sunday June 28 — Depart**
-- Morning: any last stops (Franklin Fountain ice cream in Old City, a final walk)
-- Marina + Luka: PHL → BOS (fly home)
-- FIL: PHL → LAX (fly home)
-- BIL: PHL → ZAD (fly home via connection)
+**Sunday June 28 — Post-Game Day**
+- Sleep in. Relaxed morning.
+- Explore anything missed: Philadelphia Museum of Art / Rocky Steps, Schuylkill River Trail, or Rittenhouse Square
+- Or: catch another WC match at a sports bar / Fan Festival
+- Farewell dinner together
+
+**Monday June 29 — Depart**
+- Marina + Luka: PHL → BOS (JetBlue 9:12 AM nonstop, arrive 10:35 AM)
+- FIL: PHL → LAX (Southwest 1-stop, $256)
+- BIL: Amtrak PHL → EWR, then EWR → ZAG (Lufthansa/Air France, $535-561)
 
 ---
 

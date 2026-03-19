@@ -36,7 +36,8 @@ What it looks like if Sukru + Maja join Marina + Luka for the full trip. This do
 | Jun 25 (Thu) | 11 | BOS → PHL (JetBlue 6:10 PM nonstop) — arrive ~7:50 PM, check in |
 | Jun 26 (Fri) | 12 | Philly sightseeing with FIL + BIL |
 | Jun 27 (Sat) | 13 | **GAME DAY — Croatia vs Ghana**, 5 PM ET |
-| Jun 28 (Sun) | 14 | PHL → BOS (Marina + Luka go home) |
+| Jun 28 (Sun) | 14 | Post-game day — relaxed sightseeing, Philadelphia Museum of Art |
+| Jun 29 (Mon) | 15 | PHL → BOS (Marina + Luka go home) |
 
 > *Alternative:* M+L fly YYZ→PHL directly on Jun 24 ($268/pp) instead of going home first. Adds 1 extra sightseeing day but costs ~$600 more (higher flights + 4th hotel night for 2 rooms).
 
@@ -47,7 +48,7 @@ What it looks like if Sukru + Maja join Marina + Luka for the full trip. This do
 | ~Jun 23–25 | BIL | Croatia → EWR, Amtrak to PHL |
 | Jun 25 | FIL | LAX → PHL (Frontier nonstop red-eye, arrives AM) |
 | Jun 25–27 | Both | Philadelphia with Marina + Luka |
-| Jun 28–29 | BIL | EWR → Croatia |
+| Jun 29–30 | BIL | EWR → Croatia |
 
 ---
 
@@ -64,7 +65,7 @@ All prices are actual quotes from Google Flights and United.com as of March 14�
 | 4 | YTZ → BOS | Jun 24 | 2 (S+M) | Porter nonstop | flexible | $172 | **$344** | N/A | N/A |
 | 4b | YYZ → BOS | Jun 24 | 2 (M+L) | Air Canada nonstop | flexible | $181 | **$362** | N/A | N/A |
 | 6 | BOS → PHL | Jun 25 | 2 (M+L) | JetBlue nonstop | 6:10 PM → 7:49 PM | $119 | **$238** | 15k + $5.60 | 30k + $11.20 |
-| 7 | PHL → BOS | Jun 28 | 2 (M+L) | JetBlue nonstop | 9:12 AM → 10:35 AM | $84 | **$168** | 15k + $5.60 | 30k + $11.20 |
+| 7 | PHL → BOS | Jun 29 | 2 (M+L) | JetBlue nonstop | 9:12 AM → 10:35 AM | $94 | **$187** | 15k + $5.60 | 30k + $11.20 |
 | | | | | | **Flight Total** | | **$4,048** | | |
 
 **Budget alternative:** AA connecting fares on Legs 1–2 ($255 + $327/pp) bring the total to **$3,440**.
@@ -79,7 +80,7 @@ All prices are actual quotes from Google Flights and United.com as of March 14�
 |-----|-------|------|-----|-------------|------|-------|
 | 8 | LAX → PHL | Jun 25 | 1 | Frontier nonstop (red-eye) | **$230** | 15k + $5.60 |
 | 9 | Croatia → EWR | ~Jun 23–25 | 1 | BA SPU→LHR→EWR or Turkish ZAG→IST→EWR | **$587–633** | 44k + ~$60 |
-| 10 | EWR → Croatia | ~Jun 28–29 | 1 | Lufthansa EWR→ZAG via FRA/MUC | **$491–635** | ~44k + fees |
+| 10 | EWR → Croatia | ~Jun 29–30 | 1 | AF/LH EWR→ZAG via CDG/FRA/MUC | **$535–561** | ~44k + fees |
 | | | | | **FIL/BIL Flight Total** | **$1,308–1,498** | |
 
 ---
@@ -106,19 +107,19 @@ All rates from marriott.com as of March 14–15, 2026 (Gold Elite member). Non-B
 
 **Points are poor value in Toronto** (0.06–0.13 cpp vs 0.7 cpp benchmark). Pay cash.
 
-### Philadelphia — 3 nights (Jun 25–28), 2 rooms, 2 queens each
+### Philadelphia — 4 nights (Jun 25–29), 2 rooms, 2 queens each
 
 **Room 1: Marina + Luka (family budget)**
 
 | Hotel | Per Night | 3-Night Total | Notes |
 |-------|-----------|---------------|-------|
-| **Marriott Downtown** | $453 | **$1,359** | 1,408 rooms, near Reading Terminal |
+| **Marriott Downtown** | $369 | **$1,476** | 1,408 rooms, near Reading Terminal |
 
 **Room 2: FIL + BIL (separate budget)**
 
 | Hotel | Per Night | 3-Night Total | Notes |
 |-------|-----------|---------------|-------|
-| **Marriott Downtown** (same hotel) | $453 | **$1,359** | 2 queens, same property |
+| **Marriott Downtown** (same hotel) | $369 | **$1,476** | 2 queens, same property |
 
 > **Alternative:** Arriving Jun 24 via YYZ→PHL adds a 4th night at $395/night = $1,580/room. The Jun 24 night is cheaper per night, but adding it nets ~$600 more across both rooms + flights.
 
@@ -128,9 +129,9 @@ All rates from marriott.com as of March 14–15, 2026 (Gold Elite member). Non-B
 |------|------------|-------------|-------------|---------------|
 | Dallas (3 nights) | CY Arlington South | $1,377 | CY Ent. District | $2,296 |
 | Toronto (6 nights) | Courtyard Downtown | ~$2,674 | Delta Hotels | ~$3,374 |
-| Philly — Family (3 nights) | Marriott Downtown | $1,359 | Marriott Downtown | $1,359 |
+| Philly — Family (4 nights) | Marriott Downtown | $1,476 | Marriott Downtown | $1,476 |
 | **Family Hotel Total** | | **~$5,410** | | **~$7,029** |
-| Philly — FIL/BIL (3 nights) | Marriott Downtown | $1,359 | Marriott Downtown | $1,359 |
+| Philly — FIL/BIL (4 nights) | Marriott Downtown | $1,476 | Marriott Downtown | $1,476 |
 
 ---
 
@@ -159,38 +160,38 @@ All rates from marriott.com as of March 14–15, 2026 (Gold Elite member). Non-B
 | FIL flight (LAX→PHL) | $230 | $530 |
 | BIL inbound (Croatia→EWR + Amtrak) | $502–571 | $644 |
 | BIL return (EWR→Croatia) | $491–635 | $1,134 |
-| Hotel (1 room, 3 nights) | $1,359 | $1,359 |
+| Hotel (1 room, 4 nights) | $1,476 | $1,476 |
 | **Total** | **$2,582–2,795** | **$3,667** |
 
 ---
 
 ## 5. vs Scenario B (Updated)
 
-What changes if Sukru + Maja skip Dallas and everyone flies to Toronto together on Jun 21:
+What changes if Sukru + Maja skip Dallas and everyone flies to Toronto together on Jun 19 or 20:
 
-| | Scenario A | Scenario B (Jun 21) | Scenario B (Jun 20) | A vs B Difference |
+| | Scenario A | Scenario B (Jun 20, 4N) | Scenario B (Jun 19, 5N) | A vs B Difference |
 |---|---|---|---|---|
-| **Flights** | $4,048 | $2,872 | $3,000 | Save $1,048–1,176 |
-| **Hotels** | $5,410 | $3,976 | $4,525 | **Save $885–1,434** |
-| **Meals/activities** | ~$3,200 | ~$2,500 | ~$2,600 | Save ~$600–700 |
+| **Flights** | $4,048 | $2,946 | $2,946 | Save $1,102 |
+| **Hotels** | $5,410 | $4,524 | $4,961 | **Save $449–886** |
+| **Meals/activities** | ~$3,200 | ~$2,650 | ~$2,770 | Save ~$430–550 |
 | **Ticket revenue** | $0 | +$3,100–4,000 | +$3,100–4,000 | **+$3,100–4,000** |
-| **Net difference** | | | | **Scenario B saves ~$5,600–7,300** |
+| **Net difference** | | | | **Scenario B saves ~$4,950–5,550** |
 
-**Key change from original Scenario B:** M+L now fly DFW→BOS (home) instead of DFW→YYZ, then all 4 fly BOS→Toronto together. This shortens the Toronto stay from 6 nights to 3, saving ~$1,434 on hotels.
+**Key change from original Scenario B:** M+L now fly DFW→BOS (home) instead of DFW→YYZ, then all 4 fly BOS→Toronto together. This shortens the Toronto stay from 6 nights to 4–5, saving ~$449–886 on hotels.
 
 ### What Scenario A Costs
 
-The Dallas experience for Sukru + Maja costs **~$6,250** total:
-- ~$1,200 in extra flight costs
-- ~$1,400 in extra hotel costs (6 Toronto nights vs 3)
-- ~$600 in extra meals/activities
+The Dallas experience for Sukru + Maja costs **~$5,000–5,550** total:
+- ~$1,100 in extra flight costs
+- ~$450–900 in extra hotel costs (6 Toronto nights vs 4–5)
+- ~$430–550 in extra meals/activities
 - ~$3,500 in forfeited ticket revenue (2 Dallas tickets not sold)
 
 ### What Scenario A Gets You
 
 - England vs Croatia at AT&T Stadium (80,000 fans, marquee Group B match)
 - 3 days in Dallas/Arlington (Perot Museum soccer exhibit, BBQ, possibly Hurricane Harbor)
-- 3 extra days in Toronto (Niagara Falls, Canada's Wonderland, relaxed pacing)
+- 1–2 extra days in Toronto vs Scenario B (Jun 20: 3 full days; Jun 19: 4 full days, close to Scenario A's 5)
 - The whole family together for the entire adventure
 - No need for a notarized consent letter for Marina + Luka crossing into Canada
 

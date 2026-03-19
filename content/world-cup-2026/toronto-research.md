@@ -350,6 +350,11 @@ Bike Share Toronto requires age 14+ — not viable for kids. Instead, rent famil
 - **Flexibility:** Days 3–4 (Sat–Sun) are interchangeable. St. Lawrence Market is better on Saturday; Bata Shoe Museum is free on Sunday.
 - **Germany vs. Côte d'Ivoire (Sat Jun 20, 4 PM):** If you skip Niagara Falls or do a half-day, you could watch this match at the Fan Festival — a great warm-up for the Croatia game.
 
+### Scenario B Itinerary Note
+The 6-night itinerary above is for Scenario A (arrive Jun 18). For Scenario B:
+- **Jun 19 arrival (5 nights):** Use days Jun 20–23 from the itinerary above. Niagara Falls day trip is feasible on Jun 20. Arrive noon on Jun 19, explore neighborhood that afternoon.
+- **Jun 20 arrival (4 nights):** Use days Jun 21–23 from the itinerary above. Niagara Falls is tight — consider a shorter day trip or skip in favor of city attractions. Arrive 8:30 PM on Jun 20 (travel day only).
+
 ---
 
 ## 7. Border Crossing — Practical Tips for US Families with Kids

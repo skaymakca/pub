@@ -34,7 +34,7 @@ We have **4 tickets to each of 4 FIFA World Cup 2026 matches** (16 tickets total
 **Should Sukru + Maja join Dallas, or just meet everyone in Toronto?**
 
 - **Scenario A:** Full family does Dallas + Toronto (2 weeks on the road)
-- **Scenario B:** Marina + Luka do Dallas alone, fly home; all 4 fly to Toronto together Jun 20 or 21 (3–4 nights for S+M)
+- **Scenario B:** Marina + Luka do Dallas alone, fly home; all 4 fly to Toronto together Jun 19 or 20 (4–5 nights for S+M)
 - If Scenario B, sell 2 Dallas tickets (~$3,100 net)
 
 See [08 — Dallas vs Toronto Decision](../dallas-vs-toronto-decision/) for the full analysis.
@@ -56,7 +56,8 @@ Jun 24 (Wed)  All 4: Toronto → BOS (home)
 Jun 25 (Thu)  Marina + Luka: BOS → PHL (JetBlue 6:10 PM nonstop)
 Jun 26 (Fri)  Philly sightseeing with FIL + BIL
 Jun 27 (Sat)  GAME DAY — Croatia vs Ghana, 5 PM ET
-Jun 28 (Sun)  Marina + Luka: PHL → BOS (home)
+Jun 28 (Sun)  Post-game day — relaxed sightseeing
+Jun 29 (Mon)  Marina + Luka: PHL → BOS (home)
 ```
 
 ### Scenario B (Updated): M+L Return from Dallas; All 4 Fly to Toronto Together
@@ -66,10 +67,11 @@ Jun 15 (Mon)  Marina + Luka: BOS → DFW
 Jun 16 (Tue)  Dallas sightseeing (Marina + Luka)
 Jun 17 (Wed)  GAME DAY — England vs Croatia (Marina + Luka)
 Jun 18 (Thu)  Marina + Luka: DFW → BOS (return home — AA nonstop, $327/pp)
-Jun 19        Recovery day at home
-Jun 20 (Sat)  Option: All 4 BOS → YYZ (4 nights Toronto — Porter $150/pp)
-Jun 21 (Sun)  Option: All 4 BOS → YYZ (3 nights Toronto — Porter $118/pp, cheaper)
-Jun 22        Toronto sightseeing
+Jun 19 (Fri)  Option: All 4 BOS → YYZ (5 nights Toronto — Porter $137/pp 10:05 AM)
+              ⚠️ M+L have only ~18h recovery after Dallas
+Jun 20 (Sat)  Option: All 4 BOS → YYZ (4 nights Toronto — Porter $137/pp 6:35 PM)
+              Full recovery day for M+L
+Jun 21-22     Toronto sightseeing
 Jun 23 (Tue)  GAME DAY — Panama vs Croatia (all 4)
 Jun 24 (Wed)  All 4: Toronto → BOS (home)
 Jun 25 (Thu)  Same as Scenario A from here
@@ -77,7 +79,7 @@ Jun 25 (Thu)  Same as Scenario A from here
 
 **Sell 2 Dallas tickets (~$3,100 net)**
 
-**Jun 21 vs Jun 20:** Jun 21 saves ~$800 total ($128 cheaper flights + $549 cheaper hotel — Jun 20 is a WC match-day premium night). Tradeoff: 2 full Toronto days instead of 3.
+**Jun 19 vs Jun 20:** Flights are identical ($137/pp both days). Jun 19 adds ~$550 (hotel + meals) for 1 extra Toronto day. Jun 19 gives 4 full days (Niagara feasible); Jun 20 gives 3 full days. Tradeoff: M+L recovery time.
 
 ### Philadelphia (Both Scenarios)
 
@@ -93,17 +95,8 @@ Jun 25 (Thu)  M+L fly BOS → PHL (JetBlue 6:10 PM, $119/pp)
               BIL arrives independently (via EWR+Amtrak)
 Jun 26 (Fri)  Philly sightseeing
 Jun 27 (Sat)  GAME DAY — Croatia vs Ghana, 5 PM ET
-Jun 28 (Sun)  Everyone departs
-```
-
-**Jun 24 arrival (Option A — alternative, +~$600):**
-```
-Jun 24 (Wed)  Marina + Luka arrive PHL (from YYZ, $268/pp)
-              FIL arrives PHL (from LAX) — coordinate timing with Marina
-              BIL arrives independently (via EWR+Amtrak or PHL direct)
-Jun 25-26     Philly sightseeing (Marina + Luka + FIL + BIL)
-Jun 27 (Sat)  GAME DAY — Croatia vs Ghana, 5 PM ET
-Jun 28 (Sun)  Everyone departs
+Jun 28 (Sun)  Post-game day — relaxed sightseeing
+Jun 29 (Mon)  Everyone departs
 ```
 
 **Marina's requirements:**
@@ -130,7 +123,7 @@ Jun 28 (Sun)  Everyone departs
 | [12 — Tickets & Resale](../tickets-and-resale/) | Face values, resale estimates, FIFA marketplace rules, timing strategy for selling |
 | [13 — Match 74 at Gillette](../match74-gillette/) | Round of 32 analysis: likely opponents, demand, feeder matches timeline, logistics |
 | [14 — Scenario A Summary](../scenario-a-summary/) | Full-family Dallas trip: day-by-day timeline, flight/hotel tables, cost breakdown, vs Scenario B |
-| [15 — Scenario B Summary](../scenario-b-summary/) | Skip-Dallas trip: day-by-day timeline, flight/hotel tables, cost breakdown, Jun 20 vs Jun 21, vs Scenario A |
+| [15 — Scenario B Summary](../scenario-b-summary/) | Skip-Dallas trip: day-by-day timeline, flight/hotel tables, cost breakdown, Jun 19 vs Jun 20, vs Scenario A |
 
 ---
 
@@ -144,11 +137,11 @@ Jun 28 (Sun)  Everyone departs
 | **Jun 17** | Game 1: England vs. Croatia (Dallas) |
 | **Jun 18** | DFW → YYZ |
 | **Jun 18** | M+L fly DFW→BOS (Scenario B — return home) |
-| **Jun 20 or 21** | All 4 fly BOS→YYZ (Scenario B — everyone to Toronto together) |
+| **Jun 19 or 20** | All 4 fly BOS→YYZ (Scenario B — everyone to Toronto together) |
 | **Jun 23** | Game 2: Panama vs. Croatia (Toronto) |
 | **Jun 24** | Split: Sukru+Maja → BOS, Marina+Luka → PHL, FIL → PHL, BIL → PHL |
 | **Jun 27** | Game 3: Croatia vs. Ghana (Philadelphia) — all groups end this day |
-| **Jun 28** | Marina + Luka: PHL → BOS (home) |
+| **Jun 29** | Everyone departs Philadelphia — M+L: PHL → BOS; FIL: PHL → LAX; BIL: EWR → ZAG |
 | **Jun 29** | Game 4: Match 74 at Gillette (ignoring for now) |
 
 ---

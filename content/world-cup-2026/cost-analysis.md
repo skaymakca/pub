@@ -25,8 +25,8 @@ Sukru + Maja join for everything. 4 people travel BOS→DFW→YYZ, then split (2
 | 2 | DFW → YYZ | Jun 18 (Thu) | 4 | $327 | $1,308 | AA connecting; nonstop is $417/pp |
 | 4 | YTZ → BOS | Jun 24 (Wed) | 2 (S+M) | $113 | $226 | Porter nonstop |
 | 5 | YYZ → PHL | Jun 24 (Wed) | 2 (M+L) | $268 | $536 | Air Canada nonstop |
-| 7 | PHL → BOS | Jun 28 (Sun) | 2 (M+L) | $84 | $168 | JetBlue nonstop |
-| | **Flight subtotal** | | | | **$3,258** | Budget fares |
+| 7 | PHL → BOS | Jun 29 (Mon) | 2 (M+L) | $94 | $187 | JetBlue nonstop 9:12 AM |
+| | **Flight subtotal** | | | | **$3,277** | Budget fares |
 
 **Nonstop upgrade option:** AA nonstop BOS→DFW at $317/pp (after-5pm) and $417/pp DFW→YYZ adds ~$604. Total with nonstops: **$3,862**.
 
@@ -38,8 +38,8 @@ Sukru + Maja join for everything. 4 people travel BOS→DFW→YYZ, then split (2
 |------|-------|--------|-------|---------------|-------------|----------|
 | Dallas/Arlington | Jun 15–18 | 3 | 1 (2 queens) | $459–765 | $1,377–2,296 | CY Arlington South ($459) or CY Ent. District ($765, walkable) |
 | Toronto | Jun 18–24 | 6 | 1 (2 queens) | ~$425–562 (USD) | ~$2,553–3,374 | Courtyard DT (619 CAD) or Delta Hotels (781 CAD) |
-| Philadelphia | Jun 24–28 | 4 | 1 (M+L) | $364–395 | $1,456–1,580 | Element DT ($364) or Marriott DT ($395, 1,408 rooms) |
-| | **Hotel subtotal** | | | | **$5,386–7,250** |
+| Philadelphia | Jun 25–29 | 4 | 1 (M+L) | $346–369 | $1,384–1,476 | Element DT ($346) or Marriott DT ($369, 1,408 rooms) |
+| | **Hotel subtotal** | | | | **$5,314–7,146** |
 
 *FIL/BIL's second Philly room not included — see [FIL/BIL Costs](#filbil-costs-separate-budget) below.*
 
@@ -65,54 +65,49 @@ Sukru + Maja join for everything. 4 people travel BOS→DFW→YYZ, then split (2
 
 | Category | Budget | Nonstop Premium |
 |----------|--------|-----------------|
-| Flights | **$3,258** | $3,862 |
-| Hotels | $5,386–7,250 | $5,386–7,250 |
+| Flights | **$3,277** | $3,881 |
+| Hotels | $5,314–7,146 | $5,314–7,146 |
 | Other | $2,563–3,943 | $2,563–3,943 |
-| **TOTAL** | **$11,207–14,451** | **$11,811–15,055** |
+| **TOTAL** | **$11,154–14,366** | **$11,758–14,970** |
 | **Midpoint estimate** | **~$12,800** | **~$13,400** |
 
 ---
 
 ## Scenario B (Updated): M+L Return to BOS, All 4 Fly to Toronto Together
 
-Marina + Luka do Dallas alone (Jun 15–18), fly home to Boston. All 4 fly to Toronto on Jun 20 or 21. Sell 2 Dallas tickets.
+Marina + Luka do Dallas alone (Jun 15–18), fly home to Boston. All 4 fly to Toronto on Jun 19 or 20. Sell 2 Dallas tickets.
 
-**Key change from original Scenario B:** M+L no longer fly DFW→YYZ. They come home first, regroup, then everyone departs together. This eliminates the expensive DFW→YYZ leg AND shortens the Toronto hotel stay from 6 nights to 3–4 nights.
+**Key change from original Scenario B:** M+L no longer fly DFW→YYZ. They come home first, regroup, then everyone departs together. This eliminates the expensive DFW→YYZ leg AND shortens the Toronto hotel stay from 6 nights to 4–5 nights.
 
-### Flights (Family Only) — ACTUAL PRICES (as of Mar 18, 2026)
+### Flights (Family Only) — ACTUAL PRICES (as of Mar 19, 2026)
 
-**Option 1: Jun 21 Toronto departure (3-night stay)**
+**Both Jun 19 and Jun 20 have identical flight costs** — Porter nonstop at $137/pp = $546 for 4.
 
 | Leg | Route | Date | Pax | Best Price/pp | Total | Airline/Notes |
 |-----|-------|------|-----|--------------|-------|---------------|
 | 1 | BOS → DFW | Jun 15 (Mon) | 2 (M+L) | $317 | $634 | AA nonstop, after-5pm |
 | 2B | DFW → BOS | Jun 18 (Thu) | 2 (M+L) | $327 | $654 | AA nonstop (12 options, all $327) |
-| 3B | BOS → YYZ | Jun 21 (Sun) | 4 (all) | $118 | $472 | Porter nonstop 10:05 AM |
+| 3B | BOS → YYZ | Jun 19 (Fri) or Jun 20 (Sat) | 4 (all) | $137 | $546 | Porter nonstop (10:05 AM Jun 19 or 6:35 PM Jun 20) |
 | 4 | YTZ → BOS | Jun 24 (Wed) | 2 (S+M) | $172 | $344 | Porter nonstop |
 | 4b | YYZ → BOS | Jun 24 (Wed) | 2 (M+L) | $181 | $362 | Air Canada nonstop |
 | 6 | BOS → PHL | Jun 25 (Thu) | 2 (M+L) | $119 | $238 | JetBlue nonstop 6:10 PM |
-| 7 | PHL → BOS | Jun 28 (Sun) | 2 (M+L) | $84 | $168 | JetBlue nonstop |
-| | **Flight subtotal** | | | | **$2,872** | Nonstop fares |
+| 7 | PHL → BOS | Jun 29 (Mon) | 2 (M+L) | $94 | $187 | JetBlue nonstop 9:12 AM |
+| | **Flight subtotal** | | | | **$2,965** | Same for Jun 19 or Jun 20 |
 
-**Option 2: Jun 20 Toronto departure (4-night stay)**
-
-Same as above except Leg 3B: BOS → YYZ Jun 20 at $150/pp × 4 = $600 (Porter nonstop 6:35 PM).
-**Flight subtotal: $3,000** (+$128 vs Jun 21)
-
-**Budget alternative (AA connecting BOS→DFW at $255/pp):** Jun 21: **$2,748** / Jun 20: **$2,876**
+**Budget alternative (AA connecting BOS→DFW at $255/pp):** **$2,841** (same for Jun 19 or Jun 20)
 
 ### Hotels — Family Only (Marriott Bonvoy)
 
 | City | Dates | Nights | Rooms | Actual $/Night | Actual Total | Notes |
 |------|-------|--------|-------|---------------|-------------|-------|
 | Dallas/Arlington | Jun 15–18 | 3 | 1 (2 queens) | $459–765 | $1,377–2,296 | M+L only (1 room) |
-| Toronto (Jun 21) | Jun 21–24 | 3 | 1 (2 queens) | 574–744 CAD | ~$1,240–1,607 | See [10-hotel-pricing](../hotel-pricing/) for full table |
-| Toronto (Jun 20) | Jun 20–24 | 4 | 1 (2 queens) | 621–762 CAD | ~$1,789–2,195 | Jun 20 is match-day premium |
-| Philadelphia | Jun 25–28 | 3 | 1 (M+L) | $453 | $1,359 | Marriott Downtown |
-| | **Hotel subtotal (Jun 21)** | | | | **$3,976–5,262** | |
-| | **Hotel subtotal (Jun 20)** | | | | **$4,525–5,850** | |
+| Toronto (Jun 20) | Jun 20–24 | 4 | 1 (2 queens) | 590–791 CAD | ~$1,699–2,278 | See [10-hotel-pricing](../hotel-pricing/) for full table |
+| Toronto (Jun 19) | Jun 19–24 | 5 | 1 (2 queens) | 602–782 CAD | ~$2,167–2,815 | Extra night ~$437–537 |
+| Philadelphia | Jun 25–29 | 4 | 1 (M+L) | $369 | $1,476 | Marriott Downtown |
+| | **Hotel subtotal (Jun 20, 4N Toronto)** | | | | **$4,552–6,050** | |
+| | **Hotel subtotal (Jun 19, 5N Toronto)** | | | | **$5,020–6,587** | |
 
-**vs Scenario A hotels ($5,410–7,029):** Scenario B saves **$1,167–2,053** (Jun 21) or **$618–1,446** (Jun 20) on hotels alone.
+**vs Scenario A hotels:** Scenario B saves on Toronto nights but Philly hotel is now the same 4-night stay in both scenarios.
 
 ### Other Costs
 
@@ -121,16 +116,16 @@ Same as above except Leg 3B: BOS → YYZ Jun 20 at $150/pp × 4 = $600 (Porter n
 | Dallas car rental | $300–500 | M+L still need a car in Arlington |
 | Dallas meals | $200–300 | 2 people × 3 days × ~$35–50/day |
 | Dallas activities | $100–200 | 2 people |
-| Toronto meals (Jun 21, 3 days) | $250–400 | 4 people × 3 days × ~$25–35/day |
-| Toronto meals (Jun 20, 4 days) | $330–530 | 4 people × 4 days × ~$25–35/day |
+| Toronto meals (Jun 20, 4 days) | $400–560 | 4 people × 4 days × ~$25–35/day |
+| Toronto meals (Jun 19, 5 days) | $500–700 | 4 people × 5 days × ~$25–35/day |
 | Toronto activities | $363 | CityPASS for 4 |
 | Toronto transit | $30–60 | |
-| Philly meals | $400–600 | M+L+FIL+BIL |
+| Philly meals (4 days) | $500–750 | M+L × 4 days (FIL+BIL pay own meals) |
 | Philly activities | $100–200 | Same as Scenario A |
 | Philly transit | $50–80 | Same |
 | Misc | $200–300 | |
-| **Other subtotal (Jun 21)** | | **$1,993–3,003** |
-| **Other subtotal (Jun 20)** | | **$2,073–3,133** |
+| **Other subtotal (Jun 20)** | | **$2,243–3,313** |
+| **Other subtotal (Jun 19)** | | **$2,343–3,453** |
 
 ### Ticket Revenue
 
@@ -142,15 +137,15 @@ Same as above except Leg 3B: BOS → YYZ Jun 20 at $150/pp × 4 = $600 (Porter n
 
 ### Scenario B Totals (Family Only)
 
-| Category | Jun 21 (3N) Budget | Jun 21 (3N) Nonstop | Jun 20 (4N) Nonstop |
+| Category | Jun 20 (4N) Budget | Jun 20 (4N) Nonstop | Jun 19 (5N) Nonstop |
 |----------|-------------------|---------------------|---------------------|
-| Flights | $2,748 | $2,872 | $3,000 |
-| Hotels | $3,976 | $3,976 | $4,525 |
-| Other | $1,993–3,003 | $1,993–3,003 | $2,073–3,133 |
-| **Gross cost** | **$8,717–9,727** | **$8,841–9,851** | **$9,598–10,658** |
+| Flights | $2,841 | $2,965 | $2,965 |
+| Hotels | $4,552 | $4,552 | $5,020 |
+| Other | $2,243–3,313 | $2,243–3,313 | $2,343–3,453 |
+| **Gross cost** | **$9,636–10,706** | **$9,760–10,830** | **$10,328–11,438** |
 | Ticket revenue | -$3,100 to -$4,000 | -$3,100 to -$4,000 | -$3,100 to -$4,000 |
-| **NET TOTAL** | **$4,717–6,627** | **$4,841–6,751** | **$5,598–7,558** |
-| **Midpoint** | **~$5,700** | **~$5,800** | **~$6,600** |
+| **NET TOTAL** | **$5,636–7,606** | **$5,760–7,730** | **$6,328–8,338** |
+| **Midpoint** | **~$6,600** | **~$6,700** | **~$7,300** |
 
 ---
 
@@ -183,75 +178,90 @@ EWR routing is confirmed as far superior to PHL (56+ weekly transatlantic nonsto
 | United nonstop: SPU→EWR, Jun 24 | **$2,046** | 10h | Extremely expensive cash |
 | **United award: SPU→EWR** | **44k miles + ~$56** | 14h 50m | Via DUB, Star Alliance Saver |
 
-### BIL Return: EWR → Croatia — ACTUAL PRICES
+### BIL Return: EWR → Croatia — ACTUAL PRICES (Updated Jun 29)
 
 | Routing | Price | Notes |
 |---------|-------|-------|
-| UA/LH: EWR→ZAG, Jun 28–29 | **$491–635** | Prices currently LOW |
-| United nonstop: EWR→SPU, Jun 28 | **$1,134** | Expensive but direct |
-| BA: EWR→LHR→SPU | **$714** | |
+| AF/Croatia: EWR→CDG→ZAG, Jun 29 | **$535** | Prices currently LOW per Google |
+| LH/UA: EWR→MUC→ZAG, Jun 29 | **$564** | 10h 5m, short connection |
+| UA/LH: EWR→FRA→ZAG, Jun 29 | **$561** | 12h 40m |
+| UA/Croatia/Brussels: EWR→BRU→ZAG, Jun 29 | **$643** | |
 | **United award: EWR→SPU** | **~44k miles + fees** | Star Alliance Saver |
+
+### FIL Return: PHL → LAX (Updated Jun 29)
+
+| Option | Price | Notes |
+|--------|-------|-------|
+| Southwest 1-stop (BNA/DEN/STL) Jun 29 | **$256** | Cheapest cash option, multiple departure times |
+| No nonstops available Jun 29 | — | AA nonstops not showing for this date |
+| **Note:** Jun 30 is $151 if FIL can stay one extra day | | |
 
 ### FIL/BIL Hotel: 1 Room in Philadelphia
 
 | Detail | Value |
 |--------|-------|
 | Hotel | Same Marriott as family (Marriott Downtown) |
-| Dates | Jun 24–28 (4 nights) |
+| Dates | Jun 25–29 (4 nights) |
 | Room type | 2 queens (FIL + BIL sharing) |
-| Actual rate | **$395/night → $1,580 total** (Marriott Downtown) |
+| Actual rate | **$369/night → $1,476 total** (Marriott Downtown) |
 
 ### FIL/BIL Total
 
 | Item | Budget | Premium |
 |------|--------|---------|
-| FIL flight (LAX→PHL) | $210 (Frontier) | $530 (AA nonstop) |
+| FIL flight (LAX→PHL) | $210 (Frontier, Jun 25) | $530 (AA nonstop, Jun 25) |
+| FIL return (PHL→LAX) | $256 (Southwest, Jun 29) | $256 (Southwest) |
 | BIL inbound (Croatia→EWR + Amtrak) | $502–571 (LH/BA + $11 Amtrak) | $644 (Turkish + Amtrak) |
-| BIL return (EWR→Croatia) | $491–635 | $1,134 (United nonstop) |
-| Hotel (1 room, 4 nights) | $1,580 | $1,580 |
-| **Total** | **$2,783–2,996** | **$3,888–3,888** |
+| BIL return (EWR→Croatia, Jun 29) | $535–561 | $643 |
+| Hotel (1 room, 4 nights) | $1,476 | $1,476 |
+| **Total** | **$2,979–3,074** | **$3,549** |
 
 ---
 
 ## Side-by-Side Comparison (Family Costs Only)
 
-| | Scenario A (Full Family) | Scenario B — Jun 21 (3N Toronto) | Scenario B — Jun 20 (4N Toronto) |
+| | Scenario A (Full Family) | Scenario B — Jun 20 (4N Toronto) | Scenario B — Jun 19 (5N Toronto) |
 |---|---|---|---|
-| **Flights** | $4,048 | $2,872 | $3,000 |
-| **Hotels** | $5,410–7,029 | $3,976–5,262 | $4,525–5,850 |
-| **Other** | $2,563–3,943 | $1,993–3,003 | $2,073–3,133 |
-| **Gross cost** | $12,021–14,970 | $8,841–9,851 | $9,598–10,658 |
+| **Flights** | $3,881 | $2,965 | $2,965 |
+| **Hotels** | $5,314–7,146 | $4,552–6,050 | $5,020–6,587 |
+| **Other** | $2,563–3,943 | $2,243–3,313 | $2,343–3,453 |
+| **Gross cost** | $11,758–14,970 | $9,760–12,328 | $10,328–13,005 |
 | **Ticket revenue** | $0 | +$3,100–4,000 | +$3,100–4,000 |
-| **Net cost** | **$12,021–14,970** | **$4,841–6,751** | **$5,598–7,558** |
-| **Midpoint** | **~$12,050** | **~$5,800** | **~$6,600** |
+| **Net cost** | **$11,758–14,970** | **$5,760–9,228** | **$6,328–9,905** |
+| **Midpoint** | **~$12,800** | **~$6,700** | **~$7,300** |
 
 | | FIL/BIL (separate budget) |
 |---|---|
-| **Budget routing** | $2,582–2,795 (~$2,700 midpoint) |
-| **Premium routing** | ~$3,667 |
+| **Budget routing** | $2,979–3,074 (~$3,000 midpoint) |
+| **Premium routing** | ~$3,549 |
 
 ### The Bottom Line
 
-**Updated Scenario B (Jun 21) saves approximately $6,250** in family costs compared to Scenario A — substantially more than the original Scenario B estimate of ~$4,800.
+**Scenario B (Jun 20) saves approximately $6,100** in family costs compared to Scenario A. **Scenario B (Jun 19) saves approximately $5,500.**
 
 The updated Scenario B is cheaper because M+L return to Boston instead of flying DFW→YYZ, which:
 1. **Eliminates the expensive DFW→YYZ leg** ($417/pp nonstop)
-2. **Shortens the Toronto stay from 6 to 3 nights** — saves **$1,434** at Courtyard Downtown
-3. **Cheaper BOS→Toronto fares** — $118/pp for 4 on Jun 21 vs $417/pp for 4 DFW→YYZ
+2. **Shortens the Toronto stay from 6 to 4–5 nights** — saves **$449–886** at Courtyard Downtown
+3. **Cheaper BOS→Toronto fares** — $137/pp for 4 vs $417/pp for 4 DFW→YYZ
+4. **+$3,100–4,000 in ticket revenue** (still the biggest single factor)
 
-Breakdown of the savings (Scenario A nonstop vs Scenario B Jun 21 nonstop):
-- **~$1,176 less in flights** ($4,048 → $2,872)
-- **~$1,434–1,767 less in hotels** (3 Toronto nights vs 6)
-- ~$570–940 less in meals/activities (3 Toronto days vs 6 for S+M; 2 fewer Dallas days)
-- **+$3,100–4,000 in ticket revenue** (still the biggest single factor)
+**The tradeoff:**
+- **Scenario B Jun 20** gives **4 nights / 3 full days** in Toronto. Enough for city attractions but Niagara Falls day trip is tight.
+- **Scenario B Jun 19** gives **5 nights / 4 full days** — close to Scenario A's 5 full days. Niagara Falls is feasible. But M+L have only ~18h recovery after Dallas (arrive Jun 18 afternoon, depart Jun 19 morning).
+- **Scenario A** gives **6 nights / 5 full days** — most relaxed pacing.
 
-**The tradeoff:** Scenario B Jun 21 gives only **3 nights / 2 full days** in Toronto before the Panama vs Croatia match. With Scenario A, you'd have **6 nights / 5 full days** — room for Niagara Falls, Canada's Wonderland, and more relaxed pacing.
+**Jun 19 vs Jun 20:** Flights are **identical** ($137/pp both days). The only difference is the extra hotel night (~$437 at Courtyard) + ~$100 in meals = **~$550 more** for 1 extra Toronto day. Jun 19 also means no recovery day for M+L after Dallas.
 
-**Jun 20 vs Jun 21:** Flying Jun 20 adds $128 in flights + ~$549 in hotel (match-day premium night) + ~$80 in meals = **~$800 more** for 1 extra Toronto day. Whether that's worth it depends on itinerary ambitions (e.g., Niagara Falls day trip needs 4+ days).
+**Philadelphia:** Extended to 4 nights (Jun 25-29) for all attendees. Marriott Downtown at $369/night = $1,476/room (only $117 more than old 3-night stay). This is the same in both Scenario A and B.
 
-**FIL/BIL costs (~$2,700) are fully separate** — they don't affect the family budget comparison.
+**FIL/BIL costs (~$3,000) are fully separate** — they don't affect the family budget comparison.
 
-**Note:** Toronto hotel costs are now a much smaller line item in Scenario B (~$1,240 for 3 nights vs ~$2,674 for 6). The biggest single cost is Dallas hotel ($1,377–2,296).
+### Hotel Location: Near Stadium vs Center City
+
+**Center City is recommended** for the 4-night stay. With 3 non-game days, proximity to sightseeing (Independence Hall, Reading Terminal, museums) matters more than being near the stadium. SEPTA Broad Street Line runs direct to Lincoln Financial Field (~20 min, $2.50).
+
+**Near-stadium standout:** Live! Casino & Hotel (0.5 mi walk, free parking, seasonal pool) — but no loyalty program.
+**Best Bonvoy near stadium:** Courtyard Navy Yard (~1 mi, no pool, ~$201/night baseline).
 
 ---
 
