@@ -182,13 +182,29 @@ Google Flights: Prices **not flagged as high** (relatively moderate)
 
 ---
 
-## Leg 3B: BOS -> YYZ/YTZ -- June 20 or 21 -- Updated Scenario B
+## Leg 3B: BOS -> YYZ -- June 19 or 20 -- Updated Scenario B
 
 **Who:** All 4 (Sukru + Marina + Luka + Maja)
-**Constraint:** None — not a school day (Saturday/Sunday). Any departure time works.
+**Constraint:** Jun 19 (Fri) is a school day for Maja/Luka but they'll miss it for the trip. Jun 20 (Sat) is free.
 **Context:** In updated Scenario B, Marina+Luka return from Dallas to Boston on Jun 18, family regroups, then all 4 fly to Toronto together.
+**Note:** Jun 19 departure means M+L have only ~18h at home after Dallas (return Jun 18 afternoon, depart Jun 19 morning). Jun 20 gives a full recovery day.
 
-### Cash Fares — June 20 (Saturday) (Google Flights, searched 2026-03-18)
+### Cash Fares — June 19 (Friday) (Google Flights, searched 2026-03-19)
+
+Google Flights: Prices "currently **typical**" — cheapest time to book now through Apr 19.
+
+#### BOS -> YYZ (Pearson)
+
+| Airline | Best Flight | Price/person | x4 Total | Notes |
+|---------|-------------|-------------|----------|-------|
+| **Air Canada/United** | 5:10 AM nonstop, 1h 55m | **$102** | **$409** | Cheapest but impractical with kids |
+| **Porter** (via AA) | 10:05 AM nonstop, 1h 55m | **$137** | **$546** | **Best practical option** — arrives noon |
+| **Porter** (via AA) | 6:35 PM nonstop, 1h 55m | **$137** | **$546** | Same price, evening arrival |
+| Porter (via AA) | 3:25 PM, 1 stop YOW, 4h 19m | $150 | $599 | |
+| Air Canada/United | 7:15 PM nonstop, 1h 55m | $187 | $746 | |
+| Air Canada/United | 5:00 PM nonstop, 2h 3m | $210 | $841 | |
+
+### Cash Fares — June 20 (Saturday) (Google Flights, searched 2026-03-19 — refreshed)
 
 Google Flights: Prices "currently **typical**"
 
@@ -196,58 +212,29 @@ Google Flights: Prices "currently **typical**"
 
 | Airline | Best Flight | Price/person | x4 Total | Notes |
 |---------|-------------|-------------|----------|-------|
-| **Porter** (via AA) | 6:35 PM nonstop, 1h 55m | **$150** | **$600** | Best nonstop value |
-| Porter (via AA) | 10:05 AM nonstop, 1h 55m | $166 | $664 | |
-| Air Canada/United | 5:10 AM nonstop, 1h 55m | $219 | $876 | |
-| Air Canada/United | 5:45 AM, 1 stop YUL, 4h 50m | $121 | $484 | Cheapest connecting |
-| Air Canada/United | 7:15 PM nonstop, 1h 55m | $304 | $1,216 | |
+| Air Canada/United | 5:45 AM, 1 stop YUL, 4h 50m | $110 | $440 | Cheapest connecting |
+| **Porter** (via AA) | 6:35 PM nonstop, 1h 55m | **$137** | **$546** | **Best nonstop value** — evening arrival |
+| Porter (via AA) | 10:05 AM nonstop, 1h 55m | $161 | $644 | |
+| Air Canada/United | 5:10 AM nonstop, 1h 55m | $218 | $873 | |
+| Air Canada/United | 7:15 PM nonstop, 1h 55m | $304 | $1,214 | |
 
-#### BOS -> YTZ (Billy Bishop)
+### Jun 19 vs Jun 20 Comparison
 
-| Airline | Best Flight | Price/person | x4 Total | Notes |
-|---------|-------------|-------------|----------|-------|
-| **Porter**/Air Transat | 7:10 AM nonstop, 1h 47m | **$150** | **$600** | Same as YYZ best |
-| Porter/Air Transat | 5:30 PM nonstop, 1h 47m | $166 | $664 | |
-| Porter/Air Transat | 11:15 AM nonstop, 1h 47m | $193 | $772 | |
-
-### Cash Fares — June 21 (Sunday) (Google Flights, searched 2026-03-18)
-
-Google Flights: Prices "currently **typical**"
-
-#### BOS -> YYZ (Pearson)
-
-| Airline | Best Flight | Price/person | x4 Total | Notes |
-|---------|-------------|-------------|----------|-------|
-| **Air Canada/United** | 5:10 AM nonstop, 1h 55m | **$113** | **$452** | Cheapest nonstop overall |
-| **Porter** (via AA) | 10:05 AM nonstop, 1h 55m | **$118** | **$472** | Best reasonable-hour nonstop |
-| Porter (via AA) | 6:35 PM nonstop, 1h 55m | $118 | $472 | |
-| Air Canada/United | 5:45 AM, 1 stop YUL, 4h 50m | $121 | $484 | Cheapest connecting |
-| Air Canada/United | 7:15 PM nonstop, 1h 55m | $198 | $792 | |
-
-#### BOS -> YTZ (Billy Bishop)
-
-| Airline | Best Flight | Price/person | x4 Total | Notes |
-|---------|-------------|-------------|----------|-------|
-| **Porter**/Air Transat | 7:10 AM nonstop, 1h 47m | **$166** | **$664** | |
-| Porter/Air Transat | 11:15 AM nonstop, 1h 47m | $166 | $664 | |
-| Porter/Air Transat | 5:30 PM nonstop, 1h 47m | $166 | $664 | |
-| Porter/Air Transat | 8:25 PM nonstop, 1h 47m | $166 | $664 | |
-
-### Jun 20 vs Jun 21 Comparison
-
-| | Jun 20 (Sat) | Jun 21 (Sun) | Savings |
+| | Jun 19 (Fri) | Jun 20 (Sat) | Difference |
 |---|---|---|---|
-| Best YYZ nonstop | $150/pp (Porter) | $113/pp (AC) / $118/pp (Porter) | **$128–148 for 4 pax** |
-| Best YTZ nonstop | $150/pp (Porter) | $166/pp (Porter) | Jun 20 is $64 cheaper |
-| **Best overall for 4 pax** | **$600** (Porter YYZ/YTZ) | **$452** (AC YYZ) / **$472** (Porter YYZ) | **Jun 21 saves $128–148** |
+| Best practical nonstop | $137/pp (Porter 10:05 AM) | $137/pp (Porter 6:35 PM) | **$0 — identical** |
+| x4 total | **$546** | **$546** | **$0** |
+| Arrival time | 12:00 PM (full afternoon) | 8:30 PM (travel day only) | Jun 19 gains a half-day |
+| AM Porter option | $137/pp 10:05 AM | $161/pp 10:05 AM | Jun 19 is **$96 cheaper for 4** |
 
 ### Recommendation
 
-**Jun 21 via YYZ is the clear winner at $118/pp (Porter 10:05 AM nonstop) = $472 for 4.** Air Canada at $113/pp is $20 cheaper but departs at 5:10 AM — impractical with kids.
+**Jun 19 and Jun 20 are identically priced at $137/pp ($546 for 4) for the best Porter nonstop.** The choice comes down to:
 
-**Jun 20 costs $128-148 more** for flights, plus the Jun 20 Toronto hotel night is a match-day premium night (Germany vs Ivory Coast). Jun 21 saves on both fronts.
+- **Jun 19 (Fri):** Arrive noon, full afternoon in Toronto + 4 more full days. Niagara Falls day trip feasible. But M+L have only ~18h recovery after Dallas.
+- **Jun 20 (Sat):** Arrive 8:30 PM, essentially a travel day. 3 full sightseeing days. Full recovery day for M+L on Jun 19. Can catch Germany vs Ivory Coast at Fan Festival if arriving earlier (AM Porter at $161/pp).
 
-**Note:** YTZ (Billy Bishop) is oddly more expensive on Jun 21 ($166) than Jun 20 ($150) — unusual. YYZ is the better value on Jun 21.
+**Flight cost is not a factor** — the extra Toronto day in Jun 19 costs $0 in airfare. The only additional cost is the extra hotel night (~$437–537 USD).
 
 ---
 
@@ -618,33 +605,35 @@ With connecting fares instead of nonstops where available:
 
 #### Scenario B (Updated): M+L return to BOS from Dallas, all 4 fly to Toronto together
 
-**Jun 21 departure (3-night Toronto stay):**
+**Jun 20 departure (4-night Toronto stay) — Budget pick:**
 
 | Component | Cost |
 |-----------|------|
 | Leg 1: BOS→DFW (2 pax × $317 after-5pm nonstop) — M+L | $634 |
 | Leg 2B: DFW→BOS (2 pax × $327 AA nonstop) — M+L | $654 |
-| Leg 3B: BOS→YYZ (4 pax × $118 Porter nonstop Jun 21) — all 4 | $472 |
+| Leg 3B: BOS→YYZ (4 pax × $137 Porter nonstop Jun 20 6:35 PM) — all 4 | $546 |
 | Leg 4: YTZ→BOS (2 pax × $172 Porter) — S+M | $344 |
 | Leg 4b: YYZ→BOS (2 pax × $181 AC nonstop) — M+L | $362 |
 | Leg 6: BOS→PHL (2 pax × $119 JetBlue nonstop) — M+L | $238 |
 | Leg 7: PHL→BOS (2 pax × $84 JetBlue nonstop) — M+L | $168 |
-| **TOTAL (Scenario B, Jun 21, nonstop)** | **$2,872** |
+| **TOTAL (Scenario B, Jun 20, nonstop)** | **$2,946** |
 
-**Jun 20 departure (4-night Toronto stay):**
+**Jun 19 departure (5-night Toronto stay) — Extra day:**
 
 | Component | Cost |
 |-----------|------|
 | Leg 1: BOS→DFW (2 pax × $317 after-5pm nonstop) — M+L | $634 |
 | Leg 2B: DFW→BOS (2 pax × $327 AA nonstop) — M+L | $654 |
-| Leg 3B: BOS→YYZ (4 pax × $150 Porter nonstop Jun 20) — all 4 | $600 |
+| Leg 3B: BOS→YYZ (4 pax × $137 Porter nonstop Jun 19 10:05 AM) — all 4 | $546 |
 | Leg 4: YTZ→BOS (2 pax × $172 Porter) — S+M | $344 |
 | Leg 4b: YYZ→BOS (2 pax × $181 AC nonstop) — M+L | $362 |
 | Leg 6: BOS→PHL (2 pax × $119 JetBlue nonstop) — M+L | $238 |
 | Leg 7: PHL→BOS (2 pax × $84 JetBlue nonstop) — M+L | $168 |
-| **TOTAL (Scenario B, Jun 20, nonstop)** | **$3,000** |
+| **TOTAL (Scenario B, Jun 19, nonstop)** | **$2,946** |
 
-**Budget alternative (AA connecting BOS→DFW at $255/pp):** Jun 21 total: **$2,748** / Jun 20 total: **$2,876**
+**Flights are identical for Jun 19 and Jun 20** — both $137/pp Porter nonstop = $546 for 4.
+
+**Budget alternative (AA connecting BOS→DFW at $255/pp):** Jun 20 total: **$2,822** / Jun 19 total: **$2,822**
 
 #### FIL/BIL Total (paid separately)
 
