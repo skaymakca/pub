@@ -164,27 +164,34 @@ All rates from marriott.com as of March 14–15, 2026 (Gold Elite member). Non-B
 
 ---
 
-## 5. vs Scenario B
+## 5. vs Scenario B (Updated)
 
-What changes if Sukru + Maja skip Dallas and fly direct to Toronto on Jun 18:
+What changes if Sukru + Maja skip Dallas and everyone flies to Toronto together on Jun 21:
 
-| | Scenario A | Scenario B | Difference |
-|---|---|---|---|
-| **Flights** | $3,440–4,048 | $2,538 | Save $902–1,510 |
-| **Hotels** | Same | Same | $0 (Toronto room needed either way) |
-| **Meals/activities** | ~$2,500–3,900 | ~$2,100–3,200 | Save ~$300–500 |
-| **Ticket revenue** | $0 | +$3,100–4,000 | **+$3,100–4,000** |
-| **Net difference** | | | **Scenario B saves ~$4,300–6,000** |
+| | Scenario A | Scenario B (Jun 21) | Scenario B (Jun 20) | A vs B Difference |
+|---|---|---|---|---|
+| **Flights** | $4,048 | $2,872 | $3,000 | Save $1,048–1,176 |
+| **Hotels** | $5,410 | $3,976 | $4,525 | **Save $885–1,434** |
+| **Meals/activities** | ~$3,200 | ~$2,500 | ~$2,600 | Save ~$600–700 |
+| **Ticket revenue** | $0 | +$3,100–4,000 | +$3,100–4,000 | **+$3,100–4,000** |
+| **Net difference** | | | | **Scenario B saves ~$5,600–7,300** |
+
+**Key change from original Scenario B:** M+L now fly DFW→BOS (home) instead of DFW→YYZ, then all 4 fly BOS→Toronto together. This shortens the Toronto stay from 6 nights to 3, saving ~$1,434 on hotels.
 
 ### What Scenario A Costs
 
-The Dallas experience for Sukru + Maja costs **~$4,800** total:
-- ~$1,300 in extra travel costs (flights, meals, activities)
+The Dallas experience for Sukru + Maja costs **~$6,250** total:
+- ~$1,200 in extra flight costs
+- ~$1,400 in extra hotel costs (6 Toronto nights vs 3)
+- ~$600 in extra meals/activities
 - ~$3,500 in forfeited ticket revenue (2 Dallas tickets not sold)
 
 ### What Scenario A Gets You
 
 - England vs Croatia at AT&T Stadium (80,000 fans, marquee Group B match)
 - 3 days in Dallas/Arlington (Perot Museum soccer exhibit, BBQ, possibly Hurricane Harbor)
+- 3 extra days in Toronto (Niagara Falls, Canada's Wonderland, relaxed pacing)
 - The whole family together for the entire adventure
 - No need for a notarized consent letter for Marina + Luka crossing into Canada
+
+See [15 — Scenario B Summary](../scenario-b-summary/) for the full Scenario B breakdown.
