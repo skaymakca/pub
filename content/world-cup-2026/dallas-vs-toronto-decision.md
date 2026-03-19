@@ -23,18 +23,23 @@ Jun 23 (Tue)  GAME — Panama vs Croatia, 7 PM ET
 Jun 24 (Wed)  YYZ → BOS (Sukru + Maja go home)
 ```
 
-### Scenario B: Sukru + Maja Skip Dallas, Join in Toronto
+### Scenario B (Updated): Sukru + Maja Skip Dallas, All 4 Fly to Toronto Together
 
-**Trip length for Sukru + Maja:** 6 nights (Jun 18–24)
+**Trip length for Sukru + Maja:** 3 nights (Jun 21–24) or 4 nights (Jun 20–24)
 
 ```
-Jun 18 (Thu)  BOS → YTZ (Sukru + Maja — Porter nonstop, arrive same day as M+L)
-Jun 19-22     Toronto sightseeing (all 4 together)
+Jun 15 (Mon)  Marina + Luka: BOS → DFW
+Jun 16-17     Dallas sightseeing + GAME (Marina + Luka)
+Jun 18 (Thu)  Marina + Luka: DFW → BOS (return home)
+Jun 19        Recovery day at home
+Jun 20 (Sat)  Option: All 4 BOS → YYZ (4 nights in Toronto)
+Jun 21 (Sun)  Option: All 4 BOS → YYZ (3 nights in Toronto — cheaper)
+Jun 22        Toronto sightseeing
 Jun 23 (Tue)  GAME — Panama vs Croatia, 7 PM ET
-Jun 24 (Wed)  YYZ → BOS (Sukru + Maja go home)
+Jun 24 (Wed)  All 4: Toronto → BOS (home)
 ```
 
-Marina + Luka do Dallas on their own (Jun 15–18), then meet in Toronto.
+Marina + Luka do Dallas on their own (Jun 15–18), fly home, then the whole family goes to Toronto together.
 
 ---
 
@@ -102,9 +107,9 @@ This is the biggest game of the three. England's massive fanbase, the 2018 semif
 
 ### The "Practical" Argument (Skip Dallas — Scenario B)
 
-1. **9 nights on the road vs 6 nights.** With a 7-year-old, that's a big difference in energy, meltdowns, laundry, and exhaustion. By day 7, everyone's tired.
+1. **9 nights on the road vs 3 nights.** With a 7-year-old, that's a massive difference in energy, meltdowns, laundry, and exhaustion. With the updated Scenario B, S+M are only away for a long weekend.
 
-2. **~$3,100 net from selling 2 Dallas tickets.** This isn't pocket change — it offsets a large chunk of the Toronto trip costs.
+2. **~$6,250 total cost difference.** Not just ticket revenue (~$3,500) — the shorter Toronto stay saves ~$1,400 on hotels and the different flight routing saves ~$1,200. This is enough to fund a separate family vacation.
 
 3. **Dallas is the hardest city of the three.** 95°F+ heat, car rental required, no public transit to the stadium, Arlington is isolated from downtown. With Maja, every outdoor activity requires heat management.
 
@@ -118,15 +123,17 @@ This is the biggest game of the three. England's massive fanbase, the 2018 semif
 
 ## Trip Duration Comparison
 
-| | Scenario A | Scenario B |
-|---|---|---|
-| **Sukru + Maja away from home** | 9 nights | 6 nights |
-| **Total family on the road** | Jun 15–28 (S+M 9 nights, M+L 13 nights) | Jun 15–28 (M+L 13 nights, S+M 6 nights) |
-| **Cities visited (S+M)** | Dallas + Toronto | Toronto only |
-| **World Cup matches (S+M)** | 2 (England, Panama) | 1 (Panama) |
-| **Flights for S+M** | BOS→DFW, DFW→YYZ, YYZ→BOS | BOS→YYZ, YYZ→BOS |
-| **Car rental needed?** | Yes (Dallas) | No |
-| **Marina solo with Luka** | Never | 3 days in Dallas |
+| | Scenario A | Scenario B (Jun 21) | Scenario B (Jun 20) |
+|---|---|---|---|
+| **Sukru + Maja away from home** | 9 nights | 3 nights | 4 nights |
+| **M+L total away from home** | 13 nights | 13 nights | 13 nights |
+| **Cities visited (S+M)** | Dallas + Toronto | Toronto only | Toronto only |
+| **World Cup matches (S+M)** | 2 (England, Panama) | 1 (Panama) | 1 (Panama) |
+| **Full Toronto days** | 5 (Jun 19–23) | 2 (Jun 22–23) | 3 (Jun 21–23) |
+| **Flights for S+M** | BOS→DFW, DFW→YYZ, YYZ→BOS | BOS→YYZ, YYZ→BOS | BOS→YYZ, YYZ→BOS |
+| **Car rental needed?** | Yes (Dallas) | No | No |
+| **Marina solo with Luka** | Never | 3 days in Dallas | 3 days in Dallas |
+| **Net family cost** | ~$12,050 | **~$5,800** | ~$6,600 |
 
 ---
 
