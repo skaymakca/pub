@@ -38,6 +38,8 @@ FILE_MAP = [
     ("13-match74-gillette.md", "match74-gillette.md", "Match 74 — Round of 32 at Gillette", 13),
     ("14-scenario-a-summary.md", "scenario-a-summary.md", "Scenario A — Full Family to Dallas", 14),
     ("15-scenario-b-summary.md", "scenario-b-summary.md", "Scenario B — Skip Dallas, All 4 to Toronto", 15),
+    ("16-booked-inventory.md", "booked-inventory.md", "Booked Inventory", 16),
+    ("17-dallas-resale-action-plan.md", "dallas-resale-action-plan.md", "Dallas Ticket Resale — Action Plan", 17),
 ]
 
 # Build link mapping: source filename -> Hugo slug (for cross-references)

@@ -17,7 +17,9 @@ We have 4 tickets for each of Croatia's 3 group stage games. This analysis cover
 | **Current resale average** | ~$1,824 per ticket |
 | **Resale range** | $568 – $2,185+ |
 | **Markup** | 3x–35x face value depending on category |
-| **4 tickets at avg resale** | ~$7,300 gross / ~$6,200 net (after 15% seller fee) |
+| **Our tickets** | 2x Category 2 ($500 face value) — selling 2, Marina+Luka using the other 2 |
+| **Cat 2 resale estimate** | $800–$1,500 per ticket |
+| **2 tickets at Cat 2 avg** | ~$2,400 gross / ~$2,040 net (after 15% seller fee) |
 
 **Why it commands the most:**
 - England has one of the world's largest and most passionate fanbases with a massive US diaspora
@@ -79,13 +81,109 @@ The England match is in a different league of demand compared to Panama or Ghana
 | **Transfer feature** | Can transfer tickets to guests within FIFA's system (they can then re-transfer or resell) |
 | **Warning** | Tickets sold outside FIFA's platform risk cancellation without refund |
 
-### Net Proceeds Example (England vs. Croatia, 4 tickets)
+### Net Proceeds — Our 2 Cat 2 Dallas Tickets
 
-| Scenario | Per ticket | 4 tickets gross | After 15% seller fee |
+| Scenario | Per ticket | 2 tickets gross | After 15% seller fee |
 |----------|-----------|-----------------|---------------------|
-| Conservative ($568) | $568 | $2,272 | $1,931 |
-| Average ($1,824) | $1,824 | $7,296 | $6,202 |
-| Premium ($2,185) | $2,185 | $8,740 | $7,429 |
+| Conservative ($800) | $800 | $1,600 | **$1,360** |
+| Mid-range ($1,200) | $1,200 | $2,400 | **$2,040** |
+| Premium ($1,500) | $1,500 | $3,000 | **$2,550** |
+
+See [17-dallas-resale-action-plan.md](../dallas-resale-action-plan/) for the detailed sale strategy.
+
+---
+
+## Platform Restrictions
+
+**FIFA's Resale Marketplace is the ONLY legitimate channel for selling World Cup 2026 tickets.**
+
+| Platform | Can you sell here? | Why |
+|----------|--------------------|-----|
+| **FIFA Resale Marketplace** | Yes | Official platform — tickets digitally transferred within FIFA's system |
+| **StubHub** | No | FIFA Terms of Use prohibit third-party resale; tickets are digitally locked |
+| **SeatGeek** | No | Same — listings on these sites are speculative or fraudulent |
+| **VividSeats** | No | Same |
+| **Viagogo** | No | FIFA filed criminal complaints against Viagogo in past tournaments |
+| **Private sale** | No | Risk of ticket cancellation without refund |
+
+The 6,500+ "listings" visible on aggregator sites like SeatPick are pulling from third-party platforms where sellers may not actually possess transferable tickets. The only safe transaction for both buyer and seller is through FIFA's platform.
+
+---
+
+## Marketplace Mechanics
+
+| Step | Details |
+|------|---------|
+| **1. Log in** | Access your FIFA ticketing account at fifa.com/tickets |
+| **2. Select tickets** | Choose "RESELL/EXCHANGE" → select the tickets to list |
+| **3. Set price** | Enter your asking price (uncapped in US/Canada) |
+| **4. Ticket held by FIFA** | While listed, the ticket is removed from your account and held by FIFA |
+| **5. Buyer purchases** | FIFA reissues the ticket digitally into the buyer's FIFA account |
+| **6. Payment** | Seller receives sale price minus 15% fee (exact settlement timeline not documented) |
+
+**Price changes:** You cannot edit a listing price in-place. You must **withdraw** the listing and **relist** at the new price.
+
+**Withdrawal:** You can withdraw anytime, except during brief moments when a buyer is mid-checkout. FIFA advises withdrawing at least **1 full day before kickoff** — last-minute withdrawals can fail due to processing delays.
+
+**If unsold:** Listings are auto-pulled **1 hour before kickoff**. The ticket reverts to your account for personal use.
+
+---
+
+## Fee Comparison
+
+| Platform | Seller Fee | Buyer Fee | Total | Notes |
+|----------|-----------|-----------|-------|-------|
+| **FIFA Resale** | 15% | 15% | 30% | Only legitimate option for WC 2026 |
+| StubHub | 10–15% | 18–30% | ~30–40% | Cannot use for WC tickets |
+| SeatGeek | 5–10% | 18–30% | ~25–35% | Cannot use for WC tickets |
+
+FIFA's 30% total take is comparable to secondary market norms but higher than SeatGeek's seller-side fee. Moot point since FIFA is the only option.
+
+---
+
+## Tax Implications
+
+| Item | Details |
+|------|---------|
+| **1099-K** | FIFA Ticketing may send a Form 1099-K if resale proceeds exceed IRS reporting thresholds |
+| **Tax responsibility** | Seller is responsible for reporting resale income — FIFA does not withhold taxes |
+| **Gain calculation** | Taxable gain = sale price - face value paid - seller fee. If you sell 2 Cat 2 tickets at $1,200 each: gain = ($2,400 - $1,000 - $360) = $1,040 |
+| **Record keeping** | Save your original purchase confirmation ($500/ticket face value) for tax records |
+
+---
+
+## Historical Pricing Trends
+
+### 2022 Qatar — England Group Stage Resale
+
+| Category | Face Value (2022) | Resale Examples | Markup |
+|----------|------------------|-----------------|--------|
+| Cat 3 | QAR 250 (~$69) | $10,217 on StubHub | **~140x** |
+| Cat 1 | QAR 800 (~$220) | Not individually documented | Extreme |
+| Cat 2 | QAR 600 (~$165) | Not individually documented | Extreme |
+
+England group stage tickets were listed at $10,000+ on unauthorized platforms (StubHub, Viagogo, Ticombo). However, 2022 resale was mostly on **unauthorized** platforms — FIFA's official resale fee was only 5% (vs 15% in 2026) and had no price caps.
+
+### 2026 vs 2022 — Key Differences
+
+| Factor | 2022 Qatar | 2026 USA/Canada |
+|--------|-----------|----------------|
+| **Official resale fee** | 5% | 15% seller + 15% buyer |
+| **Price caps** | Varied | Uncapped (US/Canada), face value only (Mexico) |
+| **Face values** | Cat 2 group: ~$165 | Cat 2 group: $500 |
+| **Resale platform** | FIFA official + widespread unauthorized | FIFA-only (tickets digitally locked) |
+| **England demand** | Extreme — among most in-demand teams | Same or higher — 2018 semifinal rematch narrative |
+
+### General Tournament Pattern
+
+| Phase | Pattern |
+|-------|---------|
+| **Months before** | Early bird buyers plan travel + tickets together. Moderate pricing. |
+| **Weeks before** | FOMO kicks in. Prices often rise. |
+| **Days before** | Last-minute spike possible but risky — may not sell. |
+| **Knockout rounds** | Significant price escalation (QF $400+, SF $700+, Final $2,400+ in 2022). |
+
+**Key takeaway:** Listing early (April) captures the planning-ahead crowd at solid prices. Waiting until June is riskier but could yield more if demand spikes. For a guaranteed sale at a good price, April–May is the sweet spot.
 
 ---
 
@@ -100,7 +198,10 @@ The England match is in a different league of demand compared to Panama or Ghana
 - [Ghana group stage ticket prices](https://www.flashscore.com/news/soccer-world-cup-2026-world-cup-ghanaian-fans-set-to-pay-140-600-for-group-stage-tickets/xvo88vpp/)
 - [FOX 4: Dallas match ticket price breakdown](https://www.fox4news.com/news/how-much-2026-fifa-world-cup-tickets-dallas-full-price-breakdown-released)
 - [England FA: WC 2026 allocations and prices](https://www.englandfootball.com/articles/2025/Dec/11/FIFA-World-Cup-2026-Allocations-and-Ticket-Prices-for-England-Supporters)
-
+- [ESPN: FIFA chief admits higher resale prices](https://www.espn.com/soccer/story/_/id/47705962/fifa-chief-gianni-infantino-admits-world-cup-resale-ticket-prices-higher)
+- [FIFA: Resale fees](https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/30546729938717-27-What-are-the-fees-for-reselling-exchanging-FIFA-World-Cup-2026-tickets-on-the-FIFA-Resale-Exchange-Marketplace)
+- [FIFA: 1099-K tax filing](https://gpcustomersupportfwc2026.tickets.fifa.com/hc/en-gb/articles/30546740192541-27-If-I-am-a-United-States-resident-will-FIFA-Ticketing-send-me-a-Form-1099-K-for-tickets-I-sell-on-the-FIFA-Resale-Exchange-Marketplace)
+- [NPR: Fair resale pricing analysis](https://www.npr.org/sections/planet-money/2026/03/17/g-s1-113996/is-there-a-more-fair-way-to-sell-world-cup-tickets)
 
 ---
 
@@ -217,8 +318,9 @@ We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers
 
 | Date | Action |
 |------|--------|
-| **Now (Mar 13)** | Decide which games to attend vs. sell. This doc + family analysis should inform that. |
-| **Apr 2** | Marketplace reopens. **List any tickets you're confident about selling immediately.** |
+| **Now (Mar 20)** | Decisions made — selling 2 Dallas Cat 2 tickets. See [17-dallas-resale-action-plan.md](../dallas-resale-action-plan/). |
+| **Apr 2** | Marketplace reopens. **Observe pricing and volume — do NOT list yet.** |
+| **Apr 27** | **List 2 Dallas Cat 2 tickets at $1,400/ea** after observing ~3.5 weeks of market activity. |
 | **Apr–May** | Monitor prices. Adjust listings if needed. England tickets should move in this window. |
 | **Jun 17** | England vs Croatia (Dallas). After this match, Croatia's group position is clearer. |
 | **Jun 17–22** | Reassess Toronto (Jun 23) — sell or attend based on Croatia's standing and family plans. |
@@ -232,23 +334,16 @@ We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers
 
 ---
 
-## Decision Matrix: Attend vs. Sell
+## Decision Matrix: Attend vs. Sell (DECIDED)
 
-| Match | Attend? | Sell? | Key factor |
-|-------|---------|-------|------------|
-| England vs Croatia (Dallas) | Great match, but expensive trip, midweek, heat | **Best sell** — ~$6,200 net for 4 tickets | If you want max revenue, sell this one |
-| Panama vs Croatia (Toronto) | Best for Zadar family (nonstop flight) | Hardest to sell at a premium | Keep for extended family, or attend as best all-around trip |
-| Croatia vs Ghana (Philly) | Best for your family of 4 (Saturday, close, walkable) | Moderate resale, could spike if decisive | Strong attend candidate |
-| Match 74 — Gillette | 30 min from home, likely Germany, no travel needed | Variable — depends on opponent reveal Jun 27 | Attend unless opponent reveal creates a windfall opportunity |
+| Match | Decision | Tickets | Notes |
+|-------|----------|---------|-------|
+| England vs Croatia (Dallas) | Marina+Luka attend | **Sell 2** (Cat 2, $500 face) | List April 2 on FIFA Resale |
+| Panama vs Croatia (Toronto) | All 4 attend | Keep all 4 | — |
+| Croatia vs Ghana (Philly) | Marina+Luka+Marijan+Hrvoje attend | Keep all 4 | Sukru+Maja stay home |
+| Match 74 — Gillette | TBD | TBD | Deferred — decide after group stage |
 
-### Suggested Plan
-
-1. **Sell:** England vs Croatia (Dallas) — list April 2, price at ~$2,000+/ticket
-2. **Keep for family/Zadar:** Panama vs Croatia (Toronto) — attend with extended family
-3. **Attend with family of 4:** Croatia vs Ghana (Philly) — Saturday weekend trip
-4. **Attend:** Match 74 at Gillette — it's a home game, likely Germany, no logistics needed
-
-**Estimated net from selling Dallas tickets:** ~$5,000–$7,500
+**Estimated net from selling 2 Dallas tickets:** ~$1,360–$2,550 (see [17-dallas-resale-action-plan.md](../dallas-resale-action-plan/))
 
 ---
 
