@@ -86,9 +86,9 @@ All prices are actual quotes from Google Flights as of March 14–19, 2026.
 | 3B | BOS → YYZ | Jun 19 or 20 | 4 (all) | Porter nonstop | 10:05 AM (Jun 19) or 6:35 PM (Jun 20) | $137 | **$546** |
 | 4 | YTZ → BOS | Jun 24 | 2 (S+M) | Porter nonstop | flexible | $172 | **$344** |
 | 4b | YYZ → BOS | Jun 24 | 2 (M+L) | Air Canada nonstop | flexible | $181 | **$362** |
-| 6 | BOS → PHL | Jun 25 | 2 (M+L) | JetBlue nonstop | 6:10 PM → 7:49 PM | $119 | **$238** |
+| 6 | BOS → PHL | Jun 25 | 2 (M+L) | JetBlue nonstop | 6:46 AM → 8:19 AM | $94 | **$188** |
 | 7 | PHL → BOS | Jun 29 | 2 (M+L) | JetBlue nonstop | 9:12 AM → 10:35 AM | $94 | **$187** |
-| | | | | | **Flight Total** | | **$2,965** |
+| | | | | | **Flight Total** | | **$2,915** |
 
 **Budget alternative:** AA connecting BOS→DFW at $255/pp ($510) brings total to **$2,841**.
 
@@ -267,7 +267,7 @@ All rates from marriott.com as of March 14–19, 2026 (Gold Elite member).
 3. **Book all 4 BOS→YYZ Jun 19 or 20** — Porter nonstop $137/pp. Jun 19: 10:05 AM arrival noon. Jun 20: 6:35 PM arrival 8:30 PM. Prices "typical" — book now before they rise.
 4. **Book Toronto hotel Jun 19–24 or Jun 20–24** — Courtyard Downtown at 618-621 CAD/night ($1,788–2,225 total) is the budget Bonvoy pick.
 5. **Book all 4 Toronto→BOS Jun 24** — Porter/AC nonstop, ~$172–181/pp. Rising fast (up 52% in one day in prior research).
-6. **Book M+L BOS→PHL Jun 25** — JetBlue 6:10 PM, $119/pp. Stable pricing.
+6. **Book M+L BOS→PHL Jun 25** — JetBlue 6:46 AM $94/pp (or 6:10 PM $299/pp). Use TrueBlue points (6,100 pts, 1.54 cpp).
 7. **Book M+L PHL→BOS Jun 28** — JetBlue 9:12 AM, $84/pp. Excellent value.
 8. **List 2 Dallas tickets** on FIFA Resale Marketplace when it opens Apr 2.
 9. **Consider United award** for 1× BOS→DFW at 26.4k miles (saves ~$311, 1.18 cpp).

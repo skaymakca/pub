@@ -90,11 +90,11 @@ Marina + Luka do Dallas alone (Jun 15–18), fly home to Boston. All 4 fly to To
 | 3B | BOS → YYZ | Jun 19 (Fri) or Jun 20 (Sat) | 4 (all) | $137 | $546 | Porter nonstop (10:05 AM Jun 19 or 6:35 PM Jun 20) |
 | 4 | YTZ → BOS | Jun 24 (Wed) | 2 (S+M) | $172 | $344 | Porter nonstop |
 | 4b | YYZ → BOS | Jun 24 (Wed) | 2 (M+L) | $181 | $362 | Air Canada nonstop |
-| 6 | BOS → PHL | Jun 25 (Thu) | 2 (M+L) | $119 | $238 | JetBlue nonstop 6:10 PM |
+| 6 | BOS → PHL | Jun 25 (Thu) | 2 (M+L) | $94 | $188 | JetBlue nonstop 6:46 AM (or $299 6:10 PM) |
 | 7 | PHL → BOS | Jun 29 (Mon) | 2 (M+L) | $94 | $187 | JetBlue nonstop 9:12 AM |
-| | **Flight subtotal** | | | | **$2,965** | Same for Jun 19 or Jun 20 |
+| | **Flight subtotal** | | | | **$2,915** | Same for Jun 19 or Jun 20 |
 
-**Budget alternative (AA connecting BOS→DFW at $255/pp):** **$2,841** (same for Jun 19 or Jun 20)
+**Budget alternative (AA connecting BOS→DFW at $255/pp):** **$2,791** (same for Jun 19 or Jun 20)
 
 ### Hotels — Family Only (Marriott Bonvoy)
 
@@ -315,7 +315,7 @@ Toronto→Boston fares have **increased** since the Mar 14 search:
 - YTZ→BOS nonstop (Porter/Air Transat): **$172/pp** (was ~$113)
 - YYZ→BOS nonstop (Air Canada/Porter): **$181/pp** (was $161)
 - YYZ→PHL nonstop Jun 25: **$268/pp** (same as Jun 24 — no date penalty)
-- BOS→PHL Jun 25 JetBlue 6:10 PM nonstop: **$119/pp** (confirmed, unchanged)
+- BOS→PHL Jun 25 JetBlue 6:46 AM nonstop: **$94/pp**; 6:10 PM rose to **$299/pp**
 
 ### Philly Hotel: 3 Nights vs 4 Nights (as of Mar 15, 2026)
 
@@ -332,7 +332,7 @@ Note: The Jun 24 night is cheaper than Jun 25-27 — removing it raises the per-
 |---|---|---|
 | **Toronto→BOS flights** | S+M: YTZ→BOS $172×2 = $344 | S+M: YTZ→BOS $172×2 = $344 |
 | | | M+L: YYZ→BOS $181×2 = $362 |
-| **To Philly flight** | M+L: YYZ→PHL $268×2 = **$536** | M+L: BOS→PHL $119×2 = **$238** |
+| **To Philly flight** | M+L: YYZ→PHL $268×2 = **$536** | M+L: BOS→PHL $94×2 = **$188** |
 | **Flights subtotal** | **$880** | **$944** |
 | **Philly hotel (family)** | 4 nights × $395 = **$1,580** | 3 nights × $453 = **$1,359** |
 | **Philly hotel (FIL/BIL)** | 4 nights × $395 = **$1,580** | 3 nights × $453 = **$1,359** |

@@ -6,7 +6,7 @@ weight: 14
 What it looks like if Sukru + Maja join Marina + Luka for the full trip. This document consolidates flights, hotels, and costs in one place to help evaluate the decision. **Not a final commitment — a planning tool.**
 
 > **Philly Arrival Routing:** This summary uses **Option C** (everyone flies home to BOS on Jun 24, then M+L fly BOS→PHL on Jun 25) — the cheapest routing. Alternatives:
-> - *Direct:* M+L fly YYZ→PHL on Jun 24 ($268/pp vs $119/pp BOS→PHL) — costs ~$600 more across all budgets but gains 1 extra Philly sightseeing day
+> - *Direct:* M+L fly YYZ→PHL on Jun 24 ($268/pp vs $94/pp BOS→PHL) — costs ~$700 more across all budgets but gains 1 extra Philly sightseeing day
 > - *Extra Toronto night (Option B):* Rejected — adds ~$885 vs Option A, not worth it
 >
 > See [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25) for the full comparison.
@@ -64,7 +64,7 @@ All prices are actual quotes from Google Flights and United.com as of March 14�
 | 2 | DFW → YYZ | Jun 18 | 4 | AA/Porter nonstop | 9:51 AM → 1:57 PM | $417 | **$1,668** | 38.2k + $5.60 | 152.8k + $22.40 |
 | 4 | YTZ → BOS | Jun 24 | 2 (S+M) | Porter nonstop | flexible | $172 | **$344** | N/A | N/A |
 | 4b | YYZ → BOS | Jun 24 | 2 (M+L) | Air Canada nonstop | flexible | $181 | **$362** | N/A | N/A |
-| 6 | BOS → PHL | Jun 25 | 2 (M+L) | JetBlue nonstop | 6:10 PM → 7:49 PM | $119 | **$238** | 15k + $5.60 | 30k + $11.20 |
+| 6 | BOS → PHL | Jun 25 | 2 (M+L) | JetBlue nonstop | 6:46 AM → 8:19 AM | $94 | **$188** | 6,100 + $5.60 | 12,200 + $11.20 |
 | 7 | PHL → BOS | Jun 29 | 2 (M+L) | JetBlue nonstop | 9:12 AM → 10:35 AM | $94 | **$187** | 15k + $5.60 | 30k + $11.20 |
 | | | | | | **Flight Total** | | **$4,048** | | |
 

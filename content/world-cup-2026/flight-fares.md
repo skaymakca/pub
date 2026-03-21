@@ -389,7 +389,7 @@ Google Flights: "Prices are currently **typical**"
 |--------|-------|
 | B6 1159 6:46 AM | **6,100 pts + $5.60** (Core) |
 | B6 2459 6:10 PM | **22,200 pts + $5.60** (Core) |
-| Points available | **67,443 TrueBlue points** |
+| Points available | **150,177 TrueBlue points** (pooled: Sukru 67,443 + Marina 82,734) |
 | 2 pax (6:46 AM) | 12,200 pts + $11.20 total |
 | 2 pax (6:10 PM) | 44,400 pts + $11.20 total |
 | Date bar | 6,100 pts Jun 22-25 & 27-28; 8,800 pts Jun 26 |
@@ -724,6 +724,66 @@ Award search was not separately conducted for Leg 10, but based on Leg 9 data, e
 
 ---
 
+## Leg 11: PHL -> LAX -- June 29 (Monday)
+
+**Who:** FIL (1 pax) -- paid separately, not in family budget
+**Constraint:** Coordinate departure with Marina+Luka's PHL→BOS (B6 1160, 9:12 AM) and/or BIL's transit to EWR
+**Research date:** 2026-03-21 (schedule-based; prices not yet searched for Jun 29)
+
+### Nonstop Schedule (American Airlines — only nonstop carrier PHL→LAX)
+
+Based on current AA PHL→LAX schedule (FlightStats, 2026-03-21). Jun 29 prices not yet confirmed — expect ~$200–700 range based on inbound (Leg 8) pricing patterns. Frontier may also offer nonstop (check closer to date).
+
+| Flight | Depart | Arrive LAX | Duration | Notes |
+|--------|--------|------------|----------|-------|
+| AA | ~6:15 AM | ~9:29 AM | ~6h 14m | Earliest departure |
+| AA 827 | ~8:22 AM | ~11:29 AM | ~6h 7m | Morning option |
+| **AA 824** | **~9:28 AM** | **~12:33 PM** | **~6h 5m** | **Best — departs 16 min after M+L's 9:12 AM B6 1160** |
+| AA 2408 | ~10:45 AM | ~1:50 PM | ~6h 5m | Late morning |
+| AA | ~10:00 PM | ~1:01 AM+1 | ~6h 1m | Red-eye |
+
+**Note:** Flight numbers and times are from current schedule (Friday Mar 21). Jun 29 (Monday) schedule may vary slightly — confirm closer to booking.
+
+### Departure Coordination Analysis
+
+**Goal:** Marijan shouldn't navigate PHL alone. Two strategies:
+
+#### Strategy A: Marijan departs with Marina+Luka (same airport run)
+
+| Who | Flight | Depart PHL | Destination |
+|-----|--------|------------|-------------|
+| Marina + Luka | B6 1160 | 9:12 AM | BOS |
+| **Marijan (FIL)** | **AA ~9:28 AM** | **~9:28 AM** | **LAX** |
+
+- All arrive PHL together ~7:00–7:30 AM, go through security, head to gates
+- Departures 16 min apart — effectively the same airport run
+- **Marijan is never alone**
+
+#### Strategy B: Hrvoje (BIL) escorts Marijan, then continues to EWR
+
+| Time | What |
+|------|------|
+| ~7:00 AM | Hrvoje + Marijan arrive PHL |
+| ~8:22–9:28 AM | Marijan departs PHL→LAX |
+| ~9:30 AM | Hrvoje takes SEPTA Airport Line → 30th St Station (~25 min) |
+| ~10:00 AM | Amtrak NE Regional → Newark Penn (~1h 10min) |
+| ~11:30 AM | Hrvoje arrives EWR (NJ Transit/taxi from Newark Penn, ~20 min) |
+| 3:08 PM+ | Hrvoje's EWR→ZAG departures (see Leg 10) — 3.5h+ buffer |
+
+- Hrvoje has **3.5+ hours** before the earliest EWR→ZAG departure
+- Works if BIL departs Jun 29 (booked inventory shows Jun 29)
+- PHL→EWR transit is well-served by Amtrak NE Regional (frequent departures)
+
+### Recommendation
+
+**Strategy A is simplest.** Book AA ~9:28 AM PHL→LAX for Marijan. He goes to the airport with Marina+Luka and departs 16 min after them. No one waits, no one is alone.
+
+**Strategy B is the backup** if Hrvoje is also departing Jun 29 and wants to escort — the Amtrak connection to EWR is reliable with plenty of buffer.
+
+**Action:** Search Google Flights for PHL→LAX Jun 29 pricing closer to booking date. Confirm AA 824 (~9:28 AM) operates on Mondays.
+
+---
+
 ## Summary Budget Table
 
 ### Family Budget Legs (paid by Sukru/Marina)
@@ -748,6 +808,7 @@ Award search was not separately conducted for Leg 10, but based on Leg 9 data, e
 | 8 | LAX->PHL | Jun 25 (Thu) | 1 | $230 (Frontier red-eye) / $574 (AA nonstop) | 15k + $5.60 (unverified) | AA $574-$688 non-red-eye; coordinate with Leg 6 |
 | 9 | Croatia->EWR | ~Jun 23-25 | 1 | $587-$633 (BA or Turkish) | 44k + ~$60 | Cash at $587-633; award 44k if available |
 | 10 | EWR->Croatia | ~Jun 28-29 | 1 | $491-$714 (depends on destination) | ~44k + fees | Cash to ZAG at $491-$635 (prices LOW) |
+| 11 | PHL->LAX | Jun 29 (Mon) | 1 | ~$200-700 (AA nonstop, not yet priced) | TBD | AA ~9:28 AM — departs with M+L (Strategy A) |
 
 ### Family Budget Scenarios
 
@@ -809,10 +870,11 @@ With connecting fares instead of nonstops where available:
 
 | Component | Cost |
 |-----------|------|
-| Leg 8: LAX->PHL (1 pax, AA nonstop non-red-eye) | $574-$688 |
-| Leg 9: Croatia->EWR (1 pax, budget routing) | $587-$633 |
-| Leg 10: EWR->Croatia (1 pax, to ZAG) | $491-$635 |
-| **TOTAL (FIL/BIL)** | **$1,652-$1,956** |
+| Leg 8: LAX->PHL (FIL, AA nonstop non-red-eye) | $574-$688 |
+| Leg 9: Croatia->EWR (BIL, budget routing) | $587-$633 |
+| Leg 10: EWR->Croatia (BIL, to ZAG) | $491-$635 |
+| Leg 11: PHL->LAX (FIL, AA nonstop ~9:28 AM) | ~$200-$700 (not yet priced) |
+| **TOTAL (FIL/BIL)** | **$1,852-$2,656** |
 
 ---
 
