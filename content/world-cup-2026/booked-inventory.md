@@ -50,7 +50,7 @@ No flights booked yet. All legs researched with actual fares — see [09-flight-
 | 2B | DFW → BOS (Jun 18) | Marina + Luka | $327/pp AA nonstop | Not booked |
 | 3B | BOS → YYZ/YTZ (Jun 20) | All 4 | $137/pp Porter nonstop | Not booked |
 | 4 | YYZ → PHL (Jun 24) | Marina + Luka | $268/pp | Not booked |
-| 4B | BOS → PHL (Jun 25) | Sukru + Maja? | $119/pp JetBlue | Not booked |
+| 4B | BOS → PHL (Jun 25) | Sukru + Maja? | $94/pp JetBlue 6:46 AM / $299 6:10 PM | Not booked |
 | 5 | PHL → BOS (Jun 29) | Marina + Luka | $94/pp JetBlue nonstop | Not booked |
 | 6 | LAX → PHL (Jun 25) | FIL | $210–256/pp | Not booked (FIL pays) |
 | 7 | SPU/hub → EWR (Jun ~24–25) | BIL | $491–635 | Not booked (BIL pays) |

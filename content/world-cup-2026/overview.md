@@ -90,7 +90,7 @@ See [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun
 ```
 Jun 24 (Wed)  All 4 fly Toronto → BOS (S+M via YTZ, M+L via YYZ)
               M+L spend night at home
-Jun 25 (Thu)  M+L fly BOS → PHL (JetBlue 6:10 PM, $119/pp)
+Jun 25 (Thu)  M+L fly BOS → PHL (JetBlue 6:46 AM $94/pp or 6:10 PM $299/pp)
               FIL arrives PHL (from LAX)
               BIL arrives independently (via EWR+Amtrak)
 Jun 26 (Fri)  Philly sightseeing
