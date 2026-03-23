@@ -1,5 +1,5 @@
 ---
-title: "Flight Research — All Legs"
+title: "Flight Research -- All Legs"
 weight: 9
 ---
 
@@ -7,6 +7,7 @@ weight: 9
 **Trip dates:** June 15-28, 2026
 **Status:** ACTUAL PRICES from Google Flights and United.com (as of March 14, 2026)
 **United MileagePlus:** 34,882 miles available, Premier Silver (lower award prices confirmed)
+**Delta SkyMiles:** 82,480 miles available (searched 2026-03-22, logged in)
 
 ---
 
@@ -24,36 +25,39 @@ weight: 9
 ## Leg 1: BOS -> DFW -- June 15 (Monday)
 
 **Who:** Marina + Luka (definite); Scenario A adds Sukru + Maja (2 or 4 pax)
-**Constraint:** Departures after 12:00 PM only (school day). SCHOOL RISK flag on 12:00–4:30 PM departures.
+**Constraint:** Departures after 12:00 PM only (school day). SCHOOL RISK flag on 12:00-4:30 PM departures.
 
-### Cash Fares (Google Flights, searched 2026-03-20)
+### Cash Fares (Google Flights, searched 2026-03-21)
 
-Google Flights says: "Prices are currently **typical**" (was "high" on Mar 14 — prices dropped!)
+Google Flights says: "Prices are currently **typical**"
 
 **Nonstop options (after noon):**
 
 | Airline | Depart | Arrive | Duration | Price | Flags |
 |---------|--------|--------|----------|-------|-------|
-| Delta | 12:05 PM | 3:28 PM | 4h 23m | **$399** | SCHOOL RISK |
+| American | 9:00 AM | 12:23 PM | 4h 23m | **$389** | SCHOOL RISK |
 | American | 12:39 PM | 3:58 PM | 4h 19m | **$389** | SCHOOL RISK |
-| American | 2:27 PM | 5:49 PM | 4h 22m | **$527** | SCHOOL RISK |
 | American | 4:06 PM | 7:34 PM | 4h 28m | **$389** | SCHOOL RISK |
+| Delta | 12:05 PM | 3:15 PM | 4h 10m | **$399** | SCHOOL RISK |
+| American | 2:27 PM | 5:49 PM | 4h 22m | **$527** | SCHOOL RISK |
 | **American** | **5:57 PM** | **9:20 PM** | **4h 23m** | **$327** | |
-| **Delta** | **6:50 PM** | **10:14 PM** | **4h 24m** | **$339** | |
+| **Delta** | **6:50 PM** | **10:07 PM** | **4h 17m** | **$339** | |
 
 **Connecting (cheaper than $327 nonstop):**
 
 | Airline | Depart | Arrive | Duration | Price | Flags |
 |---------|--------|--------|----------|-------|-------|
+| Frontier | 6:00 AM | 12:29 PM | 7h 29m, 1 stop ATL | **$125** | |
 | Frontier | 12:01 PM | 10:39 PM | 11h 38m, 1 stop ATL | **$151** | SCHOOL RISK, CONNECTION RISK |
+| Spirit | 10:25 AM | 8:41 PM | 11h 16m, 1 stop MCO | **$192** | SCHOOL RISK, CONNECTION RISK |
 | United | 8:05 PM | 8:45 AM+1 | 13h 40m, 1 stop ORD (overnight) | **$211** | CONNECTION RISK |
 
-**Reference — morning nonstops (before constraint):**
+**Reference -- morning nonstops (before constraint):**
 
 | Airline | Depart | Arrive | Duration | Price |
 |---------|--------|--------|----------|-------|
 | American | 6:00 AM / 7:00 AM / 8:00 AM | various | 4h 23m | **$255** |
-| Delta | 7:05 AM | 10:26 AM | 4h 21m | **$339** |
+| Delta | 7:15 AM | 10:24 AM | 4h 9m | **$339** |
 
 JetBlue: Does NOT fly BOS-DFW (confirmed Mar 20)
 
@@ -61,19 +65,40 @@ JetBlue: Does NOT fly BOS-DFW (confirmed Mar 20)
 
 | Detail | Value |
 |--------|-------|
-| Cheapest Jun 15 | **15k miles + $5.60** (5:44 PM via EWR, 7h 15m) — **Saver Award** |
-| Premier Silver discount | **PREMIERS SAVE 36%** (23.5k → 15k) |
-| Meets after-noon? | YES — 5:44 PM departure |
-| Nonstop available? | No — all United flights are 1-stop |
+| Cheapest Jun 15 | **15k miles + $5.60** (5:44 PM via EWR, 7h 15m) -- **Saver Award** |
+| Premier Silver discount | **PREMIERS SAVE 36%** (23.5k -> 15k) |
+| Meets after-noon? | YES -- 5:44 PM departure |
+| Nonstop available? | No -- all United flights are 1-stop |
 | Next cheapest | 25.6k miles + $5.60 (5:45 AM via IAD or 4:57 PM via DEN) |
 | Date comparison | Jun 12: 23.5k / Jun 13: 26.8k / Jun 14: 23.5k / **Jun 15: 15k** / Jun 16: 15k / Jun 17: 15k / Jun 18: 15k |
 
+### Delta SkyMiles Award (delta.com, searched 2026-03-22, logged in as Sukru)
+
+**Balance:** 82,480 SkyMiles
+
+| Detail | Value |
+|--------|-------|
+| Cheapest Jun 15 | **25,400 miles + $6** (nonstop) |
+| Card Members Save (15% off) | **21,500 miles + $6** (requires Delta SkyMiles Amex) |
+| Nonstop available? | **YES** -- Delta flies BOS->DFW nonstop |
+| Date comparison | Jun 12: 23,300 / Jun 13: 25,400 / Jun 14: 23,300 / **Jun 15: 25,400** / Jun 16: 24,200 / Jun 17: 22,200 (LOWEST) / Jun 18: 23,300 |
+| cpp (vs Delta $339 cash) | $339 / 25,400 = **1.34 cpp** (or $339 / 21,500 = **1.58 cpp** with Amex discount) |
+| cpp (vs AA $327 cash) | $327 / 25,400 = **1.29 cpp** (or $327 / 21,500 = **1.52 cpp** with Amex) |
+
+### Award Comparison -- Leg 1
+
+| Program | Miles/pp | Fee/pp | Nonstop? | Cash equiv | cpp | 2 pax total miles |
+|---------|----------|--------|----------|-----------|-----|-------------------|
+| **United Saver** | **15,000** | $5.60 | No (1-stop EWR) | $327 | **2.18** | 30,000 |
+| Delta SkyMiles | 25,400 | $6.00 | **YES** | $339 | 1.34 | 50,800 |
+| Delta w/ Amex 15% | 21,500 | $6.00 | **YES** | $339 | 1.58 | 43,000 |
+
 ### Recommendation
 
-**Cash:** American 5:57 PM nonstop at **$327/person** (was $317 on Mar 14 — up $10). Arrives 9:20 PM. School is out by 5:57 PM.
-**Award:** **15k miles + $5.60** at 5:44 PM via EWR — **HUGE improvement** from 26.4k on Mar 14. Saver Award opened up with Premier Silver discount.
-**Cash value of award:** $327 / 15,000 = **2.18 cpp** — excellent redemption! Much better than 1.20 cpp before.
-**Best strategy:** Use 15k miles for ONE ticket on the 5:44 PM via EWR, buy the other at $327 cash. Saves $321 in cash for just 15k miles.
+**Cash:** American 5:57 PM nonstop at **$327/person**. Arrives 9:20 PM. School is out by 5:57 PM.
+**Best award:** United **15k Saver + $5.60** at 5:44 PM via EWR -- **2.18 cpp**, best value of any award option. But 1-stop (7h 15m vs 4h 23m nonstop).
+**Delta award:** 25,400 miles + $6 nonstop -- **1.34 cpp**. Lower value per mile but avoids the connection. With Amex 15% off: 21,500 miles at **1.58 cpp** -- solid.
+**Best strategy:** Use 15k United miles for ONE ticket (saves $321), buy the other at $327 AA cash. OR use 25,400 Delta miles for a nonstop seat if you prefer avoiding the connection.
 
 ---
 
@@ -117,36 +142,31 @@ Google Flights says: "Prices are currently **high**"
 
 ## Leg 2B: DFW -> BOS -- June 18 (Thursday) -- Scenario B (Updated)
 
-**Who:** Marina + Luka (2 pax) — returning home after Dallas, before everyone flies to Toronto together
-**Constraint:** None — flexible timing (morning preferred)
-**New for updated Scenario B:** M+L come home to BOS instead of flying DFW→YYZ
+**Who:** Marina + Luka (2 pax) -- returning home after Dallas, before everyone flies to Toronto together
+**Constraint:** None -- flexible timing (morning preferred)
+**New for updated Scenario B:** M+L come home to BOS instead of flying DFW->YYZ
 
-### Cash Fares (Google Flights, searched 2026-03-20)
+### Cash Fares (Google Flights, searched 2026-03-21)
 
-Google Flights says: "Prices are currently **HIGH**" — cheapest time to book: Mar 28–Jun 4
+Google Flights says: "Prices are currently **high**" -- cheapest time to book: Mar 28-Jun 4
 
 **Nonstop options:**
 
 | Airline | Depart | Arrive | Duration | Price | Flags |
 |---------|--------|--------|----------|-------|-------|
-| **American** | 7:00 AM | 11:49 AM | 3h 49m | **$327** | |
-| American | 8:00 AM | 12:49 PM | 3h 49m | **$327** | |
-| American | 8:51 AM | 1:37 PM | 3h 46m | **$327** | |
-| American | 9:30 AM | 2:18 PM | 3h 48m | **$327** | |
-| American | 10:24 AM | 3:16 PM | 3h 52m | **$327** | |
-| American | 12:17 PM | 5:07 PM | 3h 50m | **$327** | LATE DEPARTURE |
-| American | 2:25 PM – 7:15 PM | various | ~3h 50m | **$327** | LATE DEPARTURE (6 more) |
-| Delta | 7:35 AM | 12:30 PM | 3h 55m | **$509** | |
-| Delta | 5:00 PM | 9:51 PM | 3h 51m | **$509** | LATE DEPARTURE |
-| Delta | 11:15 AM | 4:12 PM | 3h 57m | **$609** | |
+| **American** | **6:20 PM** | **11:09 PM** | **3h 49m** | **$255** | |
+| **American** | **6:49 PM** | **11:38 PM** | **3h 49m** | **$255** | |
+| **American** | **7:15 PM** | **12:04 AM+1** | **3h 49m** | **$255** | |
+| American | 7:00 AM | 11:49 AM | 3h 49m | **$327** | |
+| American | 8:00 AM - 5:30 PM | various | ~3h 50m | **$327** | (8+ options all day) |
+| Delta | 7:35 AM | 12:30 PM | 3h 55m | -- | not shown Mar 21 |
 
-**Connecting (cheaper than $327 nonstop):**
+**Connecting (cheaper than $255 nonstop):**
 
 | Airline | Depart | Arrive | Duration | Price | Flags |
 |---------|--------|--------|----------|-------|-------|
 | Spirit | 2:15 PM | 11:59 PM | 8h 44m, 1 stop FLL | **$162** | LATE DEPARTURE, CONNECTION RISK |
 | Frontier | 4:16 PM | 1:27 AM+1 | 8h 11m, 1 stop ATL | **$210** | LATE DEPARTURE, CONNECTION RISK |
-| Sun Country | 6:55 PM | 9:33 AM+1 | 13h 38m, 1 stop MSP (overnight) | **$274** | LATE DEPARTURE, CONNECTION RISK |
 
 JetBlue: Does NOT fly DFW-BOS (confirmed Mar 20)
 
@@ -155,23 +175,41 @@ JetBlue: Does NOT fly DFW-BOS (confirmed Mar 20)
 | Detail | Value |
 |--------|-------|
 | Cheapest Jun 18 | **32.9k miles + $5.60** (6:00 AM via EWR, 6h 12m) |
-| Premier Silver discount | None shown — no Saver Award on Jun 18 |
-| Nonstop available? | No — all United flights are 1-stop |
+| Premier Silver discount | None shown -- no Saver Award on Jun 18 |
+| Nonstop available? | No -- all United flights are 1-stop |
 | Next cheapest | 32.9k miles (5:47 PM via ORD); 40k miles (5:10 AM via IAH) |
 | Date comparison | Jun 15: 15k / Jun 16: 15k / Jun 17: 15k / **Jun 18: 32.9k** / Jun 19: 15k / Jun 20: 15k / Jun 21: 23.5k |
 
+### Delta SkyMiles Award (delta.com, searched 2026-03-22, logged in as Sukru)
+
+| Detail | Value |
+|--------|-------|
+| Cheapest Jun 18 | **37,400 miles + $6** (1-stop only -- **NO Delta nonstop DFW->BOS**) |
+| Card Members Save (15% off) | **31,700 miles + $6** (requires Delta SkyMiles Amex) |
+| Nonstop available? | **NO** -- Delta does not fly DFW->BOS nonstop |
+| Date comparison | Jun 15: 25,400 / Jun 16: 22,200 (LOWEST) / Jun 17: 22,200 / **Jun 18: 37,400** / Jun 19: 23,300 / Jun 20: 23,300 / Jun 21: 23,300 |
+| cpp (vs AA $255 cash nonstop) | $255 / 37,400 = **0.68 cpp** -- terrible |
+
+### Award Comparison -- Leg 2B
+
+| Program | Miles/pp | Fee/pp | Nonstop? | Cash equiv | cpp | 2 pax total miles |
+|---------|----------|--------|----------|-----------|-----|-------------------|
+| **AA cash (best)** | **--** | **$255** | **YES** | -- | -- | -- |
+| United | 32,900 | $5.60 | No (1-stop) | $255 | 0.78 | 65,800 |
+| Delta SkyMiles | 37,400 | $6.00 | No (1-stop) | $255 | 0.68 | 74,800 |
+
 ### Recommendation
 
-**Cash:** American nonstop at **$327/person** ($654 for 2) — unchanged from Mar 18. Pick any departure time — 12 AA nonstops all priced identically. Morning flights (7:00 AM, 8:00 AM) arrive Boston by noon.
-**Award:** 32.9k miles is poor value vs $327 cash. Jun 18 has no Saver — shifting to Jun 17 or Jun 19 drops to 15k.
-**Cash value of award:** $327 / 32,900 = 0.99 cpp — not worth it. Use cash.
-**Note:** Jun 18 is the day after England vs Croatia — expect high demand from WC travelers leaving Dallas.
+**Cash:** American evening nonstop at **$255/person** ($510 for 2) -- ⬇️ **dropped $72/pp from $327 on Mar 20!** Three evening departures (6:20 PM, 6:49 PM, 7:15 PM) all at $255. Morning flights still $327.
+**Best pick:** AA 6:20 PM nonstop at $255 -- arrives BOS 11:09 PM. Saves $144 vs Mar 20 for 2 pax.
+**Award:** Neither United (0.78 cpp) nor Delta (0.68 cpp) makes sense on this leg -- both are 1-stop connections at poor value vs $255 AA nonstop. **Pay cash.**
+**Note:** Jun 18 is the day after England vs Croatia -- expect high demand from WC travelers leaving Dallas.
 
 ---
 
 ## Leg 3: BOS -> YYZ/YTZ -- June 18 (Thursday) -- OLD Scenario B (Superseded)
 
-> **⚠️ SUPERSEDED:** This leg was for the original Scenario B where Sukru + Maja flew to Toronto on Jun 18 while Marina + Luka flew DFW→YYZ. In the **updated Scenario B**, M+L return to Boston (Leg 2B above), and all 4 fly to Toronto together on Jun 20 or 21 (see Leg 3B below).
+> **[!] SUPERSEDED:** This leg was for the original Scenario B where Sukru + Maja flew to Toronto on Jun 18 while Marina + Luka flew DFW->YYZ. In the **updated Scenario B**, M+L return to Boston (Leg 2B above), and all 4 fly to Toronto together on Jun 20 or 21 (see Leg 3B below).
 
 **Who:** Sukru + Marina (2 pax)
 **Constraint:** After-5pm BOS departure (school day)
@@ -225,40 +263,41 @@ Google Flights: Prices **not flagged as high** (relatively moderate)
 **Context:** In updated Scenario B, Marina+Luka return from Dallas to Boston on Jun 18, family regroups, then all 4 fly to Toronto together.
 **Note:** Jun 19 departure means M+L have only ~18h at home after Dallas (return Jun 18 afternoon, depart Jun 19 morning). Jun 20 gives a full recovery day.
 
-### Cash Fares — June 19 (Friday) (Google Flights, searched 2026-03-19)
+### Cash Fares -- June 19 (Friday) (Google Flights, searched 2026-03-19)
 
-Google Flights: Prices "currently **typical**" — cheapest time to book now through Apr 19.
+Google Flights: Prices "currently **typical**" -- cheapest time to book now through Apr 19.
 
 #### BOS -> YYZ (Pearson)
 
 | Airline | Best Flight | Price/person | x4 Total | Notes |
 |---------|-------------|-------------|----------|-------|
 | **Air Canada/United** | 5:10 AM nonstop, 1h 55m | **$102** | **$409** | Cheapest but impractical with kids |
-| **Porter** (via AA) | 10:05 AM nonstop, 1h 55m | **$137** | **$546** | **Best practical option** — arrives noon |
+| **Porter** (via AA) | 10:05 AM nonstop, 1h 55m | **$137** | **$546** | **Best practical option** -- arrives noon |
 | **Porter** (via AA) | 6:35 PM nonstop, 1h 55m | **$137** | **$546** | Same price, evening arrival |
 | Porter (via AA) | 3:25 PM, 1 stop YOW, 4h 19m | $150 | $599 | |
 | Air Canada/United | 7:15 PM nonstop, 1h 55m | $187 | $746 | |
 | Air Canada/United | 5:00 PM nonstop, 2h 3m | $210 | $841 | |
 
-### Cash Fares — June 20 (Saturday) (Google Flights, searched 2026-03-19 — refreshed)
+### Cash Fares -- June 20 (Saturday) (Google Flights, searched 2026-03-21 -- refreshed)
 
-Google Flights: Prices "currently **typical**"
+Google Flights: Prices "currently **typical**" -- cheapest time to book now through Apr 20.
 
 #### BOS -> YYZ (Pearson)
 
 | Airline | Best Flight | Price/person | x4 Total | Notes |
 |---------|-------------|-------------|----------|-------|
-| Air Canada/United | 5:45 AM, 1 stop YUL, 4h 50m | $110 | $440 | Cheapest connecting |
-| **Porter** (via AA) | 6:35 PM nonstop, 1h 55m | **$137** | **$546** | **Best nonstop value** — evening arrival |
-| Porter (via AA) | 10:05 AM nonstop, 1h 55m | $161 | $644 | |
-| Air Canada/United | 5:10 AM nonstop, 1h 55m | $218 | $873 | |
+| Air Canada/United | 5:45 AM, 1 stop YUL, 4h 50m | $121 | $484 | Cheapest connecting (⬆️ was $110) |
+| **Porter** (via AA) | 6:35 PM nonstop, 1h 55m | **$150** | **$600** | **Best nonstop value** -- evening arrival (⬆️ was $137) |
+| Air Canada/United | 5:10 AM nonstop, 1h 55m | $218 | $873 | Unchanged |
+| Porter (via AA) | 10:05 AM nonstop, 1h 55m | $273 | $1,092 | ⬆️ was $161 -- nearly doubled |
+| Air Canada/United | 10:50 AM nonstop, 1h 55m | $304 | $1,214 | |
 | Air Canada/United | 7:15 PM nonstop, 1h 55m | $304 | $1,214 | |
 
 ### Jun 19 vs Jun 20 Comparison
 
 | | Jun 19 (Fri) | Jun 20 (Sat) | Difference |
 |---|---|---|---|
-| Best practical nonstop | $137/pp (Porter 10:05 AM) | $137/pp (Porter 6:35 PM) | **$0 — identical** |
+| Best practical nonstop | $137/pp (Porter 10:05 AM) | $137/pp (Porter 6:35 PM) | **$0 -- identical** |
 | x4 total | **$546** | **$546** | **$0** |
 | Arrival time | 12:00 PM (full afternoon) | 8:30 PM (travel day only) | Jun 19 gains a half-day |
 | AM Porter option | $137/pp 10:05 AM | $161/pp 10:05 AM | Jun 19 is **$96 cheaper for 4** |
@@ -270,7 +309,7 @@ Google Flights: Prices "currently **typical**"
 - **Jun 19 (Fri):** Arrive noon, full afternoon in Toronto + 4 more full days. Niagara Falls day trip feasible. But M+L have only ~18h recovery after Dallas.
 - **Jun 20 (Sat):** Arrive 8:30 PM, essentially a travel day. 3 full sightseeing days. Full recovery day for M+L on Jun 19. Can catch Germany vs Ivory Coast at Fan Festival if arriving earlier (AM Porter at $161/pp).
 
-**Flight cost is not a factor** — the extra Toronto day in Jun 19 costs $0 in airfare. The only additional cost is the extra hotel night (~$437–537 USD).
+**Flight cost is not a factor** -- the extra Toronto day in Jun 19 costs $0 in airfare. The only additional cost is the extra hotel night (~$437-537 USD).
 
 ---
 
@@ -279,20 +318,21 @@ Google Flights: Prices "currently **typical**"
 **Who:** Sukru + Maja (2 pax) in Scenario B; or all 4 in Scenario A
 **Constraint:** None -- flexible timing
 
-### Cash Fares (Google Flights, searched 2026-03-14)
+### Cash Fares (Google Flights, searched 2026-03-21 -- refreshed)
+
+Google Flights: Prices "currently **typical**"
 
 | Airline | Best Flight | Price/person | Notes |
 |---------|-------------|-------------|-------|
-| Air Canada/United | 8:10 AM nonstop, 1h 43m | **$161** | 4 daily AC nonstops all at $161 |
-| Air Canada/United | 10:05 AM nonstop, 1h 47m | **$161** | |
-| Air Canada/United | 2:25 PM nonstop, 1h 43m | **$161** | |
-| Air Canada/United | 8:55 PM nonstop, 1h 43m | **$161** | |
-| Porter | 7:25 AM nonstop, 1h 40m | **$162** | YYZ-based E195-E2 service |
-| Porter | 3:55 PM nonstop, 1h 40m | **$162** | |
-| Air Canada/United | 4:35 PM nonstop, 1h 47m | $207 | Premium departure time |
-| American (Republic) | 7:26 AM, 1 stop LGA, 6h 8m | $229 | Only AA option |
+| **Air Canada/United** | 10:05 AM nonstop, 1h 47m | **$156** | ⬇️ was $161 |
+| **Air Canada/United** | 2:25 PM nonstop, 1h 43m | **$156** | ⬇️ was $161 |
+| **Air Canada/United** | 8:10 AM nonstop, 1h 43m | **$156** | ⬇️ was $161 |
+| **Air Canada/United** | 8:55 PM nonstop, 1h 43m | **$156** | ⬇️ was $161 |
+| **Porter** | 7:25 AM nonstop, 1h 40m | **$156** | ⬇️ was $162 |
+| **Porter** | 3:55 PM nonstop, 1h 40m | **$156** | ⬇️ was $162 |
+| Air Canada/United | 10:30 AM, 1 stop, 4h 11m | $159 | |
 
-**Note:** Porter also operates YTZ->BOS from Billy Bishop -- likely similar pricing (~$131-162).
+**Note:** All 6 nonstops converged to $156/pp -- down $5-6 from Mar 14. Porter also operates YTZ->BOS from Billy Bishop.
 
 ### United MileagePlus Award
 
@@ -305,9 +345,9 @@ Google Flights: Prices "currently **typical**"
 
 ### Recommendation
 
-**Cash:** Air Canada nonstop at $161/person -- excellent value, 4 daily options. Porter at $162 essentially equal.
-**Award:** 18.2k + $69.42 is not worth it vs $161 cash.
-**Cash value of award:** ($161 - $69.42) / 18,200 = 0.50 cpp -- very poor. Use cash.
+**Cash:** All 6 nonstops at **$156/person** -- ⬇️ dropped $5-6 from Mar 14. AC and Porter identically priced. Pick any departure time.
+**Award:** 18.2k + $69.42 is not worth it vs $156 cash.
+**Cash value of award:** ($156 - $69.42) / 18,200 = 0.48 cpp -- very poor. Use cash.
 
 ---
 
@@ -389,7 +429,7 @@ Google Flights: "Prices are currently **typical**"
 |--------|-------|
 | B6 1159 6:46 AM | **6,100 pts + $5.60** (Core) |
 | B6 2459 6:10 PM | **22,200 pts + $5.60** (Core) |
-| Points available | **150,177 TrueBlue points** (pooled: Sukru 67,443 + Marina 82,734) |
+| Points available | **82,734 TrueBlue points** (confirmed at checkout) |
 | 2 pax (6:46 AM) | 12,200 pts + $11.20 total |
 | 2 pax (6:10 PM) | 44,400 pts + $11.20 total |
 | Date bar | 6,100 pts Jun 22-25 & 27-28; 8,800 pts Jun 26 |
@@ -400,14 +440,14 @@ Google Flights: "Prices are currently **typical**"
 
 **After-5pm best value: American 5:04 PM or 7:25 PM nonstop at $259/person ($518 for 2).**
 
-JetBlue 6:10 PM has increased from $119 to $299 since Mar 14 — no longer the cheapest after-5pm option. American and Delta are now better values for the school constraint.
+JetBlue 6:10 PM has increased from $119 to $299 since Mar 14 -- no longer the cheapest after-5pm option. American and Delta are now better values for the school constraint.
 
 **Points options:**
 - TrueBlue 6:10 PM at 22,200 pts/person = 44,400 pts for 2 (leaves 23,043 pts). Saves $299/person in cash but at only 1.35 cpp.
-- TrueBlue 6:46 AM at 6,100 pts/person = 12,200 pts for 2 — great value at 1.54 cpp, but violates school constraint.
+- TrueBlue 6:46 AM at 6,100 pts/person = 12,200 pts for 2 -- great value at 1.54 cpp, but violates school constraint.
 - **If school constraint can be relaxed:** JetBlue 6:46 AM at $94 cash or 6,100 pts is the standout deal.
 
-**Best pick for coordination with FIL (see Leg 8):** American 5:04 PM → arrives PHL 6:50 PM lines up best with LAX→PHL non-red-eye arrivals.
+**Best pick for coordination with FIL (see Leg 8):** American 5:04 PM -> arrives PHL 6:50 PM lines up best with LAX->PHL non-red-eye arrivals.
 
 ---
 
@@ -491,7 +531,7 @@ Google Flights says: "Prices are currently **HIGH**"
 |--------|-------|
 | Cheapest Jun 25 | **15k miles + $5.60** Saver (7:45 PM via DEN, arrives 5:31 AM+1) |
 | Same-day cheapest | **33k miles + $5.60** (5:10 AM via ORD, arrives 5:42 PM) |
-| Premier Silver | YES — "PREMIERS SAVE 43%" (26.5k → 15k on Saver) |
+| Premier Silver | YES -- "PREMIERS SAVE 43%" (26.5k -> 15k on Saver) |
 | Nonstop available? | No -- all United flights connect via DEN/ORD/IAD |
 | Date bar | Jun 25: **15k** / Jun 27-28: 15k / Jun 23-24: 22.3k / Jun 22,26: 26.5k |
 | Cash on United | $523-$575 (1-stop, Jun 25) |
@@ -499,19 +539,19 @@ Google Flights says: "Prices are currently **HIGH**"
 ### Recommendation
 
 **Budget nonstop:** Frontier 12:59 AM red-eye at $230 -- but arrives 9:16 AM, FIL spends day waiting.
-**Best non-red-eye nonstop:** American 6:00 AM → PHL 2:21 PM at $574. Good daytime arrival.
-**Best for coordination:** American 10:13 AM → PHL 6:35 PM at $688 -- arrives 15 min before M+L's AA 5:04 PM BOS→PHL (arrives 6:50 PM).
+**Best non-red-eye nonstop:** American 6:00 AM -> PHL 2:21 PM at $574. Good daytime arrival.
+**Best for coordination:** American 10:13 AM -> PHL 6:35 PM at $688 -- arrives 15 min before M+L's AA 5:04 PM BOS->PHL (arrives 6:50 PM).
 **Award (verified Mar 20):** 15k Saver via DEN (red-eye, arrives next day) or 33k via ORD same-day arriving 5:42 PM. Premier Silver discount confirmed.
 **Note:** Frontier basic fares do NOT include carry-on bags. AA nonstop at $574+ includes standard bags.
 
 ---
 
-## BOS↔PHL + LAX→PHL Coordination Analysis (2026-03-20)
+## BOS<->PHL + LAX->PHL Coordination Analysis (2026-03-20)
 
 ### Goal
-Marina+Luka fly BOS→PHL Jun 25 (after 5pm, school day). FIL flies LAX→PHL Jun 25 (non-red-eye preferred). Ideal: both groups land near the same time.
+Marina+Luka fly BOS->PHL Jun 25 (after 5pm, school day). FIL flies LAX->PHL Jun 25 (non-red-eye preferred). Ideal: both groups land near the same time.
 
-### United MileagePlus Award — LAX→PHL Jun 25 (united.com, searched 2026-03-20)
+### United MileagePlus Award -- LAX->PHL Jun 25 (united.com, searched 2026-03-20)
 
 Premier Silver (34,882 miles). "PREMIERS SAVE 43%" on Saver awards.
 
@@ -551,7 +591,7 @@ Date bar: Jun 25 = **15k** (Saver) / Jun 27-28 = 15k / Jun 22 & 26 = 26.5k / Jun
 
 ### Pairing 2: Best JetBlue TrueBlue Points
 
-M+L use 67,443 TrueBlue points for BOS→PHL. FIL pays cash.
+M+L use 67,443 TrueBlue points for BOS->PHL. FIL pays cash.
 
 | Who | Flight | Arrive PHL | Cost | Notes |
 |-----|--------|------------|------|-------|
@@ -578,7 +618,7 @@ M+L use 67,443 TrueBlue points for BOS→PHL. FIL pays cash.
 
 ### Pairing 3: Best United MileagePlus Points
 
-FIL uses family's 34,882 United miles for LAX→PHL. M+L pay cash.
+FIL uses family's 34,882 United miles for LAX->PHL. M+L pay cash.
 
 | Who | Flight | Arrive PHL | Cost | Notes |
 |-----|--------|------------|------|-------|
@@ -598,7 +638,7 @@ FIL uses family's 34,882 United miles for LAX→PHL. M+L pay cash.
 | M+L | AA BOS 5:04 PM nonstop | **6:50 PM** | $259/pp ($518) | After 5pm |
 
 - Family cost: **$518 + 15,000 miles + $5.60** | Remaining: 19,882 miles
-- FIL arrives next morning — no same-day coordination
+- FIL arrives next morning -- no same-day coordination
 
 ---
 
@@ -622,10 +662,10 @@ FIL uses family's 34,882 United miles for LAX→PHL. M+L pay cash.
 |--------|-----------|------------|----------|
 | **A: TrueBlue for M+L Legs 6+7 (AM)** | 24,400 TB | $376 | Max savings if school OK |
 | **B: TrueBlue for M+L Leg 6 PM** | 44,400 TB | $598 | After-5pm + coordination |
-| **C: United for FIL LAX→PHL** | 33,000 UA | $574-$688 | Covers FIL's ticket |
+| **C: United for FIL LAX->PHL** | 33,000 UA | $574-$688 | Covers FIL's ticket |
 | **D: B + C combined** | 44,400 TB + 33,000 UA | $1,255-$1,286 | All-points play |
 
-**Option D** uses both point stashes: TrueBlue covers M+L's BOS→PHL, United covers FIL's LAX→PHL. Total cash saved: ~$1,255. Remaining: 23,043 TrueBlue + 1,882 United.
+**Option D** uses both point stashes: TrueBlue covers M+L's BOS->PHL, United covers FIL's LAX->PHL. Total cash saved: ~$1,255. Remaining: 23,043 TrueBlue + 1,882 United.
 
 ---
 
@@ -727,22 +767,22 @@ Award search was not separately conducted for Leg 10, but based on Leg 9 data, e
 ## Leg 11: PHL -> LAX -- June 29 (Monday)
 
 **Who:** FIL (1 pax) -- paid separately, not in family budget
-**Constraint:** Coordinate departure with Marina+Luka's PHL→BOS (B6 1160, 9:12 AM) and/or BIL's transit to EWR
+**Constraint:** Coordinate departure with Marina+Luka's PHL->BOS (B6 1160, 9:12 AM) and/or BIL's transit to EWR
 **Research date:** 2026-03-21 (schedule-based; prices not yet searched for Jun 29)
 
-### Nonstop Schedule (American Airlines — only nonstop carrier PHL→LAX)
+### Nonstop Schedule (American Airlines -- only nonstop carrier PHL->LAX)
 
-Based on current AA PHL→LAX schedule (FlightStats, 2026-03-21). Jun 29 prices not yet confirmed — expect ~$200–700 range based on inbound (Leg 8) pricing patterns. Frontier may also offer nonstop (check closer to date).
+Based on current AA PHL->LAX schedule (FlightStats, 2026-03-21). Jun 29 prices not yet confirmed -- expect ~$200-700 range based on inbound (Leg 8) pricing patterns. Frontier may also offer nonstop (check closer to date).
 
 | Flight | Depart | Arrive LAX | Duration | Notes |
 |--------|--------|------------|----------|-------|
 | AA | ~6:15 AM | ~9:29 AM | ~6h 14m | Earliest departure |
 | AA 827 | ~8:22 AM | ~11:29 AM | ~6h 7m | Morning option |
-| **AA 824** | **~9:28 AM** | **~12:33 PM** | **~6h 5m** | **Best — departs 16 min after M+L's 9:12 AM B6 1160** |
+| **AA 824** | **~9:28 AM** | **~12:33 PM** | **~6h 5m** | **Best -- departs 16 min after M+L's 9:12 AM B6 1160** |
 | AA 2408 | ~10:45 AM | ~1:50 PM | ~6h 5m | Late morning |
 | AA | ~10:00 PM | ~1:01 AM+1 | ~6h 1m | Red-eye |
 
-**Note:** Flight numbers and times are from current schedule (Friday Mar 21). Jun 29 (Monday) schedule may vary slightly — confirm closer to booking.
+**Note:** Flight numbers and times are from current schedule (Friday Mar 21). Jun 29 (Monday) schedule may vary slightly -- confirm closer to booking.
 
 ### Departure Coordination Analysis
 
@@ -755,8 +795,8 @@ Based on current AA PHL→LAX schedule (FlightStats, 2026-03-21). Jun 29 prices 
 | Marina + Luka | B6 1160 | 9:12 AM | BOS |
 | **Marijan (FIL)** | **AA ~9:28 AM** | **~9:28 AM** | **LAX** |
 
-- All arrive PHL together ~7:00–7:30 AM, go through security, head to gates
-- Departures 16 min apart — effectively the same airport run
+- All arrive PHL together ~7:00-7:30 AM, go through security, head to gates
+- Departures 16 min apart -- effectively the same airport run
 - **Marijan is never alone**
 
 #### Strategy B: Hrvoje (BIL) escorts Marijan, then continues to EWR
@@ -764,23 +804,23 @@ Based on current AA PHL→LAX schedule (FlightStats, 2026-03-21). Jun 29 prices 
 | Time | What |
 |------|------|
 | ~7:00 AM | Hrvoje + Marijan arrive PHL |
-| ~8:22–9:28 AM | Marijan departs PHL→LAX |
-| ~9:30 AM | Hrvoje takes SEPTA Airport Line → 30th St Station (~25 min) |
-| ~10:00 AM | Amtrak NE Regional → Newark Penn (~1h 10min) |
+| ~8:22-9:28 AM | Marijan departs PHL->LAX |
+| ~9:30 AM | Hrvoje takes SEPTA Airport Line -> 30th St Station (~25 min) |
+| ~10:00 AM | Amtrak NE Regional -> Newark Penn (~1h 10min) |
 | ~11:30 AM | Hrvoje arrives EWR (NJ Transit/taxi from Newark Penn, ~20 min) |
-| 3:08 PM+ | Hrvoje's EWR→ZAG departures (see Leg 10) — 3.5h+ buffer |
+| 3:08 PM+ | Hrvoje's EWR->ZAG departures (see Leg 10) -- 3.5h+ buffer |
 
-- Hrvoje has **3.5+ hours** before the earliest EWR→ZAG departure
+- Hrvoje has **3.5+ hours** before the earliest EWR->ZAG departure
 - Works if BIL departs Jun 29 (booked inventory shows Jun 29)
-- PHL→EWR transit is well-served by Amtrak NE Regional (frequent departures)
+- PHL->EWR transit is well-served by Amtrak NE Regional (frequent departures)
 
 ### Recommendation
 
-**Strategy A is simplest.** Book AA ~9:28 AM PHL→LAX for Marijan. He goes to the airport with Marina+Luka and departs 16 min after them. No one waits, no one is alone.
+**Strategy A is simplest.** Book AA ~9:28 AM PHL->LAX for Marijan. He goes to the airport with Marina+Luka and departs 16 min after them. No one waits, no one is alone.
 
-**Strategy B is the backup** if Hrvoje is also departing Jun 29 and wants to escort — the Amtrak connection to EWR is reliable with plenty of buffer.
+**Strategy B is the backup** if Hrvoje is also departing Jun 29 and wants to escort -- the Amtrak connection to EWR is reliable with plenty of buffer.
 
-**Action:** Search Google Flights for PHL→LAX Jun 29 pricing closer to booking date. Confirm AA 824 (~9:28 AM) operates on Mondays.
+**Action:** Search Google Flights for PHL->LAX Jun 29 pricing closer to booking date. Confirm AA 824 (~9:28 AM) operates on Mondays.
 
 ---
 
@@ -808,7 +848,7 @@ Based on current AA PHL→LAX schedule (FlightStats, 2026-03-21). Jun 29 prices 
 | 8 | LAX->PHL | Jun 25 (Thu) | 1 | $230 (Frontier red-eye) / $574 (AA nonstop) | 15k + $5.60 (unverified) | AA $574-$688 non-red-eye; coordinate with Leg 6 |
 | 9 | Croatia->EWR | ~Jun 23-25 | 1 | $587-$633 (BA or Turkish) | 44k + ~$60 | Cash at $587-633; award 44k if available |
 | 10 | EWR->Croatia | ~Jun 28-29 | 1 | $491-$714 (depends on destination) | ~44k + fees | Cash to ZAG at $491-$635 (prices LOW) |
-| 11 | PHL->LAX | Jun 29 (Mon) | 1 | ~$200-700 (AA nonstop, not yet priced) | TBD | AA ~9:28 AM — departs with M+L (Strategy A) |
+| 11 | PHL->LAX | Jun 29 (Mon) | 1 | ~$200-700 (AA nonstop, not yet priced) | TBD | AA ~9:28 AM -- departs with M+L (Strategy A) |
 
 ### Family Budget Scenarios
 
@@ -836,35 +876,35 @@ With connecting fares instead of nonstops where available:
 
 #### Scenario B (Updated): M+L return to BOS from Dallas, all 4 fly to Toronto together
 
-**Jun 20 departure (4-night Toronto stay) — Budget pick:**
+**Jun 20 departure (4-night Toronto stay) -- Budget pick:**
 
 | Component | Cost |
 |-----------|------|
-| Leg 1: BOS→DFW (2 pax × $327 after-4:30pm nonstop) — M+L | $654 |
-| Leg 2B: DFW→BOS (2 pax × $327 AA nonstop) — M+L | $654 |
-| Leg 3B: BOS→YYZ (4 pax × $137 Porter nonstop Jun 20 6:35 PM) — all 4 | $546 |
-| Leg 4: YTZ→BOS (2 pax × $172 Porter) — S+M | $344 |
-| Leg 4b: YYZ→BOS (2 pax × $181 AC nonstop) — M+L | $362 |
-| Leg 6: BOS→PHL (2 pax × $259 AA nonstop after 5pm) — M+L | $518 |
-| Leg 7: PHL→BOS (2 pax × $94 JetBlue nonstop) — M+L | $188 |
+| Leg 1: BOS->DFW (2 pax × $327 after-4:30pm nonstop) -- M+L | $654 |
+| Leg 2B: DFW->BOS (2 pax × $327 AA nonstop) -- M+L | $654 |
+| Leg 3B: BOS->YYZ (4 pax × $137 Porter nonstop Jun 20 6:35 PM) -- all 4 | $546 |
+| Leg 4: YTZ->BOS (2 pax × $172 Porter) -- S+M | $344 |
+| Leg 4b: YYZ->BOS (2 pax × $181 AC nonstop) -- M+L | $362 |
+| Leg 6: BOS->PHL (2 pax × $259 AA nonstop after 5pm) -- M+L | $518 |
+| Leg 7: PHL->BOS (2 pax × $94 JetBlue nonstop) -- M+L | $188 |
 | **TOTAL (Scenario B, Jun 20, nonstop)** | **$3,256** |
 
-**Jun 19 departure (5-night Toronto stay) — Extra day:**
+**Jun 19 departure (5-night Toronto stay) -- Extra day:**
 
 | Component | Cost |
 |-----------|------|
-| Leg 1: BOS→DFW (2 pax × $327 after-4:30pm nonstop) — M+L | $654 |
-| Leg 2B: DFW→BOS (2 pax × $327 AA nonstop) — M+L | $654 |
-| Leg 3B: BOS→YYZ (4 pax × $137 Porter nonstop Jun 19 10:05 AM) — all 4 | $546 |
-| Leg 4: YTZ→BOS (2 pax × $172 Porter) — S+M | $344 |
-| Leg 4b: YYZ→BOS (2 pax × $181 AC nonstop) — M+L | $362 |
-| Leg 6: BOS→PHL (2 pax × $259 AA nonstop after 5pm) — M+L | $518 |
-| Leg 7: PHL→BOS (2 pax × $94 JetBlue nonstop) — M+L | $188 |
+| Leg 1: BOS->DFW (2 pax × $327 after-4:30pm nonstop) -- M+L | $654 |
+| Leg 2B: DFW->BOS (2 pax × $327 AA nonstop) -- M+L | $654 |
+| Leg 3B: BOS->YYZ (4 pax × $137 Porter nonstop Jun 19 10:05 AM) -- all 4 | $546 |
+| Leg 4: YTZ->BOS (2 pax × $172 Porter) -- S+M | $344 |
+| Leg 4b: YYZ->BOS (2 pax × $181 AC nonstop) -- M+L | $362 |
+| Leg 6: BOS->PHL (2 pax × $259 AA nonstop after 5pm) -- M+L | $518 |
+| Leg 7: PHL->BOS (2 pax × $94 JetBlue nonstop) -- M+L | $188 |
 | **TOTAL (Scenario B, Jun 19, nonstop)** | **$3,256** |
 
-**Flights are identical for Jun 19 and Jun 20** — both $137/pp Porter nonstop = $546 for 4.
+**Flights are identical for Jun 19 and Jun 20** -- both $137/pp Porter nonstop = $546 for 4.
 
-**Budget alternative (AA connecting BOS→DFW at $255/pp):** Jun 20 total: **$3,112** / Jun 19 total: **$3,112**
+**Budget alternative (AA connecting BOS->DFW at $255/pp):** Jun 20 total: **$3,112** / Jun 19 total: **$3,112**
 
 #### FIL/BIL Total (paid separately)
 
@@ -884,54 +924,54 @@ Re-searched key routes on Google Flights. Notable changes from Mar 14:
 
 | Route | Mar 14 Price | Mar 15 Price | Change |
 |-------|-------------|-------------|--------|
-| YTZ→BOS nonstop (Porter/Air Transat) | ~$113/pp | **$172/pp** | +$59 (+52%) |
-| YYZ→BOS nonstop (Air Canada/Porter) | $161/pp | **$181/pp** | +$20 (+12%) |
-| YYZ→PHL nonstop Jun 25 (Air Canada) | N/A (new) | **$268/pp** | Same as Jun 24 |
-| BOS→PHL Jun 25 JetBlue 6:10 PM | $119/pp | **$119/pp** | Unchanged |
-| BOS→PHL Jun 25 JetBlue 6:46 AM | $84/pp | **$84/pp** | Unchanged |
+| YTZ->BOS nonstop (Porter/Air Transat) | ~$113/pp | **$172/pp** | +$59 (+52%) |
+| YYZ->BOS nonstop (Air Canada/Porter) | $161/pp | **$181/pp** | +$20 (+12%) |
+| YYZ->PHL nonstop Jun 25 (Air Canada) | N/A (new) | **$268/pp** | Same as Jun 24 |
+| BOS->PHL Jun 25 JetBlue 6:10 PM | $119/pp | **$119/pp** | Unchanged |
+| BOS->PHL Jun 25 JetBlue 6:46 AM | $84/pp | **$84/pp** | Unchanged |
 
-**Toronto→Boston fares are rising fast.** YTZ nonstop up 52% in one day. Book ASAP.
+**Toronto->Boston fares are rising fast.** YTZ nonstop up 52% in one day. Book ASAP.
 
-**YYZ→PHL Jun 25 = same price as Jun 24** ($268/pp Air Canada nonstop). No penalty for shifting Philly arrival one day later.
+**YYZ->PHL Jun 25 = same price as Jun 24** ($268/pp Air Canada nonstop). No penalty for shifting Philly arrival one day later.
 
 ---
 
 ## Pricing Update (Mar 20, 2026)
 
-Re-searched BOS↔PHL and LAX→PHL on Google Flights + jetblue.com. Major changes:
+Re-searched BOS<->PHL and LAX->PHL on Google Flights + jetblue.com. Major changes:
 
 | Route | Mar 14 Price | Mar 20 Price | Change |
 |-------|-------------|-------------|--------|
-| BOS→PHL Jun 25 JetBlue 6:46 AM | $84/pp | **$94/pp** | +$10 (+12%) |
-| BOS→PHL Jun 25 JetBlue 6:10 PM | $119/pp | **$299/pp** | **+$180 (+151%)** |
-| BOS→PHL Jun 25 AA 5:04 PM | $259/pp | **$259/pp** | Unchanged |
-| BOS→PHL Jun 25 Delta 6:20 PM | $329/pp | **$269/pp** | -$60 (-18%) |
-| PHL→BOS Jun 29 JetBlue 9:12 AM | $84/pp (Jun 28) | **$94/pp** | +$10 (+12%) |
-| PHL→BOS Jun 29 AA nonstops | $439/pp (Jun 28) | **$244/pp** | **-$195 (-44%)** |
-| PHL→BOS Jun 29 Delta 6:00 AM | $229/pp (Jun 28) | **$94/pp** | **-$135 (-59%)** |
-| LAX→PHL Jun 25 Frontier nonstop | $230/pp | **$230/pp** | Unchanged |
-| LAX→PHL Jun 25 AA 6:00 AM nonstop | $574/pp | **$574/pp** | Unchanged |
+| BOS->PHL Jun 25 JetBlue 6:46 AM | $84/pp | **$94/pp** | +$10 (+12%) |
+| BOS->PHL Jun 25 JetBlue 6:10 PM | $119/pp | **$299/pp** | **+$180 (+151%)** |
+| BOS->PHL Jun 25 AA 5:04 PM | $259/pp | **$259/pp** | Unchanged |
+| BOS->PHL Jun 25 Delta 6:20 PM | $329/pp | **$269/pp** | -$60 (-18%) |
+| PHL->BOS Jun 29 JetBlue 9:12 AM | $84/pp (Jun 28) | **$94/pp** | +$10 (+12%) |
+| PHL->BOS Jun 29 AA nonstops | $439/pp (Jun 28) | **$244/pp** | **-$195 (-44%)** |
+| PHL->BOS Jun 29 Delta 6:00 AM | $229/pp (Jun 28) | **$94/pp** | **-$135 (-59%)** |
+| LAX->PHL Jun 25 Frontier nonstop | $230/pp | **$230/pp** | Unchanged |
+| LAX->PHL Jun 25 AA 6:00 AM nonstop | $574/pp | **$574/pp** | Unchanged |
 
 **Legs 1 & 2B refreshed (same date):**
 
 | Route | Previous Price | Mar 20 Price | Change |
 |-------|---------------|-------------|--------|
-| BOS→DFW Jun 15 AA 5:57 PM nonstop | $317/pp (Mar 14) | **$327/pp** | +$10 (+3%) |
-| BOS→DFW Jun 15 AA AM nonstops | $245/pp (Mar 14) | **$255/pp** | +$10 (+4%) |
-| BOS→DFW Jun 15 Google assessment | "HIGH" | **"TYPICAL"** | Downgraded risk! |
-| BOS→DFW Jun 15 United award | 26.4k mi (Mar 14) | **15k mi (Saver!)** | **-11.4k (-43%)** |
-| DFW→BOS Jun 18 AA nonstops | $327/pp (Mar 18) | **$327/pp** | Unchanged |
-| DFW→BOS Jun 18 Spirit connecting | $172/pp (Mar 18) | **$162/pp** | -$10 (-6%) |
-| DFW→BOS Jun 18 United award | N/A (new) | **32.9k mi + $5.60** | New data |
+| BOS->DFW Jun 15 AA 5:57 PM nonstop | $317/pp (Mar 14) | **$327/pp** | +$10 (+3%) |
+| BOS->DFW Jun 15 AA AM nonstops | $245/pp (Mar 14) | **$255/pp** | +$10 (+4%) |
+| BOS->DFW Jun 15 Google assessment | "HIGH" | **"TYPICAL"** | Downgraded risk! |
+| BOS->DFW Jun 15 United award | 26.4k mi (Mar 14) | **15k mi (Saver!)** | **-11.4k (-43%)** |
+| DFW->BOS Jun 18 AA nonstops | $327/pp (Mar 18) | **$327/pp** | Unchanged |
+| DFW->BOS Jun 18 Spirit connecting | $172/pp (Mar 18) | **$162/pp** | -$10 (-6%) |
+| DFW->BOS Jun 18 United award | N/A (new) | **32.9k mi + $5.60** | New data |
 
 **Key takeaways:**
-- **JetBlue 6:10 PM BOS→PHL skyrocketed** from $119 to $299 -- American 5:04 PM at $259 is now the cheapest after-5pm option
-- **PHL→BOS return fares collapsed** -- Delta/JetBlue at $94, AA from $439 down to $244
-- **LAX→PHL stable** at $230 (Frontier red-eye) and $574 (AA nonstop)
+- **JetBlue 6:10 PM BOS->PHL skyrocketed** from $119 to $299 -- American 5:04 PM at $259 is now the cheapest after-5pm option
+- **PHL->BOS return fares collapsed** -- Delta/JetBlue at $94, AA from $439 down to $244
+- **LAX->PHL stable** at $230 (Frontier red-eye) and $574 (AA nonstop)
 - **JetBlue TrueBlue:** 6,100 pts for AM flights (1.54 cpp), 22,200 pts for 6:10 PM (1.35 cpp)
-- **BOS→DFW Saver Award opened!** 15k miles on Jun 15 (was 26.4k) — best United redemption in the entire trip at 2.18 cpp
-- **BOS→DFW prices dropped from "HIGH" to "TYPICAL"** — WC premium may be easing on this route
-- **DFW→BOS unchanged** at $327 AA nonstop; no United Saver on Jun 18 (32.9k)
+- **BOS->DFW Saver Award opened!** 15k miles on Jun 15 (was 26.4k) -- best United redemption in the entire trip at 2.18 cpp
+- **BOS->DFW prices dropped from "HIGH" to "TYPICAL"** -- WC premium may be easing on this route
+- **DFW->BOS unchanged** at $327 AA nonstop; no United Saver on Jun 18 (32.9k)
 
 ---
 
@@ -967,14 +1007,14 @@ Or single use:
 | **Leg 1: BOS->DFW x1 (Jun 15, 5:44 PM)** | **15,000** | **~$321** | **2.18** |
 | Remaining | **19,882** | -- | -- |
 
-**Recommendation:** Use **15k miles on ONE BOS->DFW ticket (Leg 1) at 2.18 cpp** — the best redemption in the entire trip. This saves $321 in cash and leaves 19,882 miles for potential use on another leg. The Saver Award at 15k (with Premier Silver 36% discount) is a massive improvement from the 26.4k price on Mar 14.
+**Recommendation:** Use **15k miles on ONE BOS->DFW ticket (Leg 1) at 2.18 cpp** -- the best redemption in the entire trip. This saves $321 in cash and leaves 19,882 miles for potential use on another leg. The Saver Award at 15k (with Premier Silver 36% discount) is a massive improvement from the 26.4k price on Mar 14.
 
 ### Booking Priority
 
 1. **Book NOW:** BOS->DFW (Leg 1) -- prices dropped to "TYPICAL" but Saver Award at 15k is exceptional value
 2. **Book NOW:** DFW->YYZ (Leg 2) -- prices are HIGH and rising
 3. **Book NOW:** EWR->ZAG (Leg 10) -- prices are currently LOW
-4. **Book NOW:** Porter YTZ->BOS (Leg 4) -- **up 52% in 1 day** ($113→$172), still rising
+4. **Book NOW:** Porter YTZ->BOS (Leg 4) -- **up 52% in 1 day** ($113->$172), still rising
 5. **Book soon:** YYZ->PHL (Leg 5) or BOS->PHL (Leg 6) -- depends on Philly arrival timing decision
 6. **Monitor:** PHL->BOS (Leg 7) -- JetBlue at $84 is still great
 7. **Monitor:** LAX->PHL (Leg 8) and Croatia->EWR (Leg 9) -- FIL/BIL decision pending

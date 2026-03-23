@@ -1,10 +1,10 @@
 ---
-title: "Philadelphia — Trip Research"
+title: "Philadelphia -- Trip Research"
 weight: 5
 ---
 
 **Game:** Croatia vs. Ghana (Group L, Matchday 3)
-**Date:** Saturday, June 27, 2026 — 5:00 PM ET kickoff
+**Date:** Saturday, June 27, 2026 -- 5:00 PM ET kickoff
 **Venue:** Lincoln Financial Field (renamed "Philadelphia Stadium" for the tournament), ~69,000 capacity
 **Also playing in Philly that week:** June 25 (Thu) Curaçao vs. Côte d'Ivoire at 4 PM ET
 
@@ -12,65 +12,65 @@ weight: 5
 
 | Person | Arriving From | Arrival Date | Departure |
 |--------|--------------|-------------|-----------|
-| **Marina** | Toronto → BOS → PHL | **Thu Jun 25** | Mon, Jun 29 → BOS |
-| **Luka** | Toronto → BOS → PHL | **Thu Jun 25** | Mon, Jun 29 → BOS |
-| **FIL** (Marina's father) | Los Angeles (LAX → PHL) | **Thu Jun 25** | Mon, Jun 29 → LAX |
-| **BIL** (Marina's brother) | Zadar, Croatia (ZAD → EWR → PHL) | **~Jun 23–25** | Mon, Jun 29 → EWR → ZAD |
+| **Marina** | Toronto -> BOS -> PHL | **Thu Jun 25** | Mon, Jun 29 -> BOS |
+| **Luka** | Toronto -> BOS -> PHL | **Thu Jun 25** | Mon, Jun 29 -> BOS |
+| **FIL** (Marina's father) | Los Angeles (LAX -> PHL) | **Thu Jun 25** | Mon, Jun 29 -> LAX |
+| **BIL** (Marina's brother) | Zadar, Croatia (ZAD -> EWR -> PHL) | **~Jun 23-25** | Mon, Jun 29 -> EWR -> ZAD |
 
-**Plan: Arrive Jun 25, depart Jun 29** — 4 nights, 3 sightseeing days. Extended from original 3 nights to give BIL (traveling from Croatia) a more worthwhile trip.
+**Plan: Arrive Jun 25, depart Jun 29** -- 4 nights, 3 sightseeing days. Extended from original 3 nights to give BIL (traveling from Croatia) a more worthwhile trip.
 
 **Note:** Sukru + Maja do NOT attend the Philly game. This is Marina + Luka + extended family.
 
-FIL and BIL's travel costs (flights + 1 hotel room) are separate from the family budget. See [11 — Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for details.
+FIL and BIL's travel costs (flights + 1 hotel room) are separate from the family budget. See [11 -- Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for details.
 
 ---
 
-## 0. Arrival Coordination — Jun 25 (Option C)
+## 0. Arrival Coordination -- Jun 25 (Option C)
 
-Marina, FIL, and BIL converge on Philadelphia on **Thursday, June 25** (Option C — fly home first, then BOS→PHL). Jun 24 arrival available at +~$600 (see [11 — Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25)). All shift together — everyone checks in the same day. Only Marina and FIL need to coordinate arrival times — BIL arrives independently.
+Marina, FIL, and BIL converge on Philadelphia on **Thursday, June 25** (Option C -- fly home first, then BOS->PHL). Jun 24 arrival available at +~$600 (see [11 -- Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25)). All shift together -- everyone checks in the same day. Only Marina and FIL need to coordinate arrival times -- BIL arrives independently.
 
-### Marina + Luka (YYZ → PHL) — coordinate with FIL
+### Marina + Luka (YYZ -> PHL) -- coordinate with FIL
 
 - Nonstop flights available on Air Canada, American, or United
 - Flight time: ~1.5 hours
 - Target arrival: early-to-mid afternoon
 - They'll have checked out of the Toronto hotel that morning
 
-### FIL (LAX → PHL) — coordinate with Marina
+### FIL (LAX -> PHL) -- coordinate with Marina
 
 - Nonstop flights available on American (PHL is AA's hub), Delta, JetBlue, Spirit, Frontier
 - Flight time: ~5 hours
-- **Coordinate arrival within 1–2 hours of Marina's flight** so they can share a ride to the hotel
-- A morning LAX departure (e.g., 8 AM PT → ~4 PM ET arrival) could align with a midday YYZ departure
+- **Coordinate arrival within 1-2 hours of Marina's flight** so they can share a ride to the hotel
+- A morning LAX departure (e.g., 8 AM PT -> ~4 PM ET arrival) could align with a midday YYZ departure
 
-### BIL (Zadar → Philadelphia area) — arrives independently
+### BIL (Zadar -> Philadelphia area) -- arrives independently
 
-BIL does **not** need to arrive at the same time as Marina and FIL. He can arrive earlier (Jun 23) or later (Jun 24 evening) — whatever routing works best.
+BIL does **not** need to arrive at the same time as Marina and FIL. He can arrive earlier (Jun 23) or later (Jun 24 evening) -- whatever routing works best.
 
 #### Recommended: Fly into EWR + Amtrak to Philly
 
-Newark (EWR) has **56+ weekly nonstop flights** from European hubs vs. PHL's 4–5/week from Frankfurt only. This gives BIL dramatically more options:
+Newark (EWR) has **56+ weekly nonstop flights** from European hubs vs. PHL's 4-5/week from Frankfurt only. This gives BIL dramatically more options:
 
-**Best option: Zadar → Split (2h bus, ~$15) → EWR nonstop (United, 767-300ER)**
-- United launches SPU→EWR 3x/week for summer 2026 (from Split: Sun, Wed, Fri)
+**Best option: Zadar -> Split (2h bus, ~$15) -> EWR nonstop (United, 767-300ER)**
+- United launches SPU->EWR 3x/week for summer 2026 (from Split: Sun, Wed, Fri)
 - June 24 is a Wednesday = operating day
 - ~10-hour nonstop flight, no European hub connection needed
-- EWR → Philadelphia 30th Street Station: Amtrak Northeast Regional (~1 hour, $11–55)
-- Total door-to-door: ~14–15 hours
-- **All-in cost: $425–870** (bus + flight + Amtrak)
+- EWR -> Philadelphia 30th Street Station: Amtrak Northeast Regional (~1 hour, $11-55)
+- Total door-to-door: ~14-15 hours
+- **All-in cost: $425-870** (bus + flight + Amtrak)
 
-**Backup: ZAD → FRA or MUC → EWR (Lufthansa/United)**
+**Backup: ZAD -> FRA or MUC -> EWR (Lufthansa/United)**
 - 2 flights instead of 3 (no intra-Germany leg needed)
-- 14 weekly nonstops from both FRA and MUC to EWR (vs. 4–5/week FRA→PHL)
+- 14 weekly nonstops from both FRA and MUC to EWR (vs. 4-5/week FRA->PHL)
 - Easy same-day rebooking if disrupted
-- Total door-to-door: 13–17 hours + 1 hour Amtrak
-- **All-in cost: $510–955** (flights + Amtrak)
+- Total door-to-door: 13-17 hours + 1 hour Amtrak
+- **All-in cost: $510-955** (flights + Amtrak)
 
-**Original option: ZAD → MUC → FRA → PHL (Lufthansa/Discover)**
-- Still works, but 3 flights, 16–20 hours, and depends on Discover Airlines' 4–5x/week FRA→PHL service
-- **Cost: $600–1,200**
+**Original option: ZAD -> MUC -> FRA -> PHL (Lufthansa/Discover)**
+- Still works, but 3 flights, 16-20 hours, and depends on Discover Airlines' 4-5x/week FRA->PHL service
+- **Cost: $600-1,200**
 
-See [11 — Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for full comparison.
+See [11 -- Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for full comparison.
 
 ### Arrival Plan
 
@@ -82,13 +82,13 @@ Flexible     BIL arrives independently (via EWR+Amtrak or PHL)
 Evening      Everyone meets at hotel, dinner together
 ```
 
-*Only the YYZ→PHL and LAX→PHL flights need to be coordinated. BIL books whatever works best for his routing.*
+*Only the YYZ->PHL and LAX->PHL flights need to be coordinated. BIL books whatever works best for his routing.*
 
 ---
 
 ## 1. Flying from Boston
 
-### Nonstop Options: BOS → PHL
+### Nonstop Options: BOS -> PHL
 
 | Airline | Nonstops/week | Notes |
 |---------|--------------|-------|
@@ -98,24 +98,24 @@ Evening      Everyone meets at hotel, dinner together
 | **Frontier** | varies | Budget option |
 
 - **Flight time:** ~1 hour 37 minutes
-- **Multiple daily options** — frequent nonstop service throughout the day
-- Typical fares: $57–$130+ each way (will spike for World Cup dates — book early)
+- **Multiple daily options** -- frequent nonstop service throughout the day
+- Typical fares: $57-$130+ each way (will spike for World Cup dates -- book early)
 
-### Airport → City / Stadium
+### Airport -> City / Stadium
 
-- **PHL to Center City:** ~20 min by SEPTA Airport Line train ($8), or 15–20 min by Uber ($20–30)
+- **PHL to Center City:** ~20 min by SEPTA Airport Line train ($8), or 15-20 min by Uber ($20-30)
 - **PHL to Lincoln Financial Field:** ~15 min by car/Uber. Or take Airport Line to any Center City station, then Broad Street Line south to NRG Station.
-- Philadelphia is compact and well-connected by transit — **no rental car needed**.
+- Philadelphia is compact and well-connected by transit -- **no rental car needed**.
 
 ### Recommendation
 
-Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA trains + subway for everything. The city is walkable and the stadium has a dedicated subway stop.
+Fly nonstop BOS->PHL (American or JetBlue). Skip the rental car -- use SEPTA trains + subway for everything. The city is walkable and the stadium has a dedicated subway stop.
 
 ### Alternative: Drive
 
 - **294 miles, ~5 hours 40 minutes** from Newton
-- Mass Pike → I-84 → I-91/I-95 south through CT/NY/NJ into Philly
-- Tolls: E-ZPass saves up to 50%. Total fuel + tolls ~$50–80 one way.
+- Mass Pike -> I-84 -> I-91/I-95 south through CT/NY/NJ into Philly
+- Tolls: E-ZPass saves up to 50%. Total fuel + tolls ~$50-80 one way.
 - **Friday tip:** Leave before noon or after 8 PM to avoid NYC-area traffic.
 - Driving is a solid option for a family of 4 (saves airfare, car seats flexibility, bring more stuff). The 5.5-hour drive is very doable.
 
@@ -123,34 +123,34 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 
 ## 2. Kid-Friendly Attractions
 
-### Tier 1 — Must-Do
+### Tier 1 -- Must-Do
 
 **The Franklin Institute** (Center City)
 - One of the best science museums in the country. Giant Heart (walk-through, two stories), earthquake simulator, weather forecasting, planetarium, rocket launches.
-- Hands-on STEM throughout — great for both Luka (11) and Maja (7).
-- Allow 3–4 hours.
+- Hands-on STEM throughout -- great for both Luka (11) and Maja (7).
+- Allow 3-4 hours.
 
 **Philadelphia Zoo** (West Philly / Fairmount Park)
 - America's first zoo (1874). 1,300+ animals, 42 acres.
-- Zoo360 trail system — animals travel through overhead mesh trails across the zoo. Unique experience.
+- Zoo360 trail system -- animals travel through overhead mesh trails across the zoo. Unique experience.
 - New Bear Country exhibit opening 2026.
-- Great for all ages. Allow 3–4 hours.
+- Great for all ages. Allow 3-4 hours.
 
 **Please Touch Museum** (Fairmount Park)
-- Designed for kids age 7 and under — perfect for Maja.
+- Designed for kids age 7 and under -- perfect for Maja.
 - River Adventures water table, 100+ year old carousel, Rocket Room with foam rocket launchers, construction zone.
 - Located in Memorial Hall, Fairmount Park.
-- Allow 2–3 hours.
+- Allow 2-3 hours.
 
 **Franklin Square** (Old City area)
-- Philly Mini Golf (18 holes, landmark-themed — Liberty Bell, LOVE statue, Rocky steps), Parx Liberty Carousel, splash pad, playground.
+- Philly Mini Golf (18 holes, landmark-themed -- Liberty Bell, LOVE statue, Rocky steps), Parx Liberty Carousel, splash pad, playground.
 - Free to enter; rides have small fees (~$5 each).
-- Great casual stop. Allow 1–2 hours.
+- Great casual stop. Allow 1-2 hours.
 
-### Tier 2 — If You Have Time
+### Tier 2 -- If You Have Time
 
 **Independence Hall & Liberty Bell** (Old City)
-- Free. Liberty Bell Center open 9 AM–5 PM daily, no tickets needed.
+- Free. Liberty Bell Center open 9 AM-5 PM daily, no tickets needed.
 - Independence Hall requires free timed tickets (book on Recreation.gov in advance).
 - Where the Declaration of Independence and Constitution were signed. Good for Luka.
 
@@ -162,9 +162,9 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 - Interactive exhibits, immersive theaters, George Washington's actual war tent.
 - Good for Luka.
 
-**Adventure Aquarium** (Camden, NJ — across the Delaware River)
+**Adventure Aquarium** (Camden, NJ -- across the Delaware River)
 - Touch tanks, shark exhibits, hippos. Accessible via RiverLink Ferry from Penn's Landing.
-- Allow 2–3 hours.
+- Allow 2-3 hours.
 
 **Eastern State Penitentiary** (Fairmount)
 - Fascinating historic prison. Al Capone's cell. Eerie atmosphere.
@@ -174,7 +174,7 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 
 - Choose 3, 4, or 5 attractions at up to 51% off gate prices.
 - Includes: Franklin Institute, Philadelphia Zoo, Academy of Natural Sciences, Adventure Aquarium, and more.
-- Child passes available (ages 2–12).
+- Child passes available (ages 2-12).
 - Buy at citypass.com/philadelphia.
 
 ---
@@ -183,8 +183,8 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 
 ### FIFA Fan Festival at Lemon Hill (East Fairmount Park)
 
-- **Location:** Lemon Hill, East Fairmount Park — sweeping skyline views over the Schuylkill River
-- **Dates:** June 11 – July 19, 2026 (covers entire tournament)
+- **Location:** Lemon Hill, East Fairmount Park -- sweeping skyline views over the Schuylkill River
+- **Dates:** June 11 - July 19, 2026 (covers entire tournament)
 - **Admission:** FREE, open to the public
 - **Capacity:** Up to 25,000
 - **What's there:** Giant screens broadcasting every match live, international food vendors, live music/entertainment, cultural performances, activations
@@ -196,14 +196,14 @@ Fly nonstop BOS→PHL (American or JetBlue). Skip the rental car — use SEPTA t
 
 - **6 matches total in Philadelphia:** 5 group stage + 1 Round of 16 on July 4
 - **FIFA World Cup Trophy Tour:** Hits Philadelphia on May 21, 2026
-- **2026 is America's 250th anniversary** — major celebrations in Philadelphia, especially July 1–5. Living-history events and hands-on kids activities at Independence Hall area.
+- **2026 is America's 250th anniversary** -- major celebrations in Philadelphia, especially July 1-5. Living-history events and hands-on kids activities at Independence Hall area.
 
 ---
 
 ## 4. Where to Stay
 
 **Need: 2 rooms, each with 2 queen beds** (1 for Marina + Luka, 1 for FIL + BIL).
-**Dates:** Jun 24–28 (4 nights).
+**Dates:** Jun 24-28 (4 nights).
 **Preference:** Marriott Bonvoy properties (for points/status).
 Marina + Luka's room is family budget. FIL + BIL's room is their own separate budget.
 
@@ -211,18 +211,18 @@ Marina + Luka's room is family budget. FIL + BIL's room is their own separate bu
 
 - Central to everything. Walking distance to Reading Terminal Market, museums, restaurants.
 - Easy SEPTA Broad Street Line subway access to the stadium (~15 min to NRG Station).
-- Rittenhouse Square park is lovely — shady, people-watching, nearby cafes.
+- Rittenhouse Square park is lovely -- shady, people-watching, nearby cafes.
 
 **Marriott Bonvoy options (Center City):**
-- **Philadelphia Marriott Downtown** — 1201 Market St. Large property, 2-queen rooms available. Steps from Reading Terminal Market and Convention Center. Broad Street Line access.
-- **Courtyard Philadelphia Downtown** — Center City location, 2-queen rooms. More affordable Marriott option.
-- **Residence Inn Philadelphia Center City** — suite-style with kitchenette. Good for families.
-- **Sheraton Philadelphia Downtown** — 17th & Race. Large rooms, pool. Walkable to Parkway museums.
+- **Philadelphia Marriott Downtown** -- 1201 Market St. Large property, 2-queen rooms available. Steps from Reading Terminal Market and Convention Center. Broad Street Line access.
+- **Courtyard Philadelphia Downtown** -- Center City location, 2-queen rooms. More affordable Marriott option.
+- **Residence Inn Philadelphia Center City** -- suite-style with kitchenette. Good for families.
+- **Sheraton Philadelphia Downtown** -- 17th & Race. Large rooms, pool. Walkable to Parkway museums.
 
 **Non-Marriott options (for reference):**
-- **Canopy by Hilton Center City** — connecting rooms, daily housekeeping, kid-friendly breakfast
-- **The Windsor Suites** — spacious rooms with kitchens, heated pool, free cribs, rollaway beds
-- **Sofitel at Rittenhouse Square** — upscale, free cribs, sofa beds
+- **Canopy by Hilton Center City** -- connecting rooms, daily housekeeping, kid-friendly breakfast
+- **The Windsor Suites** -- spacious rooms with kitchens, heated pool, free cribs, rollaway beds
+- **Sofitel at Rittenhouse Square** -- upscale, free cribs, sofa beds
 
 ### Option 2: Old City
 
@@ -232,31 +232,31 @@ Marina + Luka's room is family budget. FIL + BIL's room is their own separate bu
 
 ### Option 3: Near the Stadium (South Philly Sports Complex)
 
-- **Courtyard Philadelphia South at The Navy Yard** — Marriott Bonvoy property. Walking distance to stadium. Good for game-day convenience.
-- **Live Casino & Hotel** — 13-min walk to Lincoln Financial Field
+- **Courtyard Philadelphia South at The Navy Yard** -- Marriott Bonvoy property. Walking distance to stadium. Good for game-day convenience.
+- **Live Casino & Hotel** -- 13-min walk to Lincoln Financial Field
 - Downside: isolated from Center City attractions; not walkable to much else
 
 ### Booking Note
 
-Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 game (Curaçao vs. Côte d'Ivoire) two days before yours means the city will already be full of fans. **Two rooms for 4 nights during the World Cup will be competitive — book as soon as plans are confirmed.**
+Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 game (Curaçao vs. Côte d'Ivoire) two days before yours means the city will already be full of fans. **Two rooms for 4 nights during the World Cup will be competitive -- book as soon as plans are confirmed.**
 
 ---
 
-## 5. Food Scene — Family Highlights
+## 5. Food Scene -- Family Highlights
 
 ### Cheesesteaks (mandatory)
 
-- **Pat's King of Steaks & Geno's Steaks** — iconic rivals, across the street from each other at 9th & Passyunk. Touristy but a fun experience for kids. Open late.
-- **Jim's Steaks** — locals' favorite, arguably better meat quality. South Street location.
-- **By George** (Reading Terminal Market) — great cheesesteaks, and a portion of profits feeds a child in need.
-- **Uncle Gus' Steaks** (Reading Terminal Market) — new standout from the Angelo's Pizzeria / DiNic's team.
+- **Pat's King of Steaks & Geno's Steaks** -- iconic rivals, across the street from each other at 9th & Passyunk. Touristy but a fun experience for kids. Open late.
+- **Jim's Steaks** -- locals' favorite, arguably better meat quality. South Street location.
+- **By George** (Reading Terminal Market) -- great cheesesteaks, and a portion of profits feeds a child in need.
+- **Uncle Gus' Steaks** (Reading Terminal Market) -- new standout from the Angelo's Pizzeria / DiNic's team.
 
 ### Reading Terminal Market
 
 - 80+ vendors under one roof. Soul food, Asian, Middle Eastern, Pennsylvania Dutch, cheesesteaks, soft pretzels, donuts, ice cream.
 - Perfect for a family where everyone wants something different.
-- **Miller's Twist** — soft pretzel stuffed with sliced beef and cheese (kids will love this).
-- Open Mon–Sat 8 AM–6 PM, Sun 9 AM–5 PM.
+- **Miller's Twist** -- soft pretzel stuffed with sliced beef and cheese (kids will love this).
+- Open Mon-Sat 8 AM-6 PM, Sun 9 AM-5 PM.
 
 ### Stadium Food
 
@@ -265,9 +265,9 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 
 ### Other Spots
 
-- **Franklin Fountain** (Old City) — old-timey ice cream parlor, hand-crafted sundaes
-- **Federal Donuts** — fried chicken and donuts (multiple locations)
-- **Chickie's & Pete's** — famous crab fries, sports-bar atmosphere, very kid-friendly
+- **Franklin Fountain** (Old City) -- old-timey ice cream parlor, hand-crafted sundaes
+- **Federal Donuts** -- fried chicken and donuts (multiple locations)
+- **Chickie's & Pete's** -- famous crab fries, sports-bar atmosphere, very kid-friendly
 
 ---
 
@@ -281,13 +281,13 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 
 ### Driving / Parking
 
-- 21,000 parking spaces at the South Philadelphia Sports Complex. Expect $25–$50.
-- Post-game exit takes 30–40 minutes from the lots.
-- Not recommended with kids — subway is far easier.
+- 21,000 parking spaces at the South Philadelphia Sports Complex. Expect $25-$50.
+- Post-game exit takes 30-40 minutes from the lots.
+- Not recommended with kids -- subway is far easier.
 
 ### Walking from Nearby Hotels
 
-- From Courtyard at The Navy Yard or Live Casino & Hotel: 10–15 min walk.
+- From Courtyard at The Navy Yard or Live Casino & Hotel: 10-15 min walk.
 
 ---
 
@@ -297,59 +297,59 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 |--------|-------------|
 | Average high | 84°F (29°C) |
 | Average low | 65°F (18°C) |
-| Humidity | 74–82% — muggy afternoons |
+| Humidity | 74-82% -- muggy afternoons |
 | Rain | Afternoon thunderstorms possible |
-| Sunset | ~8:30 PM — plenty of light for the 5 PM kickoff |
+| Sunset | ~8:30 PM -- plenty of light for the 5 PM kickoff |
 
 **What to pack:** Sunscreen, hats, light/breathable clothing, light rain jacket, comfortable walking shoes. Bring a layer for heavy AC indoors (museums, restaurants).
 
 ---
 
-## 8. Recommended Itinerary (Jun 24–28 or Jun 25–28)
+## 8. Recommended Itinerary (Jun 24-28 or Jun 25-28)
 
-**Attendees:** Marina + Luka + FIL + BIL (not a family-of-4 trip — this is adults + one 11-year-old)
+**Attendees:** Marina + Luka + FIL + BIL (not a family-of-4 trip -- this is adults + one 11-year-old)
 
-**⚠ Arrival date TBD — see [cost analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25). If Jun 25, skip the Wednesday and start with Thursday.**
+**[!] Arrival date TBD -- see [cost analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25). If Jun 25, skip the Wednesday and start with Thursday.**
 
-**Wednesday June 24 — Arrive (Option A only)**
-- Marina + Luka arrive from Toronto (YYZ → PHL), ~2 PM
-- FIL arrives from LA (LAX → PHL), ~3 PM
+**Wednesday June 24 -- Arrive (Option A only)**
+- Marina + Luka arrive from Toronto (YYZ -> PHL), ~2 PM
+- FIL arrives from LA (LAX -> PHL), ~3 PM
 - BIL arrives from Zadar (via connection), evening
-- Check into hotel (Center City). Casual dinner together — maybe Reading Terminal Market (closes 6 PM) or a nearby restaurant.
+- Check into hotel (Center City). Casual dinner together -- maybe Reading Terminal Market (closes 6 PM) or a nearby restaurant.
 - Get settled, grocery run if needed.
 
-**Thursday June 25 — Arrive (Option C) / Sightseeing Day 1 (Option A)**
+**Thursday June 25 -- Arrive (Option C) / Sightseeing Day 1 (Option A)**
 - Morning: Independence Hall + Liberty Bell (free, book timed tickets on Recreation.gov)
-- Walk Old City — Franklin Square mini golf, Museum of the American Revolution
+- Walk Old City -- Franklin Square mini golf, Museum of the American Revolution
 - Lunch: Reading Terminal Market
-- Afternoon: Franklin Institute (great for Luka — STEM exhibits, Giant Heart)
-- Optional: catch the **Curaçao vs. Côte d'Ivoire** game at 4 PM at Lincoln Financial Field (if you can get tickets — a bonus World Cup match!)
+- Afternoon: Franklin Institute (great for Luka -- STEM exhibits, Giant Heart)
+- Optional: catch the **Curaçao vs. Côte d'Ivoire** game at 4 PM at Lincoln Financial Field (if you can get tickets -- a bonus World Cup match!)
 - Evening: Cheesesteaks at Pat's/Geno's or Jim's
 
-**Friday June 26 — Sightseeing Day 2**
+**Friday June 26 -- Sightseeing Day 2**
 - Morning: Philadelphia Museum of Art (Rocky Steps! plus "A Nation of Artists" exhibition) or Barnes Foundation
-- Walk the Benjamin Franklin Parkway — Logan Circle, Rodin Museum
+- Walk the Benjamin Franklin Parkway -- Logan Circle, Rodin Museum
 - Lunch: Rittenhouse Square area (Parc, The Dandelion, or a.kitchen)
 - Afternoon: Philadelphia Zoo or Academy of Natural Sciences
 - Evening: East Passyunk Avenue for dinner (Le Virtu, Burrata, or The Victor Cafe with live opera)
 
-**Saturday June 27 — GAME DAY**
+**Saturday June 27 -- GAME DAY**
 - Morning: FIFA Fan Festival at Lemon Hill (free, big screens, food, music, open green space)
 - Lunch: Grab food at the Fan Festival or nearby
 - Afternoon: Head to stadium. Take SEPTA Broad Street Line to NRG Station.
-- **5:00 PM: CROATIA vs. GHANA** — Lincoln Financial Field
+- **5:00 PM: CROATIA vs. GHANA** -- Lincoln Financial Field
 - ~7:30 PM: Game ends. Post-game dinner in South Philly or Center City.
 
-**Sunday June 28 — Post-Game Day**
+**Sunday June 28 -- Post-Game Day**
 - Sleep in. Relaxed morning.
 - Explore anything missed: Philadelphia Museum of Art / Rocky Steps, Schuylkill River Trail, or Rittenhouse Square
 - Or: catch another WC match at a sports bar / Fan Festival
 - Farewell dinner together
 
-**Monday June 29 — Depart**
-- Marina + Luka: PHL → BOS (JetBlue 9:12 AM nonstop, arrive 10:35 AM)
-- FIL: PHL → LAX (Southwest 1-stop, $256)
-- BIL: Amtrak PHL → EWR, then EWR → ZAG (Lufthansa/Air France, $535-561)
+**Monday June 29 -- Depart**
+- Marina + Luka: PHL -> BOS (JetBlue 9:12 AM nonstop, arrive 10:35 AM)
+- FIL: PHL -> LAX (Southwest 1-stop, $256)
+- BIL: Amtrak PHL -> EWR, then EWR -> ZAG (Lufthansa/Air France, $535-561)
 
 ---
 
@@ -357,59 +357,59 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 
 If you want to catch other World Cup games during your stay:
 
-- **Tir Na Nog** — Irish pub, big screens
-- **Cavanaugh's** (multiple locations) — reliable sports bar
-- **City Tap House** — upscale sports bar
-- **Chickie's & Pete's** — family-friendly, multiple locations
+- **Tir Na Nog** -- Irish pub, big screens
+- **Cavanaugh's** (multiple locations) -- reliable sports bar
+- **City Tap House** -- upscale sports bar
+- **Chickie's & Pete's** -- family-friendly, multiple locations
 
 ---
 
-## 10. Adult Attractions — Dining, Cafes, Architecture, Museums
+## 10. Adult Attractions -- Dining, Cafes, Architecture, Museums
 
 ### Fine Dining & Upscale Restaurants
 
 **Michelin-Starred (Philadelphia's first three, awarded November 2025):**
 
-- **Her Place Supper Club** (Kensington) — Chef Amanda Shulman and Alex Kemp serve a rotating four-course tasting menu in an intimate supper-club format. Reservations release on the third Sunday of every month via OpenTable. Closed weekends; seatings at 6 PM and 8:30 PM, Mon–Fri, parties limited to six.
-- **Friday Saturday Sunday** (Rittenhouse Square) — Chefs Chad and Hanna Williams. Michelin inspectors noted dishes that "fill the mouth with flavor and succulence." Spirited, inventive American cooking in a warm room.
-- **Provenance** (Queen Village, 408 S 2nd St) — Chef Nicholas Bazik. Korean and French influences in an elaborate tasting menu with special soys, vibrant oils, and glossy sauces. Open Tue–Sat, seatings at 5:30 PM and 8:30 PM.
+- **Her Place Supper Club** (Kensington) -- Chef Amanda Shulman and Alex Kemp serve a rotating four-course tasting menu in an intimate supper-club format. Reservations release on the third Sunday of every month via OpenTable. Closed weekends; seatings at 6 PM and 8:30 PM, Mon-Fri, parties limited to six.
+- **Friday Saturday Sunday** (Rittenhouse Square) -- Chefs Chad and Hanna Williams. Michelin inspectors noted dishes that "fill the mouth with flavor and succulence." Spirited, inventive American cooking in a warm room.
+- **Provenance** (Queen Village, 408 S 2nd St) -- Chef Nicholas Bazik. Korean and French influences in an elaborate tasting menu with special soys, vibrant oils, and glossy sauces. Open Tue-Sat, seatings at 5:30 PM and 8:30 PM.
 
 **Michelin Bib Gourmand (great food, great value):** 10 Philly restaurants earned Bib Gourmands. **Pietramala** received the rare Michelin Green Star for sustainability (vegan).
 
 **James Beard-Honored:**
 
-- **Zahav** (Society Hill, near 2nd & Walnut) — Michael Solomonov's modern Israeli flagship. Silky tehina hummus, pomegranate-glazed lamb shoulder, fire-charred skewers, endless salatim. Michelin Recommended. A Philadelphia landmark since 2008. Book well in advance.
-- **Vernick Food & Drink** (Center City) — Chef Greg Vernick. Michelin Recommended. Vernick was a 2026 semifinalist for Outstanding Restaurateur. His seafood-focused sibling, **Vernick Fish**, is at the Four Seasons.
+- **Zahav** (Society Hill, near 2nd & Walnut) -- Michael Solomonov's modern Israeli flagship. Silky tehina hummus, pomegranate-glazed lamb shoulder, fire-charred skewers, endless salatim. Michelin Recommended. A Philadelphia landmark since 2008. Book well in advance.
+- **Vernick Food & Drink** (Center City) -- Chef Greg Vernick. Michelin Recommended. Vernick was a 2026 semifinalist for Outstanding Restaurateur. His seafood-focused sibling, **Vernick Fish**, is at the Four Seasons.
 
 **Rittenhouse Square:**
 
-- **Lacroix** (The Rittenhouse Hotel) — AAA Four Diamond. Overlooking the square, French-accented tasting menus with surprising flavor combinations. One of the finest in the U.S.
-- **Parc** — Iconic bistro that looks like the set of a Parisian movie. Anchors the east side of Rittenhouse Square. All-day French brasserie.
-- **The Dandelion** — Charming gastropub with a British accent, excellent cocktails.
-- **a.kitchen + bar** — Elevated small plates, extensive wine list.
-- **Uchi** — Upscale Japanese. A la carte premium sushi, 10-course traditional omakase, and vegetarian tasting menus. Sleek room seating 127.
-- **Borromini** — Regional Italian dishes with layered design sensibilities. Newer arrival on the Rittenhouse scene.
+- **Lacroix** (The Rittenhouse Hotel) -- AAA Four Diamond. Overlooking the square, French-accented tasting menus with surprising flavor combinations. One of the finest in the U.S.
+- **Parc** -- Iconic bistro that looks like the set of a Parisian movie. Anchors the east side of Rittenhouse Square. All-day French brasserie.
+- **The Dandelion** -- Charming gastropub with a British accent, excellent cocktails.
+- **a.kitchen + bar** -- Elevated small plates, extensive wine list.
+- **Uchi** -- Upscale Japanese. A la carte premium sushi, 10-course traditional omakase, and vegetarian tasting menus. Sleek room seating 127.
+- **Borromini** -- Regional Italian dishes with layered design sensibilities. Newer arrival on the Rittenhouse scene.
 
 **Center City / Other:**
 
-- **My Loup** — James Beard-honored. Creative tasting-menu approach.
-- **Little Water** — Best of Philly "Best New Restaurant" 2025. Contemporary coastal, inspired by Gulf Coast, New England, and Mid-Atlantic regions.
+- **My Loup** -- James Beard-honored. Creative tasting-menu approach.
+- **Little Water** -- Best of Philly "Best New Restaurant" 2025. Contemporary coastal, inspired by Gulf Coast, New England, and Mid-Atlantic regions.
 
 ### Neighborhood Dining Beyond Cheesesteaks
 
 **Old City:**
 
-- **Fork** — Sophisticated New American, established in the 1990s. Popular brunch, high-end dinner, craft cocktails. A Philadelphia institution.
-- **Zahav** — See above. Technically Society Hill but walkable from Old City.
+- **Fork** -- Sophisticated New American, established in the 1990s. Popular brunch, high-end dinner, craft cocktails. A Philadelphia institution.
+- **Zahav** -- See above. Technically Society Hill but walkable from Old City.
 
-**East Passyunk Avenue (South Philly) — 40+ restaurants on a single corridor:**
+**East Passyunk Avenue (South Philly) -- 40+ restaurants on a single corridor:**
 
 This funky diagonal avenue is one of Philly's best dining neighborhoods. Over 150 independently owned restaurants and shops, including James Beard winners.
 
-- **Le Virtu** — Rustic cuisine from Italy's Abruzzo region, locally-sourced seasonal ingredients. BYOB.
-- **Burrata** — Authentic Italian BYOB with a modern twist. Intimate, candlelit, perfect for a date night.
-- **The Victor Cafe** — Classic Italian with live opera performances during dinner. Unique experience.
-- **DaVinci and Yu** — New Italian-Asian fusion, the city's first. East Passyunk's latest buzz.
+- **Le Virtu** -- Rustic cuisine from Italy's Abruzzo region, locally-sourced seasonal ingredients. BYOB.
+- **Burrata** -- Authentic Italian BYOB with a modern twist. Intimate, candlelit, perfect for a date night.
+- **The Victor Cafe** -- Classic Italian with live opera performances during dinner. Unique experience.
+- **DaVinci and Yu** -- New Italian-Asian fusion, the city's first. East Passyunk's latest buzz.
 
 **Reading Terminal Market:**
 
@@ -422,14 +422,14 @@ Philadelphia's specialty coffee scene is strong, anchored by several local roast
 
 **Top Roasters & Cafes:**
 
-- **La Colombe** — Philly-born roaster that went national. Three Center City locations including Rittenhouse (19th & Walnut). The 11,000 sq ft Fishtown flagship has a tasting room, bakery, and rum distillery. Pioneered the draft latte.
-- **Elixr Coffee Roasters** (Rittenhouse) — One of the best roasters in the USA. Rotating murals adorn the walls. Precise, exceptional single-origin pours.
-- **ReAnimator Coffee** — Multiple locations across Fishtown, Kensington, South Philly, and Port Richmond. Each shop has its own distinct personality.
-- **Caphe Roasters** — The city's first Vietnamese specialty coffee roaster. Unique offering.
-- **Rival Bros Coffee** — Solid local roaster with several locations.
-- **Menagerie Coffee** (Old City) — Cozy neighborhood cafe.
-- **Vibrant Coffee Roasters & Bakery** — Coffee and fresh-baked pastries.
-- **Persimmon Coffee** (Fishtown) — Japanese and Korean minimalist design, opened after a series of pop-ups.
+- **La Colombe** -- Philly-born roaster that went national. Three Center City locations including Rittenhouse (19th & Walnut). The 11,000 sq ft Fishtown flagship has a tasting room, bakery, and rum distillery. Pioneered the draft latte.
+- **Elixr Coffee Roasters** (Rittenhouse) -- One of the best roasters in the USA. Rotating murals adorn the walls. Precise, exceptional single-origin pours.
+- **ReAnimator Coffee** -- Multiple locations across Fishtown, Kensington, South Philly, and Port Richmond. Each shop has its own distinct personality.
+- **Caphe Roasters** -- The city's first Vietnamese specialty coffee roaster. Unique offering.
+- **Rival Bros Coffee** -- Solid local roaster with several locations.
+- **Menagerie Coffee** (Old City) -- Cozy neighborhood cafe.
+- **Vibrant Coffee Roasters & Bakery** -- Coffee and fresh-baked pastries.
+- **Persimmon Coffee** (Fishtown) -- Japanese and Korean minimalist design, opened after a series of pop-ups.
 
 **Coffee neighborhoods:** Fishtown is the coffee-and-everything-else hub. Rittenhouse serves Center City professionals. South Philly / East Passyunk has neighborhood spots.
 
@@ -440,17 +440,17 @@ Philadelphia has 67 National Historic Landmarks and an architectural history spa
 **City Hall (Broad & Market Streets):**
 
 - The **world's largest free-standing masonry building**. Upon completion in 1894, it was the world's tallest habitable building.
-- French Second Empire style, constructed 1871–1901.
+- French Second Empire style, constructed 1871-1901.
 - 37-foot bronze statue of William Penn at the top (548 ft total height).
 - Take the elevator to the observation deck beneath the Penn statue for panoramic views.
-- Intricate carvings, massive scale — worth circling the entire block to appreciate.
+- Intricate carvings, massive scale -- worth circling the entire block to appreciate.
 
 **Benjamin Franklin Parkway:**
 
 - Designed in 1917 by Jacques Greber to emulate the Champs-Elysees in Paris. Cuts diagonally from City Hall northwest to the Philadelphia Museum of Art.
-- Part of the City Beautiful movement — one of the earliest examples of urban renewal in the U.S.
+- Part of the City Beautiful movement -- one of the earliest examples of urban renewal in the U.S.
 - Curves around Logan Circle (with the Swann Memorial Fountain).
-- Lined with flags of countries from around the world — will be especially festive during the World Cup.
+- Lined with flags of countries from around the world -- will be especially festive during the World Cup.
 - Major institutions along the Parkway: Cathedral Basilica of Saints Peter and Paul, Franklin Institute, Academy of Natural Sciences, Rodin Museum, Barnes Foundation, Philadelphia Museum of Art.
 
 **Independence Hall (Old City):**
@@ -462,43 +462,43 @@ Philadelphia has 67 National Historic Landmarks and an architectural history spa
 
 - Meeting place of the First Continental Congress (1774). Georgian architecture.
 
-**Pennsylvania Academy of the Fine Arts (PAFA) — The Frank Furness Building (Broad & Cherry):**
+**Pennsylvania Academy of the Fine Arts (PAFA) -- The Frank Furness Building (Broad & Cherry):**
 
-- Designed by Frank Furness (1876), the building itself is a masterpiece — an exuberant High Victorian Gothic structure. One of the most architecturally significant buildings in Philadelphia.
+- Designed by Frank Furness (1876), the building itself is a masterpiece -- an exuberant High Victorian Gothic structure. One of the most architecturally significant buildings in Philadelphia.
 - **Reopening April 12, 2026** after renovation, with the landmark "A Nation of Artists" exhibition. This will be freshly reopened during your visit.
 
 **Modern Architecture:**
 
-- **Comcast Technology Center** — Completed 2018, Philadelphia's tallest building (1,121 ft). Norman Foster design. Sleek glass tower dominates the skyline.
-- **Cira Centre** — Futuristic glass facade that reflects sky and city lights. LED displays at night create light shows.
-- **Barnes Foundation building** (2012) — Tod Williams Billie Tsien Architects. Stunning minimalist modern building on the Parkway, housing the collection in galleries that replicate the original Merion layout.
+- **Comcast Technology Center** -- Completed 2018, Philadelphia's tallest building (1,121 ft). Norman Foster design. Sleek glass tower dominates the skyline.
+- **Cira Centre** -- Futuristic glass facade that reflects sky and city lights. LED displays at night create light shows.
+- **Barnes Foundation building** (2012) -- Tod Williams Billie Tsien Architects. Stunning minimalist modern building on the Parkway, housing the collection in galleries that replicate the original Merion layout.
 
 **Walking Architecture Route (recommended):**
 
-Start at City Hall, walk northwest along the Benjamin Franklin Parkway past Logan Circle, the Cathedral Basilica, the Rodin Museum, the Barnes Foundation, up to the Philadelphia Museum of Art at the top. Return via a different route through Fairmount or cut through the grid back to Rittenhouse Square. This single walk hits the city's greatest architectural hits and several museums — allow 2–3 hours with stops.
+Start at City Hall, walk northwest along the Benjamin Franklin Parkway past Logan Circle, the Cathedral Basilica, the Rodin Museum, the Barnes Foundation, up to the Philadelphia Museum of Art at the top. Return via a different route through Fairmount or cut through the grid back to Rittenhouse Square. This single walk hits the city's greatest architectural hits and several museums -- allow 2-3 hours with stops.
 
-### Museums — Art & Culture (Beyond the Franklin Institute)
+### Museums -- Art & Culture (Beyond the Franklin Institute)
 
 **Philadelphia Museum of Art (end of the Parkway, Fairmount):**
 
 - One of the largest art museums in the U.S. 240,000+ works spanning 2,000 years.
 - Renowned for European painting (Cezanne, Duchamp's entire output, van Gogh, Picasso), arms and armor, period rooms, Asian art.
-- Classical Revival building (1928) — the iconic stepped facade (yes, the Rocky Steps).
-- **2026 exhibition: "A Nation of Artists"** (April 12, 2026 – July 5, 2027) — the most expansive presentation of American art ever mounted in Philadelphia, celebrating the 250th anniversary. Over 1,000 works across PMA and PAFA. This will be on during your visit.
-- **Pay what you wish:** First Sunday of each month and every Friday evening 5–8:45 PM.
+- Classical Revival building (1928) -- the iconic stepped facade (yes, the Rocky Steps).
+- **2026 exhibition: "A Nation of Artists"** (April 12, 2026 - July 5, 2027) -- the most expansive presentation of American art ever mounted in Philadelphia, celebrating the 250th anniversary. Over 1,000 works across PMA and PAFA. This will be on during your visit.
+- **Pay what you wish:** First Sunday of each month and every Friday evening 5-8:45 PM.
 
 **Barnes Foundation (2025 Benjamin Franklin Pkwy):**
 
 - One of the world's great collections of impressionist and post-impressionist art: 181 Renoirs (more than any other collection), 69 Cezannes (more than in all of France), plus Matisse, Picasso, Modigliani, Soutine, and groundbreaking African art.
-- Displayed in unconventional "ensembles" — paintings juxtaposed with African sculpture, Native American textiles, antique furniture, and metalwork. Albert Barnes's radical educational philosophy made visible.
-- The 2012 building by Tod Williams Billie Tsien is itself worth visiting — light-filled, minimalist, with gardens.
+- Displayed in unconventional "ensembles" -- paintings juxtaposed with African sculpture, Native American textiles, antique furniture, and metalwork. Albert Barnes's radical educational philosophy made visible.
+- The 2012 building by Tod Williams Billie Tsien is itself worth visiting -- light-filled, minimalist, with gardens.
 - Adjacent to the Rodin Museum on the Parkway.
 
 **Rodin Museum (on the Parkway, near 22nd St):**
 
 - The largest collection of Auguste Rodin works outside Paris.
 - The Thinker sits in the garden out front. The Gates of Hell, Burghers of Calais, and many more inside.
-- Small museum — can be seen in 45 minutes to 1 hour. Pairs well with a Barnes visit.
+- Small museum -- can be seen in 45 minutes to 1 hour. Pairs well with a Barnes visit.
 - Managed by the Philadelphia Museum of Art. Pay-what-you-wish admission.
 
 **Pennsylvania Academy of the Fine Arts (PAFA) (Broad & Cherry):**
@@ -510,19 +510,19 @@ Start at City Hall, walk northwest along the Benjamin Franklin Parkway past Loga
 **The Fabric Workshop and Museum (1214 Arch St, Center City):**
 
 - Non-profit focused on creating new work in new materials and media, collaborating with emerging and established artists.
-- Rotating exhibitions — always something unexpected. A good complement to the traditional museums.
+- Rotating exhibitions -- always something unexpected. A good complement to the traditional museums.
 
 **Other cultural institutions:**
 
-- **Museum of the American Revolution** (Old City) — More a history museum than art, but immersive and well-designed.
-- **Eastern State Penitentiary** (Fairmount) — Historic prison-turned-museum with contemporary art installations in the cellblocks. Architecture alone is stunning — radial "hub and spoke" design that influenced prisons worldwide.
+- **Museum of the American Revolution** (Old City) -- More a history museum than art, but immersive and well-designed.
+- **Eastern State Penitentiary** (Fairmount) -- Historic prison-turned-museum with contemporary art installations in the cellblocks. Architecture alone is stunning -- radial "hub and spoke" design that influenced prisons worldwide.
 
-### 2026 Special Events — Art & Culture (Timed to Your Visit)
+### 2026 Special Events -- Art & Culture (Timed to Your Visit)
 
 - **"A Nation of Artists"** at PMA + PAFA (opens April 12, 2026): Landmark exhibition of 1,000+ works of American art celebrating the nation's 250th. The biggest art event of 2026 in Philadelphia.
 - **ArtPhilly: What Now festival**: 30+ exhibitions, performances, and art programs across the city's museums, landmarks, and venues. Musical concerts, theatrical shows, dance performances, visual art exhibits.
 - **Mural Arts unveiling**: In June, Mural Arts unveils a major new mural creating a "citywide portrait" of what Philadelphians think about democracy.
-- **AMOR sculpture return**: Robert Indiana's AMOR in Sister Cities Park (18th St & the Parkway) — removed for conservation, expected return May 1, 2026. Should be back for your visit.
+- **AMOR sculpture return**: Robert Indiana's AMOR in Sister Cities Park (18th St & the Parkway) -- removed for conservation, expected return May 1, 2026. Should be back for your visit.
 - **Philadelphia Orchestra concerts**: World premiere concert with Grammy-winning choir The Crossing (June 17) and a culminating commemorative concert (June 18).
 
 ---
@@ -553,8 +553,8 @@ Start at City Hall, walk northwest along the Benjamin Franklin Parkway past Loga
 - [Reading Terminal Market](https://www.visitphilly.com/things-to-do/food-drink/reading-terminal-market/)
 - [Philadelphia Weather June - Weather Spark](https://weatherspark.com/m/22721/6/Average-Weather-in-June-in-Philadelphia-Pennsylvania-United-States)
 - [Lincoln Financial Field Parking](https://www.lincolnfinancialfield.com/parking/)
-- [BOS→PHL flights - Google Flights](https://www.google.com/travel/flights/flights-from-boston-to-philadelphia.html)
-- [BOS→PHL flights - Skyscanner](https://www.skyscanner.com/routes/bos/phla/boston-logan-international-to-philadelphia.html)
+- [BOS->PHL flights - Google Flights](https://www.google.com/travel/flights/flights-from-boston-to-philadelphia.html)
+- [BOS->PHL flights - Skyscanner](https://www.skyscanner.com/routes/bos/phla/boston-logan-international-to-philadelphia.html)
 - [Visit Philadelphia - New Restaurants Winter 2026](https://www.visitphilly.com/articles/philadelphia/new-restaurants/)
 - [Philly Mag - Rittenhouse Square Restaurants](https://www.phillymag.com/foobooz/rittenhouse-square-restaurants/)
 - [Philly Mag - 50 Best Restaurants 2026](https://www.phillymag.com/foobooz/50-best-restaurants/)
