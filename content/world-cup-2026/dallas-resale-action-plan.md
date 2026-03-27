@@ -1,6 +1,6 @@
 ---
 title: "Dallas Ticket Resale -- Action Plan"
-weight: 16
+weight: 11
 ---
 
 Selling 2 of our 4 England vs Croatia tickets on the FIFA Resale Marketplace.

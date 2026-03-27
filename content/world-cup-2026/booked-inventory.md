@@ -1,6 +1,6 @@
 ---
 title: "Booked Inventory"
-weight: 20
+weight: 12
 ---
 
 Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 22, 2026.
@@ -32,11 +32,7 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 | 1 | Residence Inn by Marriott Arlington | Arlington, TX | Jun 15-18 | 3 | 1BR Suite, Queen + Sofa bed | Marina, Luka | **$1,876** | [CONF] | Non-refundable (prepaid) |
 | 2 | Westin Harbour Castle | Toronto, ON | Jun 20-24 | 4 | 2 Queen, Lake View Premium | Sukru, Marina, Luka, Maja | **3,206 CAD (~$2,308)** | [CONF] | Free cancel before May 21 |
 
-**Not yet booked:**
-
-| # | City | Dates | Nights | Guests | Status |
-|---|------|-------|--------|--------|--------|
-| 3 | Philadelphia, PA | Jun 25-29 | 4 | Marina, Luka, FIL, BIL | Marriott Downtown 2 Double $449/night (flex), 1 King $369/night (prepay). See [21-philly-hotels.md](../philly-hotels/) |
+| 3 | Element Philadelphia Downtown | Philadelphia, PA | Jun 25-29 | 4 | Deluxe, 2 Queen, City view, High floor | Marina, Luka, FIL (+ Sukru TBD) | **$2,421.59** | [CONF] | Non-refundable (prepaid) |
 
 ---
 
@@ -63,14 +59,18 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 
 **Note:** Toronto flights are to **YTZ** (Billy Bishop downtown), not YYZ (Pearson). Billy Bishop is on the Toronto Islands, connected by pedestrian tunnel -- right downtown, 10 min taxi to Westin.
 
-**Not yet booked:**
+**FIL flights (booked Mar 26, FIL pays separately):**
 
-| Leg | Route | Date | Pax | Best Fare Found | Status |
-|-----|-------|------|-----|-----------------|--------|
-| 9 | LAX -> PHL | Jun 25 | FIL | $574-688/pp AA nonstop | Not booked (FIL pays) |
-| 10 | SPU/hub -> EWR | Jun ~24-25 | BIL | $491-635 | Not booked (BIL pays) |
-| 11 | EWR -> ZAG | Jun 29 | BIL | $535-561 | Not booked (BIL pays) |
-| 12 | PHL -> LAX | Jun 29 | FIL | ~$200-700 AA nonstop | Not booked (FIL pays) |
+| # | Date | Route | Pax | Airline | Flight | Cash Paid | Conf # |
+|---|------|-------|-----|---------|--------|-----------|--------|
+| 9 | Jun 25 | LAX -> PHL | FIL | American | AA 3319 12:19 PM | **$693.77** | [CONF] |
+| 10 | Jun 29 | PHL -> LAX | FIL | American | AA 824 9:46 AM | (incl. above) | [CONF] |
+
+**Seats:** FIL -- 20C (LAX->PHL), 21C (PHL->LAX)
+**Cost breakdown:** Ticket $664.80 ($589.77 + $75.03 taxes) + Paid seat $28.97 = **$693.77**
+**Ticket #:** [TICKET]
+
+~~BIL flights -- dropped out Mar 26, all BIL legs cancelled.~~
 
 ---
 
@@ -93,12 +93,13 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 |------|--------|
 | Hotel: Residence Inn Arlington (3N, Jun 15-18) | $1,876.00 |
 | Hotel: Westin Harbour Castle Toronto (4N, Jun 20-24) | ~$2,308.00 (3,206 CAD) |
+| Hotel: Element Philadelphia Downtown (4N, Jun 25-29) | $2,421.59 |
 | Flight: BOS<->LAX baby shower RT (Jun 4-7, Marina+Maja) | $1,313.60 |
 | Flight: BOS<->PHL World Cup RT fees (Jun 25+29, Marina+Luka) | $22.40 |
 | Flight: DFW->BOS return (Jun 18, Marina+Luka, AA) | $732.80 |
 | Flight: BOS->DFW outbound (Jun 15, Marina+Luka, Delta award) | $0.00 |
 | Flight: BOS<->YTZ Toronto RT (Jun 20+24, all 4, Porter) | $1,889.84 |
-| **Total cash spent** | **$8,142.64** |
+| **Total cash spent** | **$10,564.23** |
 
 ### Points/Miles Redeemed
 
@@ -108,18 +109,21 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 | Delta SkyMiles | 72,800 miles | Dallas outbound (BOS->DFW) | ~9,680 miles |
 | United MileagePlus | 0 | -- | 34,882 miles |
 
-### Still To Spend (Family Budget Estimate)
+### FIL Budget (Separate)
 
-| Item | Estimated Cost |
-|------|---------------|
-| Hotel: Philadelphia (4N, Jun 25-29, 2 rooms) | $2,954-$3,592 |
-| **Remaining estimate** | **$376-$1,476** |
+| Item | Amount |
+|------|--------|
+| Flight: AA RT LAX<->PHL (Jun 25+29, conf [CONF]) | $693.77 |
+| Hotel: shares family room at Element (no extra cost) | $0 |
+| **FIL total** | **$693.77** |
 
 ### Grand Total (Family Budget)
 
-| | Spent | Remaining | Total |
-|---|------|-----------|-------|
-| **Cash** | $8,142.64 | ~$1,796 (family room) | **~$9,939** |
-| **TrueBlue pts** | 68,600 | 0 planned | 68,600 |
-| **SkyMiles** | 72,800 | 0 planned | 72,800 |
-| **United miles** | 0 | 0 planned | 0 |
+| | Amount |
+|---|------|
+| **Total cash spent** | **$10,564.23** |
+| **TrueBlue pts redeemed** | 68,600 |
+| **SkyMiles redeemed** | 72,800 |
+| **United miles** | 0 used (34,882 available) |
+
+All flights and hotels now booked. No remaining family budget items except meals, activities, and game-day transport.

@@ -10,79 +10,45 @@ weight: 5
 
 ### Who's Going
 
-| Person | Arriving From | Arrival Date | Departure |
-|--------|--------------|-------------|-----------|
-| **Marina** | Toronto -> BOS -> PHL | **Thu Jun 25** | Mon, Jun 29 -> BOS |
-| **Luka** | Toronto -> BOS -> PHL | **Thu Jun 25** | Mon, Jun 29 -> BOS |
-| **FIL** (Marina's father) | Los Angeles (LAX -> PHL) | **Thu Jun 25** | Mon, Jun 29 -> LAX |
-| **BIL** (Marina's brother) | Zadar, Croatia (ZAD -> EWR -> PHL) | **~Jun 23-25** | Mon, Jun 29 -> EWR -> ZAD |
+| Person | Route | Arrival | Departure | Flight | Conf |
+|--------|-------|---------|-----------|--------|------|
+| **Marina** | BOS -> PHL | Thu Jun 25, 7:49 PM | Mon Jun 29, 9:12 AM -> BOS | B6 2459 / B6 1160 | [CONF] |
+| **Luka** | BOS -> PHL | Thu Jun 25, 7:49 PM | Mon Jun 29, 9:12 AM -> BOS | B6 2459 / B6 1160 | [CONF] |
+| **FIL** (Marina's father, 77) | LAX -> PHL | Thu Jun 25, 8:38 PM | Mon Jun 29, 9:46 AM -> LAX | AA 3319 / AA 824 | [CONF] |
+| **Sukru** (TBD) | BOS -> PHL or drive | TBD | TBD | Not booked | -- |
 
-**Plan: Arrive Jun 25, depart Jun 29** -- 4 nights, 3 sightseeing days. Extended from original 3 nights to give BIL (traveling from Croatia) a more worthwhile trip.
+**Plan: Arrive Jun 25, depart Jun 29** -- 4 nights, 3 sightseeing days.
 
-**Note:** Sukru + Maja do NOT attend the Philly game. This is Marina + Luka + extended family.
+**Note:** Maja stays home (sitter if Sukru goes). ~~BIL dropped out Mar 26.~~
 
-FIL and BIL's travel costs (flights + 1 hotel room) are separate from the family budget. See [11 -- Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for details.
+**Hotel:** Element Philadelphia Downtown, Deluxe 2 Queen City View High Floor, conf #[CONF]. Free breakfast + kitchen.
+
+**FIL pays his own flights ($693.77) -- shares the family hotel room (no extra cost).**
 
 ---
 
-## 0. Arrival Coordination -- Jun 25 (Option C)
+## 0. Arrival & Departure Coordination (All Booked)
 
-Marina, FIL, and BIL converge on Philadelphia on **Thursday, June 25** (Option C -- fly home first, then BOS->PHL). Jun 24 arrival available at +~$600 (see [11 -- Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25)). All shift together -- everyone checks in the same day. Only Marina and FIL need to coordinate arrival times -- BIL arrives independently.
-
-### Marina + Luka (YYZ -> PHL) -- coordinate with FIL
-
-- Nonstop flights available on Air Canada, American, or United
-- Flight time: ~1.5 hours
-- Target arrival: early-to-mid afternoon
-- They'll have checked out of the Toronto hotel that morning
-
-### FIL (LAX -> PHL) -- coordinate with Marina
-
-- Nonstop flights available on American (PHL is AA's hub), Delta, JetBlue, Spirit, Frontier
-- Flight time: ~5 hours
-- **Coordinate arrival within 1-2 hours of Marina's flight** so they can share a ride to the hotel
-- A morning LAX departure (e.g., 8 AM PT -> ~4 PM ET arrival) could align with a midday YYZ departure
-
-### BIL (Zadar -> Philadelphia area) -- arrives independently
-
-BIL does **not** need to arrive at the same time as Marina and FIL. He can arrive earlier (Jun 23) or later (Jun 24 evening) -- whatever routing works best.
-
-#### Recommended: Fly into EWR + Amtrak to Philly
-
-Newark (EWR) has **56+ weekly nonstop flights** from European hubs vs. PHL's 4-5/week from Frankfurt only. This gives BIL dramatically more options:
-
-**Best option: Zadar -> Split (2h bus, ~$15) -> EWR nonstop (United, 767-300ER)**
-- United launches SPU->EWR 3x/week for summer 2026 (from Split: Sun, Wed, Fri)
-- June 24 is a Wednesday = operating day
-- ~10-hour nonstop flight, no European hub connection needed
-- EWR -> Philadelphia 30th Street Station: Amtrak Northeast Regional (~1 hour, $11-55)
-- Total door-to-door: ~14-15 hours
-- **All-in cost: $425-870** (bus + flight + Amtrak)
-
-**Backup: ZAD -> FRA or MUC -> EWR (Lufthansa/United)**
-- 2 flights instead of 3 (no intra-Germany leg needed)
-- 14 weekly nonstops from both FRA and MUC to EWR (vs. 4-5/week FRA->PHL)
-- Easy same-day rebooking if disrupted
-- Total door-to-door: 13-17 hours + 1 hour Amtrak
-- **All-in cost: $510-955** (flights + Amtrak)
-
-**Original option: ZAD -> MUC -> FRA -> PHL (Lufthansa/Discover)**
-- Still works, but 3 flights, 16-20 hours, and depends on Discover Airlines' 4-5x/week FRA->PHL service
-- **Cost: $600-1,200**
-
-See [11 -- Cost Analysis](../cost-analysis/#filbil-costs-separate-budget) for full comparison.
-
-### Arrival Plan
+### Arrival -- Thu Jun 25
 
 ```
-~2:00 PM ET  Marina + Luka land at PHL (from YYZ)
-~3:00 PM ET  FIL lands at PHL (from LAX, morning departure)
-~3:30 PM ET  Marina + FIL share Uber/taxi to hotel together
-Flexible     BIL arrives independently (via EWR+Amtrak or PHL)
-Evening      Everyone meets at hotel, dinner together
+ 6:10 PM ET  Marina + Luka depart BOS (B6 2459)
+ 7:49 PM ET  Marina + Luka land at PHL
+ 8:38 PM ET  FIL lands at PHL (AA 3319 from LAX, departed 12:19 PM PT)
+~9:00 PM ET  All three share ride to Element Downtown (1441 Chestnut St)
 ```
 
-*Only the YYZ->PHL and LAX->PHL flights need to be coordinated. BIL books whatever works best for his routing.*
+FIL arrives 49 min after M+L -- short wait at baggage claim, then share a ride. FIL is 77 and cannot navigate the airport alone; M+L meet him at arrivals.
+
+### Departure -- Mon Jun 29
+
+```
+~7:00 AM ET  Everyone to PHL airport together
+ 9:12 AM ET  Marina + Luka depart PHL -> BOS (B6 1160, arrive 10:35 AM)
+ 9:46 AM ET  FIL departs PHL -> LAX (AA 824, arrive 12:40 PM PT)
+```
+
+34 min between departures -- same airport run, no one is alone. All check in and go through security together.
 
 ---
 
@@ -202,10 +168,9 @@ Fly nonstop BOS->PHL (American or JetBlue). Skip the rental car -- use SEPTA tra
 
 ## 4. Where to Stay
 
-**Need: 2 rooms, each with 2 queen beds** (1 for Marina + Luka, 1 for FIL + BIL).
-**Dates:** Jun 24-28 (4 nights).
-**Preference:** Marriott Bonvoy properties (for points/status).
-Marina + Luka's room is family budget. FIL + BIL's room is their own separate budget.
+**Booked: Element Philadelphia Downtown** -- Deluxe 2 Queen, City View, High Floor. 1 room, conf #[CONF].
+**Dates:** Jun 25-29 (4 nights). Free breakfast + full kitchen.
+**Guests:** Marina, Luka, FIL (+ Sukru TBD). FIL shares the room -- no extra cost.
 
 ### Option 1: Center City / Rittenhouse Square (RECOMMENDED)
 
@@ -305,51 +270,40 @@ Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 
 
 ---
 
-## 8. Recommended Itinerary (Jun 24-28 or Jun 25-28)
+## 8. Recommended Itinerary (Jun 25-29)
 
-**Attendees:** Marina + Luka + FIL + BIL (not a family-of-4 trip -- this is adults + one 11-year-old)
+**Attendees:** Marina + Luka + FIL (+ Sukru TBD)
 
-**[!] Arrival date TBD -- see [cost analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25). If Jun 25, skip the Wednesday and start with Thursday.**
+**Thursday June 25 -- Arrive**
+- 7:49 PM: Marina + Luka land at PHL (B6 2459 from BOS)
+- 8:38 PM: FIL lands at PHL (AA 3319 from LAX)
+- ~9:00 PM: Share ride to Element Downtown (1441 Chestnut St). Check in, light dinner nearby.
 
-**Wednesday June 24 -- Arrive (Option A only)**
-- Marina + Luka arrive from Toronto (YYZ -> PHL), ~2 PM
-- FIL arrives from LA (LAX -> PHL), ~3 PM
-- BIL arrives from Zadar (via connection), evening
-- Check into hotel (Center City). Casual dinner together -- maybe Reading Terminal Market (closes 6 PM) or a nearby restaurant.
-- Get settled, grocery run if needed.
-
-**Thursday June 25 -- Arrive (Option C) / Sightseeing Day 1 (Option A)**
+**Friday June 26 -- Sightseeing Day 1**
 - Morning: Independence Hall + Liberty Bell (free, book timed tickets on Recreation.gov)
 - Walk Old City -- Franklin Square mini golf, Museum of the American Revolution
 - Lunch: Reading Terminal Market
 - Afternoon: Franklin Institute (great for Luka -- STEM exhibits, Giant Heart)
-- Optional: catch the **Curaçao vs. Côte d'Ivoire** game at 4 PM at Lincoln Financial Field (if you can get tickets -- a bonus World Cup match!)
 - Evening: Cheesesteaks at Pat's/Geno's or Jim's
 
-**Friday June 26 -- Sightseeing Day 2**
-- Morning: Philadelphia Museum of Art (Rocky Steps! plus "A Nation of Artists" exhibition) or Barnes Foundation
-- Walk the Benjamin Franklin Parkway -- Logan Circle, Rodin Museum
-- Lunch: Rittenhouse Square area (Parc, The Dandelion, or a.kitchen)
-- Afternoon: Philadelphia Zoo or Academy of Natural Sciences
-- Evening: East Passyunk Avenue for dinner (Le Virtu, Burrata, or The Victor Cafe with live opera)
-
 **Saturday June 27 -- GAME DAY**
-- Morning: FIFA Fan Festival at Lemon Hill (free, big screens, food, music, open green space)
-- Lunch: Grab food at the Fan Festival or nearby
+- Morning: Philadelphia Museum of Art (Rocky Steps!) or Barnes Foundation
+- Walk the Benjamin Franklin Parkway -- Logan Circle, Rodin Museum
+- Lunch: FIFA Fan Festival at Lemon Hill (free, big screens, food, music)
 - Afternoon: Head to stadium. Take SEPTA Broad Street Line to NRG Station.
 - **5:00 PM: CROATIA vs. GHANA** -- Lincoln Financial Field
 - ~7:30 PM: Game ends. Post-game dinner in South Philly or Center City.
 
-**Sunday June 28 -- Post-Game Day**
+**Sunday June 28 -- Sightseeing Day 2**
 - Sleep in. Relaxed morning.
-- Explore anything missed: Philadelphia Museum of Art / Rocky Steps, Schuylkill River Trail, or Rittenhouse Square
+- Explore anything missed: Philadelphia Zoo, Academy of Natural Sciences, Schuylkill River Trail, or Rittenhouse Square
 - Or: catch another WC match at a sports bar / Fan Festival
-- Farewell dinner together
+- Farewell dinner -- East Passyunk Avenue (Le Virtu, Burrata, or The Victor Cafe with live opera)
 
 **Monday June 29 -- Depart**
-- Marina + Luka: PHL -> BOS (JetBlue 9:12 AM nonstop, arrive 10:35 AM)
-- FIL: PHL -> LAX (Southwest 1-stop, $256)
-- BIL: Amtrak PHL -> EWR, then EWR -> ZAG (Lufthansa/Air France, $535-561)
+- ~7:00 AM: Everyone to PHL airport together
+- 9:12 AM: Marina + Luka depart PHL -> BOS (B6 1160, arrive 10:35 AM)
+- 9:46 AM: FIL departs PHL -> LAX (AA 824, arrive 12:40 PM PT)
 
 ---
 

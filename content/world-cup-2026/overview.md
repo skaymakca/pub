@@ -83,8 +83,7 @@ Jun 25 (Thu)  Same as Scenario A from here
 
 ### Philadelphia (Both Scenarios)
 
-**Option C (recommended):** Fly home first, arrive Jun 25 (2 sightseeing days, ~$600 cheaper).
-See [11 -- Cost Analysis](../cost-analysis/#philly-arrival-timing-jun-24-vs-jun-25).
+**Option C (chosen):** Fly home first, arrive Jun 25 (2 sightseeing days).
 
 **Jun 25 arrival (Option C -- recommended):**
 ```
@@ -113,24 +112,16 @@ Jun 29 (Mon)  Everyone departs
 | [02 -- Match Analysis](../match-analysis/) | Tactical preview, key players, history, and what to watch for -- all 3 group matches |
 | [03 -- Dallas](../dallas-research/) | Full trip research: flights, attractions, food, hotels, game-day logistics, itinerary |
 | [04 -- Toronto](../toronto-research/) | Full trip research: attractions, food, hotels, border crossing, game-day logistics, itinerary |
-| [05 -- Philadelphia](../philadelphia-research/) | Full trip research: flights, attractions, food, hotels, game-day logistics, FIL/BIL coordination |
+| [05 -- Philadelphia](../philadelphia-research/) | Full trip research: flights, attractions, food, hotels, game-day logistics, FIL coordination |
 | [06 -- City Comparison](../comparison/) | Side-by-side comparison of Dallas, Toronto, and Philadelphia across all dimensions |
 | [07 -- Family Decision Guide](../dallas-vs-philly/) | Dallas vs. Philly scored by each family member's priorities |
 | [08 -- Dallas vs Toronto Decision](../dallas-vs-toronto-decision/) | Should Sukru + Maja join Dallas or just meet in Toronto? |
-| [09 -- Flight Fares](../flight-fares/) | Actual cash + United MileagePlus award pricing for all 10 legs, per-airline breakdowns, budget totals |
-| [10 -- Hotel Pricing](../hotel-pricing/) | Actual Marriott Bonvoy cash rates for all 3 cities, room types, points availability, pool info, recommendations |
-| [11 -- Cost Analysis](../cost-analysis/) | Side-by-side Scenario A vs B cost breakdown with net difference |
-| [12 -- Tickets & Resale](../tickets-and-resale/) | Face values, resale estimates, FIFA marketplace rules, timing strategy for selling |
-| [13 -- Match 74 at Gillette](../match74-gillette/) | Round of 32 analysis: likely opponents, demand, feeder matches timeline, logistics |
-| [14 -- Scenario A Summary](../scenario-a-summary/) | Full-family Dallas trip: day-by-day timeline, flight/hotel tables, cost breakdown, vs Scenario B |
-| [15 -- Scenario B Summary](../scenario-b-summary/) | Skip-Dallas trip: day-by-day timeline, flight/hotel tables, cost breakdown, Jun 19 vs Jun 20, vs Scenario A |
-| [16 -- Dallas Resale Action Plan](../dallas-resale-action-plan/) | Dallas ticket resale pricing strategy, timeline, step-by-step |
-| [17 -- JetBlue TrueBlue Strategy](../jetblue-trueblue-strategy/) | Points allocation for LA baby shower + Philly WC, checkout-verified pricing, FIL coordination |
-| [18 -- BOS-DFW Flights](../bos-dfw-flights/) | Dallas trip flights: all options, cash + Delta SkyMiles + United awards, booking scenarios |
-| [19 -- BOS-YYZ Flights](../bos-yyz-flights/) | Toronto trip flights: Porter nonstops, cash only (no viable award) |
-| [20 -- Booked Inventory](../booked-inventory/) | Everything purchased: flights, hotels, match tickets, cost summary |
-| [21 -- Philly Hotels](../philly-hotels/) | Philadelphia hotel search: 6 Bonvoy properties across 3 areas, room types, taxes, stadium travel |
-| [22 -- FIL/BIL Flights](../fil-bil-flights/) | Extended family flights: FIL (LAX), BIL (Zagreb), cash + United award options, coordination |
+| [09 -- Tickets & Resale](../tickets-and-resale/) | Face values, resale estimates, FIFA marketplace rules, timing strategy for selling |
+| [10 -- Match 74 at Gillette](../match74-gillette/) | Round of 32 analysis: likely opponents, demand, feeder matches timeline, logistics |
+| [11 -- Dallas Resale Action Plan](../dallas-resale-action-plan/) | Dallas ticket resale pricing strategy, timeline, step-by-step |
+| [12 -- Booked Inventory](../booked-inventory/) | Everything purchased: flights, hotels, match tickets, cost summary |
+
+*Deleted docs (research preserved in git history): flight fares, hotel pricing, cost analysis, scenario A/B summaries, JetBlue strategy, BOS-DFW flights, BOS-YYZ flights, Philly hotels, FIL/BIL flights.*
 
 ---
 
@@ -162,13 +153,12 @@ Jun 29 (Mon)  Everyone departs
 - [x] **Decided: Scenario B** -- Marina+Luka do Dallas, all 4 meet in Toronto
 - [x] Book all family flights (8 legs, 4 airlines, $3,959 cash + 141,400 miles/pts)
 - [x] Book hotels -- Dallas (Residence Inn, $1,876) and Toronto (Westin, ~$2,308)
-- [ ] Book Philly hotel (Jun 25-29, 2 rooms) -- see [21-philly-hotels.md](../philly-hotels/)
+- [x] ~~Book Philly hotel~~ -- Element Downtown, conf #[CONF], Deluxe 2Q City View
 - [ ] List 2 Dallas tickets on FIFA Resale Marketplace (Apr 2)
 - [ ] Create AA AAdvantage accounts for Marina + Luka (by Mar 27)
 - [ ] Check Luka + Maja passport status (~Apr 20)
 - [ ] Book Independence Hall timed tickets (free, Recreation.gov)
-- [x] FIL/BIL flight coordination researched -- see [22-fil-bil-flights.md](../fil-bil-flights/)
-- [ ] FIL/BIL book their flights
+- [x] ~~FIL flights booked~~ -- AA RT LAX<->PHL, conf [CONF]. BIL dropped out Mar 26.
 - [ ] Decide on Match 74 (Gillette) after group stage
 - [ ] Book Independence Hall timed tickets (free, Recreation.gov) for Philly
 - [ ] Prepare notarized consent letter if Marina + Luka cross into Canada without Sukru (Scenario B, Dallas leg)

@@ -1,6 +1,6 @@
 ---
 title: "Tickets & Resale Strategy"
-weight: 12
+weight: 9
 ---
 
 We have 4 tickets for each of Croatia's 3 group stage games. This analysis covers which game is easiest to sell and which would net the most proceeds.
@@ -89,7 +89,7 @@ The England match is in a different league of demand compared to Panama or Ghana
 | Mid-range ($1,200) | $1,200 | $2,400 | **$2,040** |
 | Premium ($1,500) | $1,500 | $3,000 | **$2,550** |
 
-See [16-dallas-resale-action-plan.md](../dallas-resale-action-plan/) for the detailed sale strategy.
+See [11-dallas-resale-action-plan.md](../dallas-resale-action-plan/) for the detailed sale strategy.
 
 ---
 
@@ -318,7 +318,7 @@ We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers
 
 | Date | Action |
 |------|--------|
-| **Now (Mar 20)** | Decisions made -- selling 2 Dallas Cat 2 tickets. See [16-dallas-resale-action-plan.md](../dallas-resale-action-plan/). |
+| **Now (Mar 20)** | Decisions made -- selling 2 Dallas Cat 2 tickets. See [11-dallas-resale-action-plan.md](../dallas-resale-action-plan/). |
 | **Apr 2** | Marketplace reopens. **Observe pricing and volume -- do NOT list yet.** |
 | **Apr 27** | **List 2 Dallas Cat 2 tickets at $1,400/ea** after observing ~3.5 weeks of market activity. |
 | **Apr-May** | Monitor prices. Adjust listings if needed. England tickets should move in this window. |
@@ -343,7 +343,7 @@ We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers
 | Croatia vs Ghana (Philly) | Marina+Luka+Marijan+Hrvoje attend | Keep all 4 | Sukru+Maja stay home |
 | Match 74 -- Gillette | TBD | TBD | Deferred -- decide after group stage |
 
-**Estimated net from selling 2 Dallas tickets:** ~$1,360-$2,550 (see [16-dallas-resale-action-plan.md](../dallas-resale-action-plan/))
+**Estimated net from selling 2 Dallas tickets:** ~$1,360-$2,550 (see [11-dallas-resale-action-plan.md](../dallas-resale-action-plan/))
 
 ---
 

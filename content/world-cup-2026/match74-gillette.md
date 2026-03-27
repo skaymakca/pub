@@ -1,6 +1,6 @@
 ---
 title: "Match 74 -- Round of 32 at Gillette"
-weight: 13
+weight: 10
 ---
 
 **Ticket ID:** #[TICKET]

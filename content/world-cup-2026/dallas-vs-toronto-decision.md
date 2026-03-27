@@ -170,4 +170,4 @@ There's no wrong answer. Both scenarios are great trips.
 - If **comfort and money matter more than the game** -> Scenario B
 - If **you want a compromise** -> fly in for just the Dallas game (1 night), then Toronto
 
-The cost analysis in [11 -- Cost Analysis](../cost-analysis/) has the exact dollar difference.
+**Decided: Scenario B** -- ~$5,000-5,550 savings. Cost analysis preserved in git history.
