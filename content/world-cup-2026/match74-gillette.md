@@ -5,7 +5,7 @@ weight: 8
 
 **Ticket ID:** #[TICKET]
 **Match:** 1E vs 3A/B/C/D/F -- Round of 32 (Match 74)
-**Date:** Sunday, June 29, 2026 -- 4:30 PM ET
+**Date:** Monday, June 29, 2026 -- 4:30 PM ET
 **Venue:** Gillette Stadium, Foxborough, MA (~65,000 capacity)
 **Distance from home:** ~30 min drive from Newton
 
@@ -48,8 +48,8 @@ Turkey is in **UEFA Playoff C**. Turkey beat Romania in the semifinal (Mar 26) a
 
 | Date | Match | What it means |
 |------|-------|---------------|
-| ~~Wed Mar 26~~ | ~~Turkey vs Romania (PO C semifinal)~~ | ~~**Turkey won.**~~ |
-| **Mon Mar 31** | **Turkey vs Kosovo** (PO C final) | **Win = Turkey in the World Cup (Group D). Lose = out.** Turkey favored. |
+| ~~Thu Mar 26~~ | ~~Turkey vs Romania (PO C semifinal)~~ | ~~**Turkey won.**~~ |
+| **Tue Mar 31** | **Turkey vs Kosovo** (PO C final) | **Win = Turkey in the World Cup (Group D). Lose = out.** Turkey favored. |
 
 **Stage 2: Finish 3rd in Group D**
 
@@ -69,7 +69,7 @@ If Turkey qualifies, their group games:
 | Jun 27-28 | Bracket slots finalized -- we'll know if Turkey is the 3A/B/C/D/F team facing Germany in Match 74. |
 | **Jun 29** | **Match 74 -- Germany vs Turkey (if everything aligns)** |
 
-**Next elimination point: Mon Mar 31 -- Turkey vs Kosovo final.** Turkey are favorites. If they win, they're in Group D and the path to Match 74 is live.
+**Next elimination point: Tue Mar 31 -- Turkey vs Kosovo final.** Turkey are favorites. If they win, they're in Group D and the path to Match 74 is live.
 
 **Full Turkey analysis:** See [10 -- Turkey at the 2026 World Cup](../turkey-world-cup-2026/) for squad, Group D odds, and all knockout paths.
 
@@ -272,7 +272,7 @@ All MD3 matches in each group kick off simultaneously. These are the **decisive 
 
 | Date | Time (ET) | Match | Venue | Notes |
 |------|-----------|-------|-------|-------|
-| **Sun Jun 29** | **4:30 PM** | **1E vs 3A/B/C/D/F (Match 74)** | **Gillette, Foxborough** | **YOUR TICKET -- likely Germany vs ???** |
+| **Mon Jun 29** | **4:30 PM** | **1E vs 3A/B/C/D/F (Match 74)** | **Gillette, Foxborough** | **YOUR TICKET -- likely Germany vs ???** |
 
 ---
 
@@ -301,7 +301,7 @@ You have **5 World Cup matches within easy driving distance** -- even without ti
 | **Tue Jun 23, 4 PM** | **England vs Ghana** | **Gillette, Foxborough** | **~30 min** |
 | Thu Jun 25, 4 PM | Ecuador vs Germany | MetLife, NJ | ~3.5 hrs |
 | Sat Jun 27, 5 PM | Panama vs England | MetLife, NJ | ~3.5 hrs |
-| **Sun Jun 29, 4:30 PM** | **Match 74 (YOUR TICKET)** | **Gillette, Foxborough** | **~30 min** |
+| **Mon Jun 29, 4:30 PM** | **Match 74 (YOUR TICKET)** | **Gillette, Foxborough** | **~30 min** |
 
 **Gillette alone hosts 4 World Cup matches** -- Haiti vs Scotland (Jun 13), Scotland vs Morocco (Jun 19), England vs Ghana (Jun 23), and your Match 74 (Jun 29). That's nearly every other day for the last two weeks.
 

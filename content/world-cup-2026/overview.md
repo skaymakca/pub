@@ -14,7 +14,7 @@ We have **4 tickets to each of 4 FIFA World Cup 2026 matches** (16 tickets total
 | 1 | Wed, Jun 17 | England vs. Croatia | Dallas, TX | AT&T Stadium (80k) | 4:00 PM |
 | 2 | Tue, Jun 23 | Panama vs. Croatia | Toronto, Canada | BMO Field (~30k) | 7:00 PM |
 | 3 | Sat, Jun 27 | Croatia vs. Ghana | Philadelphia, PA | Lincoln Financial Field (69k) | 5:00 PM |
-| 4 | Sun, Jun 29 | 1E vs. 3A/B/C/D/F (Match 74) | Foxborough, MA | Gillette Stadium (65k) | 4:30 PM |
+| 4 | Mon, Jun 29 | 1E vs. 3A/B/C/D/F (Match 74) | Foxborough, MA | Gillette Stadium (65k) | 4:30 PM |
 
 ---
 
@@ -25,7 +25,7 @@ We have **4 tickets to each of 4 FIFA World Cup 2026 matches** (16 tickets total
 | England vs Croatia | Wed Jun 17 | Dallas | Marina + Luka (definite), Sukru + Maja (TBD) | If S+M skip, sell 2 tickets |
 | Panama vs Croatia | Tue Jun 23 | Toronto | Marina + Luka + Sukru + Maja (all 4) | S+M meet in Toronto if they skip Dallas |
 | Croatia vs Ghana | Sat Jun 27 | Philadelphia | Marina + Luka + FIL (+ Sukru TBD) | Maja stays home. ~~BIL dropped out Mar 26.~~ |
-| Match 74 (Gillette) | Sun Jun 29 | Foxborough | TBD | Ignore for now -- focus on group stage |
+| Match 74 (Gillette) | Mon Jun 29 | Foxborough | TBD | Ignore for now -- focus on group stage |
 
 **FIL** (Marina's father, flying from LAX) attends the Philly game only. FIL covers his own flight costs ($693.77) -- tracked separately from the family budget. Shares the family hotel room. ~~BIL dropped out Mar 26.~~
 
@@ -136,7 +136,7 @@ Jun 29 (Mon)  M+L depart B6 1160 9:12 AM -> BOS. FIL departs AA 824 9:46 AM -> L
 | **Jun 7** | Marina + Maja fly LAX->BOS (B6 988 9:15 AM) |
 | **Jun 15** | Marina + Luka fly BOS->DFW (DL 2305 6:50 PM) |
 | **Jun 17** | **Game 1: England vs Croatia** (AT&T Stadium, Dallas, 3:00 PM CT) |
-| **Jun 18** | Marina + Luka fly DFW->BOS (AA 2878 7:00 AM) |
+| **Jun 18** | Marina + Luka fly DFW->BOS (AA 2878 9:30 AM CT, arrive 2:18 PM ET) |
 | **Jun 20** | All 4 fly BOS->YTZ (PD 2946 5:30 PM) |
 | **Jun 23** | **Game 2: Panama vs Croatia** (BMO Field, Toronto, 7:00 PM ET) |
 | **Jun 24** | All 4 fly YTZ->BOS (PD 2945 1:00 PM) |

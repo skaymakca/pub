@@ -284,13 +284,13 @@ Bike Share Toronto requires age 14+ -- not viable for kids. Instead, rent family
 
 > The itinerary below was originally planned for a 6-night Scenario A stay (Jun 18-24). For our 4-night stay, use the Jun 21-24 days below. Jun 18-20 activities can be skipped or used as alternates.
 
-### Thu Jun 19 -- Downtown Highlights
+### Fri Jun 19 -- Downtown Highlights
 - Morning: CN Tower + Glass Floor (1.5 hrs) -> Ripley's Aquarium (2 hrs). Adjacent -- do together.
 - Lunch: Harbourfront area (Amsterdam BrewHouse patio or BeaverTails on the waterfront)
 - Afternoon: Harbourfront splash pads (Sugar Beach or Sherbourne Common) + Toronto Railway Museum ($5/$3, near CN Tower)
 - Evening: Dinner in Entertainment District. The Rec Room for Luka if energy remains.
 
-### Fri Jun 20 -- Niagara Falls Day Trip 🚗
+### Sat Jun 20 -- Niagara Falls Day Trip 🚗
 - 7:30 AM: Pick up Avis rental at Brookfield Place (161 Bay St -- closest to Gardiner/QEW on-ramp). Drive QEW -> Niagara Falls (~1.5 hrs).
 - 9:15 AM: Walk the Falls promenade (free).
 - 9:45 AM: Journey Behind the Falls ($28/$18.50, timed ticket -- tunnels behind Horseshoe Falls).
@@ -303,13 +303,13 @@ Bike Share Toronto requires age 14+ -- not viable for kids. Instead, rent family
 - **Cost estimate:** $580-1,000 CAD for family of 4 (budget vs. full experience). See Section 8 for full breakdown.
 - **Bonus:** Germany vs. Côte d'Ivoire kicks off at 4 PM at Toronto Stadium. Catch the second half at Fan Festival after returning, or listen on the drive back.
 
-### Sat Jun 21 -- Toronto Islands + High Park
+### Sun Jun 21 -- Toronto Islands + High Park
 - Morning: Ferry to Centre Island (15 min from Jack Layton Terminal). Centreville Amusement Park rides, Far Enough Farm, beaches, bike rentals. Back by 1 PM.
 - Lunch: St. Lawrence Market (peameal bacon sandwiches -- Toronto's signature food). Saturday is the best day -- outdoor farmers market since 1803.
 - Afternoon: High Park -- free zoo (capybaras, bison, llamas), Jamie Bell Adventure Playground, splash pad, trackless train ($5/kid). Subway-accessible.
 - Evening: Dinner in Little Italy (College St) -- pizza, pasta, gelato.
 
-### Sun Jun 22 -- Museums + Culture
+### Mon Jun 22 -- Museums + Culture
 - Morning: Royal Ontario Museum (dinosaurs -- 25 full skeletons incl. T. rex + Barosaurus, WonderWorks gallery for Maja). Allow 2-3 hrs.
 - Quick stop: Bata Shoe Museum (5-min walk, $16/$5, **free Sundays** -- plus "Soccer Sundays" with WC-themed activities during the tournament).
 - Lunch: Kensington Market (bohemian neighborhood, Caribbean bakeries, pan-Latin food, vintage shops).
@@ -319,7 +319,7 @@ Bike Share Toronto requires age 14+ -- not viable for kids. Instead, rent family
   - OR Toronto Zoo (full day, Splash Island water playground)
 - Evening: Distillery District stroll -- cobblestone streets, galleries, Balzac's Coffee, The SPORT Gallery for Luka (soccer memorabilia + retro jerseys).
 
-### Mon Jun 23 -- GAME DAY 🇭🇷
+### Tue Jun 23 -- GAME DAY 🇭🇷
 - Morning: Relaxed start. Pickup soccer at Christie Pits or Trinity Bellwoods Park (free, open fields -- summer pickup games common).
 - Late morning: Nike Flagship or Adidas at Eaton Centre -- World Cup gear and souvenirs.
 - Lunch: Old Spaghetti Factory (downtown, classic kids' meal with dessert included).
@@ -330,7 +330,7 @@ Bike Share Toronto requires age 14+ -- not viable for kids. Instead, rent family
 - **7:00 PM: CROATIA vs. PANAMA kickoff** at Toronto Stadium (BMO Field).
 - ~9:30 PM: Game ends. Soak up the post-match atmosphere, head to hotel.
 
-### Tue Jun 24 -- Flex Day + Departure Prep
+### Wed Jun 24 -- Flex Day + Departure Prep
 - **Option A -- Second day trip (if you still have the rental car):**
   - African Lion Safari (~1 hr drive) -- drive-through wildlife park with lions, giraffes, elephants roaming free around your car. Boat cruise, railway, wet play area, shows. ~$40-45 CAD/adult. Season May 2-Sep 20.
   - OR Hamilton Waterfalls (45-65 min drive) -- Webster Falls (150m stroller-friendly walk), Tiffany Falls (10-min trail). Free to view; $15/vehicle parking reservation.
@@ -342,13 +342,13 @@ Bike Share Toronto requires age 14+ -- not viable for kids. Instead, rent family
   - AGO (Art Gallery of Ontario, $30/adult, **free under 10** -- Maja free) + Graffiti Alley photo walk + splash pads
 - Evening: Final dinner -- Pai Northern Thai Kitchen or Mill Street Brewery (Distillery District).
 
-### Wed Jun 25 -- Depart
+### Thu Jun 25 -- Depart
 - Morning: Last attraction or relaxed breakfast.
 - Depart for home (fly Porter YTZ->BOS ~1.5 hrs) or continue to Philadelphia for Croatia vs. Ghana on June 27.
 
 ### Itinerary Notes
 - **Thu Jun 18 (arrival day):** Not shown above. Settle in, explore the hotel neighborhood, quick dinner. If arriving early via Porter (downtown airport), consider an afternoon walk along the waterfront or Nathan Phillips Square (TORONTO sign photo op).
-- **Car rental:** Only needed for Niagara Falls day trip (Fri Jun 20) and optional second day trip (Tue Jun 24). See Section 10 for Avis locations.
+- **Car rental:** Only needed for Niagara Falls day trip (Sat Jun 20) and optional second day trip (Wed Jun 24). See Section 10 for Avis locations.
 - **Flexibility:** Days 3-4 (Sat-Sun) are interchangeable. St. Lawrence Market is better on Saturday; Bata Shoe Museum is free on Sunday.
 - **Germany vs. Côte d'Ivoire (Sat Jun 20, 4 PM):** If you skip Niagara Falls or do a half-day, you could watch this match at the Fan Festival -- a great warm-up for the Croatia game.
 

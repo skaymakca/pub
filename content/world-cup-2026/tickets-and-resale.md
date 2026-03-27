@@ -234,7 +234,7 @@ We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers
 | 1 | England vs Croatia | Wed, Jun 17 | 4:00 PM | AT&T Stadium, Dallas | **Highest** |
 | 2 | Panama vs Croatia | Tue, Jun 23 | 7:00 PM | BMO Field, Toronto | Lowest |
 | 3 | Croatia vs Ghana | Sat, Jun 27 | 5:00 PM | Lincoln Financial Field, Philly | Moderate |
-| 4 | 1E vs 3A/B/C/D/F (Match 74) | Sun, Jun 29 | 4:30 PM | Gillette Stadium, Foxborough | High |
+| 4 | 1E vs 3A/B/C/D/F (Match 74) | Mon, Jun 29 | 4:30 PM | Gillette Stadium, Foxborough | High |
 
 ---
 
@@ -293,7 +293,7 @@ We hold 4 tickets to each of these 4 matches (16 total tickets). This doc covers
 
 ---
 
-### Match 4: 1E vs 3A/B/C/D/F (Match 74) -- Gillette, Sun Jun 29
+### Match 4: 1E vs 3A/B/C/D/F (Match 74) -- Gillette, Mon Jun 29
 
 | Window | Dates | Strategy |
 |--------|-------|----------|

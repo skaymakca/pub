@@ -16,7 +16,7 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 | 1 | Wed Jun 17 | 3:00 PM CT | England vs Croatia | AT&T Stadium, Arlington TX | 80,000 | Marina | Luka | **List on FIFA Resale** | **List on FIFA Resale** |
 | 2 | Tue Jun 23 | 7:00 PM ET | Panama vs Croatia | BMO Field, Toronto | ~30,000 | Sukru | Marina | Luka | Maja |
 | 3 | Sat Jun 27 | 5:00 PM ET | Croatia vs Ghana | Lincoln Financial Field, Philadelphia | 69,000 | Marina | Luka | FIL | Sukru TBD / sell |
-| 4 | Sun Jun 29 | 4:30 PM ET | Match 74 (Round of 32) | Gillette Stadium, Foxborough MA | 65,000 | TBD | TBD | TBD | TBD |
+| 4 | Mon Jun 29 | 4:30 PM ET | Match 74 (Round of 32) | Gillette Stadium, Foxborough MA | 65,000 | TBD | TBD | TBD | TBD |
 
 **Notes:**
 - Dallas tickets 3 & 4: list on FIFA Resale Marketplace when it opens **April 2**
@@ -43,7 +43,7 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 | 1 | Jun 4 | BOS -> LAX | Marina + Maja | JetBlue | B6 387 5:35 PM | **$1,313.60** | -- | [CONF] |
 | 2 | Jun 7 | LAX -> BOS | Marina + Maja | JetBlue | B6 988 9:15 AM | (incl. above) | -- | [CONF] |
 | 3 | Jun 15 | BOS -> DFW | Marina + Luka | Delta | DL 2305 6:50 PM | **$0** | **72,800 SkyMiles** | [CONF] |
-| 4 | Jun 18 | DFW -> BOS | Marina + Luka | American | AA 2878 7:00 AM | **$732.80** | -- | [CONF] |
+| 4 | Jun 18 | DFW -> BOS | Marina + Luka | American | AA 2878 9:30 AM | **$732.80** | -- | [CONF] |
 | 5 | Jun 20 | BOS -> YTZ | All 4 | Porter | PD 2946 5:30 PM | **$1,889.84** | -- | [CONF] |
 | 6 | Jun 24 | YTZ -> BOS | All 4 | Porter | PD 2945 1:00 PM | (incl. above) | -- | [CONF] |
 | 7 | Jun 25 | BOS -> PHL | Marina + Luka | JetBlue | B6 2459 6:10 PM | **$22.40** | **68,600 TrueBlue** | [CONF] |
@@ -51,6 +51,8 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 
 **Seats:**
 - [CONF] (LA): [seats on file]
+- [CONF] (Dallas): Luka 21B, Marina 21C
+- [CONF] (Toronto): Sukru 15A, Marina 15B, Luka 15C, Maja 15D (full row, both legs)
 - [CONF] (Philly): [seats on file]
 
 **Points redemptions:**

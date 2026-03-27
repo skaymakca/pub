@@ -24,7 +24,7 @@ Turkey has appeared at just 2 World Cups in their history, but the second one wa
 
 ---
 
-## Playoff C Final: Turkey vs Kosovo (Mon Mar 31)
+## Playoff C Final: Turkey vs Kosovo (Tue Mar 31)
 
 ### How They Got Here
 
@@ -97,10 +97,10 @@ If Turkey beats Kosovo, they enter Group D:
 
 | Date | Time (ET) | Match | Venue |
 |------|-----------|-------|-------|
-| Fri Jun 13 | 12:00 AM | Australia vs Turkey | BC Place, Vancouver |
-| Fri Jun 13 | 9:00 PM | USA vs Paraguay | SoFi Stadium, LA |
-| Fri Jun 20 | 12:00 AM | Turkey vs Paraguay | Levi's Stadium, Santa Clara |
-| Fri Jun 20 | 3:00 PM | USA vs Australia | Lumen Field, Seattle |
+| Sat Jun 13 | 12:00 AM | Australia vs Turkey | BC Place, Vancouver |
+| Sat Jun 13 | 9:00 PM | USA vs Paraguay | SoFi Stadium, LA |
+| Sat Jun 20 | 12:00 AM | Turkey vs Paraguay | Levi's Stadium, Santa Clara |
+| Sat Jun 20 | 3:00 PM | USA vs Australia | Lumen Field, Seattle |
 | Thu Jun 25 | 10:00 PM | Turkey vs USA | SoFi Stadium, LA |
 | Thu Jun 25 | 10:00 PM | Paraguay vs Australia | Levi's Stadium, Santa Clara |
 
