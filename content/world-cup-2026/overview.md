@@ -24,10 +24,10 @@ We have **4 tickets to each of 4 FIFA World Cup 2026 matches** (16 tickets total
 |------|------|------|-----------|-------|
 | England vs Croatia | Wed Jun 17 | Dallas | Marina + Luka (definite), Sukru + Maja (TBD) | If S+M skip, sell 2 tickets |
 | Panama vs Croatia | Tue Jun 23 | Toronto | Marina + Luka + Sukru + Maja (all 4) | S+M meet in Toronto if they skip Dallas |
-| Croatia vs Ghana | Sat Jun 27 | Philadelphia | Marina + Luka + FIL + BIL | Sukru + Maja do NOT attend Philly |
+| Croatia vs Ghana | Sat Jun 27 | Philadelphia | Marina + Luka + FIL (+ Sukru TBD) | Maja stays home. ~~BIL dropped out Mar 26.~~ |
 | Match 74 (Gillette) | Sun Jun 29 | Foxborough | TBD | Ignore for now -- focus on group stage |
 
-**FIL** (Marina's father, flying from LAX) and **BIL** (Marina's brother, flying from Zadar) attend the Philly game only. FIL and BIL cover their own travel costs (flights + 1 hotel room) -- tracked separately from the family budget. BIL arrives independently (does not need to coordinate timing with Marina/FIL).
+**FIL** (Marina's father, flying from LAX) attends the Philly game only. FIL covers his own flight costs ($693.77) -- tracked separately from the family budget. Shares the family hotel room. ~~BIL dropped out Mar 26.~~
 
 ### The Open Question
 
@@ -37,13 +37,13 @@ We have **4 tickets to each of 4 FIFA World Cup 2026 matches** (16 tickets total
 - **Scenario B:** Marina + Luka do Dallas alone, fly home; all 4 fly to Toronto together Jun 19 or 20 (4-5 nights for S+M)
 - If Scenario B, sell 2 Dallas tickets (~$3,100 net)
 
-See [08 -- Dallas vs Toronto Decision](../dallas-vs-toronto-decision/) for the full analysis.
+**Decided: Scenario B.** ~$5,000-5,550 savings. Analysis preserved in git history.
 
 ---
 
 ## Travel Flows
 
-### Scenario A: Full Family Does Dallas + Toronto
+### ~~Scenario A: Full Family Does Dallas + Toronto~~ (not selected)
 
 ```
 Jun 15 (Mon)  All 4: BOS -> DFW (arrive, settle in)
@@ -54,7 +54,7 @@ Jun 19-22     Toronto sightseeing (4 extra days!)
 Jun 23 (Tue)  GAME DAY -- Panama vs Croatia, 7 PM ET
 Jun 24 (Wed)  All 4: Toronto -> BOS (home)
 Jun 25 (Thu)  Marina + Luka: BOS -> PHL (JetBlue 6:10 PM nonstop)
-Jun 26 (Fri)  Philly sightseeing with FIL + BIL
+Jun 26 (Fri)  Philly sightseeing with FIL
 Jun 27 (Sat)  GAME DAY -- Croatia vs Ghana, 5 PM ET
 Jun 28 (Sun)  Post-game day -- relaxed sightseeing
 Jun 29 (Mon)  Marina + Luka: PHL -> BOS (home)
@@ -85,17 +85,17 @@ Jun 25 (Thu)  Same as Scenario A from here
 
 **Option C (chosen):** Fly home first, arrive Jun 25 (2 sightseeing days).
 
-**Jun 25 arrival (Option C -- recommended):**
+**Jun 25 arrival (booked):**
 ```
 Jun 24 (Wed)  All 4 fly YTZ -> BOS (Porter PD 2945 1:00 PM, conf [CONF])
               M+L spend night at home
-Jun 25 (Thu)  M+L fly BOS -> PHL (JetBlue 6:46 AM $94/pp or 6:10 PM $299/pp)
-              FIL arrives PHL (from LAX)
-              BIL arrives independently (via EWR+Amtrak)
+Jun 25 (Thu)  M+L fly BOS -> PHL (B6 2459 6:10 PM, arrive 7:49 PM, conf [CONF])
+              FIL arrives PHL (AA 3319 12:19 PM -> 8:38 PM, conf [CONF])
+              All meet at PHL, share ride to Element Downtown
 Jun 26 (Fri)  Philly sightseeing
 Jun 27 (Sat)  GAME DAY -- Croatia vs Ghana, 5 PM ET
 Jun 28 (Sun)  Post-game day -- relaxed sightseeing
-Jun 29 (Mon)  Everyone departs
+Jun 29 (Mon)  M+L depart B6 1160 9:12 AM -> BOS. FIL departs AA 824 9:46 AM -> LAX.
 ```
 
 **Marina's requirements:**
@@ -112,16 +112,15 @@ Jun 29 (Mon)  Everyone departs
 | [02 -- Match Analysis](../match-analysis/) | Tactical preview, key players, history, and what to watch for -- all 3 group matches |
 | [03 -- Dallas](../dallas-research/) | Full trip research: flights, attractions, food, hotels, game-day logistics, itinerary |
 | [04 -- Toronto](../toronto-research/) | Full trip research: attractions, food, hotels, border crossing, game-day logistics, itinerary |
-| [05 -- Philadelphia](../philadelphia-research/) | Full trip research: flights, attractions, food, hotels, game-day logistics, FIL coordination |
-| [06 -- City Comparison](../comparison/) | Side-by-side comparison of Dallas, Toronto, and Philadelphia across all dimensions |
-| [07 -- Family Decision Guide](../dallas-vs-philly/) | Dallas vs. Philly scored by each family member's priorities |
-| [08 -- Dallas vs Toronto Decision](../dallas-vs-toronto-decision/) | Should Sukru + Maja join Dallas or just meet in Toronto? |
-| [09 -- Tickets & Resale](../tickets-and-resale/) | Face values, resale estimates, FIFA marketplace rules, timing strategy for selling |
-| [10 -- Match 74 at Gillette](../match74-gillette/) | Round of 32 analysis: likely opponents, demand, feeder matches timeline, logistics |
-| [11 -- Dallas Resale Action Plan](../dallas-resale-action-plan/) | Dallas ticket resale pricing strategy, timeline, step-by-step |
-| [12 -- Booked Inventory](../booked-inventory/) | Everything purchased: flights, hotels, match tickets, cost summary |
+| [05 -- Philadelphia](../philadelphia-research/) | Full trip research: attractions, food, hotels, game-day logistics, FIL coordination |
+| [06 -- City Highlights](../city-highlights/) | What to look forward to in each city, per-person recommendations |
+| [07 -- Tickets & Resale](../tickets-and-resale/) | Face values, resale estimates, FIFA marketplace rules, timing strategy |
+| [08 -- Match 74 at Gillette](../match74-gillette/) | Round of 32 analysis: likely opponents, demand, logistics |
+| [09 -- Dallas Resale Action Plan](../dallas-resale-action-plan/) | Dallas ticket resale pricing strategy, timeline, step-by-step |
+| [10 -- Turkey at the 2026 World Cup](../turkey-world-cup-2026/) | Turkey's WC history, playoff final, Group D analysis, knockout paths, Match 74 connection |
+| [11 -- Booked Inventory](../booked-inventory/) | Everything purchased: flights, hotels, match tickets, cost summary |
 
-*Deleted docs (research preserved in git history): flight fares, hotel pricing, cost analysis, scenario A/B summaries, JetBlue strategy, BOS-DFW flights, BOS-YYZ flights, Philly hotels, FIL/BIL flights.*
+*Deleted docs (preserved in git history): flight fares, hotel pricing, cost analysis, scenario A/B summaries, city comparison, family decision guide, Dallas vs Toronto decision, JetBlue strategy, BOS-DFW/YYZ flights, Philly hotels, FIL/BIL flights.*
 
 ---
 
@@ -141,9 +140,9 @@ Jun 29 (Mon)  Everyone departs
 | **Jun 20** | All 4 fly BOS->YTZ (PD 2946 5:30 PM) |
 | **Jun 23** | **Game 2: Panama vs Croatia** (BMO Field, Toronto, 7:00 PM ET) |
 | **Jun 24** | All 4 fly YTZ->BOS (PD 2945 1:00 PM) |
-| **Jun 25** | Marina + Luka fly BOS->PHL (B6 2459 6:10 PM). FIL arrives LAX->PHL. BIL arrives ZAG->EWR. |
+| **Jun 25** | M+L fly BOS->PHL (B6 2459 6:10 PM). FIL arrives LAX->PHL (AA 3319 12:19 PM). Check in Element Downtown. |
 | **Jun 27** | **Game 3: Croatia vs Ghana** (Lincoln Financial Field, Philadelphia, 5:00 PM ET) |
-| **Jun 29** | Everyone departs: M+L PHL->BOS 9:12 AM, FIL PHL->LAX 9:46 AM, BIL Amtrak->EWR->ZAG |
+| **Jun 29** | M+L depart PHL->BOS (B6 1160 9:12 AM). FIL departs PHL->LAX (AA 824 9:46 AM). |
 | **Jun 29** | **Game 4: Match 74 at Gillette** (Round of 32, 4:30 PM ET -- TBD if attending) |
 
 ---

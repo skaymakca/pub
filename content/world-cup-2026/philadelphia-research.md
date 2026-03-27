@@ -203,7 +203,7 @@ Fly nonstop BOS->PHL (American or JetBlue). Skip the rental car -- use SEPTA tra
 
 ### Booking Note
 
-Book EARLY. World Cup + America 250 celebrations will spike demand. The June 25 game (Curaçao vs. Côte d'Ivoire) two days before yours means the city will already be full of fans. **Two rooms for 4 nights during the World Cup will be competitive -- book as soon as plans are confirmed.**
+**Booked:** Element Philadelphia Downtown, Deluxe 2 Queen City View High Floor, Jun 25-29, conf #[CONF]. 1 room (Marina+Luka+FIL share, + Sukru TBD). Free breakfast + kitchen.
 
 ---
 

@@ -278,9 +278,11 @@ Bike Share Toronto requires age 14+ -- not viable for kids. Instead, rent family
 
 ---
 
-## 6. Expanded 6-Night Itinerary (Jun 18-24)
+## 6. Toronto Itinerary (Jun 20-24, 4 Nights)
 
-**6 nights, 5+ full sightseeing days.** Arrival Thu Jun 18, departure Wed Jun 24 (or Thu Jun 25).
+**Actual trip: 4 nights (Jun 20-24), 2 full sightseeing days + game day.** Booked: Porter BOS->YTZ Jun 20 (PD 2946 5:30 PM), YTZ->BOS Jun 24 (PD 2945 1:00 PM). Hotel: Westin Harbour Castle.
+
+> The itinerary below was originally planned for a 6-night Scenario A stay (Jun 18-24). For our 4-night stay, use the Jun 21-24 days below. Jun 18-20 activities can be skipped or used as alternates.
 
 ### Thu Jun 19 -- Downtown Highlights
 - Morning: CN Tower + Glass Floor (1.5 hrs) -> Ripley's Aquarium (2 hrs). Adjacent -- do together.

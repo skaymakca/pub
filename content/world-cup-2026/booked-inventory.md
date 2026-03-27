@@ -1,6 +1,6 @@
 ---
 title: "Booked Inventory"
-weight: 12
+weight: 11
 ---
 
 Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 22, 2026.
@@ -15,7 +15,7 @@ Everything purchased or confirmed for the 2026 FIFA World Cup trip, as of March 
 |---|------|---------|-------|-------|----------|----------|----------|----------|----------|
 | 1 | Wed Jun 17 | 3:00 PM CT | England vs Croatia | AT&T Stadium, Arlington TX | 80,000 | Marina | Luka | **List on FIFA Resale** | **List on FIFA Resale** |
 | 2 | Tue Jun 23 | 7:00 PM ET | Panama vs Croatia | BMO Field, Toronto | ~30,000 | Sukru | Marina | Luka | Maja |
-| 3 | Sat Jun 27 | 5:00 PM ET | Croatia vs Ghana | Lincoln Financial Field, Philadelphia | 69,000 | Marina | Luka | FIL | BIL |
+| 3 | Sat Jun 27 | 5:00 PM ET | Croatia vs Ghana | Lincoln Financial Field, Philadelphia | 69,000 | Marina | Luka | FIL | Sukru TBD / sell |
 | 4 | Sun Jun 29 | 4:30 PM ET | Match 74 (Round of 32) | Gillette Stadium, Foxborough MA | 65,000 | TBD | TBD | TBD | TBD |
 
 **Notes:**

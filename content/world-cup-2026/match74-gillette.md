@@ -1,6 +1,6 @@
 ---
 title: "Match 74 -- Round of 32 at Gillette"
-weight: 10
+weight: 8
 ---
 
 **Ticket ID:** #[TICKET]
@@ -8,6 +8,70 @@ weight: 10
 **Date:** Sunday, June 29, 2026 -- 4:30 PM ET
 **Venue:** Gillette Stadium, Foxborough, MA (~65,000 capacity)
 **Distance from home:** ~30 min drive from Newton
+
+---
+
+## Could Croatia or Turkey Play in Match 74?
+
+### Croatia -- No
+
+Croatia is in **Group L** (England, Croatia, Ghana, Panama). Match 74's structure is **1E vs 3A/B/C/D/F**:
+- **1E** = Winner of Group E (Germany's group). Croatia is not in Group E.
+- **3A/B/C/D/F** = 3rd-place team from Groups A, B, C, D, or F. **Group L is not in this pool.**
+
+Croatia cannot appear on either side of Match 74 regardless of how they perform. If Croatia advances from Group L, they'd enter a different branch of the knockout bracket.
+
+### Turkey -- Yes, it's possible
+
+Turkey is in **UEFA Playoff C**. Turkey beat Romania in the semifinal (Mar 26) and faces Kosovo in the final (Mar 31). If Turkey wins, they enter **Group D** (USA, Paraguay, Australia, Turkey). Group D IS in the 3rd-place pool for Match 74.
+
+**Path to Match 74 for Turkey:**
+1. ~~Win UEFA Playoff C semifinal vs Romania~~ -- **Done (Mar 26)**
+2. Win UEFA Playoff C final vs Kosovo (Mar 31)
+3. Finish 3rd in Group D behind USA + one other (likely Paraguay or Australia)
+4. Be among the 8 best 3rd-place teams (out of 12 groups, 8 qualify)
+5. Get slotted into the Match 74 bracket position
+
+**How realistic?** Turkey are favorites over Kosovo in the final. Group D is tough -- USA is the heavy favorite for 1st, and Paraguay/Australia are competitive for 2nd. Turkey finishing 3rd is plausible but not guaranteed. They'd need to beat at least one of Paraguay/Australia while losing to USA.
+
+**If it happens:** Germany vs. Turkey at Gillette would be a fantastic atmosphere. Large Turkish diaspora in the US (though smaller in Boston than NYC), historic European rivalry, and the drama of a knockout match. Demand would be **high** -- comparable to the South Korea or Scotland scenarios.
+
+| Scenario | Likelihood | Demand if it happens |
+|----------|-----------|---------------------|
+| Turkey beats Kosovo (Mar 31) + finishes 3rd in Group D | Moderate | High -- European rivalry, good fanbase |
+| Turkey beats Kosovo + finishes 2nd or 4th | More likely | N/A -- wouldn't be in Match 74 |
+| Turkey loses to Kosovo (Mar 31) | Unlikely (Turkey favored) | N/A -- not in the tournament |
+
+### Key Dates -- Turkey's Path to Match 74
+
+**Stage 1: Qualify for the World Cup (UEFA Playoff C)**
+
+| Date | Match | What it means |
+|------|-------|---------------|
+| ~~Wed Mar 26~~ | ~~Turkey vs Romania (PO C semifinal)~~ | ~~**Turkey won.**~~ |
+| **Mon Mar 31** | **Turkey vs Kosovo** (PO C final) | **Win = Turkey in the World Cup (Group D). Lose = out.** Turkey favored. |
+
+**Stage 2: Finish 3rd in Group D**
+
+If Turkey qualifies, their group games:
+
+| Date | Time (ET) | Match | Venue | What to watch |
+|------|-----------|-------|-------|---------------|
+| Sun Jun 14 | 12:00 AM | Australia vs Turkey | Vancouver | Turkey's opener -- need points |
+| Sat Jun 20 | 12:00 AM | Turkey vs Paraguay | Santa Clara | Must-win to stay in 3rd-place contention |
+| Thu Jun 25 | 10:00 PM | Turkey vs USA | LA (SoFi) | **Group D finale -- 3rd place decided.** Turkey needs to finish above one of Australia/Paraguay but below USA. |
+
+**Stage 3: Make the bracket**
+
+| Date | What happens |
+|------|-------------|
+| Jun 27 | All groups complete. 8 best 3rd-place teams (of 12) are ranked. Turkey must be one of the 8. |
+| Jun 27-28 | Bracket slots finalized -- we'll know if Turkey is the 3A/B/C/D/F team facing Germany in Match 74. |
+| **Jun 29** | **Match 74 -- Germany vs Turkey (if everything aligns)** |
+
+**Next elimination point: Mon Mar 31 -- Turkey vs Kosovo final.** Turkey are favorites. If they win, they're in Group D and the path to Match 74 is live.
+
+**Full Turkey analysis:** See [10 -- Turkey at the 2026 World Cup](../turkey-world-cup-2026/) for squad, Group D odds, and all knockout paths.
 
 ---
 
