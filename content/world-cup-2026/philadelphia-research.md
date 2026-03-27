@@ -52,6 +52,37 @@ FIL arrives 49 min after M+L -- short wait at baggage claim, then share a ride. 
 
 ---
 
+## 0b. Sukru's Travel to Philadelphia (TBD)
+
+Sukru travels separately -- Maja stays home with a babysitter. The key constraint is not cost but **return reliability**: getting home earlier in the day shortens the babysitter window.
+
+| Factor | 🚗 Drive | 🚄 Acela | ✈️ Cheap Flight | ✈️ Expensive Flight |
+|---|---:|---:|---:|---:|
+| **Estimated Cost (Round Trip)** | **$260-290** (incl. parking) | **$300-450** | **~$300** | **~$600** |
+| **Estimated Travel Time (Door-to-Door)** | **~5.5-7 hrs** | **~4.5-5.5 hrs** | **~4.0-4.25 hrs** | **~4.0-4.25 hrs** |
+| **Typical Return Window** | Anytime you choose | Scheduled, frequent | Late evening / near midnight | Morning -> midday |
+| **Reliability of Midday Arrival** | ✅ **High** | ✅ **High** | ❌ Low | [!] Medium-High |
+| **Flexibility to Adjust Timing** | ✅ **Maximum** | [!] Moderate | ❌ None | ❌ None |
+| **Schedule / Delay Risk** | ✅ Low | [!] Low-Moderate | ❌ High | ❌ High |
+| **Babysitter Impact** | ✅ **Best (controllable)** | ✅ Very good | ❌ Worst | [!] Good but fragile |
+| **Travel Fatigue** | ❌ High | ✅ Low | [!] Medium | [!] Medium |
+
+**Notes:**
+- Driving estimate includes gas, tolls, and ~$120 for hotel parking in Center City.
+- Acela estimate assumes cheapest available fare class.
+- Flight time-budget: ~30 min to/from airport each end, ~2 hrs airport overhead, ~1 hr flight time.
+- Cheap flights tend to arrive BOS late evening/near midnight -- worst case for babysitter coverage. Expensive flights offer better morning departures but are delay-prone and cost 2x.
+
+**Sukru's stay:** 2 nights -- arrive Fri Jun 26, game Sat Jun 27, depart Sun Jun 28 morning.
+
+Marina + Luka + FIL stay the full Thu-Mon window. Sukru joins for 2 of the 4 nights.
+
+**The babysitter question:** Maja needs overnight coverage Fri + Sat (2 nights). A cheap Sun evening flight lands BOS ~midnight, forcing a 3rd overnight. Driving out of Philly Sun morning gets home by ~noon -- 2 overnights only.
+
+**Decision:** TBD -- leaning toward drive or Acela for a reliable Sun morning departure.
+
+---
+
 ## 1. Flying from Boston
 
 ### Nonstop Options: BOS -> PHL
