@@ -51,7 +51,7 @@ Good news: Croatia Airlines flies MUC→ZAG and they are **not striking**. Lufth
 | Leg | Flight | Depart | Arrive | Airline |
 |-----|--------|--------|--------|---------|
 | 1 | OU437 (= LH5998) | MUC 7:35 PM | ZAG 8:45 PM | Croatia Airlines |
-| 2 | OU (evening) | ZAG 9:15 PM | ZAD 10:00 PM | Croatia Airlines |
+| 2 | OU632 | ZAG 9:15 PM | ZAD 10:00 PM | Croatia Airlines |
 
 - **10+ hour wait at Munich** — no connection stress at all
 - 30-minute connection at Zagreb is fine (small, efficient airport)
