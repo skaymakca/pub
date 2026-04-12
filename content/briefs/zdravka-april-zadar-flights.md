@@ -57,7 +57,15 @@ Good news: Croatia Airlines flies MUC→ZAG and they are **not striking**. Lufth
 - 30-minute connection at Zagreb is fine (small, efficient airport)
 - **Arrives Zadar at 10:00 PM — same day, just later**
 
-### Option 3: Wait for Lufthansa to sort it out
+### Option 3: Delay departure from Boston
+
+- Don't fly tonight — rebook the entire outbound to after the strike ends (e.g., Apr 15 or 16)
+- Free rebooking under strike policy covers any LH Group flight Apr 11-21
+- Avoids all strike chaos entirely — no risk of being stranded in Munich
+- Delays arrival in Zadar by 2-3 days
+- Post-strike flights may have limited availability as other passengers rebook to the same dates
+
+### Option 4: Wait for Lufthansa to sort it out
 
 - If LH1726 is cancelled, Lufthansa will auto-rebook her and must provide hotel + meals
 - She'd likely fly MUC→ZAG on April 15 (day after strike ends)
@@ -71,10 +79,10 @@ Good news: Croatia Airlines flies MUC→ZAG and they are **not striking**. Lufth
 
 ### Recommended action:
 
-1. **Zrinka should call Lufthansa or use the online rebooking tool NOW** to rebook Zdravka from LH1726 to either OU4437 (10:20 AM) or OU437 (7:35 PM). The earlier we do this, the better — those OU flights will fill up fast as LH rebooks thousands of stranded passengers.
+1. **Someone should call Lufthansa or use the online rebooking tool NOW** to rebook Zdravka from LH1726 to either OU4437 (10:20 AM) or OU437 (7:35 PM). Any of us can call — we just need the booking code and ticket number. The earlier we do this, the better — those OU flights will fill up fast as LH rebooks thousands of stranded passengers.
 
 2. **Rebooking channels (in order):**
-   - Online: [Lufthansa My Booking](https://www.lufthansa.com/de/en/login) — log in with booking code **9JFZMX**
+   - Online: [Lufthansa My Booking](https://www.lufthansa.com/de/en/login) — log in with the booking code
    - Chat: [Lufthansa Chat Assistant](https://www.lufthansa.com/digitalassistant/webchat.html?ref=flightdisruption&start=irreg)
    - Phone: Lufthansa Help Center (expect long waits)
 
@@ -86,8 +94,8 @@ Good news: Croatia Airlines flies MUC→ZAG and they are **not striking**. Lufth
 
 ## Key Details
 
-- **Booking code:** 9JFZMX
-- **Ticket:** 2202240731185-86
+- **Booking code:** *(shared separately)*
+- **Ticket:** *(shared separately)*
 - **Booked under:** zdusevic@gmail.com
 - **Passenger:** DUSEVIC, ZDRAVKA Ms
 - **OU4437 codeshare:** LH5988 (use this when rebooking through Lufthansa)
@@ -97,4 +105,4 @@ Good news: Croatia Airlines flies MUC→ZAG and they are **not striking**. Lufth
 
 ## Bottom Line
 
-Zdravka should fly tonight as planned. The real question is whether to try for the 10:20 AM Croatia Airlines flight (tight but same-day arrival in Zadar) or take the safe 7:35 PM evening flight (long Munich wait, arrives Zadar 10 PM). Either way, **someone should call Lufthansa to rebook her before those seats fill up**.
+If Zdravka's Zadar schedule is flexible, delaying departure from Boston by a few days (Option 3) avoids the strike entirely. If she flies tonight as planned, the real question is whether to try for the 10:20 AM Croatia Airlines flight (tight but same-day arrival in Zadar) or take the safe 7:35 PM evening flight (long Munich wait, arrives Zadar 10 PM). Either way, **someone should call Lufthansa to rebook her before those Croatia Airlines seats fill up**.
