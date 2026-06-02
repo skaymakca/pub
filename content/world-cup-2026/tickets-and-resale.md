@@ -14,12 +14,13 @@ We have 4 tickets for each of Croatia's 3 group stage games. This analysis cover
 | Metric | Details |
 |--------|---------|
 | **Face value** | Cat 1: $700 / Cat 2: $500 / Cat 3: $265 |
-| **Current resale average** | ~$1,824 per ticket |
-| **Resale range** | $568 - $2,185+ |
+| **Current resale average** | ~$1,824 per ticket (SeatPick, Apr 12) |
+| **Resale range** | $568 - $17,000+ (many unrealistic asks on FIFA Resale) |
+| **Realistic Cat 2 range** | **$1,200-$2,000+** per ticket (Apr 2026 refresh) |
 | **Markup** | 3x-35x face value depending on category |
 | **Our tickets** | 2x Category 2 ($500 face value) -- selling 2, Marina+Luka using the other 2 |
-| **Cat 2 resale estimate** | $800-$1,500 per ticket |
-| **2 tickets at Cat 2 avg** | ~$2,400 gross / ~$2,040 net (after 15% seller fee) |
+| **Cat 2 resale estimate** | $1,200-$2,000 per ticket (up from $800-$1,500 in Mar) |
+| **2 tickets at $1,400 list** | $2,800 gross / **$2,380 net** (after 15% seller fee) |
 
 **Why it commands the most:**
 - England has one of the world's largest and most passionate fanbases with a massive US diaspora

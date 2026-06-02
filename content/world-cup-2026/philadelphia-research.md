@@ -15,7 +15,7 @@ weight: 5
 | **Marina** | BOS -> PHL | Thu Jun 25, 7:49 PM | Mon Jun 29, 9:12 AM -> BOS | B6 2459 / B6 1160 | [CONF] |
 | **Luka** | BOS -> PHL | Thu Jun 25, 7:49 PM | Mon Jun 29, 9:12 AM -> BOS | B6 2459 / B6 1160 | [CONF] |
 | **FIL** (Marina's father, 77) | LAX -> PHL | Thu Jun 25, 8:38 PM | Mon Jun 29, 9:46 AM -> LAX | AA 3319 / AA 824 | [CONF] |
-| **Sukru** (TBD) | BOS -> PHL or drive | TBD | TBD | Not booked | -- |
+| **Sukru** | BOS -> PHL (AA) | Sat Jun 27, 11:12 AM | Sun Jun 28, 7:05 PM | AA 3225 / AA 2960 | [CONF] |
 
 **Plan: Arrive Jun 25, depart Jun 29** -- 4 nights, 3 sightseeing days.
 
@@ -52,7 +52,19 @@ FIL arrives 49 min after M+L -- short wait at baggage claim, then share a ride. 
 
 ---
 
-## 0b. Sukru's Travel to Philadelphia (TBD)
+## 0b. Sukru's Travel to Philadelphia -- ✅ BOOKED (Jun 2, 2026)
+
+**Flying American, conf [CONF], $553.80** (1 pax, Main Cabin / changeable):
+- **Out:** AA 3225, Sat Jun 27, BOS 9:37 AM -> PHL 11:12 AM (seat 25D) -- lands ~6 hrs before the 5 PM game.
+- **Back:** AA 2960, Sun Jun 28, PHL 5:30 PM -> BOS 7:05 PM (seat 22C) -- home ~8:30 PM.
+- **One overnight.** Maja home with **Morgan** (former nanny) -- **confirmed**, coverage **Sat ~8 AM -> Sun ~8:30 PM**. Marina chose the Sunday late-afternoon return so Sukru gets a full family Sunday in Philly (the family flies home Mon Jun 29).
+- Booked **Main Cabin (free changes)**; Morgan has since confirmed, so the childcare gate is closed.
+
+The original drive-vs-fly analysis + timing notes are retained below for the record.
+
+---
+
+## 0c. Sukru's Travel to Philadelphia -- original analysis (historical)
 
 Sukru travels separately -- Maja stays home with a babysitter. The key constraint is not cost but **return reliability**: getting home earlier in the day shortens the babysitter window.
 
@@ -79,7 +91,66 @@ Marina + Luka + FIL stay the full Thu-Mon window. Sukru joins for 2 of the 4 nig
 
 **The babysitter question:** Maja needs overnight coverage Fri + Sat (2 nights). A cheap Sun evening flight lands BOS ~midnight, forcing a 3rd overnight. Driving out of Philly Sun morning gets home by ~noon -- 2 overnights only.
 
-**Decision:** TBD -- leaning toward drive or Acela for a reliable Sun morning departure.
+**Decision:** ~~TBD -- leaning toward drive or Acela for a reliable Sun morning departure.~~ **Reversed May 28 -- FLY (see refresh below).**
+
+**May 28, 2026 refresh -- the morning flight is no longer pricey, which flips the decision toward flying:**
+
+The March logic ("morning flights ~$456-600, cheap flights land near midnight -> drive/Acela") no longer holds. Live PHL->BOS Sun Jun 28 morning nonstops (Google flags "typical"):
+
+| Airline | Depart | Arrive BOS | Price |
+|---------|--------|-----------|-------|
+| Delta | 6:00 AM | 7:30 AM | $109 |
+| **JetBlue** | **8:28 AM** | **9:47 AM** | **$129** |
+| American | 7:20 / 8:26 AM | 8:41 / 9:56 AM | $149 |
+| American | 10:16 AM | 11:46 AM | $213 |
+
+- **No morning premium anymore** -- cheapest evening flight is $149, so mornings are the bargain.
+- **JetBlue 8:28 AM ($129) gets home by 9:47 AM** -- earlier than the "midday by noon" target, only 1 overnight beyond the 2 required (Fri+Sat), cheap, and minimizes the babysitter window.
+- Beats Acela: best Sunday Acela (#2271, 9:31 AM -> 2:23 PM) gets to Boston ~2:23 PM for ~$150-300 -- later and pricier than the flight.
+- **Outbound Fri Jun 26 BOS->PHL:** Delta 3:12 PM $149 is the value (later flights $213+).
+- **Round trip ~$278 cash** (Fri 3:12 PM out + Sun 8:28 AM JetBlue back) -- comparable to driving (~$260-290) but ~5 hrs less each way and a reliable morning return.
+
+**New lean: fly.** JetBlue 8:28 AM Sunday return is the sweet spot (also earns/uses TrueBlue if desired). Not booked yet -- fares move; lock when ready.
+
+**May 28 -- Saturday-arrival option (1 overnight, refines the plan):** Instead of arriving Friday (2 nights), fly out **Saturday morning** (game day) and cut to a **single overnight** -- one fewer hotel night, least sitter time for Maja. Live BOS->PHL Sat Jun 27 morning nonstops:
+
+| Airline | Depart | Arrive | Cash |
+|---------|--------|--------|------|
+| **JetBlue** | **6:04 AM** | **7:38 AM** | **$129** (only JetBlue morning flight) |
+| Delta | 7:25 AM | 9:08 AM | $149 |
+| American | 8:14 AM | 9:49 AM | $213 |
+| American | 9:37 AM | 11:12 AM | $213 |
+
+**All-JetBlue, 1-overnight plan:** Sat Jun 27 JetBlue 6:04 AM -> 7:38 AM ($129) + Sun Jun 28 JetBlue 8:28 AM -> 9:47 AM ($129) = **~$258 RT, 1 hotel night**. Lands 7:38 AM Sat with the whole day before the 5 PM kickoff; home before 10 AM Sun.
+- Tradeoff: **6:04 AM departure = ~4 AM out the door.** If too early, Delta 7:25 AM ($149) is next, or arrive Friday for a relaxed start (2 nights).
+- Confirms the morning flight is NOT pricey -- $129, "typical" pricing. Original drive/Acela rationale fully obsolete.
+
+**May 28 -- full outbound flight matrix (live Google Flights, all options regardless of price):**
+
+Two outbound windows compared -- Friday evening (-> 2 nights) vs Saturday pre-noon (-> 1 night). Nonstops only; United/Frontier/Southwest offer *only* 1-stop connections (via ORD/IAD/ATL/MDW, 4-13 hrs) -- no nonstop on this 90-min hop, so they're impractical despite appearing in results.
+
+*Friday Jun 26 -- departures after 5:00 PM (nonstop):*
+
+| Depart | Arrive | Airline | Fare |
+|--------|--------|---------|------|
+| 5:05 PM | 6:50 PM | American | $213 |
+| 5:25 PM | 7:12 PM | Delta | $249 |
+| 6:21 PM | 8:00 PM | JetBlue | $214 |
+| 7:26 PM | 9:10 PM | American | $213 |
+| 8:40 PM | 10:22 PM | Delta | $249 |
+
+*Saturday Jun 27 -- departures before noon (nonstop):*
+
+| Depart | Arrive | Airline | Fare |
+|--------|--------|---------|------|
+| 5:31 AM | 7:15 AM | American | **$129** |
+| 6:04 AM | 7:38 AM | JetBlue | **$129** |
+| 7:25 AM | 9:08 AM | Delta | $149 |
+| 8:14 AM | 9:49 AM | American | $213 |
+| 9:37 AM | 11:12 AM | American | $213 |
+| 10:52 AM | 12:26 PM | American | $213 |
+
+**Key pattern:** Friday evening is the expensive window (everything after 5 PM is $213+), Saturday morning is cheap ($129-149 for the early three). So **arriving Saturday morning is both cheaper AND one fewer night** -- only cost is the early alarm. Cheapest outbound: 5:31 AM American or 6:04 AM JetBlue, $129. (Cheapest connection: United $104 via ORD but arrives 12:57 AM -- not viable.)
 
 ---
 
