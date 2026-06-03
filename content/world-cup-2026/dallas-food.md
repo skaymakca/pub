@@ -113,7 +113,7 @@ The bulk of everyday family dining: the Entertainment District, Lincoln Square, 
 - https://www.yelp.com/biz/mercado-juarez-restaurant-arlington-2
 
 **Chuy's** -- Tex-Mex | $$ (~$14-22/pp) | 8.89 mi · 13 min drive | Kid-friendly: very -- playful colorful decor, free creamy jalapeño dip and chips, big portions
-- 📍 4001 Bagpiper Way, Ste 199, Arlington, TX 76018 · ☎ -- · 🌐 [chuys.com](https://www.chuys.com/locations/tx/arlington/arlington-tx/6014) · 🕑 Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-10pm
+- 📍 4001 Bagpiper Way, Ste 199, Arlington, TX 76018 · ☎ (817) 557-2489 · 🌐 [chuys.com](https://www.chuys.com/locations/tx/arlington/arlington-tx/6014) · 🕑 Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-10pm
 - Signature: big-as-yo-face burritos, chicka-chicka boom-boom enchiladas, fresh-lime margaritas
 - Hours: Sun-Thu 11am-10pm, Fri-Sat 11am-11pm. Walk-in
 - Why: fun, kid-pleasing Tex-Mex if you're already in/around South Arlington shopping
