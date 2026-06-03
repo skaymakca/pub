@@ -14,7 +14,7 @@ Anchored to the **Residence Inn Arlington** (1050 Brookhollow Plaza Dr, Arlingto
 The only realistically walkable cluster. Sidewalks exist along E Lamar but it's a stroad, so even these are easiest by car with a 7- and 11-year-old.
 
 **Boston's Pizza Restaurant & Sports Bar** -- Pizza / American sports bar | $$ (~$15-25/pp) | 0.24 mi · 2 min drive · 5 min walk | Kid-friendly: yes -- kids menu, build-your-own pizza, TVs everywhere
-- 📍 2501 E Lamar Blvd, Arlington, TX 76006 · ☎ -- · 🌐 [bostons.com](https://www.bostons.com/) · 🕑 Sun-Wed 11am-12am, Thu-Sat 11am-2am
+- 📍 2501 E Lamar Blvd, Arlington, TX 76006 · ☎ (817) 633-7773 · 🌐 [bostons.com](https://www.bostons.com/locations/arlington.html) · 🕑 Sun-Wed 11am-12am, Thu-Sat 11am-2am
 - Signature: gourmet pizza and pasta, wings, ribs, burgers
 - Hours: Sun-Thu 11am-12am, Fri-Sat 11am-1:30am. Walk-in; reserve via OpenTable
 - Why: practically next door (TripAdvisor lists ~0.1 mi) and a safe crowd-pleaser. Address **2501 E Lamar Blvd**; ✅ verified open Jun 2026 (active recent reviews -- one of the few surviving US Boston's locations)
@@ -43,7 +43,7 @@ The bulk of everyday family dining: the Entertainment District, Lincoln Square, 
 - https://www.nehemiahcoffee.com/location
 
 **Cracker Barrel Old Country Store** -- American / Southern comfort / breakfast | $$ (~$10-16/pp) | 1.54 mi · 6 min drive | Kid-friendly: very -- all-day breakfast, kids menu, front-porch rocking chairs + peg game
-- 📍 1251 N Watson Rd, Arlington, TX 76006 · ☎ -- · 🌐 [crackerbarrel.com](https://www.crackerbarrel.com/) · 🕑 Daily 7am-10pm
+- 📍 1251 N Watson Rd, Arlington, TX 76006 · ☎ (817) 633-5477 · 🌐 [locations.crackerbarrel.com](https://locations.crackerbarrel.com/tx/arlington/242/) · 🕑 Daily 7am-10pm
 - Signature: all-day pancakes, biscuits, chicken n' dumplings, country fried steak; kids' pancakes and mac & cheese
 - Hours: Sun-Thu 7am-9pm, Fri-Sat 7am-10pm. Walk-in, no reservations
 - Why: closest full sit-down breakfast and a low-stress family standby. *Note: correct address is 1251 N Watson Rd (an earlier listing pointed to the Six Flags street address by mistake)*
@@ -83,8 +83,8 @@ The bulk of everyday family dining: the Entertainment District, Lincoln Square, 
 - Why: a Texas Monthly-recognized Arlington brisket sleeper -- great if Hurtado has a line
 - https://www.texasmonthly.com/bbq/brisket-almost-everything-225-bbq-arlington/
 
-**Dickey's Barbecue Pit** -- Texas BBQ | $$ (~$12-18/pp) | ~0.5 mi / 2-3 min drive | Kid-friendly: yes -- counter-service, often a free kids meal/ice-cream cone
-- 📍 4610 N Central Expy, Dallas, TX 75206 [!](multiple locations -- verify branch) · ☎ (214) 370-4550 · 🌐 [dickeys.com](https://www.dickeys.com/locations/texas/dallas/central) · 🕑 Daily 10:30am-9:00pm
+**Dickey's Barbecue Pit** -- Texas BBQ | $$ (~$12-18/pp) | 0.58 mi · 2 min drive · 12 min walk | Kid-friendly: yes -- counter-service, often a free kids meal/ice-cream cone
+- 📍 1801 Ballpark Way, Arlington, TX 76006 · ☎ (817) 261-6600 · 🌐 [dickeys.com](https://www.dickeys.com/locations/texas/arlington/ballpark-way) · 🕑 Daily 10:30am-9:00pm
 - Signature: brisket, pulled pork, ribs, sausage, classic sides; free soft-serve cone
 - Hours: daily 9am-9pm. Counter service, walk-in. *Free kids/ice-cream promos vary by day -- confirm at the store*
 - Why: fast, affordable BBQ for a casual lunch -- free ice cream cone seals the deal with kids
@@ -98,22 +98,22 @@ The bulk of everyday family dining: the Entertainment District, Lincoln Square, 
 - Why: a genuine piece of Tex-Mex history minutes from the hotel and the closest fun family dinner -- just mind the Mon/Tue closure
 - https://laharanch.com/marianoshaciendarancharlington
 
-**Lupe's Tex Mex Grill** -- Tex-Mex | $$ (~$12-20/pp) | ~1.5 mi / 5-6 min drive | Kid-friendly: yes -- spacious family room, mild tacos/quesadillas, daily taco specials
-- 📍 770 E Road To Six Flags, Arlington, TX 76011 [!](multiple locations -- verify branch) · ☎ (817) 460-6661 · 🌐 [lupestxmx.com](http://lupestxmx.com/) · 🕑 hours unconfirmed
+**Lupe's Tex Mex Grill** -- Tex-Mex | $$ (~$12-20/pp) | 2.73 mi · 9 min drive | Kid-friendly: yes -- spacious family room, mild tacos/quesadillas, daily taco specials
+- 📍 770 E Road To Six Flags, Arlington, TX 76011 · ☎ (817) 460-6661 · 🌐 [lupestxmx.com](http://lupestxmx.com/) · 🕑 hours unconfirmed
 - Signature: tacos al carbon, brisket tacos, chimichangas, grilled fajitas, shrimp tacos
 - Hours: Mon-Thu 11am-9:30pm, Fri-Sun 11am-10:30pm (slight source variance). Walk-in
 - Why: solid family-run Tex-Mex in Lincoln Square -- a more local alternative to chain Mexican
 - https://www.lincolnsquarearlington.com/stores/1020260-lupes-tex-mex-grill/
 
-**Mercado Juarez Restaurant** -- Tex-Mex / Mexican (mesquite-grilled) | $$ (~$12-20/pp) | ~7-8 mi / 12-14 min drive | Kid-friendly: excellent -- spacious, lively, used to large family parties
-- 📍 1651 E Northside Dr, Fort Worth, TX 76102 [!](multiple locations -- verify branch) · ☎ (817) 838-8285 · 🌐 [mercadojuarez.com](https://www.mercadojuarez.com/) · 🕑 Sun-Thu 11am-9pm, Fri-Sat 11am-10pm
+**Mercado Juarez Restaurant** -- Tex-Mex / Mexican (mesquite-grilled) | $$ (~$12-20/pp) | 9.02 mi · 11 min drive | Kid-friendly: excellent -- spacious, lively, used to large family parties
+- 📍 125 E Interstate 20, Arlington, TX 76018 · ☎ (817) 557-9776 · 🌐 [mercadojuarez.com](https://www.mercadojuarez.com/arlington-tx/) · 🕑 Sun-Thu 11am-9pm, Fri-Sat 11am-10pm
 - Signature: mesquite-grilled fajitas, enchiladas, tacos, well-regarded margaritas
 - Hours: Sun-Thu 11am-9pm, Fri-Sat 11am-10pm. Walk-in; call ahead for large parties
 - Why: a decades-old DFW Tex-Mex institution and reliable mid-range family pick on the south side
 - https://www.yelp.com/biz/mercado-juarez-restaurant-arlington-2
 
-**Chuy's** -- Tex-Mex | $$ (~$14-22/pp) | ~10 mi / 16-18 min drive | Kid-friendly: very -- playful colorful decor, free creamy jalapeño dip and chips, big portions
-- 📍 2401 W 7th St, Ste 110, Fort Worth, TX 76107 [!](multiple locations -- verify branch) · ☎ (817) 332-2489 · 🌐 [chuys.com](https://www.chuys.com/locations/fort-worth) · 🕑 Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-10pm
+**Chuy's** -- Tex-Mex | $$ (~$14-22/pp) | 8.89 mi · 13 min drive | Kid-friendly: very -- playful colorful decor, free creamy jalapeño dip and chips, big portions
+- 📍 4001 Bagpiper Way, Ste 199, Arlington, TX 76018 · ☎ -- · 🌐 [chuys.com](https://www.chuys.com/locations/tx/arlington/arlington-tx/6014) · 🕑 Mon-Thu 11am-10pm, Fri-Sat 11am-11pm, Sun 11am-10pm
 - Signature: big-as-yo-face burritos, chicka-chicka boom-boom enchiladas, fresh-lime margaritas
 - Hours: Sun-Thu 11am-10pm, Fri-Sat 11am-11pm. Walk-in
 - Why: fun, kid-pleasing Tex-Mex if you're already in/around South Arlington shopping
@@ -146,15 +146,15 @@ The bulk of everyday family dining: the Entertainment District, Lincoln Square, 
 - Why: easy, kid-guaranteed Italian a few minutes away in the Lincoln Square cluster
 - https://www.olivegarden.com/locations/tx/arlington/north-arlington-by-six-flags/1821
 
-**Texas Live! complex (multiple venues)** -- Food hall / sports-bar dining | $$ (~$15-30/pp) | 2.09 mi · 7 min drive | Kid-friendly: family-friendly until 9pm, then flips 21+ -- daytime/early-evening only with kids
+**Texas Live! complex (multiple venues)** -- Food hall / sports-bar dining | $$ (~$15-30/pp) | 2.09 mi · 8 min drive | Kid-friendly: family-friendly until 9pm, then flips 21+ -- daytime/early-evening only with kids
 - 📍 1650 E Randol Mill Road, Arlington, TX 76011 · ☎ (817) 852-6688 · 🌐 [texas-live.com](https://texas-live.com/) · 🕑 Complex: Mon-Thu 11am-10pm; Fri-Sat 11am-1am; Sun 11am-10pm (individual venue hours vary)
 - Signature: Lockhart brisket; Guy Fieri's Taco Joint; Pudge's Pizza; Troy's (Troy Aikman) food + live music; Miller Tavern beer garden; Sports & Social games; 100-ft LED Live! Arena for World Cup watch parties
 - Hours: venue hours vary, roughly 11am-10pm (later Fri-Sat). Mostly walk-in; some venues take event bookings
 - Why: one-stop hub between the stadiums with big screens for match atmosphere -- easy daytime family option before the 9pm switch
 - https://globelifefield.com/texas-live-restaurants-bars-entertainment-guide/
 
-**Whataburger** -- Texas fast-food burgers (institution) | $ (~$8-12/pp) | several within ~2-5 mi / 5-12 min drive | Kid-friendly: excellent -- kids' menu, shakes, fast and forgiving
-- 📍 3519 S Cooper St, Arlington, TX 76015 [!](multiple locations -- verify branch) · ☎ (817) 468-3298 · 🌐 [locations.whataburger.com](https://locations.whataburger.com/tx/arlington/3519-s-cooper-st.html) · 🕑 Open 24 hours, daily
+**Whataburger** -- Texas fast-food burgers (institution) | $ (~$8-12/pp) | 2.37 mi · 7 min drive | Kid-friendly: excellent -- kids' menu, shakes, fast and forgiving
+- 📍 2214 N Collins St, Arlington, TX 76011 · ☎ (817) 548-1976 · 🌐 [locations.whataburger.com](https://locations.whataburger.com/tx/arlington/2214-n-collins-st.html) · 🕑 Open 24 hours, daily
 - Signature: The Whataburger (5-inch toasted bun), Honey Butter Chicken Biscuit (breakfast), Whatachick'n strips, root beer/chocolate shakes
 - Hours: 2214 N Collins St and 211 S Watson Rd are both **open 24 hours.** Walk-in/drive-thru
 - Why: the mandatory cheap Texas burger run -- perfect for a fast family meal or post-match late-night
@@ -178,14 +178,14 @@ The bulk of everyday family dining: the Entertainment District, Lincoln Square, 
 - Why: a one-of-a-kind Michelin-recognized Tex-Ethiopian smokehouse (NYT, James Beard, Diners Drive-Ins and Dives) -- a memorable eat-like-a-local detour
 - https://guide.michelin.com/us/en/texas/arlington_2954961/restaurant/smoke-n-ash-bbq
 
-**Prince Lebanese Grill** -- Lebanese / Middle Eastern | $$ (~$12-25/pp) | 3.83 mi · 9 min drive | Kid-friendly: yes -- hummus, rice and grilled meats are easy for kids
+**Prince Lebanese Grill** -- Lebanese / Middle Eastern | $$ (~$12-25/pp) | 3.83 mi · 10 min drive | Kid-friendly: yes -- hummus, rice and grilled meats are easy for kids
 - 📍 502 W Randol Mill Rd, Arlington, TX 76011 · ☎ (817) 469-1811 · 🌐 [princelebanesegrill.com](https://princelebanesegrill.com/) · 🕑 Mon-Thu 11am-9pm; Fri-Sat 11am-10pm; Sun 11am-9pm
 - Signature: smooth hummus, baba ganoush, shawarma, kebab/mixed grill platters, falafel
 - Hours: daily 11am-9pm. Walk-in friendly; reservations via OpenTable. (817) 469-1811
 - Why: the Mediterranean/Middle-Eastern gap covered -- award-winning Lebanese (since 1989) with broad family appeal
 - https://princelebanesegrill.com/
 
-**Tandoor Indian Restaurant & Bar** -- North Indian | $$ (~$13-25/pp; lunch buffet ~$13) | 4.70 mi · 9 min drive | Kid-friendly: yes -- buffet is great for grazing kids; fresh tandoor naan baked in view
+**Tandoor Indian Restaurant & Bar** -- North Indian | $$ (~$13-25/pp; lunch buffet ~$13) | 4.70 mi · 10 min drive | Kid-friendly: yes -- buffet is great for grazing kids; fresh tandoor naan baked in view
 - 📍 1200 N Fielder Rd, Suite 532, Arlington, TX 76012 · ☎ (817) 261-6604 · 🌐 [tandoorrestaurant.net](https://tandoorrestaurant.net/) · 🕑 Mon, Wed, Thu, Sun 11:30am-2:30pm & 5:30pm-9:30pm; Fri-Sat 11:30am-2:30pm & 5:30pm-9:45pm; Tue closed
 - Signature: lunch buffet, tandoori dishes, fresh naan from an open tandoor, classic curries
 - Hours: Sun-Thu 11:30am-2:30pm & 5:30-9:30pm, Fri-Sat to 10pm; **CLOSED Tuesday.** Walk-in; OpenTable. (817) 261-6604. *Address corrected to 1200 N Fielder Rd Ste 532 (Fielder Plaza)*
@@ -247,7 +247,7 @@ Iconic Texas spots and the metro's serious fine-dining bench -- all a 15-40 min 
 - Why: Dallas's signature Deep Ellum brisket destination -- combine with Deep Ellum/Downtown sightseeing
 - https://pecanlodge.com/
 
-**Hutchins BBQ (Frisco)** -- Texas BBQ | $$ (~$18-28/pp) | 39.46 mi · 41 min drive | Kid-friendly: very good -- big family hall, approachable menu, lots of seating; the Texas Twinkie is a kid-magnet
+**Hutchins BBQ (Frisco)** -- Texas BBQ | $$ (~$18-28/pp) | 39.19 mi · 41 min drive | Kid-friendly: very good -- big family hall, approachable menu, lots of seating; the Texas Twinkie is a kid-magnet
 - 📍 9225 Preston Rd, Frisco, TX 75033 · ☎ (972) 377-2046 · 🌐 [hutchinsbbq.com](https://hutchinsbbq.com/) · 🕑 Daily 11:00 AM - 9:00 PM
 - Signature: original Texas Twinkie (jalapeño stuffed with brisket and cream cheese, bacon-wrapped, smoked), brisket, ribs, sausage
 - Hours: daily ~11am-9pm (or sold out). Walk-in/counter

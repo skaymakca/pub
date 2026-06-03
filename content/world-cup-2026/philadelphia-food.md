@@ -54,7 +54,7 @@ All distances below are measured from **Element Philadelphia Downtown, 1441 Ches
 - https://kurasushi.com/locations/philadelphia-pa
 
 **Honeygrow** -- Build-your-own stir-fry / noodle bowls / salads (fast-casual) | $$ (~$11-15/pp, kids cheaper) | ~0.15 mi / 2-3 min walk | **Kid-friendly: very good** -- touchscreen kiosks the kids love, fully customizable so picky eaters keep it plain, plus a "honeybar" fruit-and-yogurt dessert.
-- 📍 110 S 16th St, Philadelphia, PA 19102 [!](multiple locations -- verify branch) · ☎ (215) 279-7724 · 🌐 [honeygrow.com](https://www.honeygrow.com/) · 🕑 Daily 10:30am-10:30pm
+- 📍 110 S 16th St, Philadelphia, PA 19102 · ☎ (215) 279-7724 · 🌐 [honeygrow.com](https://www.honeygrow.com/) · 🕑 Daily 10:30am-10:30pm
 - *Signature:* Build-your-own stir-fry, red coconut curry, honeybar fruit cup, lemonades.
 - *Hours/res:* Daily 10:30am-10:30pm. Walk-in / order-ahead app.
 - *Why:* The closest healthy fast-casual to the hotel -- fast, cheap, and the kiosks entertain the kids.
@@ -103,14 +103,14 @@ All distances below are measured from **Element Philadelphia Downtown, 1441 Ches
 - https://lajefaphilly.com/
 
 **Federal Donuts & Chicken** -- Cake doughnuts + Korean-style fried chicken (fast-casual) | $$ (doughnuts ~$2-3; chicken combos ~$12-18/pp) | ~0.5 mi / 9-10 min walk (1909 Sansom); 12th St stand ~0.4 mi / 8 min | **Kid-friendly: excellent** -- fresh cake doughnuts in fun flavors plus crispy twice-fried chicken; counter service, quick.
-- 📍 1909 Sansom St, Philadelphia, PA 19103 [!](multiple locations -- verify branch) · ☎ (215) 665-1101 · 🌐 [federaldonuts.com](https://federaldonuts.com/) · 🕑 Mon-Fri 7am-6pm (verify weekend hours)
+- 📍 1909 Sansom St, Philadelphia, PA 19103 · ☎ (215) 665-1101 · 🌐 [federaldonuts.com](https://federaldonuts.com/) · 🕑 Mon-Fri 7am-6pm (verify weekend hours)
 - *Signature:* Hot fresh cake doughnuts (vanilla-spice, seasonal glazes); Korean-style fried chicken; chicken sandwich.
 - *Hours/res:* 1909 Sansom ~7am-6pm daily (the founder-reacquired flagship after a spring-2026 franchise shake-up); 21 S 12th St stand ~7am-6pm. Walk-in. **Hours are the single softest data point here -- verify day-of, as the brand is still settling and doughnuts can run low later in the day.**
 - *Why:* Iconic Philly doughnuts-plus-fried-chicken combo engineered to delight kids.
 - https://federaldonuts.com/locations/
 
 **Goldie** -- Israeli-style vegan falafel + fries + tehina shakes (fast-casual) | $ (sandwich ~$8-9; ~$10-15/pp) | ~0.5 mi / 9-10 min walk (1911 Sansom); 1218 Sansom ~0.35 mi / 6-7 min | **Kid-friendly: good** -- crowd-pleasing falafel and famously good tehina shakes; 100% vegan, mostly gluten-free; counter service.
-- 📍 1911 Sansom St, Philadelphia, PA 19102 [!](multiple locations -- verify branch) · ☎ (267) 239-0777 · 🌐 [goldiefalafel.com](https://www.goldiefalafel.com/) · 🕑 11am-7pm daily (this 'The Harper' location)
+- 📍 1911 Sansom St, Philadelphia, PA 19102 · ☎ (267) 239-0777 · 🌐 [goldiefalafel.com](https://www.goldiefalafel.com/) · 🕑 11am-7pm daily (this 'The Harper' location)
 - *Signature:* Falafel sandwich with Israeli salad and tehina; seasoned fries; tehina shake (vanilla, mint chip).
 - *Hours/res:* 1911 Sansom daily 11am-7pm; 1218 Sansom Sun-Thu 11am-7pm, Fri-Sat 11am-10pm. Walk-in.
 - *Why:* Cheap, fast, and the tehina shakes are a kid magnet -- a lighter, plant-based change of pace.

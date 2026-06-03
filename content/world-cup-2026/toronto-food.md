@@ -158,7 +158,7 @@ Everything here is roughly 0 to 1.5 mi on foot. The single densest cluster is **
 A taxi/Uber, streetcar, or subway hop -- Chinatown on Spadina, the Distillery District, Yonge-Dundas, Liberty Village, and the near-downtown core.
 
 **⭐ Hokkaido Ramen Santouka** -- Japanese / ramen | $$ (~CA$18-25 pp) | ~1.3 mi / ~10 min drive or subway (Union->Dundas) | very kid-friendly (generous portions, mild tonkotsu broth; quick turnover)
-- 📍 91 Dundas Street E, Toronto, ON M5B 2C8 [!](multiple locations -- verify branch) · ☎ (647) 748-1717 · 🌐 [santouka-canada.com](https://santouka-canada.com/locations/dundas-st/) · 🕑 Daily approx. 11:00am-11:00pm
+- 📍 91 Dundas Street E, Toronto, ON M5B 2C8 · ☎ (647) 748-1717 · 🌐 [santouka-canada.com](https://santouka-canada.com/locations/dundas-st/) · 🕑 Daily approx. 11:00am-11:00pm
 - Signature: shio tonkotsu ramen with tender roast pork (toroniku/pork cheek); kids love plain ramen + gyoza.
 - Hours/res: daily ~11am-11pm; walk-in; (647) 748-1717.
 - Why: reliable, kid-approved downtown ramen -- fills the Japanese noodle gap near Eaton Centre.
@@ -215,7 +215,7 @@ A taxi/Uber, streetcar, or subway hop -- Chinatown on Spadina, the Distillery Di
 - https://www.tripadvisor.com/Restaurant_Review-g155019-d4471873-Reviews-Seven_Lives_Tacos_y_Mariscos-Toronto_Ontario.html
 
 **LOCAL Public Eatery -- Liberty Village** -- Canadian / gastropub | $$ (~CA$30-40 pp dinner) | ~3.3 mi / 12-15 min drive (or ~25 min streetcar) | very kid-friendly (dedicated kids' menu; burgers/tacos/comfort food; patio cornhole + indoor shuffleboard; 20 taps)
-- 📍 171 East Liberty Street, Unit 100, Toronto, ON M6K 3P6 [!](multiple locations -- verify branch) · ☎ (416) 901-8351 · 🌐 [localpubliceatery.com](https://localpubliceatery.com/neighbourhoods/liberty-village/) · 🕑 Mon-Wed 11:00am-1:00am; Thu-Fri 11:00am-2:00am; Sat 10:00am-2:00am; Sun 10:00am-1:00am
+- 📍 171 East Liberty Street, Unit 100, Toronto, ON M6K 3P6 · ☎ (416) 901-8351 · 🌐 [localpubliceatery.com](https://localpubliceatery.com/neighbourhoods/liberty-village/) · 🕑 Mon-Wed 11:00am-1:00am; Thu-Fri 11:00am-2:00am; Sat 10:00am-2:00am; Sun 10:00am-1:00am
 - Signature: Press burgers, soft tacos, weekend brunch; casual shareable pub fare.
 - Hours/res: Mon-Wed 11am-1am, Thu-Fri to 2am, Sat 10am-2am, Sun 10am-1am; OpenTable or casual walk-in. Sports-bar setting gets loud on game days.
 - Why: the easy Liberty Village pick -- kids' menu plus games and TVs that suit a World Cup watch with kids in tow.
