@@ -18,6 +18,26 @@ Friends are visiting **Wednesday July 29 through Monday August 3, 2026**. Five u
 
 **What they asked for:** historic sites and local culture. Restaurants matter too, in two deliberately separate categories -- **"good"** (go for the cooking) and **"fun"** (go for the room, the history, the line out the door) -- spread across the city and Cambridge rather than clustered downtown.
 
+### ⚠️ But we don't know how much history they actually want
+
+This is the open question the whole plan hangs on. "Historic sites" was the stated interest, but a 10- and 12-year-old who aren't into it will make that clear by hour two of a walking tour, and there's no point discovering that on day four.
+
+**So every day now carries two tracks**, and you can decide as you go:
+
+| Day | History track | Non-history track |
+|---|---|---|
+| **Wed** | -- | Back Bay walk (already non-historic) |
+| **Thu** | Freedom Trail | ⭐ **Fenway Park tour** + Museum of Science |
+| **Fri** | Georges Island / Fort Warren | ⭐ **Whale watch** + Aquarium |
+| **Sat** | Lexington & Concord | ⭐ **WooSox game**, Castle Island, or kayaking |
+| **Sun** | ⭐ **USS Constitution -- fixed** | Sports Museum at TD Garden |
+
+**One thing is fixed: USS Constitution on Sunday, all of us.** It's a warship you walk onto rather than a walking tour, and it works even for someone indifferent to the 18th century.
+
+**They like sports**, which is unfortunate timing -- the Red Sox are away, and the Celtics and Bruins are off-season. The workarounds (Fenway tour, the Sports Museum, and a possible WooSox game in Worcester) are on the [Sports and Non-History Options](../sports-and-alternates/) page.
+
+Two useful notes on how the tracks blur: **the feast is on both** -- it's a street festival with food and bands, not a history lesson. And **Georges Island reads as an adventure**, not homework: a boat, an island, and an unlit tunnel you walk through with a flashlight, in which the Civil War fort is the setting rather than the point.
+
 **Who's along:**
 
 | Day | Us |
@@ -62,7 +82,7 @@ Verified: @ Athletics through Jul 30, @ Dodgers Jul 31 - Aug 2. **First home gam
 | **[Wed 7/29](../day-1-wednesday/)** | Back Bay | Them | On foot | Land 3pm, settle in. Library, Copley Square, Public Garden. |
 | **[Thu 7/30](../day-2-thursday/)** | Downtown → North End | Them + us for dinner | Green Line, 2 stops | Freedom Trail, then the feast opens + children's procession |
 | **[Fri 7/31](../day-3-friday/)** | Boston Harbor | Them + us for dinner | Green → Blue, ~20 min | Georges Island and the Aquarium |
-| **[Sat 8/1](../day-4-saturday/)** | Back Bay → Concord → Newton | All of us | **Car** | Duck Tour, checkout, then the Revolution in sequence |
+| **[Sat 8/1](../day-4-saturday/)** | Back Bay → west or northwest → Newton | All of us | **Car** | Duck Tour, checkout, then Concord *or* a ballgame |
 | **[Sun 8/2](../day-5-sunday/)** | Charlestown → North End | All of us | Green Line D | Bunker Hill, USS Constitution, then the 12:30 Grand Procession |
 
 Each day page opens with an overview table, then details **Plan A** (the recommendation), one or two alternates, and a wet-weather fallback.
@@ -73,7 +93,7 @@ Each day page opens with an overview table, then details **Plan A** (the recomme
 
 Most days are geographically self-contained and can trade places. **Two constraints are worth understanding before anyone gets clever with the calendar:**
 
-**Saturday is Concord on purpose.** Hartwell Tavern's living-history programming is weekend-weighted -- Saturday is when the interpreters are out and the muskets fire. Moving Concord to a weekday costs the demonstrations; reaching it by commuter rail gets you Orchard House and Walden but **strands Minute Man National Historical Park entirely**. That park is the point.
+**If you take the history track Saturday, it has to be Saturday.** Hartwell Tavern's living-history programming is weekend-weighted -- Saturday is when the interpreters are out and the muskets fire. Moving Concord to a weekday costs the demonstrations; reaching it by commuter rail gets you Orchard House and Walden but **strands Minute Man National Historical Park entirely**. So Concord is either Saturday or not at all -- which is fine, because the non-history fork is a genuine alternative rather than a consolation.
 
 **Saturday is also the checkout day**, which pins the Duck Tour to Saturday morning -- the tour leaves from the **Prudential Center, a five-minute walk from their hotel**, so it costs nothing in transit. Moving the ducks to Sunday means dropping USS Constitution and Bunker Hill. That trade is spelled out on both the [Saturday](../day-4-saturday/) and [Sunday](../day-5-sunday/) pages.
 
@@ -88,7 +108,8 @@ Friday and Saturday can swap freely if the weather demands it -- Concord is the 
 - [ ] **Feast dates, by phone** -- the site is half-updated 2025/2026
 - [ ] **Book the Georges Island ferry** -- early August sells out
 - [ ] **Book the Duck Tour**, and confirm 2026 departure times and pricing -- the three departure locations are verified, but the site doesn't publish times or fares publicly
-- [ ] **Hartwell Tavern living-history operating days** -- the entire reason Saturday is the Concord day
+- [ ] ⭐ **WooSox home games at Polar Park, Jul 29 - Aug 2** -- `milb.com` and `woosox.com` both block automated access so I could not check this, and a live minor-league game would be the best non-history evening available. Also worth checking the **Revolution** (Gillette) and **Boston Legacy FC** (NWSL, Franklin Park).
+- [ ] **Hartwell Tavern living-history operating days** -- only matters if you take the history track Saturday
 - [ ] **Walden Pond parking reservations** -- the lot fills early on hot days and they turn cars away
 - [ ] **Green Line service Wed-Sun** -- the MBTA runs frequent summer diversions, and three self-guided days depend on it
 

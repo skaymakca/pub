@@ -1,6 +1,6 @@
 ---
 title: "Restaurants -- Good vs Fun"
-weight: 7
+weight: 8
 ---
 
 ## Two Categories, Deliberately Separate

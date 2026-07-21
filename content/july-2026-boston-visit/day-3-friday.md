@@ -1,5 +1,5 @@
 ---
-title: "Fri Jul 31 -- Georges Island and the Aquarium"
+title: "Fri Jul 31 -- Georges Island or Whale Watch"
 weight: 4
 ---
 
@@ -71,19 +71,33 @@ From Copley this is genuinely easy -- easier than it would be from our house.
 
 ---
 
-## Plan B -- Museum of Science + Harvard Square
+## ⭐ Plan B -- whale watch + Aquarium
 
-The rain-proof version. Green Line from Copley to Science Park (stay on the same line, ride through downtown). Museum of Science in the morning, 3-4 hours. Then Red Line to Harvard for the Square and the ⭐ **Glass Flowers**.
+**The non-history version, and it costs nothing in logistics** -- the whale watch leaves from the same dock as the island ferry, so the day's shape is identical.
 
-Use this if Friday is wet -- Fort Warren in the rain is a miserable proposition and the ferry is exposed.
+Three to four hours out to **Stellwagen Bank**: humpbacks, finbacks, minkes. Operated in partnership between the New England Aquarium and Boston Harbor City Cruises. It is the single best non-history family activity in Boston, and for a kid who is lukewarm on forts, a breaching humpback is not a close contest.
+
+Back at the dock, the **Aquarium** is four minutes away and open **9am - 6pm daily** (verified).
+
+[!] 2026 times and prices **not verified** -- the operator's page is a placeholder template. Call **888-534-3516**. Also: it's a long trip on open water, so it's a poor choice for anyone prone to seasickness. Check that before booking for four people.
+
+**Fort Warren vs. whales:** Georges Island honestly reads more like an adventure than a history lesson -- a boat, an island, an unlit tunnel you walk through with a flashlight. The Civil War fort is the setting, not the homework. But if they'd rather see animals than architecture, this is the swap.
 
 ---
 
-## Plan C -- Charlestown, self-guided
+## Plan C -- Museum of Science + Harvard Square
 
-If they'd rather have Sunday relaxed, they can take the Freedom Trail's far end themselves: **Bunker Hill Monument** (294 steps) and **USS Constitution**. Green Line to Government Center, then walk or take the ferry across.
+The rain-proof version. Green Line from Copley to Science Park (stay on the same line, ride through downtown). Museum of Science in the morning, 3-4 hours. Then Red Line to Harvard for the Square and the ⭐ **Glass Flowers**.
 
-[!] If they do this, **photo ID is required for 18+** at the Navy Yard checkpoint, and it takes Charlestown off Sunday -- which frees Sunday for a slower morning before the procession.
+Use this if Friday is wet -- Fort Warren in the rain is miserable, the ferry is exposed, and a whale watch in chop is worse than no whale watch.
+
+---
+
+## Plan D -- Bunker Hill, self-guided
+
+If they want the Charlestown climb without waiting for Sunday, **Bunker Hill Monument** (294 steps) is a short trip -- Green Line to Government Center, then walk or ferry across.
+
+[!] **Leave USS Constitution alone.** We're all doing that together on Sunday, and it's the one historic thing everybody agreed on.
 
 ---
 

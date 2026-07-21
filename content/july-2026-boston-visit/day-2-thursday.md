@@ -1,5 +1,5 @@
 ---
-title: "Thu Jul 30 -- Freedom Trail and the Feast Opens"
+title: "Thu Jul 30 -- Freedom Trail or Fenway, then the Feast Opens"
 weight: 3
 ---
 
@@ -35,11 +35,19 @@ The trail's downtown half conveniently dead-ends in the North End, which is exac
 
 ---
 
-## Plan B -- add the Museum of Science
+## ⭐ Plan B -- Fenway tour + Museum of Science
 
-If they burn through the trail by early afternoon and the kids want something with buttons on it. Green Line straight to Science Park. Best straight-up kid museum in the city; 3-4 hours if they commit, less if they cherry-pick.
+**The non-history version of the day**, and the one to take if the Freedom Trail sounds like homework to them.
 
-Back to the North End for 7:00.
+⭐ **Fenway Park tour** -- Green Line from Copley to Kenmore, a few stops. **$30 adult, $21 child (3-12)** -- both kids qualify -- 60 minutes, departing at the top of every hour from 9am. Book at mlb.tickets.com.
+
+The Red Sox are away all week, so this is the only way into the building. It's also a good use of the fact that they like sports and the schedule refuses to cooperate. If they want more, the **8 AM Field Level Tour** ($75) walks the warning track.
+
+**Then the Museum of Science** -- Green Line to Science Park. Best straight-up kid museum in the city; 3-4 hours if they commit, less if they cherry-pick.
+
+Back to the North End for 7:00. **The feast doesn't care which track they took** -- it's a street festival with food and bands, and nobody experiences it as history.
+
+This also works as a Plan A extension: if they burn through the trail by early afternoon and want something with buttons on it, the Museum of Science is right there.
 
 ---
 

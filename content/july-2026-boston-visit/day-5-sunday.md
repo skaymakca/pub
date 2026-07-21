@@ -16,7 +16,9 @@ weight: 6
 
 Their last full day, and the one with a hard deadline in the middle. **The 12:30 Grand Procession is the anchor** -- everything else is a question of what morning you build in front of it.
 
-They're at our house now, so the day starts on the D line rather than at a hotel. All three plans put you on Hanover Street by 12:15.
+They're at our house now, so the day starts on the D line rather than at a hotel. Every plan below puts you on Hanover Street by 12:15.
+
+⭐ **USS Constitution is the one fixed historic thing on the trip.** Whatever we learn about their appetite for history over the preceding four days, we're all doing this together -- it's a warship you walk onto, not a walking tour, and it lands even with someone indifferent to the 18th century.
 
 ---
 
@@ -44,15 +46,27 @@ Hands-on, and separate from the ship. It's the piece that makes the vessel make 
 
 ---
 
-## Plan B -- Duck Tour morning
+## Plan B -- trim Bunker Hill, add the Sports Museum
 
-If Saturday's schedule collapsed and the ducks didn't happen, this is where they land. The tour departs from the **New England Aquarium, Central Wharf**, and the Aquarium is a 12-minute walk from the North End -- so a 9:00 or 9:30 ride finishes comfortably before the procession.
+Keeps USS Constitution but swaps the 294-step climb for something they may enjoy more.
 
-**The cost is Charlestown**: USS Constitution and Bunker Hill both come off. Worth it only if the Duck Tour genuinely didn't happen Saturday, since our kids asked for it specifically.
+⭐ **The Sports Museum at TD Garden** sits at North Station, which is directly between Charlestown and the North End -- so it's genuinely on the way, not a detour. Celtics and Bruins history, championship banners, memorabilia. **Open daily 10:30am - 5:00pm**, tours depart 11:00am - 4:30pm.
+
+This is what "a tour of the Garden" means in practice. [!] Admission prices aren't published -- call ahead. And there's no game to pair it with: Celtics and Bruins are both off-season, and the Garden has only concerts that week.
+
+Ship at 10:00, museum around 11:15, Hanover Street by 12:15. Tight but walkable.
 
 ---
 
-## Plan C -- slow morning
+## Plan C -- Duck Tour morning
+
+If Saturday collapsed and the ducks didn't happen. The tour departs from the **New England Aquarium, Central Wharf**, a 12-minute walk from the North End -- so a 9:00 or 9:30 ride finishes comfortably before the procession.
+
+**The cost is Charlestown**: USS Constitution and Bunker Hill both come off. Given that the ship is the one historic fixture everyone agreed on, prefer moving the ducks to a Saturday-morning slot and keeping this day intact.
+
+---
+
+## Plan D -- slow morning
 
 Late breakfast in Newton, in by noon.
 
