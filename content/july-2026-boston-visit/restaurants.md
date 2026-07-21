@@ -1,6 +1,6 @@
 ---
 title: "Restaurants -- Good vs Fun"
-weight: 6
+weight: 7
 ---
 
 ## Two Categories, Deliberately Separate
@@ -12,6 +12,21 @@ weight: 6
 The two lists barely overlap, which is why they're kept apart here rather than blended into one ranked list. Picks are spread deliberately across neighborhoods -- North End, Cambridge, Somerville, South End, Southie, Dorchester, Chinatown, East Boston -- rather than clustered downtown.
 
 Each day page carries its own local picks. This is the full menu to draw from.
+
+---
+
+## ⭐ Back Bay -- walkable from their hotel
+
+They're at **The Westin Copley Place** Wednesday, Thursday and Friday nights, and on Wednesday they're eating alone with jet lag and two kids. These are the options within a short walk.
+
+| Restaurant | $ | Booking | Note |
+|---|---|---|---|
+| **Krasi** | $$$ | OpenTable | Greek small plates, largest Greek wine list in the country. Shared plates are forgiving when nobody can agree |
+| **Select Oyster Bar** | $$$ | OpenTable | Small, seafood-focused, very good. Tight room -- borderline for kids on a busy night |
+| **Grill 23** | $$$$ | OpenTable | The classic Boston steakhouse. Formal; an adults' night, not a family one |
+| **La Padrona** | $$$-$$$$ | OpenTable | Raffles Hotel. Regional Italian under Jody Adams, **2026 James Beard semifinalist**. Formal setting but the pasta menu works for kids |
+
+**The zero-effort option:** skybridges connect the Westin to **Copley Place** and the **Prudential Center**, so there's food reachable without going outdoors. Not a destination meal -- but on an arrival night with a fading 10-year-old, it's the correct call.
 
 ---
 
