@@ -18,25 +18,23 @@ Friends are visiting **Wednesday July 29 through Monday August 3, 2026**. Five u
 
 **What they asked for:** historic sites and local culture. Restaurants matter too, in two deliberately separate categories -- **"good"** (go for the cooking) and **"fun"** (go for the room, the history, the line out the door) -- spread across the city and Cambridge rather than clustered downtown.
 
-### ⚠️ But we don't know how much history they actually want
+### What's locked, and what still forks
 
-This is the open question the whole plan hangs on. "Historic sites" was the stated interest, but a 10- and 12-year-old who aren't into it will make that clear by hour two of a walking tour, and there's no point discovering that on day four.
+We weren't sure how much history a 10- and 12-year-old would actually want, so the plan was built with alternatives. Several days are now decided; two still fork on the day.
 
-**So every day now carries two tracks**, and you can decide as you go:
-
-| Day | History track | Non-history track |
+| Day | Plan | Alternative |
 |---|---|---|
-| **Wed** | -- | Back Bay walk (already non-historic) |
-| **Thu** | Freedom Trail | ⭐ **Fenway Park tour** + Museum of Science |
-| **Fri** | Georges Island / Fort Warren | ⭐ **Whale watch** + Aquarium |
-| **Sat** | Lexington & Concord | ⭐ **WooSox game**, Castle Island, or kayaking |
-| **Sun** | ⭐ **USS Constitution -- fixed** | Sports Museum at TD Garden |
+| **Wed** | Back Bay walk on foot | *locked* -- already non-historic |
+| **Thu** | Freedom Trail + feast, Bricco 5:30 | *locked* |
+| **Fri** | Museum of Science + Harvard, then **SPIN + Seaport dinner** | whale watch or Georges Island by day; evening is fixed |
+| **Sat** | Lexington & Concord | ⭐ **WooSox game** / Castle Island / kayaking -- decide on the day |
+| **Sun** | ⭐ **USS Constitution** | **Duck Tour** (the kids' pick) -- pick one |
 
-**One thing is fixed: USS Constitution on Sunday, all of us.** It's a warship you walk onto rather than a walking tour, and it works even for someone indifferent to the 18th century.
+**The two live forks are Saturday and Sunday.** Saturday's is the history question outright -- Concord, or a ballgame and a park day. Sunday's is a straight either/or between the warship and the duck boat, since the ducks came off Saturday and Sunday morning is their only remaining slot.
 
-**They like sports**, which is unfortunate timing -- the Red Sox are away, and the Celtics and Bruins are off-season. The workarounds (Fenway tour, the Sports Museum, and a possible WooSox game in Worcester) are on the [Sports and Non-History Options](../sports-and-alternates/) page.
+**They like sports**, which is unfortunate timing -- the Red Sox are away, the Celtics and Bruins are off-season, and the Garden has only concerts that week. The live workarounds -- a **Fenway Park tour**, the **Sports Museum**, and a possible **WooSox game** in Worcester -- are on the [Sports and Non-History Options](../sports-and-alternates/) page. The Fenway tour isn't slotted into a specific day; drop it into any morning they like.
 
-Two useful notes on how the tracks blur: **the feast is on both** -- it's a street festival with food and bands, not a history lesson. And **Georges Island reads as an adventure**, not homework: a boat, an island, and an unlit tunnel you walk through with a flashlight, in which the Civil War fort is the setting rather than the point.
+Two notes on how "history" blurs: **the feast is a street festival**, not a history lesson. And **Georges Island reads as an adventure** -- a boat, an island, and an unlit tunnel you walk through with a flashlight, in which the Civil War fort is just the setting.
 
 **Who's along:**
 
@@ -80,10 +78,10 @@ Verified: @ Athletics through Jul 30, @ Dodgers Jul 31 - Aug 2. **First home gam
 | Day | Geography | Who | Transit | Anchor |
 |-----|-----------|-----|---------|--------|
 | **[Wed 7/29](../day-1-wednesday/)** | Back Bay | Them | On foot | Land 3pm, settle in. Library, Copley Square, Public Garden. |
-| **[Thu 7/30](../day-2-thursday/)** | Downtown → North End | Them + us for dinner | Green Line, 2 stops | Freedom Trail, then the feast opens + children's procession |
-| **[Fri 7/31](../day-3-friday/)** | Boston Harbor | Them + us for dinner | Green → Blue, ~20 min | Georges Island and the Aquarium |
-| **[Sat 8/1](../day-4-saturday/)** | Back Bay → west or northwest → Newton | All of us | **Car** | Duck Tour, checkout, then Concord *or* a ballgame |
-| **[Sun 8/2](../day-5-sunday/)** | Charlestown → North End | All of us | Green Line D | Bunker Hill, USS Constitution, then the 12:30 Grand Procession |
+| **[Thu 7/30](../day-2-thursday/)** | Downtown → North End | Them + us for dinner | Green Line, 2 stops | Freedom Trail, **Bricco 5:30**, then the feast + children's procession |
+| **[Fri 7/31](../day-3-friday/)** | Flexible day → Seaport | Them + us for evening | Green / Red Line | Museums or harbor, then **Seaport dinner + SPIN 7:00** |
+| **[Sat 8/1](../day-4-saturday/)** | Copley → west or northwest → Newton | All of us | **Car** | Checkout, then Concord *or* a WooSox game |
+| **[Sun 8/2](../day-5-sunday/)** | Charlestown → North End | All of us | Green Line D | USS Constitution *or* Duck Tour, then the 12:30 Grand Procession, **Capri 5:00** |
 
 Each day page opens with an overview table, then details **Plan A** (the recommendation), one or two alternates, and a wet-weather fallback.
 
@@ -93,35 +91,39 @@ Each day page opens with an overview table, then details **Plan A** (the recomme
 
 Most days are geographically self-contained and can trade places. **Two constraints are worth understanding before anyone gets clever with the calendar:**
 
-**If you take the history track Saturday, it has to be Saturday.** Hartwell Tavern's living-history programming is weekend-weighted -- Saturday is when the interpreters are out and the muskets fire. Moving Concord to a weekday costs the demonstrations; reaching it by commuter rail gets you Orchard House and Walden but **strands Minute Man National Historical Park entirely**. So Concord is either Saturday or not at all -- which is fine, because the non-history fork is a genuine alternative rather than a consolation.
+**If you take Concord, it has to be Saturday.** Hartwell Tavern's living-history programming is weekend-weighted -- Saturday is when the interpreters are out and the muskets fire. Moving Concord to a weekday costs the demonstrations; reaching it by commuter rail gets you Orchard House and Walden but **strands Minute Man National Historical Park entirely**. So Concord is either Saturday or not at all -- which is fine, because the WooSox/park fork is a genuine alternative rather than a consolation.
 
-**Saturday is also the checkout day**, which pins the Duck Tour to Saturday morning -- the tour leaves from the **Prudential Center, a five-minute walk from their hotel**, so it costs nothing in transit. Moving the ducks to Sunday means dropping USS Constitution and Bunker Hill. That trade is spelled out on both the [Saturday](../day-4-saturday/) and [Sunday](../day-5-sunday/) pages.
+**The Duck Tour now lives on Sunday morning**, as the alternative to USS Constitution -- it came off Saturday, and Sunday before the procession is its only remaining slot. The two trade against each other; that's spelled out on the [Sunday page](../day-5-sunday/).
 
-Friday and Saturday can swap freely if the weather demands it -- Concord is the day that most needs a dry forecast.
+Concord is the day that most needs a dry forecast -- if Saturday looks wet, that's itself an argument for the ballgame fork.
 
 ---
 
 ## Confirm Before They Land
 
+**Book now -- these are scheduled and can sell out:**
+
+- [ ] ⭐ **SPIN Boston table, Fri 7:00pm** -- 60 Seaport Blvd; Friday nights fill
+- [ ] **Bricco, Thu 5:30pm** -- 241 Hanover St (per plan; confirm)
+- [ ] **Capri Italian Steakhouse, Sun 5:00pm** -- confirm address + party size
+- [ ] **Fri dinner** -- either walk in to Barking Crab, or book **Legal Harborside 4:00** / **Trillium 5:00**
+- [ ] ⭐ **WooSox home games at Polar Park, Jul 29 - Aug 2** (Sat fork) -- `milb.com` and `woosox.com` both block automated access so I couldn't check; a live minor-league game would be the best non-history evening available. Also worth checking the **Revolution** (Gillette) and **Boston Legacy FC** (NWSL, Franklin Park).
+
 **Blocking -- these break a day if they're wrong:**
 
 - [ ] **Feast dates, by phone** -- the site is half-updated 2025/2026
-- [ ] **Book the Georges Island ferry** -- early August sells out
-- [ ] **Book the Duck Tour**, and confirm 2026 departure times and pricing -- the three departure locations are verified, but the site doesn't publish times or fares publicly
-- [ ] ⭐ **WooSox home games at Polar Park, Jul 29 - Aug 2** -- `milb.com` and `woosox.com` both block automated access so I could not check this, and a live minor-league game would be the best non-history evening available. Also worth checking the **Revolution** (Gillette) and **Boston Legacy FC** (NWSL, Franklin Park).
-- [ ] **Hartwell Tavern living-history operating days** -- only matters if you take the history track Saturday
-- [ ] **Walden Pond parking reservations** -- the lot fills early on hot days and they turn cars away
-- [ ] **Green Line service Wed-Sun** -- the MBTA runs frequent summer diversions, and three self-guided days depend on it
+- [ ] **Green Line service Wed-Sun** -- the MBTA runs frequent summer diversions, and the self-guided days depend on it
+
+**Depends on which fork you take:**
+
+- [ ] *If Georges Island (Fri):* **book the ferry** -- early August sells out; also 2026 fares (site shows 2025) and the child free-ride age cutoff
+- [ ] *If Duck Tour (Sun):* **book it**, and confirm 2026 times and fares -- not published publicly
+- [ ] *If Concord (Sat):* **Hartwell Tavern operating days** and **Walden Pond parking reservations** -- the lot fills early on hot days and they turn cars away; **Orchard House** timed tickets if the 12-year-old wants it
 
 **Worth knowing but not fatal:**
 
-- [ ] 2026 ferry fares -- the park site still shows 2025 pricing
-- [ ] The ferry child free/discount age cutoff (affects the 10-year-old -- see the [Friday page](../day-3-friday/))
-- [ ] Whether a Georges ↔ Spectacle inter-island shuttle runs in 2026
 - [ ] **Boston Public Library** summer evening hours, for Wednesday
 - [ ] Museum of Science and Harvard Museum of Natural History hours / timed entry
-- [ ] **Orchard House** timed tickets, if the 12-year-old turns out to want it
-- [ ] Westin checkout time, if you want the Duck Tour earlier than 9:30
 
 ---
 
@@ -129,11 +131,11 @@ Friday and Saturday can swap freely if the weather demands it -- Concord is the 
 
 **MBTA fares.** Kids **11 and under ride free** across bus, subway, Commuter Rail and ferry -- so the **10-year-old rides free and the 12-year-old pays full fare**. The Youth Pass is a registered-resident program and almost certainly not available to a visitor.
 
-**The hotel is well placed.** Copley is on the Green Line, two stops from Park Street where the Freedom Trail starts, and about 20 minutes from Long Wharf. It's also connected by skybridge to **Copley Place** and the **Prudential Center** -- which matters for the rain plan on Wednesday and for the Duck Tour departure on Saturday.
+**The hotel is well placed.** Copley is on the Green Line, two stops from Park Street where the Freedom Trail starts, and about 20 minutes from Long Wharf. It's also connected by skybridge to **Copley Place** and the **Prudential Center** -- which matters for the rain plan on Wednesday.
 
-**Parking.** Don't drive downtown any day. The car comes out Saturday only, from checkout onward.
+**Parking.** Don't drive downtown any day. Our car comes out Saturday only, from checkout onward. On Monday they drive their **rental** to Logan themselves.
 
-**Packing, by day.** Flashlight for the Dark Tunnel at Fort Warren (Friday), sunscreen and water for the island and for Walden, swimsuits Saturday, and **photo ID for the adults on Sunday** -- USS Constitution runs a Navy Yard security checkpoint and requires it for anyone 18+. That one catches people out.
+**Packing, by day.** Flashlight for the Dark Tunnel *if* they do Georges Island (Friday), sunscreen and water, swimsuits *if* Concord/Walden (Saturday), and **photo ID for the adults on Sunday** -- USS Constitution runs a Navy Yard security checkpoint and requires it for anyone 18+. That one catches people out.
 
 **Weather.** Early August in Boston is hot and humid. Two days end near water on purpose -- Walden on Saturday, the harbor on Friday. The Bunker Hill climb closes in extreme heat, which is why Sunday starts early.
 

@@ -1,5 +1,5 @@
 ---
-title: "Sat Aug 1 -- Duck Tour, Checkout, then Concord or a Ballgame"
+title: "Sat Aug 1 -- Checkout, then Concord or a Ballgame"
 weight: 5
 ---
 
@@ -7,46 +7,34 @@ weight: 5
 
 | | |
 |---|---|
-| **Geography** | Prudential Center → Lexington → Lincoln → Concord → Newton |
+| **Geography** | Copley → Lexington & Concord *or* Worcester → Newton |
 | **Who** | **All of us** -- first full group day |
 | **Base change** | ⚠️ **Hotel checkout.** They move to our house tonight. |
 | **Transit** | **Car** from checkout onward. The only driving day. |
-| **Needs booking** | Duck Tour tickets; Walden parking |
+| **Needs booking** | Walden parking (Plan A); WooSox tickets (Plan B) |
 
-The busiest day of the trip, and the one with moving parts: a tour, a checkout, a drive, and a change of address. It works because of one piece of luck -- **the Duck Tour departs from the Prudential Center, which is a five-minute walk from their hotel** (they're linked by skybridge).
+The transition day: check out of the hotel, load the car, and drive out to a full-day activity that ends at our house tonight.
 
-So: ride the ducks, walk back, check out, load the car, and drive somewhere.
-
-**Where you drive is the open question.** The morning is settled; the afternoon forks:
+**Where you drive is the fork:**
 
 | | Afternoon | Direction from Newton |
 |---|---|---|
 | **Plan A** | Lexington & Concord -- the Revolution in sequence | ~20 min northwest |
 | ⭐ **Plan B** | A **WooSox game** in Worcester, or a park/beach afternoon | ~40 min west |
 
-**Take Plan B if they turn out not to be history people.** By Saturday you'll have had three days to read them -- the Freedom Trail on Thursday and Fort Warren on Friday will have made it obvious. There's no need to decide this now, and both work equally well as a checkout-day drive ending at our house.
+**Take Plan B if they turn out not to be history people.** By Saturday you'll have had a few days to read them, and both work equally well as a checkout-day drive ending at our house.
 
 See [Sports and Non-History Options](../sports-and-alternates/) for the full alternative menu.
 
 ---
 
-## The morning -- both plans
+## The morning -- checkout
 
-### Boston Duck Tours -- Prudential Center
+Standard checkout is noon. A slow Back Bay morning -- breakfast, a last walk to the Public Garden -- fits comfortably before it, or just pack up and roll.
 
-📍 **53 Huntington Ave** -- five minutes on foot from the Westin, or dry via the skybridge.
+Bags into the car; everyone's luggage rides to Newton with us rather than being carried around all afternoon.
 
-Amphibious WWII-style landing craft that tour the city on wheels and then drive **straight into the Charles River**. Unashamedly touristy; kids love them without reservation, and **our kids specifically asked for this one**, which makes it the right call regardless of how it scores on a purist's itinerary.
-
-Roughly 80 minutes. Aim for a **9:00 or 9:30 departure** so there's room before checkout.
-
-[!] **Book ahead**, and confirm 2026 departure times and pricing -- I verified the three departure locations (Prudential Center, Museum of Science, New England Aquarium) but the site doesn't publish times or fares on its public pages.
-
-### Checkout and transfer
-
-Back at the hotel by ~11:00. Standard checkout is noon; bags into the car, and everyone's luggage rides to Newton with us rather than being carried around all afternoon.
-
-Rolling by 12:15 puts you in **Lexington around 12:45**, or **Worcester around 1:00** -- pick your fork.
+Rolling by ~12:15 puts you in **Lexington around 12:45**, or **Worcester around 1:00** -- pick your fork.
 
 ---
 
@@ -70,11 +58,9 @@ Then home to Newton.
 
 [!] **Walden's parking lot fills early on hot summer days and they turn cars away.** Check the reservation system -- this is the item most likely to quietly ruin the end of the day.
 
-### What gets cut
+### Orchard House -- on the table
 
-The morning tour compresses the afternoon, so **assume Orchard House comes off**. It was already conditional -- worth it only if the 12-year-old has read *Little Women* or is close. It's a talky house tour with timed small-group tickets, and it will die on a kid with no investment in it.
-
-If they *have* read it and want it, the trade is Battle Road: do Lexington, Hartwell, North Bridge, Orchard House, and skip the trail walk.
+With no morning tour eating into the day, there's room for **Orchard House** (Louisa May Alcott wrote *Little Women* here) if the 12-year-old has read it or is close. Timed small-group tickets, sells out -- book ahead. Skip without guilt if the book means nothing to them; it's a talky house tour that dies on an uninvested kid. If you add it, it slots between North Bridge and Walden.
 
 ---
 
@@ -104,42 +90,19 @@ Full menu on the [Sports and Non-History Options](../sports-and-alternates/) pag
 
 ---
 
-## Plan C -- move the Duck Tour to Sunday
-
-If the morning feels too tight, the tour also departs from the **New England Aquarium (Central Wharf)**, and a Sunday-morning ride ends within a 12-minute walk of the North End -- so they could ride at 9:00 and be on Hanover Street for the 12:30 procession.
-
-**The cost:** it takes Charlestown off Sunday, which means dropping **USS Constitution and Bunker Hill**. That's a real loss and it's why this is Plan B rather than Plan A -- the Duck Tour is replaceable on a future visit; boarding the oldest commissioned warship afloat is less so.
-
-Take this if Saturday morning turns out to be a scramble.
-
----
-
-## Plan D -- Concord only, no Lexington
-
-If the Duck Tour runs long or checkout drags but they *do* want the history. Drive straight to the **North Bridge** and **Walden**, skipping Lexington Green and Battle Road. Loses the sequence but keeps the two best physical places, and buys back an hour and a half.
-
----
-
 ## If it rains
 
 **Plan A is the one that genuinely needs weather.** Battle Road in rain is a wet walk in the woods and Walden is pointless -- so rain is itself an argument for Plan B.
 
 A **WooSox game** would likely be postponed too, so in steady rain the fallback is indoors: the **Museum of Fine Arts**, or ⭐ the **Isabella Stewart Gardner**, or the **Sports Museum** at TD Garden. The Gardner is the best story for kids on this list -- a Venetian palace built inside Boston, site of the largest unsolved art heist in history, and **the empty frames still hang on the walls** where the stolen paintings were.
 
-The Duck Tour itself still runs in rain. The boats have roofs, and it's arguably funnier.
-
 ---
 
-## Dinner -- with us, in Newton or on the way
+## Dinner -- TBD
 
-You'll be coming back through Concord and Lincoln toward Newton, and everyone will be tired, sunburnt, and carrying luggage. **Consider eating at home** -- it's a fair amount of day already.
+Depends entirely on where the afternoon leaves you, so we'll sort it on the day:
 
-If you'd rather go out, Somerville and Cambridge are roughly on the way:
+- **Plan A (Concord):** coming back through Lincoln and Cambridge toward Newton -- Somerville and Cambridge are roughly on the way (Sarma, Giulia), or just eat at home after a long, sunburnt day.
+- **Plan B (WooSox):** likely an evening game, so dinner is ballpark food, something in Worcester, or a late bite back near home.
 
-**Good -- ⭐ Sarma**
-- 📍 Somerville · Resy, or call after 3pm · $$$
-- A parade of mezze that keeps arriving. Shared plates hold kids' attention where a plated entrée doesn't, and there's enough variety that a picky eater lands somewhere.
-
-**Good -- Giulia**
-- 📍 Porter Square, Cambridge · OpenTable · $$$
-- Hand-rolled pasta, rolled on a table in the middle of the dining room. Best of the "good" list for kids because there's something to watch.
+Either way everyone will be tired and carrying the day -- keep it easy.

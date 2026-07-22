@@ -18,7 +18,7 @@ Their last full day, and the one with a hard deadline in the middle. **The 12:30
 
 They're at our house now, so the day starts on the D line rather than at a hotel. Every plan below puts you on Hanover Street by 12:15.
 
-⭐ **USS Constitution is the one fixed historic thing on the trip.** Whatever we learn about their appetite for history over the preceding four days, we're all doing this together -- it's a warship you walk onto, not a walking tour, and it lands even with someone indifferent to the 18th century.
+⭐ **USS Constitution is the recommended group morning** (Plan A) -- a warship you walk onto rather than a walking tour, and it lands even with someone indifferent to the 18th century. The **Duck Tour** (Plan B) is the alternative the kids asked for; with the ducks now off Saturday, Sunday is its only slot. The two trade against each other -- **pick one.**
 
 ---
 
@@ -46,31 +46,13 @@ Hands-on, and separate from the ship. It's the piece that makes the vessel make 
 
 ---
 
-## Plan B -- trim Bunker Hill, add the Sports Museum
+## Plan B -- Duck Tour morning
 
-Keeps USS Constitution but swaps the 294-step climb for something they may enjoy more.
+**The kids asked for this, and with the ducks off Saturday, Sunday is the slot.** The tour departs from the **New England Aquarium, Central Wharf** -- a 12-minute walk from the North End -- so a 9:00 or 9:30 ride finishes comfortably before the 12:30 procession. Roughly 80 minutes; amphibious, and it splashes into the Charles.
 
-⭐ **The Sports Museum at TD Garden** sits at North Station, which is directly between Charlestown and the North End -- so it's genuinely on the way, not a detour. Celtics and Bruins history, championship banners, memorabilia. **Open daily 10:30am - 5:00pm**, tours depart 11:00am - 4:30pm.
+[!] Book ahead; confirm 2026 times and fares (not published on the operator's public pages).
 
-This is what "a tour of the Garden" means in practice. [!] Admission prices aren't published -- call ahead. And there's no game to pair it with: Celtics and Bruins are both off-season, and the Garden has only concerts that week.
-
-Ship at 10:00, museum around 11:15, Hanover Street by 12:15. Tight but walkable.
-
----
-
-## Plan C -- Duck Tour morning
-
-If Saturday collapsed and the ducks didn't happen. The tour departs from the **New England Aquarium, Central Wharf**, a 12-minute walk from the North End -- so a 9:00 or 9:30 ride finishes comfortably before the procession.
-
-**The cost is Charlestown**: USS Constitution and Bunker Hill both come off. Given that the ship is the one historic fixture everyone agreed on, prefer moving the ducks to a Saturday-morning slot and keeping this day intact.
-
----
-
-## Plan D -- slow morning
-
-Late breakfast in Newton, in by noon.
-
-Entirely legitimate on a departure-eve with tired kids, and the afternoon at the feast carries the day on its own. Five days of walking with a 10-year-old earns a slow morning -- this isn't a failure state.
+**The trade:** this takes Charlestown off the day -- **USS Constitution and Bunker Hill both come off.** It's a genuine either/or with Plan A. If the kids are set on the ducks, this is the call; if the warship wins, keep Plan A and the ducks sit out this trip.
 
 ---
 
@@ -94,23 +76,20 @@ Substitute an indoor morning -- the **Institute of Contemporary Art** in the Sea
 
 ---
 
-## Farewell dinner
+## Dinner -- ⭐ Capri Italian Steakhouse, 5:00pm (booked)
 
-**Fun -- ⭐ Union Oyster House**
-- 📍 41 Union St, downtown · OpenTable · $$$
-- **It turned 200 this year.** Oldest continuously operating restaurant in America. Sit at the semicircular raw bar on the ground floor, where Daniel Webster reportedly drank a tumbler of brandy with every half-dozen oysters. Order there rather than upstairs -- the bar *is* the historic object.
+📍 **Capri Italian Steakhouse** · reservation **5:00pm**
 
-**Good -- Carmelina's**
-- 📍 Hanover St · $$$
-- If Thursday went well, going back isn't a defeat. Steps from the feast, Michelin-recommended.
+The farewell dinner. The 5:00 seating leaves the early afternoon open for the procession and grazing down Hanover Street, then a proper sit-down to close out the trip.
 
-**Fun -- eat the feast**
-- Honestly defensible. It's their last night, the street is full of food, and a farewell dinner of arancini and fried dough standing on Hanover Street is more in the spirit of the week than a table anywhere.
+[!] Confirm the address and party size when you book.
 
 ---
 
-## Monday morning
+## Monday morning -- departure
 
-They fly out **Monday August 3** from our house -- Logan is about 25 minutes without traffic, longer at rush hour.
+They fly out **Monday August 3**, and they've got a **rental car** -- so they'll drive themselves to Logan and drop it at the airport return, no airport run needed on our end. Logan is about 25 minutes from our house without traffic, longer at rush hour; leave margin for the rental return and the shuttle to the terminal.
 
-The Red Sox come home the **next day**, August 4, against the White Sox. Either a nice piece of trivia or a genuinely annoying near-miss, depending on how the kids took to the city.
+(If they pick the car up before Saturday, they could also self-drive the Concord/Worcester day -- though our car works fine for it either way.)
+
+The Red Sox come home the **next day**, August 4, against the White Sox -- a nice piece of trivia or a genuinely annoying near-miss, depending on how the kids took to the city.

@@ -55,7 +55,7 @@ This is what "a tour of the Garden" means in practice. Celtics and Bruins histor
 
 [!] **Admission prices are not published** on the site -- call ahead. Tour duration also unstated.
 
-**Where it fits:** North Station sits between Charlestown and the North End, so it's a natural add to **Sunday** between USS Constitution and the 12:30 procession -- though that's a tight morning. Better as a Sunday **Plan B** if the Charlestown plan gets dropped.
+**Where it fits:** North Station sits between Charlestown and the North End, so it *could* slot into Sunday between USS Constitution and the 12:30 procession -- but that morning is tight, and Sunday now forks between the ship and the Duck Tour, so there isn't really room. Treat the Sports Museum as a standalone or rainy-day option rather than a scheduled stop.
 
 ---
 
@@ -131,18 +131,20 @@ Blue Line straight there. The first public beach in America, which is the only h
 
 ---
 
-## How to read the two tracks
+## Where these fit against the day plans
 
-Each day page leads with a recommendation but now carries both options. In short:
+Most of these are now folded into the day pages. In short:
 
-| Day | History track | Non-history track |
+| Day | Plan | Alternative |
 |---|---|---|
-| **Wed** | -- | Back Bay walk (already non-historic) |
-| **Thu** | Freedom Trail | ⭐ **Fenway tour** + Museum of Science |
-| **Fri** | Georges Island / Fort Warren | ⭐ **Whale watch** + Aquarium |
+| **Wed** | Back Bay walk | *locked* |
+| **Thu** | Freedom Trail + feast | *locked* |
+| **Fri** | Museum of Science + Harvard | whale watch or Georges Island; **SPIN + Seaport** evening |
 | **Sat** | Lexington & Concord | ⭐ **WooSox game**, Castle Island, or a park day |
-| **Sun** | ⭐ **USS Constitution -- fixed, all of us** | Sports Museum, then the procession |
+| **Sun** | ⭐ **USS Constitution** | **Duck Tour** (kids' pick) -- pick one |
 
-**The feast is on both tracks.** It's a street festival with food, bands, and a procession -- nobody experiences it as a history lesson, and it needs no interest in the past whatsoever.
+The **Fenway tour** and **Sports Museum** aren't slotted into a specific day -- drop either into any open morning. A **WooSox / Revolution / Legacy FC** game is the Saturday fork if the schedule cooperates.
+
+**The feast needs no interest in history.** It's a street festival with food, bands, and a procession -- nobody experiences it as a lesson.
 
 **Georges Island sits between the tracks too.** It reads as a boat ride, an island, and an unlit tunnel you walk through with a flashlight. The Civil War fort is the setting, not the homework.

@@ -1,5 +1,5 @@
 ---
-title: "Fri Jul 31 -- Georges Island or Whale Watch"
+title: "Fri Jul 31 -- Museums or Harbor, then Seaport & SPIN"
 weight: 4
 ---
 
@@ -7,19 +7,39 @@ weight: 4
 
 | | |
 |---|---|
-| **Geography** | Boston Harbor. Everything radiates from Long Wharf. |
-| **Who** | **Them, self-guided by day.** We join for dinner. |
-| **Base** | The Westin Copley Place |
-| **Transit** | Green Line → Government Center, Blue Line one stop → Aquarium (~20 min) |
-| **Needs booking** | **Yes -- book the ferry in advance** |
+| **Geography** | Flexible by day; **Seaport in the evening** |
+| **Who** | **Them, self-guided by day.** We join for dinner + SPIN. |
+| **Base** | The Westin Copley Place (last hotel night) |
+| **Fixed points** | Dinner **~4-5pm**, then ⭐ **SPIN Boston, 7:00pm** |
+| **Needs booking** | **Reserve a SPIN table for 7pm**; dinner res if Legal or Trillium |
 
-Their last hotel day and the best self-guided day of the trip, because of one piece of geography: **the ferry dock and the New England Aquarium are the same place.** Long Wharf North sits beside the Aquarium, so a full day happens with almost no transit inside it.
+Their last hotel day, and the one with a fixed, planned evening: **dinner in the Seaport, then 7:00pm at SPIN Boston for ping-pong.** The daytime is genuinely open -- pick a plan by mood and weather -- and everyone converges on the Seaport for the evening.
 
-From Copley this is genuinely easy -- easier than it would be from our house.
+Plan A is the settled default. B and C are the harbor options if they'd rather be on the water.
 
 ---
 
-## ⭐ Plan A -- Georges Island, then the Aquarium
+## ⭐ Plan A -- Museum of Science + Harvard Square
+
+Green Line from Copley to **Science Park** (stay on the line, ride through downtown). **Museum of Science** in the morning -- best straight-up kid museum in the city, and 10 and 12 is a good age spread for it. 3-4 hours if they commit, less if they cherry-pick.
+
+Then Red Line to **Harvard** for the Square and the ⭐ **Glass Flowers** at the Harvard Museum of Natural History -- hand-blown glass botanical models so exact that visitors routinely refuse to believe they aren't real plants. Strange, quiet, and it lands with this age group more often than it has any right to.
+
+Red Line back down toward South Station puts them a short hop from the Seaport for dinner.
+
+---
+
+## Plan B -- whale watch + Aquarium
+
+**The animals option.** Three to four hours out to **Stellwagen Bank**: humpbacks, finbacks, minkes. Operated in partnership between the New England Aquarium and Boston Harbor City Cruises, departing **Long Wharf / Central Wharf** -- and the **Aquarium** is four minutes from the dock and open **9am - 6pm daily** (verified), so the two pair naturally.
+
+For a kid who's lukewarm on museums, a breaching humpback is not a close contest. It also finishes at the harbor, a short ride from the Seaport evening.
+
+[!] 2026 times and prices **not verified** -- the operator's page is a placeholder template. Call **888-534-3516**. Also: it's a long trip on open water, so it's a poor choice for anyone prone to seasickness. Check that before booking for four.
+
+---
+
+## Plan C -- Georges Island, then the Aquarium
 
 | Time | |
 |------|---|
@@ -29,7 +49,7 @@ From Copley this is genuinely easy -- easier than it would be from our house.
 | **10:45 - 1:45** | Fort Warren, the Dark Tunnel, Junior Ranger badge, lunch on-island |
 | **1:45pm** | Return ferry, docks ~2:30 |
 | **Afternoon** | **New England Aquarium** -- four-minute walk from the boat |
-| **Evening** | Dinner with us |
+| **Evening** | Seaport dinner + SPIN (below) |
 
 ### What's on Georges Island
 
@@ -69,27 +89,7 @@ From Copley this is genuinely easy -- easier than it would be from our house.
 
 **Peddocks Island** -- skip. Ferry access is from **Hingham**, not Boston, and there's no food service.
 
----
-
-## ⭐ Plan B -- whale watch + Aquarium
-
-**The non-history version, and it costs nothing in logistics** -- the whale watch leaves from the same dock as the island ferry, so the day's shape is identical.
-
-Three to four hours out to **Stellwagen Bank**: humpbacks, finbacks, minkes. Operated in partnership between the New England Aquarium and Boston Harbor City Cruises. It is the single best non-history family activity in Boston, and for a kid who is lukewarm on forts, a breaching humpback is not a close contest.
-
-Back at the dock, the **Aquarium** is four minutes away and open **9am - 6pm daily** (verified).
-
-[!] 2026 times and prices **not verified** -- the operator's page is a placeholder template. Call **888-534-3516**. Also: it's a long trip on open water, so it's a poor choice for anyone prone to seasickness. Check that before booking for four people.
-
-**Fort Warren vs. whales:** Georges Island honestly reads more like an adventure than a history lesson -- a boat, an island, an unlit tunnel you walk through with a flashlight. The Civil War fort is the setting, not the homework. But if they'd rather see animals than architecture, this is the swap.
-
----
-
-## Plan C -- Museum of Science + Harvard Square
-
-The rain-proof version. Green Line from Copley to Science Park (stay on the same line, ride through downtown). Museum of Science in the morning, 3-4 hours. Then Red Line to Harvard for the Square and the ⭐ **Glass Flowers**.
-
-Use this if Friday is wet -- Fort Warren in the rain is miserable, the ferry is exposed, and a whale watch in chop is worse than no whale watch.
+**Georges reads as an adventure, not a lesson** -- a boat, an island, an unlit tunnel you walk through with a flashlight. The Civil War fort is the setting, not the homework. It finishes at the harbor, a short ride from the Seaport evening.
 
 ---
 
@@ -101,24 +101,29 @@ If they want the Charlestown climb without waiting for Sunday, **Bunker Hill Mon
 
 ---
 
-## Dinner -- with us
+## Evening -- Seaport dinner, then ⭐ SPIN Boston 7:00pm
 
-They'll be at the harbor at the end of the day, so these are close to where they'll be standing.
+The evening is the fixed part of the day, and it's all in the **Seaport** -- dinner, then ping-pong a few blocks away. Three dinner options, pick by vibe:
 
-**Fun -- Barking Crab**
-- 📍 88 Sleeper St, Seaport · walk-in · $$
-- Picnic tables, paper bibs, harbor views. Loud, cheerful, and good with a table of six that includes four kids.
+**Barking Crab** -- 📍 88 Sleeper St · **no reservation, walk-in** · $$
+- Picnic tables, paper bibs, harbor views. Loud, cheerful, and good with a table of six that includes four kids. Go early or expect a wait -- no booking.
 
-**Good -- Row 34**
-- 📍 Fort Point · OpenTable · $$$
-- Oysters and excellent fish without the Neptune wait. Casual enough for kids, good enough for the adults.
+**Legal Harborside** -- 📍 270 Northern Ave · **reservation 4:00pm** · $$$
+- Three floors on the water; the first floor is the casual family one. The 4:00 booking is early enough to leave the whole evening open.
 
-**Good -- ⭐ Neptune Oyster**
-- 📍 North End · **walk-in only** · $$$
-- The best seafood in the neighborhood and everyone knows it. Tiny room, hour-plus waits at peak -- **borderline impossible for six**. Worth it only if the adults go back without kids another night.
+**Trillium** -- 📍 Fort Point / Seaport · **5:00pm** · $$
+- Brewery with real food and outdoor space; easy with kids and a short walk to SPIN.
+
+### ⭐ SPIN Boston -- 7:00pm
+
+📍 **60 Seaport Blvd** · **book a table for 7:00pm**
+
+Ping-pong social club -- a room full of tables, casual, and a genuinely great call for a 10- and 12-year-old who've spent the day in museums. Walkable from all three dinner options.
+
+[!] Reserve a table ahead for 7:00 -- Friday nights fill.
 
 ---
 
 ## If it rains
 
-**Plan B, unchanged.** The ferry and the fort are both fully exposed and there's no version of Georges Island that works in steady rain. Swap it out early rather than hoping.
+**Plan A is already the dry option** -- Museum of Science and the Harvard museums absorb a wet day completely, and the SPIN evening is entirely indoors. Rain just means skipping the harbor plans (B and C), not rescheduling the day.
