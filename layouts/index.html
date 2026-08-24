@@ -37,9 +37,9 @@
   </section>
   {{ end }}
 
-  {{ with .Site.Data.reports }}
+  {{ with .Site.Data.sites }}
   <section class="listing">
-    <h2 class="section-label"><a href="{{ "reports/" | relURL }}">Reports</a></h2>
+    <h2 class="section-label"><a href="{{ "sites/" | relURL }}">Sites</a></h2>
     <ul class="card-list">
       {{ range . }}
         <li class="card">

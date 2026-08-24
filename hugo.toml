@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Pub"
 
 [params]
-  description = "Central publishing hub for project docs and reports"
+  description = "Central publishing hub for project docs and standalone sites"
 
 [markup.goldmark.renderer]
   unsafe = true
@@ -23,6 +23,6 @@ title = "Pub"
     url = "/briefs/"
     weight = 3
   [[menu.main]]
-    name = "Reports"
-    url = "/reports/"
+    name = "Sites"
+    url = "/sites/"
     weight = 4

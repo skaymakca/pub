@@ -1,6 +1,6 @@
 # Pub
 
-Central publishing hub at [skaymakca.github.io/pub/](https://skaymakca.github.io/pub/). Drop markdown docs or pre-formatted HTML reports into the repo, push, and they deploy automatically via GitHub Actions.
+Central publishing hub at [skaymakca.github.io/pub/](https://skaymakca.github.io/pub/). Drop markdown docs or self-contained HTML sites into the repo, push, and they deploy automatically via GitHub Actions.
 
 ## Local Development
 
@@ -95,8 +95,8 @@ there is a blank line between the HTML tag and the markdown content.
 <!-- Link to a page in a different section -->
 [Vorge docs](/pub/vorge/getting-started/)
 
-<!-- Link to an HTML report -->
-[Coverage report](/pub/reports/coverage/)
+<!-- Link to an HTML site -->
+[Coverage report](/pub/sites/coverage/)
 ```
 
 Key points:
@@ -122,31 +122,34 @@ Place images alongside markdown files or in `static/`:
 
 For simplicity, putting images in `static/images/` and using absolute paths is the most straightforward approach.
 
-## Adding HTML Reports
+## Adding HTML Sites
 
-HTML reports are self-contained files served verbatim — Hugo does not process them.
+HTML sites are self-contained files served verbatim — Hugo does not process them. A
+"site" here can be a single `index.html` or a whole multi-page bundle with its own nav and
+stylesheet.
 
-### 1. Place the report
+### 1. Place the site
 
 ```
-static/reports/my-report/
-  index.html    # Self-contained HTML report
-  *.css / *.js  # Optional assets (if not inlined)
+static/sites/my-site/
+  index.html    # Entry point
+  css/          # Optional assets (if not inlined)
+  *.html        # Further pages, linked relatively
 ```
 
-The report is served at `/pub/reports/my-report/`.
+The site is served at `/pub/sites/my-site/`.
 
 ### 2. Add a manifest entry
 
-Edit `data/reports.yaml` to add the report so it appears on the Reports page and the landing page:
+Edit `data/sites.yaml` to add the site so it appears on the Sites page and the landing page:
 
 ```yaml
-- title: "My Report"
-  url: "/pub/reports/my-report/"
-  description: "What this report covers"
+- title: "My Site"
+  url: "/pub/sites/my-site/"
+  description: "What this site covers"
 ```
 
-**Format of `reports.yaml`:**
+**Format of `sites.yaml`:**
 
 The file is a YAML list. Each entry has three fields:
 
@@ -156,13 +159,13 @@ The file is a YAML list. Each entry has three fields:
 | `url`         | yes      | Absolute path including `/pub/` prefix               |
 | `description` | no       | One-line summary shown below the title in listings   |
 
-The `url` must match where the report lives in `static/`. Since the site is deployed at `/pub/`, all URLs need the `/pub/` prefix.
+The `url` must match where the site lives in `static/`. Since the site is deployed at `/pub/`, all URLs need the `/pub/` prefix.
 
 ### 3. Push
 
 ```
-git add static/reports/my-report/ data/reports.yaml
-git commit -m "Add my-report"
+git add static/sites/my-site/ data/sites.yaml
+git commit -m "Add my-site"
 git push
 ```
 
@@ -174,16 +177,33 @@ pub/
   Makefile                      # dev / build / clean
   content/
     _index.md                   # Landing page content
-    reports/
-      _index.md                 # Reports section definition
+    sites/
+      _index.md                 # Sites section definition (+ /reports/ alias)
     <project>/
       _index.md                 # Section title + description
       *.md                      # Markdown pages
   data/
-    reports.yaml                # Manifest of HTML reports
+    sites.yaml                  # Manifest of HTML sites
   layouts/                      # Hugo templates
   assets/css/main.css           # Site styles
   static/
-    reports/<name>/index.html   # Self-contained HTML reports
+    sites/<name>/index.html     # Self-contained HTML sites
+    reports/                    # legacy redirect stubs only — do not add here
   .github/workflows/deploy.yml # CI/CD
 ```
+
+### Generated sites
+
+Some sites under `static/sites/` are produced by a generator rather than hand-written. Those
+carry a `README.md` naming the generator — edit there and re-run, or the next regeneration
+discards your change.
+
+### The `reports` → `sites` rename
+
+The section was called `reports` until August 2026. Two redirects keep old links alive:
+
+- `/pub/reports/` → `/pub/sites/` via an `aliases` entry in `content/sites/_index.md`.
+- `/pub/reports/disney-trip-research/` → its new home via a meta-refresh stub, because Hugo
+  aliases apply to content pages and **not** to files under `static/`.
+
+Add nothing new under `static/reports/`.
