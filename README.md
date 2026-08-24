@@ -4,7 +4,8 @@ Central publishing hub at [skaymakca.github.io/pub/](https://skaymakca.github.io
 
 ## Local Development
 
-Requires [Hugo](https://gohugo.io/) (extended edition).
+Requires [Hugo](https://gohugo.io/) (extended edition), at the same version CI uses
+— see [Hugo version](#hugo-version) below.
 
 ```
 make dev       # Start local server at http://localhost:1313/pub/ (includes drafts)
@@ -207,3 +208,15 @@ The section was called `reports` until August 2026. Two redirects keep old links
   aliases apply to content pages and **not** to files under `static/`.
 
 Add nothing new under `static/reports/`.
+
+## Hugo version
+
+`HUGO_VERSION` in `.github/workflows/deploy.yml` is the single source of truth. The
+Makefile reads it from there, so there is nowhere else to update.
+
+`make build` runs `make check-hugo` first and fails on a mismatch. This matters more
+than it looks: Hugo deprecations land in specific versions, so a newer local Hugo will
+happily build templates that the pinned CI version renders **empty rather than
+erroring**. That failure is silent and production-only.
+
+To upgrade: bump `HUGO_VERSION`, upgrade locally to match, run `make build`, push.
