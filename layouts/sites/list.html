@@ -3,7 +3,7 @@
     <h1>{{ .Title }}</h1>
     {{ with .Content }}<div class="page-desc">{{ . }}</div>{{ end }}
   </section>
-  {{ with .Site.Data.sites }}
+  {{ with hugo.Data.sites }}
   <ul class="card-list">
     {{ range . }}
       <li class="card">
