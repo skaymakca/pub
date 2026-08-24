@@ -3,7 +3,10 @@
     <h1>{{ .Title }}</h1>
     {{ with .Content }}<div class="page-desc">{{ . }}</div>{{ end }}
   </section>
-  {{ $projects := where (where (where .Site.Sections "Title" "ne" "Reports") "Title" "ne" "Projects") "Title" "ne" "Briefs" }}
+  {{/* Exclude the non-project sections by path, not by display title —
+     titles are presentational and drift (this broke when Reports became Sites). */}}
+  {{ $notProjects := slice "projects" "briefs" "sites" }}
+  {{ $projects := where .Site.Sections "Section" "not in" $notProjects }}
   {{ with $projects }}
   <ul class="card-list">
     {{ range . }}
