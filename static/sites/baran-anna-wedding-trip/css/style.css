@@ -83,6 +83,15 @@ section{display:flex;flex-direction:column;gap:1.1rem}
   text-transform:uppercase;padding:.12rem .45rem;border-radius:3px;
   border:1px dashed var(--signal);color:var(--signal);vertical-align:middle;margin-left:.5rem}
 
+/* status pills — Tuscany page */
+.pill{display:inline-block;font-family:var(--display);font-size:.66rem;font-weight:600;
+  letter-spacing:.11em;text-transform:uppercase;padding:.14rem .42rem;border-radius:3px;
+  white-space:nowrap;border:1px solid var(--rule);background:var(--surface-2);color:var(--ink-soft)}
+.pill.plan{background:var(--hr-bg);color:var(--hr);border-color:var(--hr)}
+.pill.add{background:var(--signal-bg);color:var(--signal);border-color:var(--signal)}
+.pill.day{background:var(--it-bg);color:var(--it);border-color:var(--it)}
+td.pillcol{white-space:nowrap}
+
 /* tables */
 .tw{overflow-x:auto;-webkit-overflow-scrolling:touch}
 table{border-collapse:collapse;width:100%;min-width:460px;font-size:.92rem}
