@@ -10,5 +10,7 @@ edit the content there and re-run, or the next regeneration silently discards yo
 uv run python build_site.py
 ```
 
-Pages: overview, routing + costs, day-by-day, sights reference, booking calendar,
-open decisions. Design tokens and nav live once, in the generator.
+Pages: overview, why this shape, day by day, before the wedding, after the wedding,
+school days, booking calendar, open decisions. Design tokens and nav live once, in the
+generator. The two phone artifacts are emitted from the same content blocks, so they
+cannot drift from the site.
